@@ -1,0 +1,147 @@
+IIT Jodhpur Home Page
+    A+  A  A-    
+
+
+   हिन्दी  |  Sitemap
+Home
+People
+Recruitment
+Research
+Academic Programs
+Events
+Laboratories
+Facilities
+Contact
+IIT Jodhpur
+Chemistry
+Home
+Academic Programs
+Curriculum
+Curriculum
+
+The detailed curriculum structure of two degree programs offered by Department of Chemistry is given in the links below:
+
+M.Sc. (Chemistry) Program   (Download file 298 KB), and
+Ph.D. Program with specialisation in Chemistry.
+
+
+Semester -I
+
+Course No	Course Title	 L-T-P-D 	Credits
+CYL6010	Organic Reactions and Mechanisms	3-0-0-0	3
+CYL6020	Transition Metal and Organometallic Chemistry	3-0-0-0	3
+CYL6030	Quantum Chemistry and Spectroscopy	3-0-0-0	3
+CYL6040	Physical Organic Chemistry	3-0-0-0	3
+CYL6050	Main Group and Bioinorganic Chemistry	3-0-0-0	3
+CYP6010	Organic Chemistry Laboratory	0-0-3-0	1.5
+CYP6020	Inorganic Chemistry Laboratory	0-0-3-0	1.5
+CYP6030	Hands on -1	0-0-3-0	1.5
+
+Total	
+19.5
+Semester -II
+
+Course No	Course Title	 L-T-P-D 	Credits
+CYL6060	Organic Synthesis	3-0-0-0	3
+CYL6070	Solid State and Material Chemistry	3-0-0-0	3
+CYL6080	Molecular Thermodynamics and Chemical Kinetics	3-0-0-0	3
+CYL6090	Theory and Applications of spectroscopic techniques	3-0-0-0	3
+E	Program Elective-1	3-0-0-0	3
+CYL6040	Physical Chemistry Laboratory	0-0-3-0	1.5
+CYP6010	Minor Project	0-0-3-0	1.5
+CYL6050	Hands on -2	0-0-3-0	1.5
+
+Total	
+19.5
+Semester -III
+
+Course No.	Course Title	 L-T-P-D 	Credits
+E	Open Elective-1	3-0-0-0	3
+E	Program Elective-2	3-0-0-0	3
+E	Program Elective-3	0-0-3-0	3
+E	Program Elective-4	3-0-0-0	3
+C	Lab-4:Computational Lab	0-0-1-0	1.5
+R	Project	0-0-0-5	5
+C	Seminar	0-0-1-0	0.5
+
+Total	
+19
+Semester -IV
+
+Course No.	Course Title	 L-T-P-D 	Credits
+E	Program Elective-5	3-0-0-0	3
+E	Program Elective-6	3-0-0-0	3
+E	Open Elective -2	3-0-0-0	3
+R	Project	0-0-0-10	10
+
+Total	
+19
+List of Elective Courses 
+
+Course No	Course Title
+CYLXXX	Isolation and Synthesis of Natural Products
+CYLXXX	Spectroscopic Determination of Organic Compounds
+CYL7440	Stereochemistry of Organic Compounds
+CYL7340	Frontiers in Organic Chemistry
+CYLXX	Heterocyclic Chemistry
+CYLXX	Polymer Chemistry
+CYL7330	Catalysis of Energy
+CY653	Nanomaterials and Nanodevices
+CYLXX	Compounds of p-block Elements and Applications
+CYL7320	Advanced Materials Design
+CYL7420	Characterization Techniques in Inorganic Chemistry
+CYLXX	Advanced Catalysis
+CYL7430	Water Chemistry
+CY652	Sustainable Catalytic Systems
+CYL7370	Frontiers in Organometallic Catalysis
+CYL6330	Numerical Methods and Group Theory
+CYL6320	Chemical Binding
+CYL6340/CY524	Principles of Nuclear Magnetic Resonance
+CYLXX	Quantum Information
+CYL7310	Molecular Dynamics Simulations
+CYLXX	Solid State NMR Methods for Materials
+CY751	Quantum Computing
+CY756	Group Theory and Molecular Spectroscopy
+CYL7380	Modern Electronic Structure Theory
+CYL7390	Chemical Reaction Dynamics
+CYLXX	Biophysical Techniques: Theory and Applications
+CYL7410	Stochastic problems in Biophysics
+CYL7400	Polymer Dynamics
+CY754	Statistical Mechanics and Molecular Simulations
+CYLXX	Advanced Electrochemistry and Applications
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+IIT Jodhpur Facebook Page
+IIT Jodhpur Twitter Page
+IIT Jodhpur You tube Channel
+IIT Jodhpur Instagram Page
+IIT Jodhpur Linkedin Page
+G20 India 2023
+75 Azadi Ka Amrit Mahotsav
+Prime Minister's Research Fellowship (PMRF)
+Vidya Lakshmi Fulfilling Educational Aspirations
+National Commission for Women (NCW) Helpline
+National Anti-Ragging Monitoring Agency
+india.gov.in National portal of India
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation, IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM.
+Last Updated : 12 Mar 2026 - 03:42 PM

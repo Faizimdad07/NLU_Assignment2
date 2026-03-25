@@ -1,0 +1,2571 @@
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+M.Tech & M.Tech-Ph.D Dual Degree Program
+in
+Department of Bioscience & Bioengineering
+1. Introduction
+The biological world is full of natural wonders beginning from microscopic bacteria to multicellular
+organisms. Using a reductionist approach, each organism can be broken down into its subsystems,
+which continue to provide us with new knowledge on how evolution has perfected these systems
+over millennia. Conversely, one can also take a systems biology approach and appreciate the whole
+organism as a system that grows and continuously adapts to the environment. Beginning from
+thermodynamically efficient cellular systems to the molecular motors of the flagellar motor, each
+product of evolution is an optimized engineering design which can be translated into real-life
+applications across disciplines. Furthermore, the call for support from today’s data-driven biology
+has been answered by advancements in computational biology that permit solving biology
+problems using artificial intelligence and machine learning approaches. Genomics, proteomics,
+transcriptomics and metabolomics have transformed the landscape of infectious and non-infectious
+diseases allowing development of new diagnostic measures as well as therapeutics. In combination
+with active contribution from Electronic, Mechanical, Materials engineering, implantable sensor and
+support devices that are bio-compatible have significantly contributed to extending the healthy
+lifespan of the human race. The Department of Bioscience & Bioengineering aspires to cater to the
+technological requirements of the country by conducting high-quality, translatable, and
+interdisciplinary research in the aforementioned focus areas.
+2. Objective of the Programme
+To produce professionals with an in-depth knowledge of biological systems and phenomena, with
+critical thinking and bioengineering research skills that can be effectively put to use in solving
+problems in focus domains including Healthcare, Energy, Environment, and Agriculture. The
+program will help graduates to approach problems in the above focus domains by providing
+knowledge and hands-on laboratory training in the areas of data driven multi-omics technologies,
+artificial intelligence & computational biology, systems biology, imaging-based diagnostics,
+biomaterials, and bio-therapeutics.
+3. Expected Graduate Attributes
+Graduates will
+1. Be able to think critically and solve problems that are necessary for employment in
+biomedical, biotechnology, pharmaceutical industries, National research labs and Academic
+institutions at the global level.
+2. Develop a sense of ownership on the National missions for technology development, which
+will cater to societal needs such as affordable healthcare, clean energy, safe environment,
+and sustainable agriculture.
+3. Be exceptionally well trained in the laboratory enabling them to conduct high-quality,
+reproducible research.
+4. Be able to read, understand and review intellectual property documents and recognize their
+rights.
+5. Be able to express their research ideas and present their data clearly in written and spoken
+format.
+6. Develop a strong work ethic and understand ethical considerations in biological research,
+which are both necessary for high-quality research.
+7. Develop healthy time management skills to plan and manage laboratory work as well as
+other miscellaneous research-associated demands on their time to effectively meet
+deadlines.
+4. Learning Outcomes
+Graduates will
+• Be introduced to cutting-edge, interdisciplinary research areas like Diagnostics &
+Therapeutics development, Instrumentation design & Development, Multi-omics
+Technologies & Applications, Biomedical Imaging& Image processing, Systems & Synthetic
+Biology and Biomaterials Engineering, Artificial Intelligence for biological applications
+• Be exposed to common problems that are prevalent in the domains of affordable healthcare,
+clean energy, safe environment, and sustainable agriculture, allowing them to innovate and
+develop technological solutions for the same.
+• Receive effective, hands-on laboratory training as a part of laboratory courses and short-
+term research projects that are designed to teach research methodology and common lab
+techniques.
+• Be introduced to Patents and other intellectual property documents, the rights that they
+grant and necessary considerations while filing patents / technology that is protected by
+patents.
+• Develop their research communication skills by participating in seminars, journal clubs;
+manuscript writing and research grant writing workshops.
+• Receive training on building a work ethic by being a part of research groups working
+towards a common goal. Graduates will also appreciate the ethical and safety considerations
+while conducting biomedical research.
+• Be taught how to prioritize items on their schedule and how to budget time across the
+spectrum of activities including research and other necessary tasks.
+5. Topic Clouds
+5.1 Master Topic Cloud - Course Overview
+5.2 Sub-Cloud - 1 - Bioimaging
+5.3 Sub-Cloud - 2 - Omics
+5.4 Sub-Cloud - 3 - Biosensors
+5.5 Sub-cloud - 4 - Systems Biology
+5.6 Sub-Cloud - 5 - Biomaterial Engineering
+5.7 Sub-Cloud - 6- Bioenergy & Environment technologies
+6. M. Tech. Bioscience and Bioengineering Proposed Course structure
+Cat Course Title L-T-P Credits Cat Course Title L-T-P Credits
+I Semester II Semester
+C
+BBL7XX0:
+Introduction to
+OMICS Technologies
+2-0-0 2 C BBL7XX0: Systems
+Biology 3-0-2 4
+C
+BBL7XX1: Bioimaging
+Instrumentation and
+Acquisition 2-0-2 3 C
+BBL7XX1: Types of
+Biosensors & their
+Characterization
+EE7XX2:
+Microfabrication
+Technologies,
+Interfacing and Read
+Out Electronics
+2-0-0 2
+C
+BBL7XX0:
+Biomaterials
+Engineering
+3-0-0 3 C CS7XX2: Bioimage
+Computing 1-0-0 1
+C
+MAL7XX1: Statistical
+Techniques
+MAL7XX2: Advanced
+Statistical Techniques
+1-0-0
+2-0-0
+3 C BBP7XX2: Statistics
+and Data Analysis Lab 0-0-2 1
+PE Program Elective-1 3-0-0 3 PE Program Elective-2 1-0-0 1
+NG Technical
+Communication
+1-0-0 1 PE Program Elective-3 3-0-0 3
+PE Program Elective-4 3-0-0 3
+NG Innovation and IP
+Management
+1-0-0 1
+Total (Graded + Non-graded) 15 Total (Graded + Non-graded) 16
+III Semester IV Semester
+OE Open Elective-1 3-0-0 3 OE Open Elective-2 3-0-0 3
+PE
+Program Elective-5
+3-0-0 3 TH Project-2 0-0-20 10
+PE Program Elective-6 3-0-0 3 NG Professional Ethics 1-0-0 1
+PE Program Elective-7 1-0-0 1
+TH Project-1 0-0-12 6
+NG Systems Engineering
+and Project
+Management
+1-0-0 1
+Total (Graded + Non-graded) 17 Total (Graded + Non-graded) 14
+6.1 Credit Distribution
+Course Type Credits
+Program Core (C) 19
+Program Elective (PE) 17
+Open Elective (OE) 6
+Project 16
+Non-Graded 4
+Total (Graded + Non-Graded) 62 (58 + 4)
+6.2 M. Tech. Program in Bioscience & Bioengineering - Elective Sets
+Students must complete a minimum of 9 credits from one Program Elective Set. Six credits may be
+completed from other PE Set. A student can opt for any two of the given elective sets. Students
+may opt for Open Electives from anywhere in the institute.
+Program Elective Set 1 - Bioimaging &Health Informatics
+BBL7XX0 Fundamentals of Neuroscience [3-0-0]
+BBL7XX0 Principles of Drug Development [3-0-0]
+BBL7XX0 Introduction to Chemical Biology [3-0-0]
+CSL7XX0 Digital Image Analysis [3-0-0]
+CSL7XX0 Machine Learning-1 [3-0-0]
+CSLEEL7XX0 Image Sensor Design and Applications [3-0-0]
+PH7XX0 Introduction to Medical Physics fractal 1 & 3 [2-0-0]
+Program Elective Set 2- Multi-omics
+BBL7XX1 Omics Databases [1-0-0]
+MAL7XX0 Introduction to Data Science [1-0-0]
+CSL7XX2 Data Management [1-0-0]
+BBL7XX0 Proteomics Data Analysis [2-0-0]
+BBL7XX0 Microbial Genomes & Microbiomes [3-0-0]
+BBL7XX0 RNA Sequencing Data Analysis [3-0-0]
+BBL7XX0 Microarray Data Analysis [2-0-0]
+BBL7XX0 Metabolomics [3-0-0]
+BBL7XX0 Algorithms in Biology [3-0-0]
+Program Elective Set 3- Biological systems & Biosensors
+BBL7XX0 Disease Processes diagnostics & therapeutics [3-0-0]
+BBL7XX0 Quantitative Physiology: systems and controls of the human machine [3-0-0]
+BBP7XX0 Quantitative Physiology lab [0-0-2]
+BBL7XX0 Cell and Molecular Biology [3-0-0]
+BBL7XX0 Sensory-neural systems [3-0-0]
+BBL7XX3 Visual perception [1-0-0]
+BBL7XX2 Auditory perception: from cell to signal [1-0-0]
+BBL7XX1 Synaptic communication: function and dysfunction [1-0-0]
+BBL7XX0 Immunodiagnostics and therapeutics [2-0-2]
+BBL7XX0 Cardiovascular Physiology: Signals, systems and controls
+BBL7XX1 Microbes as sensors [1-0-0]
+MEL7XXO Microfluidics technologies [3-0-0]
+CSL7XX0 Measurement in remote healthcare [1-0-0]
+CSL7XX0 Analog & Interfacing Circuits [3-0-0]
+CYL6XX0 Biophysical Techniques: Theory and applications [3-0-0]
+MEL7XX0 Fluid Flow in Biological Processes [2-0-0]
+Program Elective Set 4 – Systems Biology
+BBL7XX0 Synthetic Biology [3-0-0]
+BBL7XX0 Systems Biology in Personalized Genomics [3-0-0]
+BBL7XX0 RNA Sequencing Data Analysis [2-0-0]
+BBL7XX0 Flux Balance Analysis [3-0-0]
+BBL7XX0 Immunotechnology [3-0-0]
+CYL6XX1 Thermodynamics [1-0-0]
+CYL6XX3 Chemical Kinetics [1-0-0]
+MAL6XX0 Ordinary Differential Equations [3–0–0]
+MAL7XX0 Numerical Methods for PDE [1-0-0]
+Program Elective Set 5 – Biomaterials Engineering
+BBL7XX0 Biophysics [2-0-0]
+BBL7XX0 Biomechanics [2-0-0]
+BBL7XX0 Tissue Engineering & Medical devices and Implants [3-0-0]
+BBL7XX0 Selected topics in Biomaterials Engineering [1-0-0]
+MT7LXX0 Principles of Engineering Material Selection 3-0-0 [3]
+MTL7XX0 Computational material Engineering [3-0-0]
+Program Elective Set 6 – Bioenergy & Environmental Technologies
+BBL7XX0 Environmental Microbiology [2-0-0]
+BBL7XX0 Environmental Biotechnology and Bioremediation [3-0-0]
+BB7XX0 Bioenergy Systems [3-0-0]
+BB7XX0 Bio-electrochemical Systems [2-0-0]
+MEL7XX0 Water Energy nexus [3-0-0]
+MEL7XX0 Soil and Water Conservation engineering [3-0-0]
+MT7XX0 Industrial waste: control & utilization [3-0-0]
+6.3 List of Laboratory courses
+6.3.1. Core Labs:
+Bioimaging lab
+Systems Biology lab
+Statistics and Data Analysis lab
+6.3.2. Elective Labs:
+Quantitative Physiology lab
+Artificial Intelligence in bioengineering lab
+Immunodiagnostics and therapeutics [2-0-2]
+Compulsory Courses / Fractals
+Title Bioimaging Number BBL7XX1
+CSL7XX2
+Department Biosciences & Bioengineering and
+Computer Science & Engineering
+L-T-P [C] 3-0-2 [4]
+Offered for M. Tech; PhD Program Type Compulsory
+Prerequisite
+Objectives
+The Instructors will provide students with fundamentals of bioimaging
+instrumentations, image processing and image analysis with emphasis on problems in
+the field of healthcare, agriculture and environment.
+Learning Outcomes
+The students are expected to have the ability to acquire basic knowledge and
+understanding of microscopic imaging and their applications in bioscience and
+bioengineering.
+Contents
+BBL7XX1 Instrumentation & Acquisition (2-0-2):
+(fractal 1) Image Formation: Lenses; Optical aberrations, Koehler illumination;
+Diffraction; Point spread function; Resolution.(5 lectures)
+Contrast Imaging Based Microscopy: Bright & Dark field, Phase contrast; Polarization;
+DIC, Fluorescent Probes & Proteins; Confocal; TIRF; Super-resolution (13 lectures)
+Image Acquisition & Analysis: Cameras; Detectors; Basic Bio image analysis (5
+lectures)
+Imaging Modalities-X-rays, Magnetic and Gamma-rays in imaging and therapeutics,
+application of imaging in the field of biosciences (5 lectures)
+Laboratory: Demonstration of microscopic imaging principles, contrast based
+microscopy techniques, Fluorescence based imaging, biological sample preparation &
+imaging, Image detectors, Bio image analysis, Biomedical Instrumentations,
+assignments on Bioimaging tools & techniques
+CS7XX2 Bioimage computing (1-0-0):
+(fractal 2) Reconstruction: Mathematical models of image regularity, random fields,
+practical data sampling and acquisition schemes (4 lectures)
+Restoration: Deconvolution, degradation models for corrupted and missing data,
+Bayesian graphical modelling and inference, regression methods for filtering of
+bioimages (4 lectures)
+Image segmentation, delineation & classification: Clustering, graph partitioning,
+classification, mixture models, expectation maximization, variational methods using
+geometric and statistical modelling, computer aided diagnosis (4 lectures)
+Registration: Deformation models, optimization algorithms, 2D-3D registration, multi-
+modal registration (2 lectures)
+Textbook
+1. Murphy D.B., Fundamentals of Light Microscopy and Electronic Imaging, John Wiley
+& Sons, Inc., 2nd edition
+Bankman, I., (2009), Handbook of Medical Image Processing and Analysis, 2nd Edition,
+Academic Press.
+Self Learning Material
+1. Basic of Light Microscopy & Imaging (The zeiss guide)
+Preparatory Course Material
+1. Debdoot Sheet, Bioimaging, NPTEL Course Material, Indian Institute of Technology
+Kharagpur, http://nptel.ac.in/courses/108105091/
+2. Bishop, C., (2006), Pattern Recognition and Machine Learning, Springer.
+Title Introduction to Omics Technologies Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P
+[C]
+2–0–0 [2]
+Offered for M.Tech. Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Introduce various technologies and relevant instrumentation applicable in genomics and
+transcriptomics research
+2. Introduce the instrumentation and various technologies applicable in proteome analyses
+and provide context for generation and analyses of proteome data
+Learning Outcomes
+The students are expected to have the ability to:
+1. Identify the right technology and method to be used in biological experiment design
+involving genomics and transcriptomics
+2. Choose the correct proteomics technology and supporting instrumentation to answer a
+specific biological question
+Contents
+Genomics & Transcriptomics Technologies: Cell lysis & nucleic acid extraction; quality
+control; conventional nucleic acid sequencing; next-generation sequencing technologies
+& instrumentation, fragmentation, size selection & purification strategies; single
+molecule real-time sequencing technology; multiplexing strategies; strategies for aiding
+in analyses of data; microarray fabrication, hybridization & scanning equipment ( 14
+Lectures )
+Proteomics technologies: Protein extraction, fractionation, separation & purification, protein
+sequencing, isoelectric focusing, 1D & 2D gel electrophoresis based approaches, gel
+imaging equipment & analysis software, mass spectrometry for gel based proteomics,
+gel-independent separation & mass spectrometry methods, tandem mass spectrometry,
+quantitative proteomics (14 Lectures)
+Textbook
+1. Lesk A., (2017), Introduction to Genomics, 3rd Edition, Oxford University Press
+2. Lovric, J., (2011), Introducing Proteomics: From Concepts to Sample Separation, Mass
+Spectrometry and Data Analysis. 11th Edition, Wiley-Blackwell.
+Reference Books
+1. Pevsner J., (2015), Bioinformatics and Functional Genomics, 3rd Edition, Wiley
+Blackwell.
+2. Thangadurai D., Sangeetha J., (2015), Genomics and Proteomics: Principles,
+Technoogies & applications, 1st Edition, CRC Press
+3. Twyman R., (2013), Principles of Proteomics, 2nd Edition, CRC Press
+4. Conn P.M., [Ed.] (2003), Handbook of Proteomic Methods, Springer
+Self-Learning Material
+1. Vikash Kumar Dubey, Proteomics & Genomics, NPTEL Course Material, Department of
+Biosciences & Bioengineering, Indian Institute of Technology Guwahati,
+https://nptel.ac.in/courses/102103017/
+2. S. Ganesh, Functional Genomics, NPTEL Course Material, Indian Institute of Technology
+Kanpur, https://nptel.ac.in/courses/102104056/
+3. Sanjeeva Srivastava, Proteomics: Principles and Techniques, NPTEL Course Material,
+Department of Biosciences & Bioengineering, Indian Institute of Technology Bombay,
+https://nptel.ac.in/courses/102101007/6
+Title Biomaterials engineering Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite None
+Objective
+The Instructor will:
+1. inspire future potential of bioengineering discipline
+2. provide cutting edge knowledge and applications of biomaterials in tissue engineering, drug
+delivery, biomechanics and reconstitution various biological events
+Learning Outcome
+The students are expected to have the ability to:
+understand how biomaterials are useful for various biotechnological and bioengineering
+applications
+Contents
+Background and definition of biomaterials: classes of materials used biotechnological
+applications and in medicine: polymers, metals, ceramics, natural materials and composites,
+biodegradable polymers in medicine: polymers, liposomes, hydrogels, silicone biomaterials
+and medical fibers, degradation of materials in the biological environment, types of polymer
+degradation. Influence of polymer properties on degradation, influence of biological
+environment on polymer degradation (14 lectures)
+Surface engineering of biomaterials: biological testing of biomaterials: in vitro assessment of
+materials for tissue compatibility, in vivo assessment of tissue compatibility. Host reactions to
+biomaterials and their evaluations, the role of adsorbed proteins in tissue response to
+biomaterials. Cell, extra cellular matrix, and tissue interactions with biomaterials,
+inflammation, wound healing and foreign body response to biomaterials. Immune response to
+foreign materials. Toxicity, tumor genesis and biomaterials (14 lectures)
+Microscopes for monitoring biomaterials and their dynamics: tirf and confocal, applications in
+drug delivery and nanomedicine, bioengineering concept to reconstitute cell like micro-
+chambers: flow-chambers and artificial cell, bioengineered platform for monitoring
+microtubule dynamics, bioengineered platform for monitoring microtubule motility and
+organization, bioengineered platform for monitoring microtubule force, reconstitution of
+kinesin transport using engineered biomaterials, applications in brain injury, repairing and
+future applications (14 lectures)
+Textbook
+Latest Research articles (ChemBioChem, Molecular Biosystem, AngewChem, ACS Chemical
+Biology, JACS, ChemComm, ACS Chemical Neuroscience etc.)
+Self Learning Material
+None
+Preparatory Course Material
+None
+Title Statistical Techniques, Advanced Statistical
+Techniques
+Number MAL7XX0
+MAL7XX0
+Department Mathematics L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Objectives:
+The Instructor will:
+1. Provide training in the analysis of the data from high dimensional biological data
+2. Familiarizing the participants with the use of statistical tools and methodologies for
+analysing biological data
+Learning outcomes:
+The students are expected to:
+1. Analyse data, be able to decide which data analysis tool to use
+2. Implement statistical methods on real datasets
+Contents
+MAL7XX1: Statistical Techniques [1-0-0]
+(fractal 1) probability models and sampling techniques, tests of hypotheses, stochastic process
+(14 lecture)
+MAL7XX0: Advanced Statistical Techniques [2-0-0]
+(fractal 2) estimation, mixture models and latent models, association and correlation analysis,
+regression analysis (28 lectures)
+Textbook
+1. Casella,G. and Berger,R., (2002), Statistical Inference, Cengage Learning.
+2. Montogomery,D.C., Peck,E.A. and Vining,G.G., (2012), Introduction to Linear Regression
+Analysis, Wiley.
+3. Medenhall,W., Beaver,R.J., Beaver, B.M., (2013), Introduction to Probability and Statistics,
+Cengage Learning.
+Self Learning Material
+1. Rosner,B., (2000), Fundamentals of Biostatistics, 5th Edition, Thomson Brooks/Cole.
+2. Johnson,R.A., (2000), Probability and Statistics for Engineers, 6th Edition, Prentice Hall.
+3.DeGroot,M.H., Schervish, M.J., (2002), Probability and Statistics, 3rd Rev. Edition, Addison-
+Wesley.
+Preparatory Course MaterialSen, S., Introduction to Biostatistics, NPTEL Course Material,
+Department of Biosciences and Bioengineering, Indian Institute of Technology Bombay,
+https://onlinecourses.nptel.ac.in/noc18_bt21/preview
+Title Statistics and Data Analysis Lab Number BBP7XX0
+Department Bioscience and Bioengineering L-T-P [C] 0–0–2 [2]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide training in the analysis of the data from high dimensional biological data
+2. Familiarizing the participants with the use of statistical tools and methodologies for
+analysing biological data
+Learning Outcomes
+The students are expected to:
+1. Analyse data, be able to decide which data analysis tool to use
+2. Learn the latest programming languages
+3. Implement statistical methods on real datasets
+Laboratory Experiments
+programming using pyspark/R, statistical modelling using real datasets, identification of
+biomarkers, application of ANOVA, genome-wide association analysis studies (linear and
+logistic regression), meta-analysis, population stratification techniques, survival analysis
+Textbook
+1. Casella,G. and Berger,R.L., (2002), Statistical Inference, 2nd Edition, Cengage Learning.
+2. Montogomery,D.C., Peck,E.A. and Vining,G.G., (2012), Introduction to Linear Regression
+Analysis, 4th Edition, Wiley.
+3. Medenhall,W., Beaver, R.J., Beaver, B.M., (2013), Introduction to Probability and Statistics,
+14th Edition, Cengage Learning.
+Self Learning Material
+1. Rosner, B., (2000), Fundamentals of Biostatistics, 5th Edition, Thomson Brooks/Cole.
+2. Johnson, R. A., (2000), Probability and Statistics for Engineers, 6th Edition, Prentice Hall.
+3. DeGroot, M. H., Schervish, M. J., (2002), Probability and Statistics, 3rd Rev. Edition,
+Addison-Wesley.
+Preparatory Course Material
+Sen, S., Introduction to Biostatistics, NPTEL Course Material, Department of Biosciences and
+Bioengineering, Indian Institute of Technology Bombay,
+https://onlinecourses.nptel.ac.in/noc18_bt21/preview
+Title Systems Biology Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech. 1st Year Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide an introduction to cellular and level systems biology with an emphasis on
+mathematical 22nalyse22r, synthetic biology, 22nalyse22r of genetic networks, genetic
+and metabolic engineering, and thermodynamics.
+2. Cellular systems include genetic switches and oscillators, network motifs, genetic network
+evolution, and cellular decision-making.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Implement knowledge of important concepts related to the mathematical modelling of
+complex systems, especially metabolic networks, protein interaction networks and gene
+regulatory networks.
+2. To apply them to model the 22nalyse22r of biological systems as well as develop
+strategies for manipulating them.
+Contents
+BBL7XX1 Mathematical Modelling & Simulations [1-0-0]: (fractal 1)Introduction to
+Modelling in Biomedicine, ODE 22nalyse22r of biochemical networks and cell populations,
+Boolean 22nalyse22r of biochemical networks, Agent-based 22nalyse22r of cell populations
+ad tissues (14 lectures)
+BBL7XX2 Graph theory & Networks [1-0-0]: (fractal 2)Networks and graph theory,
+Network Measure, Scale-free networks, Biological networks, Modularity (14 lectures)
+BBL7XX3 Genetic & Metabolic Engineering [1-0-0]: (fractal 3)Genetic Engineering,
+Metabolic Engineering (14 lectures)
+Laboratory
+Practical exercise of a mathematical model in the context of biological systems.
+Network visualization tools: Cytoscape and Gephi.
+Software packages: Boost, network, igraph for graph-theoretic computations
+Textbook
+1.Brian P. I., (2013) Mathematical Modeling in Systems Biology: An Introduction, MIT Press
+2.Newman M. E. J. (2010), Networks: An Introduction, Oxford University Press.
+3.Nesbeth D. N. (2016), Synthetic Biology Handbook, CRC Press.
+Self Learning Material
+1.Klipp E (2009) Systems biology : a textbook. Wiley-VCH
+2.Department of Biological Engineering, MIT, https://be.mit.edu/research-areas/systems-
+biology
+Preparatory Course Material
+1. Department of Biotechnology, Indian Institute of Technology Madras,
+https://nptel.ac.in/noc/individual_course.php?id=noc18-bt22
+Title Biosensors Number BBL7XX1
+EEL7XX2
+Department Bioscience & Bio-engineering and Electrical
+Engineering
+L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite
+Objectives
+The Instructor will:Provide background on biosensors, their types, fabrication, characterization,
+& applications.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the design and working of various biosensors
+2. to design a sensor based on the figures of meritContents
+BBL7XX1: Types of biosensors and their characterization [1-0-0]
+(fractal 1) Introduction to biosensors, their applications, importance & relevance in the field of
+healthcare, agriculture and environment monitoring (4 lectures)
+Basic principles and types of sensors: Protein/antibody-based sensors: surface chemistry.
+Electrochemical and optical sensors, Redox-enzyme, Optical methods: UV/Vis/IR,
+fluorescence, luminescence, fibre optics, surface plasmon resonance, and mass based
+sensors Analytical methods chromatography, spectrophotometry, electrochemical
+characterization (10 lectures)
+EEL7XX2: Micro-fabrication technologies, sensor signals, interfacing and read out
+electronics [1-0-0]
+(fractal 2) Introduction to micro-system fabrication technologies: optical lithography, etching,
+metallization, CVD, LIGA, DRIE, micro-molding, surface and bulk micromachining and
+packaging. Case studies related to high aspect ratio structures e.g. micro-channels,
+Microarrays, Micro-reactors, microfabricated PCR, lab on chip, Biosensor interfacing: sources of
+noise, interfacing circuitry and read out electronics (14 Lectures)
+Textbook:
+1. Anthony, T., Isao, K., Wilson, G.S., (2017) Biosensors: Fundamentals and applications,
+Oxford University Press.
+Reference book:
+1. Benica, F-G., (2012) Chemical Sensors and Biosensors-Fundamentals and applications, 12th
+edition, John-Wiley & Sons Ltd.
+2. Tai-Ran Hsu, (2017), MEMS & Microsystems Design and Manufacture, Indian Edition, Tata
+McGraw-Hill
+Self Learning Material 1.Dr. Mainak Das, Department of Bioscience & Bioengineering, IIT
+Kanpur, https://nptel.ac.in/courses/102104062/19
+1. Dr. K Uma Mahshwari, Sastra University https://nptel.ac.in/courses/118106019/
+Program Elective Set 1
+Bioimaging & Health Informatics
+Title Fundamentals of Neuroscience Number BBL7xx0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Objectives
+The Instructor will:
+1.Provide introduction to neuroanatomy for engineers and cognitive neuro anatomists
+2. Provide Hands-on training is provided in the fundamentals of neuroanatomist structures
+and functions. Understanding of which has diverse applications in disease diagnostics by
+imaging.
+Learning Outcomes
+The students are expected to have the ability to: understand areas of application based
+on the understanding of neuroanatomist structures and their association in some diseases.
+Contents
+Why are we interested in the brain: Diseases of the nervous systems (14 lectures):
+Schizophrenia, Depression, Diseases of Neural Degeneration: Alzheimer’s, Senile
+Dementia of the Alzheimer’s Type, Diagnosed as memory loss with inability to
+complete activities of daily living, Macroanatomy: Degeneration of higher cortices,
+Microanatomy: Amyloid plaques and tangles, Lou Gehrig/ALS, diseases of the Basal
+Ganglia, Huntington’s, Parkinson’s, Plasticity and Disease,
+Diseases of Deafferentation (7lectures), Multiple Sclerosis, Phantom pain/central pain,
+Diseases of Vasculature, stroke, Migraine. Diseases and Neural Dynamics, Language
+Specific Learning Deficit, Association of Structure and Function,
+Cerebellar anatomy and its disorders (7lectures): motor disorders, Stumbling gate,
+psychiatric disorders, Pitch discrimination, language ability, Tactile perception, Deficits
+are not Trivially Localized,
+Deficits of NT systems (14 lectures): Depression, Schizophrenia, Phantom Limb,
+Alzheimer’s and the Brain
+Textbook
+1. Kandel,E., (2012), Principles of Neural Science, 5th Edition, Elsevier
+2. Zigmond M (2012), Fundamental Neuroscience, 4th Edition Elsevier
+Reference Books
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons
+Title Digital Image Analysis Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite None
+Objectives
+The Instructor will:
+1. Introduce the origin and formation of digital imaging.
+2. Develop the understanding of different types of image processing and analysis for
+different purposes.
+3. Show how to develop modular systems for image analysis through hands-on application
+development.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Enhance image in spatial and frequency domain.
+2. Implement various aspects of image segmentation, compression, and content analysis.
+Contents
+Digital Image Fundamentals: Image 27nalyse27r, Sampling and Quantization, Imaging
+Geometry,Digital Geometry, Image Acquisition Systems, Different types of digital images. (4)
+Bilevel Image Processing: Basic concepts of digital distances, distance transform, medial axis
+transform, component 27nalyse27r, Histogram of grey level images, Optimal thresholding. (5)
+Images Enhancement: Point processing, enhancement in spatial domain, enhancement in
+frequency domain. (5)
+Detection of edges and lines in 2D images: First order and second order edge operators,multi-
+scale edge detection, Canny’s edge detection algorithm, Hough transform for detecting lines
+and curves. (5)
+Color Image Processing: Color Representation, Laws of color matching, chromaticity diagram,
+color enhancement, color image segmentation, color edge detection. (5)
+Image compression: Lossy and lossless compression schemes, prediction based compression
+schemes, vector quantization, sub-band encoding schemes, JPEG compression standard. (6)
+Segmentation: Segmentation of grey level images, Watershed algorithm for segmenting grey
+level image. (5)
+Morphology: Dilation, erosion, opening, closing, hit and miss transform, thinning, extension to
+grey scale morphology. (4)
+Feature Detection: Fourier descriptors, shape features, object matching/features(3)
+Textbook:
+1. Gonzalez and Woods, Digital Image Processing, Prentice-Hall.
+2. Fundamentals of Digital Image Processing by Anil K. Jain.
+Self Learning Material
+NPTEL: Digital Image Processing
+https://nptel.ac.in/courses/117105079/
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide motivation and understanding of the need and importance of Machine Learning in
+today’s world
+2. Provide details about various algorithms in Machine Learning
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop a sense of Machine Learning in the modern context, and independently work on
+problems relating to Machine Learning
+2. Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+Contents
+CSL7XX1: Machine Learning I: Supervised Learning 1-0-0[1]
+Introduction: Motivation, Different types of learning, Linear regression, Logistic regression (2
+lectures)
+Gradient Descent: Introduction, Stochastic Gradient Descent, Subgradients, Stochastic
+Gradient Descent for risk minimization (2 lectures)
+Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick,
+Implementing Soft SVM with Kernels (4 lectures)
+Decision Trees: Decision Tree algorithms, Random forests (2 lectures)
+Neural Networks: Feedforward neural networks, Expressive power of neural networks, SGD and
+Backpropagation (3 lectures)
+Model selection and validation: Validation for model selection, k-fold cross-validation, Training-
+Validation-Testing split, Regularized loss minimization (1 lectures)
+CSL7XX2: Machine Learning I: Unsupervised Learning and Generative Models 1-0-
+0[1]
+Nearest Neighbour: k-nearest neighbour, Curse of dimensionality (1 lecture)
+Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral clustering (3
+lectures)
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed
+sensing (2 lectures)
+Generative Models: Maximum likelihood estimator, Naive Bayes, Linear Discriminant Analysis,
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning
+(3 lectures)
+CSL7XX3: Machine Learning I: Computational Learning Theory and Deep Neural
+Networks 1-0-0[1]
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff,
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+Textbook:
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From Theory
+to Algorithms, Cambridge University Press
+Reference Books:
+2. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Self Learning Material
+3. Department of Computer Science, Stanford University,
+https://see.stanford.edu/Course/CS229
+Title Image Sensor Design and Applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M. Tech, Ph.D. Type Elective
+Prerequisite Analog electronics
+Objectives
+The Instructor will:
+1. Introduce the design and analysis of CMOS image sensors.
+2. Explain the readout electronics behind the camera.
+3. Provide the knowledge of performance measures and tradeoffs involved in the camera
+design.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and develop CMOS image sensor including the sensing mechanism and signal chain
+of the camera.
+2. Implement different techniques required for high dynamic range camera, high frame rate,
+low noise camera, time of flight 3D cameras etc.
+Contents
+Introduction to photodetectors: Photodiode and photogate, photocurrent, dark current,
+quantum efficiency, spectral response and photo-conversion principles (5 Lectures).
+Introduction to Charge coupled devices and CMOS image sensors: Operation, performance
+metrics, noise and its types, spatial resolution and modulation transfer function. Concept of
+exposure triangle including aperture, shutter speed and ISO, color filters, Bayer pattern,
+Shutters and its types, motion blur, hard and soft reset, Introduction to imaging optics (8
+Lectures).
+Readout electronics and image sensor characterization: Readout and its types, design tradeoffs
+and challenges, analysis of the signal path behind the camera, variable gain amplifiers, double
+sampling circuits, ADCs, reference circuits including BGR and LDO, clock generation circuits
+including PLL and delay elements, floor planning, placement and routing, image sensor
+characterization. Introduction to wire bonding, packaging, lens and color filters for product
+level design (15 Lectures).
+Emerging trends: High speed cameras, high dynamic range cameras, 3D cameras for
+background light subtraction and depth estimation. Concepts of Polarization imaging, low light
+imaging, machine vision, backside illumination, stacked technology, target tracking (10
+Lectures).
+Color Processing: Color demosaicing, color correction and white balance (2 Lectures).
+Applications: Smart city,health care, autonomous vehicles, sports, motion detection,
+surveillance (2 Lectures).
+Textbook
+1. Jun Ohta, (2007), Smart CMOS Image sensors and Applications, CRC press.
+Self Learning Material
+1. O. Yadid Pecht and R. E. Cummings (2004), CMOS imagers: From Photo transduction to
+Image processing, Springer.
+2. Image sensors blog http://image-sensors-world.blogspot.com/
+Preparatory Course Material
+1. El Gamal, Abbas, and Helmy Eltoukhy (2005) “CMOS image sensors.” IEEE Circuits and
+Devices Magazine vol. 21, no. 3, pages 6-20.
+2. Fossum, Eric R. (1997) “CMOS image sensors: Electronic camera-on-a-chip.” IEEE
+transactions on electron devices vol. 44. No. 10, pages 1689-1698.
+Title Introduction to Medical Physics Number PHL7XX0
+Department Physics L-T-P [C] 2–0–0 [2]
+Offered for Type Elective
+Prerequisite
+Objectives
+The instructor will
+1. Introduce physics concepts and principles relevant for medicine and health 2. Provide the
+introduction of modern diagnostic tools and various technology to medical research and to
+the healthcare arena in general that is set to revolutionize the way we cure diseases.
+Learning Outcomes
+Aspects of physics with engineering for biological applications
+1. Contribution of physics in the development of medical diagnostics
+Contents
+PH7XX1 (Radiological imaging techniques) [1-0-0]
+(a) Physics in Medical research: Interaction of radiation with matter, Interaction of photons
+with tissues, molecules, cells and organs, Elastic and inelastic scattering, Thomson and
+Compton Scattering. (6 lectures)
+1. Radiological imaging: X-ray imaging and computerized Tomography (CT), Radioisotope
+imaging, Positron–emission Tomography, Introduction to the image analysis. (8 lectures)
+PH7XX3 (Physics in Therapeutics) [1-0-0] (a) Plasma for Medicine: Introduction of low
+temperature plasma technology to medical research, plasma chemistry, fundamentals of non-
+equilibrium plasmas and cell biology. Cold plasma applications in the inactivation of pathogens,
+anti-bacterial coatings, wound healing, electrosurgery, cancer treatment and dentistry. (10
+lectures) (b) Nuclear Medicine: Radioactivity, Production of radionuclides, Radiation therapy for
+cancer treatment. (4 lectures)
+Textbook
+1. Cho, Z-H., Jones, J. and Singh, M., Foundations of Medical Imaging, 1st Edition Wiley
+Interscience, 1993
+2. Pryma, D. A., Nuclear Medicine, 1st Edition, Oxford University Press, 2015
+3. Murphy, D. B. and Davidson, M. W., Fundamental of Light Microscopy and Electronic
+Imaging, 2nd Edition, Wiley-Blackwell, 2012
+Reference Books
+1. Toyokuni, S., Ikehara, Y., Kikkawa, F. and Hori, M. (2018), Plasma Medical Science, 1st
+Edition, Academic Press.
+Self-Learning Material
+1. Department of Electrical Engg, IIT Kharagpur, https://nptel.ac.in/courses/108105091/
+2. Jasanoff, A., MIT Open courseware, Noninvasive Imaging in Biology and Medicine,
+https://ocw.mit.edu/courses/nuclear-engineering/22-56j-noninvasive-imaging-in-
+biology-and
+medicine-fall-2005/index.htm.
+Preparatory Course Material
+1. Department of Physics, IIT Delhi, https://nptel.ac.in/syllabus/115102017/.
+Title Principles of Drug Discovery Number BBL7XX1
+CSL7XX1
+CSL7XX2
+Department Bioscience & Bioengineering and Computer
+Science and engineering
+L-T-P [C] 3-0-0 [2]
+Offered for M.Tech Type Elective
+Prerequisite None
+Objective
+The Instructor will:
+1. focus on route of drug design and discovery
+Learning Outcome
+The students are expected to have the ability to:
+1. understand the principles of drug design and development
+Contents
+BBL7XX1: Principles of Drug Discovery [1-0-0]
+(fractal 1)drug targets, pharmacokinetics, administration and dosing, drug testing: in vivo and
+in vitro, drug discovery: natural lead, synthetic lead, combinatorial synthesis,
+pharmacokinetics based drug design, chemical development, process development, toxicology,
+pharmacology, drug metabolism, clinical trials, commercialization (14 lectures)
+CSL7XX0: Machine Learning-1 [2-0-0]
+(fractal 2) introduction, gradient descent, support vector machines, decision trees, neural
+networks (14 lectures)
+(fractal 3) nearest neighbour, clustering, dimensionality reduction, generative models, feature
+selection and generation (14 lectures)
+Textbook
+1. Stromgaard,K., Krogsgaard-Larsen,P., Madsen,U., Drug Design and Discovery, 5th Edition,
+CRC Press
+Self-Learning Material
+1. Department of Computer Science, Stanford University
+https://see.stanford.edu/Course/CS229
+Preparatory Course Material
+Title Introductory Chemical Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Elective
+Prerequisite None
+Objective
+The Instructor will:
+1. Build fundamental concept of interdisciplinary science, specially chemical biology
+Learning Outcome
+The students are expected to have the ability to:
+1. Understand the importance of interdisciplinary sciences and its applications in
+bioengineering fields
+Contents
+Introduction: background and definition of chemical biology, overview of chemical
+biology, allied fields and their link with chemical biology, overview of protein structure
+and protein-protein interactions (14 lectures)
+Biomolecular-drug interaction: key discoveries in the field of chemical biology, few
+examples and journey through those discoveries, the use of unusual amino acids to
+probe biomolecular conformation, the use of novel fluorescence probe and
+applications, sirna as therapeutics, small molecule kinase inhibitors, gtp analogues as
+potential regulators for microtubule dynamics (14 lectures)
+Imaging: applications of small molecule as a probe for in vivo imaging, chemical tools
+for perturbation of protein-protein interactions, chemical platforms for protein-protein
+and protein-nucleic acid interactions (14 lectures)
+Textbook
+1. Chemical Biology: From Small Molecules to Systems Biology and Drug Design
+(Willey), Editor(s): Profs. Stuart L. Schreiber, Tarun M. Kapoor and Günther Wess
+Nature Chemical Biology, 2010, 6, 847-853
+Self Learning Material
+None
+Preparatory Course Material
+None
+Program Elective Set 2
+Multi-’Omics’
+Title Omics Databases Number BBL 7XX0
+Department Bioscience & Bioengineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce the biological databases commonly encountered in omics research and will
+highlight how different data types are used across biology
+Learning Outcomes
+The students are expected to have the ability to:
+1. Store / retrieve biological data in / from relevant databases and process it for analyses
+Contents
+Biological Databases: Sequence databases, gene expression databases, sequence read
+archives, peptide databases, metabolite libraries, phenomic databases, data file formats,
+conversion between formats, considerations for data submission to databases,
+considerations for using data retrieved from databases, data quality control, [data
+warehousing and integration, anonymizing data*] (14 lectures)
+Textbook
+1. Byron K., Herbert K.G., Wang J.T.L, (2016), Bioinformatics Database Systems, CRC Press
+2. Srivastava C., (2019), Informatics in Proteomics, CRC Press
+Reference Books
+1. Bergeron B., (2016), Bioinformatics Computing, Pearson
+Self-Learning Material
+None
+*Will be covered by CSE Department
+Title Introduction of Data Science Number MAL7XX0
+Department Mathematics L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce the basics of data science and its underlying concepts.
+2. Introduce data processing, manipulation and cleaning techniques.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Acquire familiarity with the basic concepts of data science.
+2. Distinguish between different kinds of data and data governance.
+3. Understand the preparation and processing of the data.
+Contents [14 Lectures] Data preparation, Data pre-processing, Data Cleaning, Data
+Integration, Data Transformation, Data Reduction, Redundancy Removal, Data storage,
+Data Handling, Querying Data, Data Representation and Exploration, Big Data.
+Text Books
+1. Kotu, V. and Deshpande, B. (2018) Data Science: Concepts and Practice, Morgan
+Kaufmann.
+2. Saltz, J.S. and Stanton, J.M. (2017) An Introduction to Data Science, SAGE
+Publications.
+3. Kelleher, J.D., and Tierney, B. (2018) Data Science, MIT Press.
+Reference Books
+1. Moreira, J., Carvalho, A. and Horvath, T. (2018) A General Introduction to Data
+Analytics, John Wiley & Sons.
+2. Mayer-Schonberger, V. and Cukier, K., (2013) Big data: The essential guide to work,
+life and learning in the age of insight, John Murray Publications.
+Online course Material
+Not Available
+Title Data Management (Fractal of Software and
+Data Engineering)
+Number CSL7XX2
+Department CSE L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Discuss techniques to manage a large amount of data
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design complex end-to-end data pipeline for data processing
+2. Critically identify and use the tools for data handling and management
+Contents
+CSL7XX2 Data Management 1-0-0 [1]
+Data Management: Structured data, relational database management, unstructured data,
+semi-structured data, Nosql database management (mongodb), column database, graph
+database, XML, JSON, HDFS, Handling drift in data, sensor data reliability at software and
+algorithmic level, sensor data analysis techniques (14 lectures)
+Textbook
+1. Bass L., Clements P., Kazman R., (2012), Software Architecture in Practice, 3rd edition,
+Addison-Wesley Professional
+2. Martin K., (2017), Designing Data-Intensive Applications: The Big Ideas Behind
+Reliable, Scalable, and Maintainable Systems, 1st Edition, O’Reilly Media
+Self Learning Material
+1. Tylor,R.N., Medvidovic,N. and Dashofy,E.M., (2014), Software Architecture Foundation:
+Theory and Practice, Wiley
+2.
+Preparatory Course Material
+1. IEEE Transactions on Knowledge and Data Engineering
+2. International Conference on Data Engineering
+Title Microarray Data Analysis Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide background to 41nalyse microarray technology/RNA sequencing gene expression
+data.
+2. Familiarize the students with the use of advanced tools and methodologies for
+41nalyse41r microarray/RNA seq expression data
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the structure of the data, the statistical procedures used to remove the
+inherent noise present in the data (pre-processing of the data)
+2. Decide which data analysis tool to use
+Contents
+DNA Microarray: Gene expression biology, DNA microarrays and their importance, types
+of microarrays- two-channel cDNA arrays, single-channel Affymetrix genechips,
+microarray platforms, Designing a microarray experiment-The basic steps
+Microarray Databases: NCBI and microarray data management, GEO (Gene Expression
+Omnibus), Array Express, The benefits of GEO and Array Express.
+Microarray Data Normalization: Importance of microarray data pre-processing,
+Background correction, Data normalization, Measuring dissimilarity of expression pattern
+using dissimilarity measures
+Microarray Data Analysis: Identification of differentially expressed genes- using statistical
+and computational approaches, Classifying samples from two populations using k-nearest
+41nalyse41r classifier, Support Vector Machines and their applications, For grouping co-
+expressed genes- Kmeans Clustering, Hierarchical Clustering.
+Visualization and Functional Analysis: Bio-molecular pathways, gene ontology, enrichment
+analysis, hypergeometric distribution, calculation of P-Value, hypothesis testing, multiple
+hypothesis testing
+Textbook
+1. Draghici, S., (2012), Statistics and Data Analysis for Microarrays Using R and
+Bioconductor, 2nd Edition, Chapman & Hal/CRC.
+Reference Books
+1. Knudsen, S., (2004), Guide to Analysis of DNA Microarray Data, John Wiley & Sons.
+2. Stekel, D., (2002), Microarray Bioinformatics, Cambridge University Press.
+3. Draghic, S., (2002), Data Analysis tools for DNA Microarray, Chapman and Hall/CRC
+Press.
+Online Course Material
+1. Srivastava, S., Microarray Data Analysis, Department of Bioscience and
+Bioengineering, Indian Institute of Technology Bombay,
+http://nptel.ac.in/courses/102101054/35
+Title RNA Sequencing Data Analysis Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2-0-0 [2]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Illustrate the intricacies involved in choosing the right RNA sequencing platform and will
+highlight the key steps of data analysis
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyse an RNA sequencing dataset and draw biological meaning from the data
+Contents
+Introduction to RNA Sequencing Data: Sequencing chemistries, choosing the right method
+for an application, principal considerations while designing an RNA sequencing experiment
+Quality Control: Sequence quality scores, pre-processing steps & considerations, FastQC,
+filtering & trimming of low-quality reads, detecting contaminants, removing adapters, red
+flags & troubleshooting
+Reference mapping: Alignment tools, assessment of alignment statistics, manipulating
+alignments, visualizing alignments
+De novo assembly: Transcriptome reconstruction & inherent complexities, pre-processing
+considerations for de novo assembly, de Bruijn graph, assembly tools, R & bioconductor for
+data analysis
+Gene expression analysis: Annotation, counting reads per transcript, differential gene
+expression, importance of biological & technical replicates, count distributions,
+normalization, visualizing differential gene expression, graphics & plot types
+Detecting Non-coding RNAs: Methods for detecting non-coding RNAs, sRNAs, miRNAs,
+piRNAs, endo-siRNAs, exo-siRNAs, snoRNAs, snRNAs
+Applications of RNA sequencing: Transcriptome response profiling, finding splice variants,
+detecting allele specific expression in disease
+Textbook
+1. Korpelainen E., Tuimala J., Somervuo P., Huss M., Wong G., (2015), RNA-Seq Data
+Analysis: A Practical Approach, CRC Press
+2. Wang X., (2016), Next-Generation Sequencing Data Analysis, CRC Press
+Reference Books
+Review & research articles as prescribed by the Instructor
+Self-learning Material None
+Title Algorithms in Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives:
+1. To develop an understanding of the main algorithmic approaches used in solving
+computational problems that arise in the analysis of biomolecular data (such as
+DNA/RNA/amino acid sequences, mass spectra of proteins, whole genomes, or gene
+expression levels).
+Learning outcomes:
+The students are expected to:
+1. Understand various algorithms related to biological data analysis.
+2. Develop new efficient algorithm to solve biological data.
+Contents
+Algorithms and Complexity: What is an algorithm?, Biological Algorithm versus Computer
+Algorithms, The change problem, Correct versus Incorrect Algorithms, Recursive
+Algorithms, Iterative versus Recursive Algorithms, Fast vs Slow Algorithms, Big-O
+Notation, Algorithm Design Techniques, Tractable versus Intractable Problems (10
+lectures)
+Greedy Algorithms: Genome Rearrangements, Sorting by Reversals, Approximation
+Algorithms, Breakpoint: A different face of greed, A greedy approach to motif finding (10
+lectures)
+Dynamic programming algorithms: The power of DNA sequence comparison, the change
+problem revisited, the manhattan tourist problem, edit distance and alignments, longest
+common subsequences, global sequence alignment, local sequence alignment, alignment
+and gap penalties, multiple alignment, gene prediction. (10 lectures)
+Clustering and Trees: Gene expression analysis, Hierarchical Clustering, k-means
+clustering, clustering and corrupted cliques, evolutionary trees, distance based tree
+reconstruction, Evolutionary trees and hierarchical clustering, small parsimony problem,
+large parsimony problem (7 lectures)
+Gene selection algorithms: SAM, eBayes, Limma, CFS, mRMR, MRMS [5 lectures]
+Textbook
+1. Jones N. C. ,Pevzner P. A. (2014), An Introduction to Bioinformatics Algorithms, MIT
+Press
+Reference Books
+1. Mitra S. and Acharya T. (2003), Data Mining: Multimedia, Soft Computing, and
+Bioinformatics, New York: John Wiley
+2. Mitra S., Datta S., Perkins T. and Michailidis G. (2008), Introduction to Machine Learning
+and Bioinformatics, New York: Chapman & Hall/CRC Press.
+Online Course Material : None
+Title Proteomics Data Analysis Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–0 [0]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce the biological databases commonly encountered in omics research and will
+highlight how different data types are used across biology
+Learning Outcomes
+The students are expected to have the ability to:
+1. Store / retrieve biological data in / from relevant databases and process it for analyses
+Contents
+Mass spectrometry for proteomics: Basic principles, ionization methods, mass analyzers &
+mass spectrometers, analysis of MS data, analysis of MS/MS data, simple vs complex
+samples (18 lectures)
+Case studies: Qualitative proteomics, differential proteomics, detecting post-translational
+modifications, interactomics (10 lectures)
+Textbook
+1. Lovric, J., (2011), Introducing Proteomics: From Concepts to Sample Separation, Mass
+Spectrometry and Data Analysis. 11th Edition, Wiley-Blackwell.
+Reference Books
+1. Twyman R., (2013), Principles of Proteomics, 2nd Edition, CRC Press
+2. Conn P.M., [Ed.] (2003), Handbook of Proteomic Methods, Springer
+Online Course Material
+1. Sanjeeva Srivastava, Proteomics: Principles and Techniques, NPTEL Course Material,
+Department of Biosciences & Bioengineering, Indian Institute of Technology Bombay,
+https://nptel.ac.in/courses/102101007/6
+Title Microbial Genomes & Microbiomes Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Illustrate the various methods applicable in the generation, analysis and interpretation of
+microbial genome sequencing data
+2. Outline the methods involved in determining the microbiome and assessing its importance
+in health, environment and agriculture
+Learning Outcomes
+The students are expected to have the ability to:
+1. Determine the best possible methods to determine the sequence of bacterial genomes
+with naturally varying properties.
+2. Be acquainted with the microbiomes associated with specific niches, methods to study
+them and infer what it means to have a specific microbiome in a given environment
+Contents
+Introduction to microbial genomes: Prokaryotic genome anatomy, Extrachromosomal
+elements, Separation (4 lectures)
+Genome sequencing: Timeline of DNA sequencing technologies, Explosive abundance of
+Genomic Data, Problems with genome assembly and solutions, Coding sequence
+prediction, Methods of gene prediction, Pathways and metabolic models (8 lectures)
+Functional & Comparative Genomics: Experimental annotation, Gene expression profiling,
+Interactome,Genome alignment, Genomic phylogeny, Pan-genomics (10 lectures)
+Genome evolution: Genomic islands, Genome plasticity, Resistome, Molecular epidemiology,
+Minimal genome concept, Synthetic genomes, Genomic alterations (10 lectures)
+Microbiomes: Introducing metagenomics, detecting unculturable microbes, the human
+microbiome project, 16S based microbiome analysis, metagenome shotgun sequencing,
+importance of the microbiome in health, applications of microbiome sequencing in
+agriculture & the environment
+Textbook
+1. Brown T.A. (2007) Genomes 3, Blackwell publications
+2. Fraser C.M., Read T.D., Nelson K.E., (2004), Microbial Genomes, Humana Press
+Reference Books
+2. Review & Research articles as prescribed by the Instructor
+Online Course Material Ganesh S., Functional Genomics, NPTEL Course Material,
+Department of Biological Sciences and Bioengineering, Indian Institute of Technology,
+Kanpur, http://nptel.ac.in/courses/102104056/
+Title Metabolomics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–0 [1]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce metabolomics as a discipline highlighting some methods for data generation,
+analysis and interpretation
+Learning Outcomes
+The students are expected to have the ability to:
+1. Choose the appropriate method to qualitatively or quantitatively analyze the metabolome
+from different biological samples
+Contents
+Metabolomics Technologies & Data analysis [14 lectures]: Mass spectrometry for metabolite
+profiling, liquid & gas chromatography separation technologies; capillary electrophoresis
+based separation technology; nuclear magnetic resonance in profiling; single cell
+metabolomics, processing of data for analysis, statistical analysis, lifestyle disease
+biomarker identification, lipidomics
+Applications: Clinical samples, extraction methods, sample preparation, metabolic markers of
+disease, comparative metabolomics, metabonomics
+Textbook
+1. Fan T.W.M., Lane A.N., Higashi R.M., [Eds], (2012), The Handbook of Metabolomics,
+Springer
+Reference Books
+2. Sussulini A., [Ed] (2017), Metabolomics: From Fundamentals to Clinical Applications,
+Springer
+Online Course Material
+None
+Program Elective Set 3
+Biological Systems & Biosensors
+Title Experimental design for biologists Number BBN7XX0
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide an understanding of the philosophy of experimentation and the steps involved in
+experiment design and validation.
+Learning Outcomes
+The students are expected to have the ability to:
+2. Design experiments, validate and test models.
+Contents
+Philosophy of Experimentation:The Philosophy of Science Governs the Practice of Science,
+Defining Scientific Research, Why Do Science? What Is Science For? The Need for Inductive
+Reasoning, The First Step: Establishing Your Framework, A Short History of Philosophy Relevant
+to Scientific Method, the Problem of Induction, Examining the Hypothesis-Falsification
+Framework, Hypothesis as a Framework for Scientific Projects, Scientific Settings in Which a
+Hypothesis-Falsification Framework Is Not Feasible, The Question and the Model: Forming an
+Inductive Framework for Scientific Projects (9 Lectures)
+System Validation:The System, System Validation, Choice of a Model Organism or
+Technique:
+Validation Experiments, System Validation Requirements for Distinct Experimental
+Readouts,
+System Specificity: Specificity of Detection and Specificity of Perturbation, System
+Sensitivity:
+Minimizing Signal to Noise to Improve Sensitivity of Detection, System Stability,
+Determining
+Conditions to Measure Efficacy, System Validation: Determining Conditions to Measure
+Safety
+(9 Lectures)
+The ExperimentDefinition of the Experiment: The Framework for an Individual Experiment, The
+Negative Control: Distinct Types, The Requirement for the Positive Control, Method and
+Reagent Controls, Subject Controls, Assumption Controls, Experimentalist Controls:
+Establishing a Claim to an Objective Perspective, Biological Replicates, Technical Replicates,
+Experimental Repeats, Time Courses, and Dose Responses, Summary of Components of
+Individual Experiment (9 Lectures)
+The ModelBuilding: the Model: Representations of the Experimental Data, Data Filtration,
+Model induction: Asking Follow-Up Questions and Finishing the Project by Writing the
+Manuscript, A Short Synopsis. (5 Lectures)
+Designing the Experimental Project: A Biological Example (10 Lectures)
+Textbook
+1.Glass D.J., Experimental Design for Biologists, 2ndEdition, Novartis Institutes for
+Biomedical Research, Cambridge, Massachusetts
+2.Barker K., At the Bench: A Laboratory Navigator, Updated Edition, The Institute for
+Systems Biology, Seattle
+Reference Books
+1. Adams D. S., Lab Math: A Handbook of Measurements, Calculations, and Other Quantitative
+Skills for Use at the Bench, 2nd edition, The Tufts Center for Regenerative and
+Developmental Biology and Department of Biology, Tufts University
+Online Course Material
+1. Biology course, https://courses.ibiology.org/courses/course-v1:iBiology
+Title Disease, Processes, Diagnostics &
+Therapeutics
+Number BBL7XX0
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Introduction to fundamentals of immunology, clinical immunology, Diagnostics and
+therapeutics
+Learning Outcomes
+The students are expected to have the ability to:
+1. Ability to understand immunological processes and 51nalyse diagnostics
+Contents
+Immunology – Fundamental Concepts and Anatomy of Immune
+System:Components of innate and acquired immunity; Complement and
+Inflammatory responses; Organs and cells of the immune system- primary and
+secondary lymphoid organs; Lymphatic system; MHC, Immune Responses
+Generated by B and T Lymphocytes, Immunoglobulins-basic structure, classes and
+subclasses, antigenic determinants; Organization of immunoglobulin genes; VDJ
+Recombination, Principles of cell 51nalyse51ry; Immunological basis of self –non-
+self discrimination; Kinetics and memory; B and T cell maturation, activation and
+differentiation into Subsets, Antigen-Antibody Interactions, Precipitation,
+agglutination and complement mediated immune reactions; Advanced
+immunological techniques – RIA, ELISA, Western blotting, ELISPOT assay,
+immunofluorescence, flow cytometry; Biosensor assay (13Lectures)
+Clinical Immunology: Immunity to Infection : Bacteria, viral, fungal and parasitic
+infections (with examples from each group); Hypersensitivity – Type I-IV;
+Autoimmunity; Types of autoimmune diseases; Mechanism and role of CD4+ T
+cells; MHC and TCR in autoimmunity; Treatment of autoimmune diseases;
+Transplantation – Immunological basis of graft rejection; Clinical transplantation
+and immunosuppressive therapy Tumor immunology :Tumor antigens; Immune
+response to tumors and tumor evasion of the immune system, Cancer
+Immunotherapy, Immunodeficiency-Primary immunodeficiencies, Acquired or
+secondary immunodeficiencies, case studies (16 Lectures)
+Vaccines and Drug Therapy(13 Lectures) Active and passive immunization; Live,
+killed, attenuated, sub unit vaccines; Vaccine technology- Role and properties of
+adjuvants, recombinant DNA and protein based vaccines, plant-based vaccines,
+reverse vaccinology; Peptide vaccines, conjugate vaccines; Antibody genes and
+antibody engineering- chimeric and hybrid monoclonal antibodies; Catalytic
+antibodies and generation of immunoglobulin gene libraries (13 Lectures)
+Textbook
+1. Janeway,C (1996), Immunobiology, 4th EditionGarland Publishing
+Reference Books
+2. R,A, Goldsby., Thomas, J.K., and Barbara, A, Osborne. (2002), Kuby Immunology, 6th
+Edition Freeman
+Self-learning Material
+1. Manjunath R., Nandi D, Karande A, Essentials in Immunology, Indian Institute of Science
+Bangalore, http://nptel.ac.in/courses/104108055/, NPTEL Course Material.
+2. Kumar S, Cellular and Molecular Immunology, Indian Institute of Technology Guwahati,
+http://nptel.ac.in/courses/102103038/,NPTEL Course Material.
+Title Cardiovascular Physiology: Signals, systems and
+controls
+Number BBLXX0
+Department Bioscience and BioEngineering L-T-P [C] 1–0–0
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide an understanding of the hierarchical organization of Chemical and electrical signals
+and Control Mechanisms including Feed-back loops and switches for controlling Energy,
+Mechanics, Flow and Transport.
+2. Provide an understanding of the workings of the human body in context of engineering
+principles so as to develop an interdisciplinary outlook to biological as well as engineering
+problem-solving.
+Learning Outcomes
+The students are expected to have the ability to:
+1.Understand basic human physiology
+2.Analyze physiological systems from an engineering perspective
+3.Imagine engineering solutions that can solve biological problems OR can get inspired by
+biology to solve engineering problems.
+Contents
+CardiopulmonaryPhysiology (14lectures): Electricity in cardiac cells, Control of cardiac
+Automaticity, ECG, Cardiac and smooth muscle, Cardiovascular mechanics, and dynamics,
+Microcirculation control mechanisms, Cerebral and Pulmonary circulation: controls and
+switches, congestive heart failure, Shock, Breathing: forces, volume and flow, Resistance to
+Air flow, Alveolar gas exchange and transport, Acid-base balance, Neural control of
+Respiration.
+Textbook
+1. Joseph Feher., (2016), Quantitative Human Physiology, 2nd Edition, Academic Press
+2. E.N. Marieb (2006), Human Anatomy and Physiology, 6th Edition, Pearson Education
+Reference Books
+1. Boron W. F, Boulpaep E. L. Medical Physiology, 3rd Edition, Elsevier.
+Online Course Material
+1. Dennis Freeman, 6-021j Quantitative Physiology: Cells and Tissues, Fall 2004, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+2.Venegas, J, Mark, F. Quantitative Physiology: Organ Transport Systems, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+Title Human Physiology Laboratory Number BBXXX
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide an understanding of the hierarchical organization of Chemical and
+electrical signals and Control Mechanisms including Feed-back loops and
+switches for controlling Energy, Mechanics, Flow and Transport.
+2. Provide an understanding of the workings of the human body in context of
+engineering principles so as to develop an interdisciplinary outlook to biological
+as well as engineering problem-solving.
+Learning Outcomes
+The students are expected to have the ability to:
+1.Understand basic human physiology
+2.Analyze physiological systems from an engineering perspective
+3.Imagine engineering solutions that can solve biological problems OR can get
+inspired by biology to solve engineering problems.
+Contents
+Physiology of excitable Cells: Resting Membrane Potential, Modeling action
+potentials and 54nalyse54ry Conduction, Neuromuscular transmission,
+Introduction to Neurons in Action
+CardiopulmonaryPhysiology: bike ergometer with heart rate interface, peak flow
+meter and respiratory volumes, Muscle Function assessment
+(electromyography), health and fitness assessment using balance and mobility
+parameters.
+Stress and Exercise Physiology
+eye tracking, electro electroencephalography (EEG), verbal response (TA) and
+systematic observation using dedicated software (Morae) to measure cognitive load;
+use pupil dilation, galvanic skin response (GSR)
+Textbook
+1. Joseph Feher., (2016), Quantitative Human Physiology, 2nd Edition, Academic
+Press
+2. E.N. Marieb (2006), Human Anatomy and Physiology, 6th Edition, Pearson
+Education
+Reference Books
+1. Boron W. F, Boulpaep E. L. Medical Physiology, 3rd Edition, Elsevier.
+Online Course Material
+1. Moore JW, Stuart A.E, Neurons in Action 2: Tutorials and Simulations in
+NEURON, Yale J Biol Med. 2008 Mar; 81(1): 50–51.
+Title Cellular and Molecular Neuroscience Number BBXXX
+Department Bioscience and Bioengineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide introduction to the basic principles to understand how the brain works
+2. Provide an understanding of the structure and function of the Human brain in health and
+disease
+Learning Outcomes
+The students are expected to have the ability to:
+1. Integrate their understanding of structural and functional units of the human brain for
+design of health technologies
+Contents
+Introduction of Neuroscience [10 lectures]:Nervous systems, basic structure, development and
+complexity; senses and responses as essential components of life, Cellular units of the
+brain Neurons; types, structure and function, Glia, Maintenance of cellular homeostasis in
+the brain, the blood-brain barrier.
+Inter and Intracellular 56nalyse56ry[10 lectures]: Resting membrane potential, action
+potential and impulse propagation, importance of ion channels, microtubules organization,
+myelin sheath; secondary messengers, Neurotransmitters, classes, criteria for
+classification,the synapse, synaptic transmission, electrical and chemical synapses, synaptic
+integration of information, Neuromuscular junction, primary and secondary motor cortex,
+integration of sensory signals to motor actions, motor neuron diseases
+Sensory perception in health and disease [10 lectures]: sensory receptors; properties,
+sensitization and desensitization, sensory coding, Somatosensory System; organization,
+receptors (mechanoreceptors, proprioceptors, nociceptors, thermal receptors and Visceral
+sensations), Auditory sensory perception; structure of the internal ear, modulation of sound
+waves into nerve signal, integration within the auditory cortex, Visual pathways;
+organization, visual perception and processing, photoreceptors, processing and integration
+of visual information.
+Laboratory Experiments [12 laboratory sessions]
+Immunohistochemistry of the human brain, understanding distinct cellular populations and
+morphologies, Neuronal cell culture; neurons, microglia, astrocytes and endothelial cells,
+assessment of morphological changes with stress and disease, visualization of inter and
+intracellular cell 56nalyse56ry; cell migration, proliferation, secreted cytokines and
+chemokines.
+Textbook
+1. Kandel,E., (2012), Principles of Neural Science, 5th Edition, Elsevier
+2. Zigmond M (2012), Fundamental Neuroscience, 4th Edition Elsevier
+Reference Books
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+Title Sensory Neural Systems Number BBXXX
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide introduction to the basic principles to understand how the sensory neural
+pathways work
+2. Provide an understanding of the structure and function of the sensory neural
+pathways in health and disease
+Learning Outcomes
+The students are expected to have the ability to:
+1. Integrate their understanding of structural and functional units of the human brain for
+design of health technologies
+Contents
+BL6XX1 Synaptic communication: function and dysfunction [1-0-0] [14
+lectures]: sensory receptors; properties, sensitization and
+desensitization, sensory coding, Somatosensory System; organization,
+receptors (mechanoreceptors, proprioceptors, nociceptors, thermal receptors
+and Visceral sensations), Disorders of sensory perception. (1 fractal)
+BBL6XX2 Auditory perception: from cell to signal [1-0-0] [14lectures]: Auditory
+sensory perception; structure of the internal ear, modulation of sound waves
+into nerve signal, integration within the auditory cortex, (1fractal)
+BBL6XX1 Visual perception [1-0-0] [14lectures] Visual pathways; organization, visual
+perception and processing, photoreceptors, processing and integration of
+visual information. Disorders of visual perception (1fractal)
+Textbook
+1. Kandel,E., (2012), Principles of Neural Science, 5th Edition, Elsevier
+2. Zigmond M (2012), Fundamental Neuroscience, 4th Edition Elsevier
+Reference Boo
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+Title Human Physiology Laboratory Number BBXXX
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide an understanding of the hierarchical organization of Chemical and electrical
+signals and Control Mechanisms including Feed-back loops and switches for controlling
+Energy, Mechanics, Flow and Transport.
+2. Provide an understanding of the workings of the human body in context of engineering
+principles so as to develop an interdisciplinary outlook to biological as well as engineering
+problem-solving.
+Learning Outcomes
+The students are expected to have the ability to:
+1.Understand basic human physiology
+2.Analyze physiological systems from an engineering perspective
+3.Imagine engineering solutions that can solve biological problems OR can get inspired by
+biology to solve engineering problems.
+Contents
+Physiology of excitable Cells: Resting Membrane Potential, Modeling action potentials and
+60nalyse60ry Conduction, Neuromuscular transmission, Introduction to Neurons in Action
+CardiopulmonaryPhysiology: bike ergometer with heart rate interface, peak flow meter and
+respiratory volumes, Muscle Function assessment (electromyography), health and fitness
+assessment using balance and mobility parameters.
+Stress and Exercise Physiology
+eye tracking, electro electroencephalography (EEG), verbal response (TA) and systematic
+observation using dedicated software (Morae) to measure cognitive load; use pupil dilation,
+galvanic skin response (GSR)
+Textbook
+1. Joseph Feher., (2016), Quantitative Human Physiology, 2nd Edition, Academic Press
+2. E.N. Marieb (2006), Human Anatomy and Physiology, 6th Edition, Pearson Education
+Reference Books
+1. Boron W. F, Boulpaep E. L. Medical Physiology, 3rd Edition, Elsevier.
+Online Course Material
+1. Moore JW, Stuart A.E, Neurons in Action 2: Tutorials and Simulations in NEURON, Yale J
+Biol Med. 2008 Mar; 81(1): 50–51.
+Title Quantitative Physiology: systems and controls of Number BBXXX
+the human machine
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide an understanding of the hierarchical organization of Chemical and electrical signals
+and Control Mechanisms including Feed-back loops and switches for controlling Energy,
+Mechanics, Flow and Transport.
+2. Provide an understanding of the workings of the human body in context of engineering
+principles so as to develop an interdisciplinary outlook to biological as well as engineering
+problem-solving.
+Learning Outcomes
+The students are expected to have the ability to:
+1.Understand basic human physiology
+2.Analyze physiological systems from an engineering perspective
+3.Imagine engineering solutions that can solve biological problems OR can get inspired by
+biology to solve engineering problems.
+Contents
+Physical and Chemical Foundations of Physiology: Homeostasis, energy balance, feedback
+control systems, pressure driven flow, Electrical Force, Potential, Capacitance, and Current,
+Electrochemical Potential and Free Energy, Membrane transport across a biological
+membrane.
+Physiology of excitable Cells: The Origin of the Resting Membrane Potential, GHK equation,
+action potentials, Membrane excitability, Modeling action potentials, 61nalyse61ry
+Conduction, Skeletal Muscle Mechanics, Neuromuscular transmission, Excitation–
+Contraction Coupling Motor units, Size Principle, Concentric, Isometric, and Eccentric
+Contractions, Fatigue and Tetanus.
+CardiopulmonaryPhysiology: Electricity in cardiac cells, Control of cardiac Automaticity, ECG,
+Cardiac and smooth muscle, Cardiovascular mechanics, and dynamics, Microcirculation
+control mechanisms, Cerebral and Pulmonary circulation: controls and switches, congestive
+heart failure, Shock, Breathing: forces, volume and flow, Resistance to Air flow, Alveolar
+gas exchange and transport, Acid-base balance, Neural control of Respiration.
+Renal Physiology: Body fluid compartments and overview of renal function, Measurements of
+function and clearance, Glomerular filtration/Renal Hemodynamics, Tubular transport of
+electrolytes and water, Concentration and dilution of urine, Regulation of sodium balance,
+extracellular volume and Blood pressure, Renal mechanisms of hypertension.
+Textbook
+1. Joseph Feher., (2016), Quantitative Human Physiology, 2nd Edition, Academic Press
+2. E.N. Marieb (2006), Human Anatomy and Physiology, 6th Edition, Pearson Education
+Reference Books
+1. Boron W. F, Boulpaep E. L. Medical Physiology, 3rd Edition, Elsevier.
+Online Course Material
+1. Dennis Freeman, 6-021j Quantitative Physiology: Cells and Tissues, Fall 2004, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+2.Venegas, J, Mark, F. Quantitative Physiology: Organ Transport Systems, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+Title Immunodiagnostics and therapeutics Number
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for M.Tech. (MT) Program Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide an introduction to fundamentals techniques of clinical immunology and Immune
+based Diagnostics
+Learning Outcomes
+The students are expected to have the ability to:
+1. Immunology based diagnostics techniques for to create and 63nalyse diagnostics
+Contents
+Immunodiagnostics [14 lectures]: Selection of animals for immunological assays, Preparation
+of antigens, Immunization and methods of bleeding, Serum separation, Storage. Antibody
+titre by ELISA method. Double diffusion, Immuno-electrophoresis and Radial Immuno
+diffusion. Complement fixation test. Hybridoma technology and monoclonal antibody
+production. Lymphoproliferation by mitogen / antigen.
+Immunotherapeutics[14 lectures]: Active and passive immunization; Live, killed, attenuated,
+sub unit vaccines; Vaccine technology- Role and properties of adjuvants, recombinant DNA
+and protein based vaccines, plant-based vaccines, reverse vaccinology; Peptide vaccines,
+conjugate vaccines; Antibody genes and antibody engineering- chimeric and hybrid
+monoclonal antibodies; Catalytic antibodies and generation of immunoglobulin gene
+libraries
+Laboratory Experiments [12 experiments]:
+Immunoblotting for specific antigens, Dot blot assay, Blood smear identification of leucocytes
+by Giemsa stain. Quantification of Phagocytic activity, Separation of mononuclear cells by
+Ficoll-Hypaque. Immunohistochemistry (direct and indirect peroxidase assay), detection of
+Salmonella genus which causes enteric or Typhoid Fever by using qualitative slide agglutination
+test (Widal test), Detection of Treponemes responsible for veneral diseases such as syphilis
+(VDRL) test, IgG Purification technique (Protein A Based, Spin Column)
+Textbook
+1. R.A. Goldsby., Thomas,J.K., and Barbara,A, Osborne., Kuby Immunology, Freeman,2002,
+6th Edition
+2. Stanier, R. Y., General Microbiology, W.H. Freeman and Co., 2009.
+3. Pelczar, M.J., Chan, E. C. S., Krieg, N.R., Microbiology, Tata McGraw – Hill Education, 2001
+Reference Books
+1. Murphy, K., Travers, P., Walport, M., & Janeway, C. (2012). Janeway’s Immunobiology. New
+York: Garland Science.
+3. Madigan, M.T., Martinko, J.M., Brock, Biology of Microorganisms, Prentice-Hall, Inc., 2006,
+11th Edition.
+Online Course Material
+1 NPTEL Video Lectures on Essentials in Immunology by Prof. R. Manjunath, Prof. Dipankar
+Nandi , Prof. Anjali Karande, Indian Institute of Science Bangalore
+(http://nptel.ac.in/courses/104108055/)
+2. NPTEL Video Lectures on Cellular and Molecular Immunology by Prof. Sachin Kumar, Indian
+Institute of Technology Guwahati (http://nptel.ac.in/courses/102103038/)
+Title Sensory Neural Systems Number BBL7XX
+0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide introduction to the basic principles to understand how the sensory neural pathways
+work
+2. Provide an understanding of the structure and function of the sensory neural pathways in
+health and disease
+Learning Outcomes
+The students are expected to have the ability to:
+1. Integrate their understanding of structural and functional units of the human brain for
+design of health technologies
+Contents
+BBL7XX1 Synaptic communication: function and dysfunction [1-0-0] [14 lectures]: sensory
+receptors; properties, sensitization and desensitization, sensory coding, Somatosensory
+System; organization, receptors (mechanoreceptors, proprioceptors, nociceptors, thermal
+receptors and Visceral sensations), Disorders of sensory perception. (1 fractal)
+BBL7XX2 Auditory perception: from cell to signal [1-0-0] [14lectures]: Auditory sensory
+perception; structure of the internal ear, modulation of sound waves into nerve signal,
+integration within the auditory cortex, (1fractal)
+BBL7XX1 Visual perception [1-0-0] [14lectures] Visual pathways; organization, visual
+perception and processing, photoreceptors, processing and integration of visual
+information. Disorders of visual perception (1fractal)
+Textbook
+1. Kandel,E., (2012), Principles of Neural Science, 5th Edition, Elsevier
+2. Zigmond M (2012), Fundamental Neuroscience, 4th Edition Elsevier
+Reference Books
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+Title Synaptic communication: function and
+dysfunction
+Number BBL6XX3
+Department Bioscience and Bioengineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide introduction to the basic principles to understand how synaptic communication
+works
+2. Provide an understanding of Synaptic function in health and disease
+Learning Outcomes
+The students are expected to have the ability to:
+1. Integrate their understanding of structural and functional units of the human brain for
+design of health technologies
+Contents
+Synpatic structure: function and dysfunction (1 fractal) Resting membrane potential, action
+potential and impulse propagation, importance of ion channels, secondary messengers,
+Neurotransmitters, classes, criteria for classification,the synapse, synaptic transmission,
+electrical and chemical synapses, synaptic integration of information, Neuromuscular
+junction, primary and secondary motor cortex, integration of sensory signals to motor
+actions, motor neuron diseases [14lectures].
+Textbook
+1. Kandel,E., (2012), Principles of Neural Science, 5th Edition, Elsevier
+2. Zigmond M (2012), Fundamental Neuroscience, 4th Edition Elsevier
+Reference Books
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+Title Cell and Molecular Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [D] 3–0–0 [3]
+Offered for M.Tech. 1st Year Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. offer both basic as well as advanced knowledge of cell biology and molecular biology,
+mechanisms and progress fundamental conceptual base for scientific research understanding
+Learning Outcomes
+The students will have an ability to
+1. Fundamental comprehensive knowledge of cellular and molecular biology mechanisms and their
+regulation to understand advances and implications in health associated biotechnology
+Contents
+Introduction to Cell and Molecular Biology: Structure and functions of cell-organelles; Cell
+membrane physiochemical properties; Molecular Organization, biogenesis and functions of cell
+membrane; Eukaryotic chromosomes (Lectures-10)
+Cell Reproduction: Introduction to cell division; Biological principles of Mitosis and Meiosis;
+Difference and comparison of cell division among prokaryotic and eukaryotic organisms;
+Cytokines; Regulation of cell division; Cancer and cell cycle deregulation (Lectures-12)
+Cell Death and Diseases: Apoptosis: Phases and significance, Morphological and Biochemical
+changes associated With apoptotic cells, Apoptotic Pathways and regulators; Molecular
+genetics and diseases associated with cell death (Lectures-10)
+Mechanisms of Molecular Biology: Prokaryotic & Eukaryotic Transcription; Transcription unit;
+Transcript processing; Processing of RNA Eukaryotic transcription; RNA polymerase; Eukaryotic
+promoters and enhancers (Lectures-10)
+Textbook
+1. Bruce Alberts, (2014), Molecular Biology of the cell, 6th Edition, Garland Science
+2. Lodish., and W.H Freeman, (2016), Molecular Cell Biology, 8th Edition, Macmillan learning
+3. Gerald Karp and Nancy L Pruitt, (2016), Cell and Molecular Biology, John 8th Edition Wiley and
+Sons
+Self-Learning Material
+1. D. Karunagaran, Molecular Cell Biology, Department of Biotechnology Indian Institute of
+Technology Madras, https://nptel.ac.in/syllabus/102106025/
+Preparatory Course Material
+1. NPTEL Lectures: on Molecular Cell Biology, Indian Institute of Technology Madras,
+http://nptel.ac.in/syllabus/102106025/
+Title Immunodiagnostics and therapeutics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for M.Tech. (MT) Program Type Elective
+Objectives
+The Instructor will:
+1. Provide an introduction to fundamentals techniques of clinical immunology and Immune
+based Diagnostics
+Learning Outcomes
+The students are expected to have the ability to:
+1. Immunology based diagnostics techniques for to create and 68nalyse diagnostics
+Contents
+Immunodiagnostics [14 lectures]: Selection of animals for immunological assays,
+Preparation of antigens, Immunization and methods of bleeding, Serum separation,
+Storage. Antibody titre by ELISA method. Double diffusion, Immuno-electrophoresis
+and Radial Immuno diffusion. Complement fixation test. Hybridoma technology and
+monoclonal antibody production. Lymphoproliferation by mitogen / antigen.
+Immunotherapeutics[14 lectures]: Active and passive immunization; Live, killed,
+attenuated, sub unit vaccines; Vaccine technology- Role and properties of adjuvants,
+recombinant DNA and protein based vaccines, plant-based vaccines, reverse
+vaccinology; Peptide vaccines, conjugate vaccines; Antibody genes and antibody
+engineering- chimeric and hybrid monoclonal antibodies; Catalytic antibodies and
+generation of immunoglobulin gene libraries
+Laboratory Experiments [12 experiments]:
+Immunoblotting for specific antigens, Dot blot assay, Blood smear identification of leucocytes
+by Giemsa stain. Quantification of Phagocytic activity, Separation of mononuclear cells by
+Ficoll-Hypaque. Immunohistochemistry (direct and indirect peroxidase assay), detection of
+Salmonella genus which causes enteric or Typhoid Fever by using qualitative slide
+agglutination test (Widal test), Detection of Treponemes responsible for veneral diseases such
+as syphilis (VDRL) test, IgG Purification technique (Protein A Based, Spin Column)
+Textbook
+1. R.A. Goldsby., Thomas,J.K., and Barbara,A, Osborne., Kuby Immunology,
+Freeman,2002, 6th Edition
+2. Stanier, R. Y., General Microbiology, W.H. Freeman and Co., 2009.
+3. Pelczar, M.J., Chan, E. C. S., Krieg, N.R., Microbiology, Tata McGraw – Hill Education,
+2001
+Reference Books
+1. Murphy, K., Travers, P., Walport, M., & Janeway, C. (2012). Janeway’s Immunobiology.
+New York: Garland Science.
+2. Madigan, M.T., Martinko, J.M., Brock, Biology of Microorganisms, Prentice-Hall, Inc.,
+2006, 11th Edition.
+Online Course Material
+1. NPTEL Video Lectures on Essentials in Immunology by Prof. R. Manjunath, Prof.
+Dipankar Nandi , Prof. Anjali Karande, Indian Institute of Science Bangalore
+(http://nptel.ac.in/courses/104108055/)
+2. NPTEL Video Lectures on Cellular and Molecular Immunology by Prof. Sachin Kumar,
+Indian Institute of Technology Guwahati (http://nptel.ac.in/courses/102103038/)
+Title Synaptic communication: function
+and dysfunction
+Number BBL6XX3
+Department Bioscience and Bioengineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide introduction to the basic principles to understand how synaptic communication
+works
+2. Provide an understanding of Synaptic function in health and disease
+Learning Outcomes
+The students are expected to have the ability to:
+1. Integrate their understanding of structural and functional units of the human brain for design
+of health technologies
+Contents
+Synpatic structure: function and dysfunction (1 fractal) Resting membrane potential,
+action potential and impulse propagation, importance of ion channels, secondary
+messengers, Neurotransmitters, classes, criteria for classification, the synapse, synaptic
+transmission, electrical and chemical synapses, synaptic integration of information,
+Neuromuscular junction, primary and secondary motor cortex, integration of sensory
+signals to motor actions, motor neuron diseases [14lectures].
+Textbook
+1. Kandel,E., (2012), Principles of Neural Science, 5th Edition, Elsevier
+2. Zigmond M (2012), Fundamental Neuroscience, 4th Edition Elsevier
+Reference Books
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License:
+Creative Commons BY-NC-SA
+Title Microbes as sensors Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 1-0-0 [1]
+Offered for Type Compulsory
+Prerequisite
+Objectives
+1. The instructor will discuss the methods by which living microbes can be used as
+sensors.
+Learning Outcomes
+1. Students will have an ability to design live microbial based biosensors for
+sensing specific pollutants, marker for environment and/or health monitoring
+Contents
+Introduction: Advantages of using microbes as sensors, physical and chemical
+methods of microbial, immobilization. (4 lectures)
+Electrochemical microbial biosensor: Amperometric, potentiometric and
+conductimetric (5 lectures)
+Optical biosensors; bioluminescence, fluorescence, and calorimetric based sensors
+(2 lectures).
+Metabolism based: Microbial sensors based on analysis of oxygen reduction rate or
+carbon di oxide production rate. (3 lectures)
+Textbook
+No textbook. The research papers will serve as the reading material and reference
+material
+Reference Books
+1. Brock, et al., (2012), Biology of Microorganisms, 13th edition Ben,jamin
+Cummings, Boston, MA.
+Online course material
+None
+Title Measurements in Remote Healthcare Number CSL7XX0
+Department Computer Science & Enginering L-T-P [C] 1-0-0 [1]
+Offered for Type Elective
+Prerequisite
+Objectives
+The instructor will:
+1. Discuss techniques to design the sensor-based system for remote healthcare
+2. Provide mechanisms to design and develop mobile platforms for healthcare sensors
+& data
+Learning Outcomes
+The students will have an ability to:
+1. design end-to-end wireless sensors based system in remote areas
+2. critically identify and use the tools for sensor placement, and data processing
+Contents
+Contents
+Sensor, Networks & Data for Healthcare: Overview of wireless sensor networks,
+Network characteristics, Network Design and Challenges, Wireless Sensor Network
+Protocol Stack, Sensor Data aggregation techniques, Sensor Data storage, Data
+Management and Processing; Time Synchronisation in WSN: Need and Techniques;
+Sensor Node localisation: Need and Techniques; Security and Privacy - Authentication
+and Cryptography; Wireless Sensor and Actuator Networks - Bidirectional Network
+design (10 lectures)
+Healthcare on Mobile Platforms: Need for mobile platforms for healthcare applications,
+Mobile application development for Healthcare: Wireless Sensor Data collection
+(Bluetooth, WiFi, 3G, 4G), Data Processing and Alert generation; (4 lectures)
+Textbook
+1. Jun Zheng, Abbas Jamalipour, (2009), Wireless Sensor Networks: A Networking
+Perspective, A John Wiley & Sons, IEEE Publication
+2. Nawaz Mohamudally, (2017), Smartphones from an Applied Research Perspective,
+InTech
+Reference Books
+1. Koushik Maharatna, Silvio Bonfiglio, (2014), Systems Design for Remote Healthcare,
+Springer
+Online course material
+Course Title Analog and Interfacing
+Circuits
+Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital and Analog Electronics
+Objectives
+The Instructor will:
+1. Familiarize students with the concepts of Analog IC Design and give them a
+comprehensive overview of various amplifiers.
+2. Familiarize the students with different building blocks of a mixed signal interface circuit
+design essential for sensors and IoT.
+Learning Outcomes
+Students are expected to have the ability to:
+1. Understand fundamental principles of CMOS Analog IC Design and interfacing of analog
+signals with the digital signal processing circuits.
+2. Apply the circuit design fundamentals for IoT applications.
+3. Work on design tools like Cadence/Mentor Graphics
+Contents
+EEL7XX1: Fundamentals of Analog Circuits and Design [1-0-0]
+(Fractal 1)Introduction toAnalog VLSI and design issues in CMOS technologies, MOS models,
+SPICE Models, Single stage amplifiers, Biasing circuits, Voltage and Current reference
+circuits, Feedback analysis, Multistage amplifiers, Mismatch and noise analysis, Differential
+amplifiers, Oscillators (14 Lectures)
+EEL7XX2: Readout Electronics [1-0-0]
+(Fractal 2)Switch capacitor circuits: Principles and applications in filter design; switches and
+related design issues, variable gain amplifier, low noise and high speed amplifier topologies.
+Analog to digital converters:Types of ADCs, static and dynamic characteristics; track and
+hold, and sample and hold circuits; comparators; detail design analysis for successive
+approximation register (SAR) ADCs, discrete-time and continuous time sigma-delta ADCs(14
+Lectures)
+EEL7XX3: Digital to Analog Converters Design [1-0-0]
+(Fractal 3)Digital to Analog Converters:Voltage-based DACs; charge-based DACs; current-
+based DACs – binary and thermometer currents. Phase-locked loop: Basics; PLL dynamics;
+voltage controlled oscillator, frequency synthesis. Applications: Wearable Biomedical IoT
+nodes (14 Lectures)
+Text Books
+1. Razavi, B., (2016), Design of Analog CMOS Integrated Circuits, 2nd Edition, McGraw-Hill
+Education.
+2. R. Jacob Baker, H.W.Li, and D.E. Boyce, (2009), – CMOS Circuit Design ,Layout and
+Simulation, 2nd Edition, Prentice-Hall of India
+3. David A. Johns, Ken Martin, (2013), “Analog Integrated Circuit Design”, 2nd Edition, John
+Wiley and Sons.
+Self Learning material
+1. Shanthi Pavan, VLSI Data Conversion Circuits, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/117106034/
+2. Nagendra Krishnapura, Analog Integrated Circuit Design, Department of Electrical
+Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/117106030/
+Preparatory Course Material
+1. P. E. Allen, D. R. Holberg (2013), CMOS Analog Circuit Design, 3rd Edition, Oxford
+University Press.
+2. R. Gregorian, G. C. Temes, (2008), “Analog MOS Integrated Circuits for Signal
+Processing”, John Wiley and Sons.
+Program Elective Set 4
+Systems Biology
+Title Immunotechnology Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:Introduction to fundamentals of immunology, clinical immunology,
+Diagnostics and therapeutics
+Learning Outcomes
+The students are expected to have the ability to: understand immunological processes and
+analyze diagnostics
+Contents
+BBL7XX1: Fundamental Concepts: Antigen-Antibody Interactions [1-0-0]
+(Fractal 1)Precipitation, agglutination and complement mediated immune reactions;
+Advanced immunological techniques - RIA, ELISA, Western blotting, ELISPOT assay,
+immunofluorescence, flow cytometry; Biosensor assay (14 Lectures)
+BBL7XX2: Clinical Immunology [1-0-0]
+(Fractal 1) Clinical transplantation and immunosuppressive therapy; Tumor antigens;
+Immune response to tumors and tumor evasion of the immune system, Cancer
+Immunotherapy, Immunodeficiency-Primary immunodeficiencies, Acquired or secondary
+immunodeficiencies, case studies (14 Lectures)
+BBL7XX3: Vaccines and Drug Therapy [1-0-0]
+(Fractal 3) Active and passive immunization; Live, killed, attenuated, sub unit vaccines;
+Vaccine technology- Role and properties of adjuvants, recombinant DNA and protein
+based vaccines, plant-based vaccines, reverse vaccinology; Peptide vaccines, conjugate
+vaccines; Antibody genes and antibody engineering- chimeric and hybrid monoclonal
+antibodies; Catalytic antibodies and generation of immunoglobulin gene libraries (14
+Lectures)
+Textbook
+1. Janeway,C (1996), Immunobiology, 4th EditionGarland Publishing
+Reference Books
+1. R,A, Goldsby., Thomas,J.K., and Barbara,A, Osborne. (2002), Kuby Immunology, 6th
+Edition Freeman
+Online Course Material
+1. Manjunath R., Nandi D, Karande A, Essentials in Immunology, Indian Institute of Science
+Bangalore, http://nptel.ac.in/courses/104108055/, NPTEL Course Material.
+2. Kumar S, Cellular and Molecular Immunology, Indian Institute of Technology Guwahati,
+http://nptel.ac.in/courses/102103038/, NPTEL Course Material.
+Title Thermodynamics and Chemical Kinetics Number CYL6XX1
+CYL6XX3
+Department Chemistry L-T-P [C] 2–0–0 [2]
+Offered for Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide the connection between microscopic theory and thermodynamics.
+2. Describe how complex phenomena can be transferred into simple models.
+Learning Outcomes
+The students will have an ability to:
+1. Predict properties of many-body systems starting from its microscopic
+constituents and their interactions
+2. Connect microscopic theory to chemical reaction
+Contents
+CYL6XX1: Thermodynamics [1-0-0]
+thermodynamics laws, state and path functions and their applications; thermodynamic
+description of various types of processes; Maxwell’s relations; spontaneity and equilibria
+Temperature and pressure dependence of thermodynamic quantities; Le Chatelier’s principle
+(14 lectures)
+CYL6XX3: Chemical Kinetics [1-0-0]
+Empirical rate laws and temperature dependence; complex reactions; steady state
+approximation, determination of reaction mechanisms
+Mechanism: Theory of reaction rates, activation energy, transition state theory, potential
+energy surface, uni-molecular reaction rate, enzyme kinetics, salt effects (14 lectures).
+Text Books
+1. D. McQuarrie and J. D. Simon, (2014) Molecular Thermodynamics, Viva Books.
+2. D. McQuarrie, (2011) Physical Chemistry, A Molecular Approach, Viva Books.
+Self Learning Material
+K. J. Laidler, (2013) Chemical Kinetics, Pearson.
+Self Learning Material
+1. V.Balakrishnan, Department of Physics, IIT Madras. http://nptel.iitm.ac.in
+2. De, A. K. Advanced Chemical Thermodynamics and Kinetics, NPTEL Course Material,
+Chemical Sciences, IISER Mohali, https://onlinecourses.nptel.ac.in/noc18_cy20/
+Title Synthetic Biology Number BB7XX0
+Department Bioscience and Bioengineering L-T-P
+[C]
+3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Teach the workings of DNA, RNA and proteins at their level of structure, regulatory
+elements and networks as building blocks or “biobricks” that can then be assembled into novel
+“devices” and “systems”.
+2. enable students to create simple circuits from biological components.
+3. Enable hands-on design and understanding of modularity and construction via Laboratory
+exercises using computer software enabling coding DNA sequences and simulating genetic
+engineering experiments
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyze biological systems from an engineering perspective
+2.Imagine engineering solutions that can solve biological problems OR get inspired by biology
+to solve engineering problems.
+Contents
+Introduction to Synthetic Biology: Introduction to DNA, RNA, proteins and standard functional
+components of a cell, Basics of coding with DNA: Registry of standard biological parts, Analytical
+Tools: Genomics, Proteomics, Metabolomics (7 lectures)
+Simulation Tools:Gene designer, Serial Cloner, Vector NTI, Lab sessions in computer center (7
+lectures)
+Experimental Tools: PCR: Basics of PCR, Primer design, Error detection and correction. Gel
+electrophoresis: gel extraction ligation and transformation, Biobrick discovery and creation
+technique: mining nature for parts, Creating new parts with PCR, Cloning: basics, Cloning a
+new part into a “BioBrick” vector, Sequencing. (14 lectures)
+Quality control: Quality control Screens, Standardized Measurements for BioBricks, Assembly
+and measurement of a BioBrick system (7 lectures)
+Designing with Synthetic Biology: iGEM questions: What do you want Biology to do for you?
+Student presentations (7 lectures)
+Textbook
+1.Freemont, S. P , Kitney, R.I, Synthetic Biology-a primer, 1st Edition
+Reference Books
+1. Church GM, Regis E, Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves.
+Self-learning Material
+http://synbio.mit.edu/education.html
+http://www.synberc.org/content/articles/what-synthetic-biology
+Title Ordinary Differential Equations Number MAL6XX0
+Department Mathematics L-T-P
+[C]
+3–0–0-1[4]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+1. Introduce the concepts of existence and uniqueness of solution of ordinary differential
+equations
+2. Develop analytical techniques to solve ordinary differential equations
+3. Understand the properties of solution of ordinary differential equations
+Learning Outcomes
+1. Understanding existence, uniqueness, and other properties of a solution of ordinary differential
+equations
+2. Solving ordinary differential equations with series method, Green's function method
+3. Solving systems of ODEs, and characterization of their solutions
+Contents
+Motivations and origins, Existence-Uniqueness [7 Lectures]: Existence of solutions by Picard’s
+method, uniqueness and continuous dependence w.r.t. initial conditions and parameters,
+continuation of solutions, existence and uniqueness of solutions to system of differential
+equations.
+Second Order Linear Equations [23 Lectures]: General solution of differential equations using
+method of undetermined coefficients, method of variation of parameters, variable coefficients
+equations, Power series solution method, Legendre’s equation, Frobenius method, Bessel’s
+equation, Green's function method, Sturm-Liouville problems, orthogonal eigen-function
+expansions, Sturm comparison theorem, Sturm separation theorem,
+Systems of Differential Equations [10 Lectures]: Phase plane method, critical points of the system
+and their stability analysis, algebraic properties of solutions, the eigenvalue-eigenvector method
+of finding solutions, fundamental matrix solutions, matrix exponential, nonhomogeneous
+equations.
+Text Books
+1. Ross, S. L., Introduction to ordinary differential equations, 4th Ed., John Wiley Publications,
+1989
+2. Braun. M., Differential Equations and Their Applications, 3rd Ed., Springer-Verlag, 1983
+3. Chicone, C., Ordinary Differential Equations with Applications, 2nd Ed., Springer, 2006
+Reference Books
+1. Coddington, E. A., An Introduction to Ordinary Differential Equations, PHI Learning 1999
+2. Birkhoff, G. and Rota G., Ordinary Differential Equations, 4th Ed., Wiley Publications, 1989
+3. Simmons, G., Differential Equations with Applications and Historical Notes, 2nd Ed., McGraw
+Hill Education, 2017
+Online Course Material
+1. Agrawal, P. N. and Pandey, D. N. (IIT Roorkee), Ordinary and partial differential equations and
+applications, https://nptel.ac.in/courses/111107111/
+2. Raghavendra V. (IIT Kanpur), Ordinary differential equations ,
+https://nptel.ac.in/courses/111104031/
+Title Numerical Methods for PDE Number MAL7XX0
+Department Mathematics L-T-P
+[C]
+1–0–0-0 [1]
+Offered for Type Elective
+Prerequisite
+Objectives
+The Instructor will
+1. Introduce finite difference schemes for numerical solutions of partial differential equations.
+2. Carry out numerical analysis of various finite difference schemes.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply finite difference schemes for numerical solution of partial differential equations.
+2. Undertake out error analysis and stability analysis of finite difference schemes
+Contents
+[8 Lectures] Characterization of PDEs, Finite difference methods for elliptic, parabolic and
+hyperbolic problems.
+[6 Lectures] Stability, consistency and convergence theory, dissipation and dispersion, error
+estimates.
+Text books
+1. Quarteroni, A. and Valli, A. , Numerical Approximation of Partial Differential Equations,
+Springer, 1997
+2. Morton, K. W. and Mayers, D. F. , Numerical solution of partial differential equations, CUP,
+2005
+Reference Books
+1. Thomas, J. W. , Numerical partial differential equations: Finite difference methods, Springer,
+1995
+2. Trefethen, L. N. and David Bau III, Numerical Linear Algebra, SIAM, 1997
+Online Course Material
+1. Nayak, A. K. , Numerical methods: Finite Difference Approach, NPTEL Course Material,
+Department of Mathematics, Indian Institute of Technology Roorkee,
+https://nptel.ac.in/courses/111107107/
+Title Flux Balance Analysis Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P
+[C]
+3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide an introduction to flux balance analysis (FBA), reactions, metabolites, & pathways,
+mass balanced linear equations, biomass reaction, how to create a stoichiometric matrix from
+reactions and metabolites, gene-protein-reaction associations, constraint-based modeling.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Implement knowledge of important concepts related to the FBA
+2. To apply them to model the behavior of biological systems as well as develop strategies for
+manipulating them.
+Contents
+Flux Balance Analysis Overview: Overview, Formulation of Flux Balance Analysis [1 Lecture]
+Reactions, Metabolites, & Pathways: Identifying Metabolic Reactions and Metabolites (Gene-
+Protein-Reactions), Desired Reaction Information, Genome-scale Reconstruction Reactions,
+Desired Metabolite Information, Genome-scale Reconstruction Metabolites, Metabolic Pathway,
+System Boundaries:Exchange & Transport Reactions, Genome-scale Metabolic Reconstructions,
+Reconstruction Process: 96 Step Protocol, E.coli Core Model [14 Lectures]
+Mathematical Representation of Reactions & Constraints: Creating A Stoichiometric Matrix,
+Genome-scale Metabolic Reconstruction [2 Lectures]
+Mass Balanced Linear Equations: How can we use the Stoichiometric Matrix?, Dynamic Mass
+Balance, The Conceptual Basis of Constraint-based Modeling, Role of Constraints, Flux
+Optimization [6 Lectures]
+Biomass Reaction: Biomass Precursors, E.coli Precursor Metabolites, Maintenance Energy
+Requirements, Biomass Reaction For E.coli Core Model, Biomass Objective Function, Formulation
+of Flux Balance Analysis, E.coli Core Model [8 Lectures]
+Calculating Fluxes: Cobra Toolbox, Matlab, Drawing Flux Values on a Map, Print Flux Values,
+Examples [8 Lectures]
+Flux Balance Analysis Toolbox: Methods in Constraint-based Reconstruction and Analysis [3
+Lectures]
+Textbook
+1.Palsson B. O., (2006), Systems Biology: Properties of Reconstructed Networks, cambridge
+Press.
+Self Learning Material
+1. Utah State University, https://systemsbiology.usu.edu/syllabus.php
+Preparatory Course Material
+1. Department of Biotechnology, Indian Institute of Technology Madras,
+https://nptel.ac.in/noc/individual_course.php?id=noc18-bt22
+Title Systems Biology in Personalized Genomics Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P
+[C]
+3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Illustrate “big-data” problems in personalized genomics by discussing recent publications
+2. Provide training in high dimensional biological data analysis
+3. Familiarize the participants with the use of statistical tools and principles for analyzing
+genomic/epigenomic data
+Learning Outcomes
+It will enable participants to utilize the methods presented in this course for analyzing biological
+data. The course introduces the current research challenges faced in the field of computational
+systems biology.
+Contents
+Course Overview and Introduction: Design Principles of Complex Systems, Introduction to
+Genomics and Systems Biology [2 lectures]
+Topological and Network Evolution Models: Small-World and Scale-Free Networks, Duplication-
+Divergence, Complex Models of Network Evolution, Network Properties of Biological Networks [6
+lectures]
+Types of Biological Networks: Types of Biological Networks, Genes2Networks and Network
+Visualization, Sets2Networks - Creating Functional Association Networks, Genes2FANs - Analyzing
+Gene Lists with Functional Association Networks [4 lectures]
+Data Processing and Identifying Differentially Expressed Genes: Data Normalization, Univariate
+and multivariate methods for identifying differentially expressed gene sets - Part 1, Univariate
+methods (SAM, Welch’s t-test, LIMMA,) - Part 2, Multivariate method (Principal Component
+Analysis; Gene Set Enrichment Analysis; Supervised and unsupervised machine learning for data
+classification, including Clustering, SVM and KNN) [15 lectures]
+Analytical Tools for Genomics: Enrichment Analysis and Enrichr, GEO2Enrichr: A Google Chrome
+Extension for Gene Set Extraction and Enrichment, Gene Set Enrichment Analysis (GSEA) -
+Preliminaries, Gene Set Enrichment Analysis (GSEA), Principal Angle Enrichment Analysis (PAEA),
+Network2Canvas (N2C) and Enrichment Analysis with N2C, Expression2Kinases: Inferring
+Pathways from Differentially Expressed Genes, DrugPairSeeker and the New CMAP, Classifying
+Patients/Tumors from TCGA [15lectures]
+Textbook
+1. Ma'ayan A. and MacArthur B. D. (eds.) (2012), New Frontiers of Network Analysis in Systems
+Biology, Springer.
+Reference Books
+Research literature
+Self learning materials
+1. Mount Sinai Center for Bioinformatics, https://www.coursera.org/learn/network-biology
+Title Artificial Intelligence in Bioengineering
+Lab
+Number BBP7XX0
+Department Bioscience & Bioengineering L-T-P [C] 0-0-2 [1]
+Offered for Type Open
+Elective
+Prerequisite Machine Learning-1
+Objective:
+The instructor will:
+1. prepare industry relevant advanced cross-disciplinary skills in machine learning
+applications in bioengineering.
+Learning Outcome
+The students will have an ability to:
+1. comprehend fundamental concepts and hands-on techniques of the state-of-the-
+art data science and deep learning methodologies
+2. apply popular unsupervised learning methods, including clustering methodologies
+and supervised methods such as deep neural networks
+3. master techniques in modern data analysis to leverage big datasets from omics,
+image and sensors; use pyspark skillfully to analyze big data
+Laboratory Experiments
+Introduction: data types, big data processing using pyspark (3 labs)
+Machine learning applications: supervised and unsupervised techniques for omics
+data integration and analysis (4 labs)
+Deep learning: applications in omics, image and sensor data (7 labs)
+Textbook
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From
+Theory to Algorithms, Cambridge University Press
+2. Tseng,G., Ghosh,D., Zhou X.J., (2015), Integrating Omics Data, Cambridge
+University Press
+Self-Learning Material
+1. Department of Computer Science, Stanford University
+https://see.stanford.edu/Course/CS229
+Preparatory Course Material
+1. https://www.tutorialspoint.com/pyspark/
+Program Elective Set 5
+Biomaterials Engineering
+Title Biophysics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [D] 2-0-0 [2]
+Offered for M.Tech Students Type Elective
+Prerequisite Nil
+Objectives:
+1. To learn the fundamentals of biological problems tackled by biophysicists ranging from
+the structure of small molecules to organs or physiological functions.
+Learning Outcome:
+The students will have an ability to
+1. Understand selected biological phenomena using physical principles.
+2. Utilize physical methods in the study of biological systems.
+Content:
+Introduction: Forces in living system, Thermodynamics of living systems; Conservation of
+energy in living systems, Entropy and Life, Gibbs and Standard free energy, Equilibrium
+constant, Coupled reactions.(7 lectures)
+Conformational stability of biomolecules: Forces for protein stability, Protein denaturation
+and renaturation, Protein folding pathways, Levinthal’s paradox, Molten globule, Folding
+accessory proteins, structural stability of DNA and RNA, biophysics of chromatin packing (7
+lectures)
+Molecular self-assembly: Organization of lipids in aqueous environment, Formation of
+vesicles, Transport of biomolecules: Diffusion, Osmosis, Facilitated diffusion, Active
+transport, function of ion channels Biophysical properties of cell membrane: Membrane
+potential, Action potential and resting phase. (7 lectures)
+Bioimpedance and biopotentials Cell motility: mechanism of pseudopodia formation and
+ciliary movement, muscle contraction Cellular mechanotransduction, tensigrity model for
+bone remodeling, flow induced shear stress Molecular Techniques used in biophysics: Atomic
+force microscopy, optical tweezers, patch clamp, FRET, confocal microscopy, super
+resolution microscopy, XRD and NMR. (7 lectures)
+Textbook:
+Cotterill Rodney M.J., (2014) Biophysics:introduction, John Wiley ISBN-13: 978-8126551606
+Reference book:
+Leake, M.C., (2017) Biophysics: Tools and Techniques 1st edition CRC Press ISBN-13: 978-
+1138407374
+Self-learning Material:
+https://www.biophysics.org/education-careers/education-resources/additional-education-
+resource
+Title Materials characterization Number MTL6XX0
+Department Material Science & Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1.Provide introduction to surface chemistry and physics of selected metals, polymers,
+and ceramics; surface characterization methodology; modification of biomaterials
+surfaces; quantitative assays
+Learning Outcomes
+The students are expected to have the ability to:
+1. understand areas of application based on bulk properties of implants; and acute and
+chronic response to implanted biomaterials. General topics include biosensors, drug
+delivery, and tissue engineering.
+Contents
+Introduction to the interactions between cells and the surfaces of biomaterialsSurface
+chemistry and physics of selected metals, polymers, and ceramics; surface
+characterization methodology; modification of biomaterials surfaces; quantitative assays
+of cell behavior in culture; biosensors and microarrays; bulk properties of implants; and
+acute and chronic response to implanted biomaterials. General topics include biosensors,
+drug delivery, and tissue engineering. Experiments illustrating the principles of quantum
+mechanics, thermodynamics and structure with intensive oral and written technical
+communication practice. Specific topics include: experimental exploration of the
+connections between energetics, bonding and structure of materials, and application of
+these principles in instruments for materials characterization; demonstration of the
+wave-like nature of electrons; hands-on experience with techniques to quantify energy
+(DSC), bonding (XPS, AES, FTIR, UV/Vis and force spectroscopy), and degree of order
+(x-ray scattering) in condensed matter; and investigation of structural transitions and
+structure-property relationships through practical materials examples. (14lectures)
+Textbook
+1.Ikada, Y., and H. Tsuji(2000), Biodegradable Polyesters for Medical and Ecological
+Applications. Macromolecular Rapid Communications 21: 117-132
+2. Marazuela, M. D., and M. C. Moreno-Bondi (2002). Fiber-optic Biosensors - An
+Overview. Analytical and Bioanalytical Chemistry 372: 664-682.
+Self Learning Material
+1. Mayes, A. Materials for Biomedical Applications MIT OpenCourseWare Massachusetts
+Institute of Technology, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Title Tissue Engineering & Medical Device Implants Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Students Type Elective
+Objective:
+1. The major objective of the course would be to give a brief introduction of Tissue
+Engineering, Medical Device & Implants and insights onto their use for generation of
+Medical Devices. Highlight current understanding, challenges and future applicative
+potentials of Medical Device & Implants.
+Learning Outcomes:
+The students will have an ability to:
+1. Students completing the course would gain an introductive experience of the field and able
+to comprehend with common terminologies.
+Contents:
+BBL7XX1: Tissue engineering and dynamics [1-0-0]
+(fractal, 1) Tissue Engineering Introduction: Introduction to tissue engineering, Cells as
+therapeutic Agents with examples, Cell numbers and growth rates Tissue organization, Tissue
+Components, Tissue types, Functional subunits. (7 lectures)
+Tissue Dynamics: Dynamic states of tissues, Homeostasis in highly prolific tissues and Tissue
+repair. Angiogenesis. Cell-extracellular matrix interactions - Binding to the ECM, Modifying the
+ECM, Malfunctions in ECM signaling. Direct Cell-Cell contact - Cell junctions in tissues,
+malfunctions in direct cell-cell contact signaling. Response to mechanical stimuli (7 lectures)
+BBL7XX2: Measurements of cell characteristics and Biomaterials 1 [1-0-0]
+(fractal, 2) Measurement of cell characteristics: Cell morphology, cell number and viability,
+cell-fate processes, cell motility, cell function. Cell and tissue culture - types of tissue culture,
+media, culture environment and maintenance of cells in vitro, cryopreservation. Basis for Cell
+Separation, characterization of cell separation, methods of cell separation (7 lectures)
+Biomaterials in tissue engineering: Biodegradable polymers and polymer scaffold
+processing.
+In vivo cell & tissue engineering case studies: Artificial skin, Artificial blood vessels, Artificial
+Pancreas, Nerve Regeneration (7 lectures)
+BBL7XX3: Medical devices and implants [1-0-0]
+(fractal, 3) Medical Device & Implants Introduction: Medical Device Classification, Bioethics and
+Privacy, Biocompatibility and Sterilization Techniques. Concept Design and Principles of Medical
+Device:Implants and Clinical Tools: Design Control & Regulatory Requirements. Introduction
+to specific medical technologies (7 lectures)
+Biopotentials measurement: EMG, EOG, ECG, EEG, Medical Diagnostics (In-vitro diagnostics),
+MedicalDiagnostics (Imaging), Minimally Invasive Devices, Surgical Tools and Implants (7
+lectures)
+Textbook
+1. Lanza, R., Langer, R., Vacanti, J., (2018), Principles of Tissue Engineering, 4th Edition,
+eBook
+Self Learning Material
+1.Swaminathan, S., Tissue Engineering, Sastra University,
+https://nptel.ac.in/courses/102106036/#
+Preparatory Course Material:
+1. Design of BioMedical Devices and Systems, Utsaah University,
+http://cpdm.iisc.ac.in/utsaah/pd233/
+Title Thermodynamics & Kinetics of Materials –
+Material properties
+Number MTL6XX1
+Department Material Science & Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1.Provide introduction to thermodynamics and kinetics of materials and their effect on
+material properties
+Learning Outcomes
+The students are expected to have the ability to:
+1. understand areas of application based on thermodynamic properties
+Contents
+Treatment of the laws of thermodynamics and their applications to equilibrium and the
+properties of materials. Provides a foundation to treat general phenomena in materials
+science and engineering, including chemical reactions, magnetism, polarizability, and
+elasticity. Develops relations pertaining to multiphase equilibria as determined by a
+treatment of solution thermodynamics. Develops graphical constructions that are essential
+for the interpretation of phase diagrams. Treatment includes electrochemical equilibria and
+surface thermodynamics. Introduces aspects of statistical thermodynamics as they relate to
+macroscopic equilibrium phenomena (14 lectures).
+Textbook
+1. Ikada, Y., and H. Tsuji(2000), Biodegradable Polyesters for Medical and Ecological
+Applications. Macromolecular Rapid Communications 21: 117-132
+2. Marazuela, M. D., and M. C. Moreno-Bondi (2002). Fiber-optic Biosensors - An Overview.
+Analytical and Bioanalytical Chemistry 372: 664-682.
+Self Learning Material
+1. Mayes, A. Materials for Biomedical Applications MIT OpenCourseWare Massachusetts
+Institute of Technology, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Title Computational modelling in materials design Number MSL7XX0
+Department Materials Science & Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Provide introduction to modeling and simulation, covering continuum methods, atomistic and
+molecular simulation, and quantum mechanics.
+2. Provide Hands-on training is provided in the fundamentals and applications of these
+methods to key engineering problems.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand areas of application based on the scientific exploitation of the power of
+computation.
+Contents
+Energy models from classical potentials to first-principles approaches: Energy models from
+classical potentials to first-principles approaches; density functional theory and the total-
+energy pseudo-potential method; errors and accuracy of quantitative predictions:
+thermodynamic ensembles, Monte Carlo sampling and molecular dynamics simulations; free
+energy and phase transitions; fluctuations and transport properties; and coarse-graining
+approaches and mesoscale models. (7lectures).
+Case studies from industrial applications of advanced materials to nanotechnology:
+Several laboratories will give students direct experience with simulations of classical force
+fields, electronic-structure approaches, molecular dynamics, and Monte Carlo. (7lectures).
+Textbook
+1.Dieter,G.E., (1986), Mechanical Metallurgy, 3rd Edition, McGraw Hill Book Company
+2. Courtney,T.H., (2005), Mechanical Behaviour of Materials, 2nd Edition, Waveland Press
+Inc.
+3. Shetty,M.N., (2013), Dislocations and Mechanical Behaviour of Materials, Prentice Hall
+India Learning Private Limited
+Self-Learning Material
+1. Bauri,R., Introduction to Materials Science and Engineering, NPTEL Course Material,
+Department of Metallurgical & Materials Engineering, Indian Institute of Technology Madras,
+http://nptel.ac.in/courses/113106032/
+2. vanVliet,K., 3.22 Mechanical Behavior of Materials, Spring 2008, MIT OpenCourseWare
+Massachusetts Institute of Technology, https://ocw.mit.edu. License: Creative Commons
+BY-NC-SA
+Title Biomechanics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [D] 2-0-0 [2]
+Offered for M.Tech Students Type Elective
+Prerequisite Nil
+Objective:
+The instructor will:
+1. Elucidate the role of Biomechanics in the field of Bioscience & Bioengineering with special
+emphasis on use in improving tissue repair and regeneration.
+Learning Outcome:
+The students will have an ability to:
+1. Understand and apply Biomechanics and their Fundamental Principles.
+2. Design the cutting edge applications of Biomechanics
+Contents
+Introduction to Biomechanics: Cellular Mechanics Static and dynamic cell processes; Cell
+adhesion, migration and aggregation; Mechanics of bio-membranes (7 lectures)
+Cytoskeleton and cortex: Microrheological properties and their implications;
+Mechanotransduction; Experimental methods - passive and active rheology, motility and
+adhesion assays (7 lectures)
+Tissue Mechanics: Elastic (time independent); viscoelastic and poro-elastic (time-dependent)
+behavior of tissues; Continuum and microstructural models; Constitutive laws;
+Electromechanical and physicochemical properties of tissues; Physical regulation of
+cellular metabolism; Experimental methods - macroscopic rheology (14 lectures)
+Textbook
+1. Huston, R.L., (2014) Principles of Biomechanics, CRC Press
+2. Koeppen, M., Bruce, A., Mosby, B., (2009) Stanton Berne & Levy Physiology, 6th Edition,
+Online Course Material
+https://nptel.ac.in/syllabus/112106059/
+Title Biomaterials and Bioengineering Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Elective
+Prerequisite None
+Objective
+The Instructor will:
+1. inspire future potential of bioengineering discipline
+2. provide cutting edge knowledge and applications of biomaterials in tissue engineering, drug
+delivery, biomechanics and reconstitution various biological events
+Learning Outcome
+The students are expected to have the ability to:
+1. understand how biomaterials are useful for various biotechnological and bioengineering
+applications
+Contents
+Background and definition of biomaterials: classes of materials used biotechnological
+applications and in medicine: polymers, metals, ceramics, natural materials and composites,
+biodegradable polymers in medicine: polymers, liposomes, hydrogels, silicone biomaterials and
+medical fibers, degradation of materials in the biological environment, types of polymer
+degradation. influence of polymer properties on degradation, influence of biological
+environment on polymer degradation (14 lectures)
+Surface engineering of biomaterials: biological testing of biomaterials: in vitro assessment of
+materials for tissue compatibility, in vivo assessment of tissue compatibility. host reactions to
+biomaterials and their evaluations, the role of adsorbed proteins in tissue response to
+biomaterials. cell, extra cellular matrix, and tissue interactions with biomaterials,
+inflammation, wound healing and foreign body response to biomaterials. immune response to
+foreign materials. toxicity, tumor genesis and biomaterials (14 lectures)
+Microscopes for monitoring biomaterials and their dynamics: tirf and confocal, applications in
+drug delivery and nanomedicine, bioengineering concept to reconstitute cell like micro-
+chambers: flow-chambers and artificial cell, bioengineered platform for monitoring microtubule
+dynamics, bioengineered platform for monitoring microtubule motility and organization,
+bioengineered platform for monitoring microtubule force, reconstitution of kinesin transport
+using engineered biomaterials, applications in brain injury, repairing and future applications
+(14 lectures)
+Textbook
+1. Latest Research articles (ChemBioChem, Molecular Biosystem, AngewChem, ACS Chemical
+Biology, JACS, ChemComm, ACS Chemical Neuroscience etc.)
+Self Learning Material
+None
+Preparatory Course Material
+None
+Program Elective Set 6
+Bioenergy & Environmental Technologies
+Title Bioenergy Systems Course BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+Prerequisite
+Objectives
+The instructor will:
+1. Acquaint students with the principles and applications of bio-energy harnessing systems
+ranging from conventional processes to the latest developments in the area
+2. Enable students integrate two or more renewable energy processes to achieve a
+sustainable energy harvesting system
+Learning Outcomes
+The students will have an ability to:
+1. Utilize biomass as sustainable fuel
+2. Utilize the knowledge of bioenergy systems while integrating bioenergy with other
+renewable energy systems
+Contents
+Overview: Different bio-energy systems, sustainable bio-energy, different types of biomass
+(including forestry residues) and their processing, Principles of bio-energy harnessing by
+nature, Photosynthesis-natural solar energy capture process (6 lectures)
+Anaerobic fermentation technology: Biogas production, process, microbiology, different types
+of bioreactors, basic process kinetics(8 lectures)
+Biomass gasification technology: Syngas production process, different types of gasification
+reactors, factors affecting the process (6 lectures)
+Liquid biofuels [6 lectures]: Various types of biofuels,1st and 2nd generation biofuels, Algal
+Biofuels, ASTM standards for biofuels, Basic biochemical processes, engineering of biofuel
+producing organisms, metabolic engineering (6 lectures)
+Microbial fuel cells: Basic principle, Bioelectricity and different reactor configurations (4
+lectures)
+Artificial photosynthesis: Mimicking natural solar energy capture process, biohydrogen (3
+lectures)
+Downstream processes for product recovery: Basic processes like filtration, centrifugation, and
+solvent extraction(5 lectures)
+Applications: Technical uses of bioenergy, Systems Approaches to Bio-fuels Sustainability,
+positive environmental implications of bioenergy systems, Commercialization and
+Economics of bio-energy technologies (4 lectures)
+Textbooks
+1. Vertes, A. A., Qureshi, A., Yukawa, H., Blaschek, H.P.,(2010) Biomass to Biofuels, Wiley.
+2. German Solar Energy Society, Ecofys, (2006) Planning and installing bioenergy systems: A
+guide for installers, architects and engineers, Earthscan,
+Reference Books
+1. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+2. Pelczar, M.J., Chan, E. C. S., Krieg, N.R.,(2001) Microbiology, Tata McGraw - Hill Education
+Online course material
+1. Michelle O'Malley, Fueling Sustainability: Engineering Microbial Systems for Biofuel
+Production, Spring 2011, MIT OpenCourseWare Massachusetts Institute of Technology,
+https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Title Environmental Biotechnology and
+Bioremediation
+Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+Prerequisite
+Objectives
+The instructor will:
+1. acquaint students with the way wastes/wastewaters as well as toxic wastes are treated
+2. teach methods pertaining to sustainable wastewater recycling
+Learning Outcomes
+The students will have an ability to:
+1. Understand increasing water, soil or air pollution because of industrialization and how
+biotechnology can circumvent these problems
+2. design a treatment process based on the characteristics of the wastewater to be treated
+Contents
+Introduction: Basics of Microbiology, Stoichiometry and Bacterial energetics (5 lectures)
+Kinetics and Reactors: Microbial Kinetics and Biofilm kinetics, Reactor types, Mass balances,
+Batch reactor, Continuous stirred tank reactor (7 lectures)
+The activated sludge process: Characteristics of activated sludge, Process configurations,
+Design and operating criteria, aeration systems and sludge separation (5 lectures)
+Nitrification and denitrification: Bacterial physiology and basic process including biofilm and
+hybrid (4 lectures)
+Phosphorus removal: Normal phosphorus uptake into biomass, precipitation and enhanced
+biological removal (4 lectures)
+Drinking water treatment: Aerobic biofilm processes to remove biological instability,
+biodegradation and denitrification (4 lectures)
+Anaerobic treatment by methanogenesis: Reactor configurations, Process chemistry and
+Microbiology, Process kinetics (4 lectures)
+Detoxification of hazardous chemicals: Molecular recalcitrance, Biodegradation of problem
+environmental contaminants (4 lectures)
+Bioremediation: Scope and characteristics of contaminants, Biodegradability, Treatability
+studies, Engineering strategies for bioremediation, Biotechnological and genetics
+engineering approaches-creations of superbugs (4 lectures)
+Textbooks
+1. Rittmann, B.E., McCarty, P.L., (2001) Environmental Biotechnology: Principles and
+Applications ,Tata McGraw Hill.
+Reference books
+1. Shuler, M., Kargi, F., (2002)Bioprocess Engineering: Basic Concepts, 2nd edition Prentice
+Hall.
+2. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+Online course material:
+1. Gargi Singh, Applied Environmental Microbiology, NPTEL Course Material, Department of
+Civil Engineering, Indian Institute of Technology, Roorkee,
+http://nptel.ac.in/courses/105107173/
+Title Bio-electrochemical Systems Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 2–0–0 [3]
+Offered for B Tech. Type Compulsory
+Prerequisite
+Objectives
+1. The instructor will acquaint students with Microbial fuel cell technology and the merits
+associated with the technology
+Learning Outcomes
+The students will have an ability to:
+1. utilize microorganisms with electricity production and design bioelectrochemical systems for
+various applications
+2. understand a system involving electrochemistry, Microbiology, material Science & Chemical
+Engineering all in one go.
+Contents
+Introduction: Introduction to bio-electrochemical systems (2 lectures)
+Electrochemistry: The Nernst equation and electrochemical potential difference, the redox
+reactions, calculating and measuring potentials (3 lectures)
+Microbiology: The exoelectrogenic microbes, microbial physiology, the electron donors, the
+electron acceptors. (3 lectures)
+Components & configuration: the anode, cathode, membrane, the connections, double
+chambered, Single chamber, air cathode and sediment type MFCS (3 lectures)
+Characterization: Electrochemical sensors, chronoamperometry, cyclic voltammetry,
+differential pulse voltammetry, Electrochemical Impedance spectroscopy, Optical Sensors,
+colorimetry, fluorescence (7 lectures)
+Applications of bio-electrochemical systems: Power generation, water treatment,
+bioremediation (4 lectures)
+Bio electrochemical system for Hydrogen production: Integrating MFCs with external power to
+generate hydrogen (2 lectures)
+Scope and the future: Integration of MFC with other energy generation technologies (4
+lectures)
+Textbooks
+1. Rittmann, B.E., McCarty, P.L., (2001) Environmental Biotechnology: Principles and
+Applications ,Tata McGraw Hill.
+Reference books
+1. Shuler, M., Kargi, F., (2002) Bioprocess Engineering: Basic Concepts, 2nd edition Prentice
+Hall.
+2. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+Online course material:
+Title Environmental Microbiology Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 2-0-0 [2]
+Offered for Type Compulsory
+Prerequisite
+Objectives
+The instructor will:
+1. Enable students utilize the knowledge of Microbiology for environmental cycling and
+enhanced agriculture productivity.
+Learning Outcomes
+The students will have an ability to:
+1. Understand the ecological interactions of Microbes in detail and will be able to
+associate the structure and function of a particular microbial community in a particular
+environment.
+2. Understand the soil plant interactions, how microbes make nutrients available for plant
+growth and how that helps in enhanced crop productivity.
+Contents
+Environmental and Agricultural microbiology: Microbial Ecology, Microbial Evolution
+and Biodiversity, Interactions among Microbial Populations, Interactions between
+Microorganisms and Plants, Plant growth promoting bacteria, Microbial Interactions with
+Animals, Microbial Communities and Ecosystems, Measurement of Microbial Numbers,
+Biomass, and Activities, Effects of Abiotic Factors and Environmental Extremes on
+Microorganisms, Microorganisms in Their Natural Habitats: Air, Water, and Soil
+Microbiology, Biogeochemical cycling, soil, waste, water management, Microorganisms in
+Mineral and Energy Recovery and Fuel and Biomass Production. (28 lectures)
+Textbook
+1. Atlas, R.M., Bartha, R., (2001) Microbial Ecology: Fundamentals and
+applications, Pearson
+2. Jawetz, Melnick, Adelberg (2018) Medical Microbiology, 28th Edition McGraw Hill
+Reference Books
+1. Brock, et al., (2012), Biology of Microorganisms, 13th edition Ben,jamin
+Cummings, Boston, MA.
+2. Lehninger, A., Nelson, D.L., Cox, M., (2009) Principles of Biochemistry, W.H.
+Freeman and Co.
+Online course material
+1. David Schauer, and Edward DeLong. 20.106J Systems Microbiology. Fall 2006.
+Massachusetts Institute of Technology: MIT OpenCourseWare,
+https://ocw.mit.edu.
+Title Water Energy Nexus Number MEL7XX0
+Department Mechanical Engineering L-T-P 3-0-0
+Offered for M. Tech and PhD Type Program Elective
+Objectives:
+1. Course designed to understand relation of energy of water use in our daily lives as well
+as water use for energy and food production.
+2. To enable plan pathways of water life cycle according the end-use requirements in
+municipal/ agriculture/ industrial environments. .
+Learning Outcomes:
+1. Ability to design energy/cost optimized systems according to location specific end-use
+requirements and water availability
+2. To have capability to locate correct locations where energy intensity as well as water
+efficiency measurements of the water transport within systems can be performed.
+Contents:
+Introduction to energy-water nexus: Hydro-electric power production, Water Life Cycle in the
+different economic sectors
+Energy intensity (Joule/Litre etc.) definition, Equivalent electrical energy intensity [kWh/m3],
+Basic unit conversion, factors of energy conversion from thermal to electrical & vice versa
+Water extraction from ground as well as surface. Pumping efficiency, effect of lift and other
+influencing parameters, Different modes of surface water transfer.
+General overview of conventional water treatment energy use, Intro to thermal desalination,
+Membrane desalination systems, hybrid desalination systems .Renewable and non-renewable
+sources of energy and its influence of energy intensity .
+Discussion on water end-use based electrical and thermal energy consumption. Electricity
+consumption in Residential water use: Clothes Washing, doing dishes, heating water, cooking
+water based foods. Commercial buildings and Energy use; Do buildings consume energy or
+the people within, Human behaviour and variation in energy consumption.
+Waste water recycling: review, of equivalent electrical energy intensity and operation of waste
+water treatment plant equipment and technologies.
+Agricultural water use and their energy intensity: Energy intensity of irrigation water use with
+change in crops; change in irrigation technology, subsidy in electricity, human behavior; with
+variation in geographic land scape.
+Case study of water life cycle in various locations: USA, Ontario, Canada, China, Australia,
+India.
+Text books :
+1. C. Sommariva: Desalination Desalination and Advanced Water Treatment: Economics and
+Financing, First ed., Balaban Desalination Publications, Hopkinton, MA, USA, 2010.pg. 103.
+2. A K Plappally and J H Lienhard Energy Requirements for Water Production, Treatment, End
+Use, Reclamation, and Discharge, Renewable and sustainable energy reviews (RSER),
+16(1)
+Self-learning Material:
+1. Sustainable Development: The Water Energy Food Nexus Aachen
+Universityhttps://www.edx.org/course/sustainable-development-the-water-energy-food-
+nexus
+2. Water-Energy Nexus Course of Studies at Irvine,https://www.water-energy-
+food.org/resources/resources-detail/university-of-california-water-energy-nexus-urse-of-
+studies-at-irvine/

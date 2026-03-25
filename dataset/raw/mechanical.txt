@@ -1,0 +1,3338 @@
+Indian Institute of Technology Jodhpur
+2nd year B.Tech. Mechanical Engineering
+Curriculum Structure
+AY 2020-21
+2nd year B.Tech. Mechanical Engineering
+Curriculum Structure
+AY 2020-21
+1
+1. Introduction
+Reckoned as one of the most versatile engineering disciplines, Mechanical Engineering virtually touches every
+aspect of modern life, from mobile phones and biomedical devices, to aircrafts and power plants. It is concerned
+with technological advancements through the development of products, processes, and power, at scales ranging
+from nano-scale to large and complex systems. Mechanical Engineering principles and skills are involved at some
+stage during the conception, design, development, and manufacture of every human-made object. While design
+and manufacturing involves design of mechanisms and the analysis of materials, thermo-fluid systems include
+methods of energy conversions, heat transfer and fluid flow. Future innovations crucial to the country’s growth
+will always have their roots in the world of mass, motion, forces and energy- the world of mechanical engineers.
+At IIT Jodhpur, mechanical engineers are therefore trained, educated and positioned, in a way not only to adapt,
+but to define direct change. This is reflected in the portfolio of current activities of the department. Our faculty
+are involved in a wide range of projects in the areas of Energy conversion and power systems, heat transfer and
+fluid mechanics, mechanics of solid, mechanical vibrations, robotics, autonomous unmanned vehicles, design
+optimization, acoustics and noise control, control systems, rotor dynamics, micro-nano materials and
+applications, biomechanics, bio inspired thermofluids, fluid structure interaction etc. to name a few.
+Additionally, efforts are being made to introduce advance concepts like smart manufacturing, Industry 4.O,
+computational techniques, high-performance computing, applications of artificial intelligence, machine learning
+algorithms, sensors and IoT as a part of solving mechanical engineering problems. Keeping a balance between
+theory and hands-on-experience, the department intends to provide its students a solid foundation in core as
+well as emerging areas of mechanical engineering by inspiring critical thinking and nurturing problem solving
+skills.
+2. Objective of the program
+The key objectives of this program are:
+a. To enable students to have fundamental understanding of the core concepts of Mechanical Engineering
+b. To integrate analytical and computational ability with experimental skills to create individuals competent in
+professional engineering practices
+c. To stimulate critical thinking towards application of mechanical engineering concepts in interdisciplinary
+problem solving
+d. To expose students to advanced concepts like AI & ML, Industry 4.0 and IoT for product and system design
+e. To inculcate an attitude towards commitment to engineering ethics, leadership qualities and professional
+development.
+3. Expected Graduate Attribute
+Graduates of B.Tech program in Mechanical Engineering will have:
+1. Strong understanding of fundamentals of Thermofluids, Mechanical Design and Manufacturing (Processes
+and Systems)
+2. Ability to apply mechanical engineering principles to address challenges in real life problems through creative
+interdisciplinary thinking
+3. Ability to use different simulation and computational tools for a better understanding and designing of
+mechanical processes/systems
+4. Capability to appreciate the use of some of the advanced concepts like AI & ML, Robotics, Industry 4.0, IoT
+in Mechanical Engineering applications
+5. Awareness of grassroots problems of the society and ability to provide technological solutions of sustainable
+nature.
+6. Entrepreneurial spirit to undertake disruptive innovations
+7. Skills to communicate engineering concepts and ideas to peers in written or oral forms
+8. Commitment towards professional ethics and have humanitarian engineering skills.
+4. Learning Outcome
+Graduates of the B.Tech. program in Mechanical Engineering will:
+1. Gain a strong understanding of mathematics, science and engineering fundamentals of mechanical
+engineering
+2. Be able to design and conduct experiments as well as to analyze and interpret data
+2
+3. Be introduced to concepts including engineering design / optimization / sensors fabrication / computational
+methods / simulation tools /manufacturing systems and processes/ Industry 4.O/ thermal systems / fluid
+flow systems/ energy engineering/ micro-nano materials and applications/ AI/ IoT/ Smart Computing for
+various applications
+4. Have the ability to design a mechanical system, component or process tailored to meet desired needs under
+socio-economic and environmental constraints
+5. Be exposed to common problems that are prevalent in the domains of energy storage, systems and devices,
+clean energy, and micro-nano materials and applications, futuristic technology, and advanced scientific
+computation methods, allowing them to innovate and develop technological solutions for the same
+6. Receive effective, hands-on laboratory training as a part of laboratory courses and short-term research projects
+7. Develop their communication skills by participating in classroom presentations, seminars and workshops on
+manuscript / patent writing / presentation skills
+8. Be taught the value of team work and group discussion in problem solving, and time management to continue
+co-curricular activities without compromising for academics.
+5. New skillsets targeted
+Multi and interdisciplinary approaches:
+1. Design, develop and manufacturing of new or modified components for mechanical systems using computer-
+aided design/modelling software/additive manufacturing
+2. Latest industrial pursuits, particularly in the areas of automation, robotics, and smart scientific computing,
+microfluidics etc.
+3. Development of smart manufacturing capabilities for relevant industries
+4. To play key roles in improving the range and performance of hybrid and electric automotive vehicles
+5. Design of power-producing machines in the fields of alternative energies
+6. Experimental validation of computational designs
+7. Selection of materials based on engineering applications to ensure that it is safe, reliable and efficient
+8. Advanced mechanical testing and characterization techniques
+9. Familiarity with advanced and futuristic scientific computing techniques
+3
+6. Topic clouds and Mapping of Topic clouds with proposed courses
+Table 1. Topics and Mapping of Topic with Courses
+Area Topics Category (Core/
+Techniques
+Technology/Syst
+ems)
+Course (PC/PE)
+Design
+Stress, Strain, Bending &
+Torsion
+Core Mechanics of Solid (PC)
+Hydraulic and Pneumatic
+Systems, Mechatronic
+systems
+Core and
+Techniques
+Control of Mechanical
+Systems (PC)
+Geometric & Functional
+Requirements, Theory of
+Failures, Design and
+Selection of Machine
+Elements
+Core and
+Techniques
+Design of Machine
+Elements (PC)
+4
+Mechanism Synthesis,
+Motion Analysis, Force
+Analysis, Gear Trains,
+Cams, Dynamics of Multi-
+Cylinder Engines
+Core and
+Techniques
+Kinematics & Dynamics
+of Machines (PC)
+Engineering Mechanics Core Engineering Mechanics
+(IE)
+Advanced concepts of stress
+analysis, analysis of systems
+such as rotating disks, thick
+cylinders etc.
+Core Advanced Mechanics of
+Solids (PE)
+Galerkin methods Finite
+element methods
+Techniques Finite element Methods
+and Applications (PE)
+Mechanical vibrations of
+one, two and multi degree
+of freedom systems, types of
+damping, vibration control
+Core Mechanical Vibrations
+(PE)
+Noise control of various
+engineering applications
+Core and
+Techniques
+Techniques of Noise
+Control (PE)
+Advanced Theories in
+Vibration
+Core Principles and Techniques
+of Vibration Control (PE)
+Theory of Helicopter Flight Techniques and
+Technology
+Helicopter Dynamics (PE)
+kinematics & kinetics of
+microsystem deformations
+Core and
+Techniques
+Micro-Nano Mechanics
+(PE)
+Non-linear mechanical
+behaviours displayed by
+soft materials and tissues
+Core and
+Techniques
+Mechanics of Soft
+Materials (PE)
+Product life cycle, Product
+Design
+Core and
+Techniques
+Product Design and
+Feasibility
+Modal Analysis
+Measurement Techniques
+Techniques Experimental Modal
+Analysis (PE)
+Curves, Surfaces and Solid
+Modeling
+Core, systems
+and Techniques
+Computer aided Design
+(PE)
+Electro-Mechanical systems Systems and
+Technology
+Mechatronics (PE)
+Biomechanical systems Systems and
+Techniques
+Principles of
+Biomechanics (PE)
+Control system Systems and
+Techniques
+Control Systems (PE)
+Experimental Robotics Systems and
+Techniques
+Introduction to Robotics
+(PE)
+Dynamics of rotating
+machines
+Core and
+Systems
+Rotor Dynamics
+5
+Links, mechanisms and
+dynamics in vehicles
+Systems Vehicle dynamics (PE)
+Nonlinear phenomena and
+solutions, bifurcation and
+stability, Chaos
+Core and
+Techniques
+Nonlinear Oscillations
+and Chaos (PE)
+Theory of sound generation,
+propagation and reception.
+Systems Introduction to Acoustics
+(PE)
+Manufacturin
+g
+Theory of Casting, Welding
+and Forming
+Core and
+Techniques
+Manufacturing Process
+Principles in Production &
+Operations Management
+Core and
+Techniques
+Production and
+Operations Management
+(PC)
+Techniques in Machining
+Science and Metrology
+Core and
+Techniques
+Machining Science and
+Inspection Technology
+(PC)
+Principles of Smart
+Manufacturing
+Core and
+Techniques
+Smart Manufacturing
+(PC)
+Principles of Digital
+fabrication
+Core and
+Techniques
+Digital Fabrication (PC)
+Manufacturing Lab Core and
+Techniques
+Manufacturing Process
+and Systems Lab (PC)
+Machining Lab Core and
+Techniques
+Machining and
+Automated
+Manufacturing Lab (PC)
+Casting and Allied
+Processes Technology
+Core and
+Technology
+Casting and Allied
+Processes (PE)
+Welding Science and
+Technology Technology
+Core and
+Technology
+Welding Science and
+Technology (PE)
+Micro-Nano Manufacturing
+Technology
+Core and
+Technology
+Micro-Nano
+Manufacturing (PE)
+Design and Manufacturing
+of Bio Materials
+Core and
+Technology
+Design and
+Manufacturing of Bio
+Materials (PE)
+Principles of Computer
+Integrated Manufacturing
+Core and
+Technology
+Computer Integrated
+Manufacturing (PE)
+Non Traditional Machining
+Process Technology
+Core and
+Technology
+Non Traditional
+Machining Process (PE)
+Tool Design Techniques Core and
+Technique
+Tool Design (PE)
+Modeling and CAD in
+Product Design
+Technique and
+Technology
+Geometric Modeling and
+CAD
+Modeling and Control of
+Robot Manipulators
+Technique and
+Technology
+Robotics (PE)
+6
+CNC Technology in
+manufacturing
+Technique and
+Technology
+Computer-Aided
+Manufacturing (PE)
+Technologies for additive
+rapid manufacturing
+Technique and
+Technology
+Additive Manufacturing
+(PE)
+Micro systems and its
+manufacturing techniques
+Technique and
+Technology
+MEMS & Microsystem
+Technologies (PE)
+Modern methods of micro-
+forming technologies
+Technique and
+Technology
+Micro Forming
+Techniques (PE)
+Precision Micro/Nano
+Manufacturing
+Mechatronic
+System Design
+Precision and Micro
+Manufacturing(PE)
+Elements of Mechatronic
+System Design
+Mechatronic
+System Design
+Mechatronic System
+Design (PE)
+Applied Ergonomics Core and
+Technology
+Applied Ergonomics (PE)
+Design for Manufacturing Core and
+Technology
+Design for Manufacturing
+(PE)
+Welding metallurgy
+Technology
+Core and
+Technology
+Welding Metallurgy (PE)
+Forming Technology Core and
+Technology
+Fundamentals of Metal
+Forming Technology (PE)
+Thermofluids Fluid Statics, Kinetics,
+Inviscid and Viscous Flow,
+Turbulence and
+Compressible flows
+Core and
+Techniques
+Fluid Mechanics (PC)
+Conduction, Convection,
+Radiation, Boiling &
+Condensation
+Core and
+Techniques
+Heat Transfer (PC)
+Thermodynamics Core Thermodynamics (PC)
+Heat engines and Power
+Plant Cycles,
+Turbomachines,
+Refrigeration and Air-
+conditioning
+Systems and
+Technique
+Thermofluids Engineering
+(PC)
+Turbines, pumps &
+Compressors
+Systems and
+Technique
+Turbomachinery (PE)
+Combustion engines Systems and
+Technique
+Automotive
+Propulsion(PE)
+Refrigeration cycles and air-
+conditioning systems
+Systems and
+Technique
+Refrigeration and Air-
+conditioning(PE)
+Cycles in power plant and
+energy conversion systems
+Systems and
+Technique
+Power Plant
+Engineering(PE)
+Fluid dynamics in porous
+media
+Core and
+Technique
+Porous media flows and
+applications(PE)
+7
+Computational techniques
+for heat and fluid flow
+Core and
+Technique
+Computational Fluid
+Dynamics and Heat
+Transfer (PE)
+Solar Energy systems Technique and
+Technology
+Solar Thermal Systems
+(PE)
+Liquid transport in micro-
+nano flows
+Core and
+Techniques
+Micro-Nano Flows (PE)
+Exposer to various sensors
+and equipments used in
+micro system analysis
+Core and
+Techniques
+Micro Fluidics Lab (PE)
+Characterizing of sensors
+based on nanomaterials
+Technique and
+Technology
+Nano Sensors (PE)
+Non-Conventional energy
+sources and Technologies
+Technique and
+Technology
+Non-Conventional
+Sources of Energy and
+Emerging Technologies
+(PE)
+Fuel Combustions,
+Premixed Flames
+Core and
+Techniques
+Combustion Technology
+(PE)
+Fluid Flow Measurement Systems and
+Techniques
+Fluid Mechanics Lab (PE)
+Heat Transfer
+Measurements
+Systems and
+Techniques
+Heat Transfer Lab (PE)
+Measurements in various
+Thermofluids equipment’s
+Systems and
+Techniques
+Thermofluids Lab (PE)
+8
+7. Course Categories, credit distribution and Credit Structure of B.Tech. Programmes
+Table 2. ProposedCourse Categories and credit distribution in the proposed B.Tech. Programmes
+S.
+N.
+Course Type Course Category Regular B.Tech. Double B.Tech.
+Credit Total Credit Total
+1 Institute Core (I) Engineering (IE) 34 69 34 59
+Science (IS) 16 16
+Humanities (IH) 12 9
+2 Programme Linked
+(L)
+Science (LS) 7 0
+3 Programme Core (P) Programme Compulsory (PC) 52 71 52 71
+Programme Electives (PE) 16 16
+B.Tech. Project (PP) 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0
+5 Engineering Science
+(E)
+Engineering Science Core 0 0 22 22
+Engineering Science Elective (EE) 0 0 8 8
+Total Graded 150 160
+6 Non-Graded (N) Humanities (NH) 6 15 6 15
+Engineering (NE) 3 3
+Design/Practical Experience (ND) 6 6
+Total Graded + Non-Graded 165 175
+9
+8. Credit Structure of B.Tech. Programmes
+Table 3. Credit Structure for B.Tech. Programmes
+Type L-T-P Distribution of contact and beyond contact hours Total Credits
+(TC=TH/3)
+Contact Hours
+(CH)
+Beyond Contact
+Hours (BCH)
+Total Hours
+(TH)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+#Contact hour for projects refers to the involvement of students in the laboratory, discussion, etc.
+10
+9. List of Programme Compulsory Courses
+Table 4. Distribution of courses under Thermofluids, Manufacturing and Design categories
+Sr. No Course Name LTP Contact
+Hours
+Credit
+1 Fluid Mechanics 3-1-0 4 4
+2 Fluid Mechanics-Lab 0-0-2 2 1
+3 Heat Transfer 3-0-0 3 3
+4 Heat Transfer-Lab 0-0-2 2 1
+5 Thermofluids Engineering 3-1-0 4 4
+6 Thermofluids Engineering Lab 0-0-2 2 1
+7 Thermodynamics 3-1-0 4 4
+Total 18
+1 Mechanics of Solids 3-1-0 4 4
+2 Kinematics and Dynamics of Machines 3-0-2 5 4
+3 Design of Machine elements 3-0-2 5 4
+4 Engineering Visualization 0-0-2 2 1
+5 Engineering Mechanics 2-1-0 3 3
+6 Engineering Design I 0-0-2 2 1
+7 Engineering Design II 0-0-2 2 1
+Total 18
+1 Manufacturing Process 3-0-0 3 3
+2 Production & Operations Management 3-0-0 3 3
+3 Machining Science and Metrology 3-0-0 3 3
+4 Digital Fabrication 3-0-0 3 3
+5 Smart Manufacturing 2-0-2 3 3
+6 Manufacturing Processes and Systems lab 0-0-2 2 1
+7 Machining and Automated Manufacturing Lab 0-0-2 2 1
+8 Engineering Realization 0-0-2 2 1
+Total 18
+Total 53
+11
+Table 5.Programme Vertical Compulsory Courses
+Sr. No Course Name LTP Contact Hours Credi
+t
+1 Fluid Mechanics 3-1-0 4 4
+2 Fluid Mechanics-Lab 0-0-2 2 1
+3 Heat Transfer 3-0-0 3 3
+4 Heat Transfer-Lab 0-0-2 2 1
+5 Thermofluids Engineering 3-1-0 4 4
+6 Thermofluids Engineering Lab 0-0-2 2 1
+7 Mechanics of Solids 3-1-0 4 4
+8 Kinematics and Dynamics of Machines 3-0-2 5 4
+9 Design of Machine elements 3-0-2 5 4
+10 Manufacturing Process 3-0-0 3 3
+11 Production & Operations Management 3-0-0 3 3
+12 Machining Science and Metrology 3-0-0 3 3
+13 Digital Fabrication 3-0-0 3 3
+Total 38
+Table 6. Programme Horizontal Compulsory Courses
+Sr. No Course Name LTP Contact Hours Credit
+1 Control of Mechanical Systems 3-0-4 7 5
+2 Data Structure and Algorithm (CS) 3-0-2 5 4
+3 Smart Manufacturing 2-0-2 3 3
+4 Manufacturing Processes and Systems lab 0-0-2 2 1
+5 Machining and Automated Manufacturing
+Lab
+0-0-2 2 1
+Total 14
+12
+10. Area-wise Programme Elective Courses
+Table 7. Stream-wise Programme Electives Courses
+Area S.No Courses L-T-P Credit Course Level
+Design
+1 Introduction to Acoustics 3-0-0 3 400
+2 Mechanical Vibrations 3-0-0 3 400
+3 Computer Aided Design 3-0-2 4 400
+4 Principles of Biomechanics 3-0-0 3 400
+5 Mechatronics 2-0-2 3 600
+6 Finite Element Methods and
+Applications
+3-0-0 3 600
+7 Introduction to Robotics
+(offered by IDRP on RM)
+3-0-0 3 400
+8 Embedded Systems (offered by
+electrical)
+3-0-2 4 300
+Manufacturing
+1 Tool Design 3-0-0 3 400
+2 Applied Ergonomics 3-0-0 3 400
+3 Micro-Nano Manufacturing 3-0-0 3 400
+4 Design and Manufacturing of Bio
+Materials
+3-0-0 3 600
+5 Computer Integrated Manufacturing 3-0-0 3 600
+6 Design for Manufacturing 3-0-0 3 600
+ThermoFluids
+1 Turbomachinery 3-0-0 3 400
+2 Refrigeration and Air-conditioning 3-0-0 3 400
+3 Solar Thermal Systems 3-0-0 3 600
+4 Porous media flows and applications 3-0-0 3 600
+5 Power Plant Engineering 3-0-0 3 700
+6 Computational Fluid Dynamics and
+Heat Transfer
+3-1-0 4 700
+13
+11. Specialization to be offered by the department
+Table 8. Specializations List
+S. No. Name of Specializations Credit requirement
+Core Elective
+1 Micro-Nano Engineering 8 credits 12 credits
+2 Energy Engineering 8 credits 12 credits
+2 Design Engineering 8 credits 12 credits
+3 Smart Manufacturing 8 credits 12 credits
+Table 9. Specialization core and elective courses
+S.
+No
+.
+Name of
+Specialization
+Specialization Core
+(8 credits)
+Specialization Electives
+(12 credits)
+1 Micro-Nano
+Engineering
+1. Micro-Nano Flows
+[3-0-0, Credit:3, 600
+Level]
+2. MEMS and
+Microsystems
+Technology [3-0-2,
+Credit:4, Level: 700]
+3. Microfluidics Lab [0-
+0-2, Credit:1, 600
+level]
+1. Nanomaterials (MT)[3-0-0, Credit:3, Level: 400]
+2. Porous media flows & applications [3-0-0, Credit:3, Level:
+600]
+3. Precision and Micro-Manufacturing [3-0-0, Credit:3, Level:
+700]
+4. Nanosensors [3-0-0, Credit:3, Level: 700]
+5. Microsystems Fabrication Technology (EE) [3-0-0, Credit:3,
+Level: 700]
+6. Micro-Forming Techniques [3-0-0, Credit:3, Level: 700]
+7. Micro-Nano Mechanics[2-0-0, Credit:2, Level: 600]
+8. Computational Fluid Dynamics and Heat Transfer [3-1-0,
+Credit:4, 700 Level]
+9. Computational Materials Science (PH)[3-0-0, Credit:3,
+Level: 700]
+10. Project (3 Credits)
+2 Energy
+Engineering
+1. Solar Thermal
+Systems (ME) [3-0-0,
+Credit:3, Level: 600]
+2. Power Plant
+Engineering [3-0-0,
+Credit:3, Level: 700]
+3. Energy Storage
+Systems (ME fractals)
+[2-0-0, Credit:2, Level:
+700]
+1. Non-Conventional Sources of Energy and Emerging
+Technologies (ME) [3-0-0, Credit:3, Level: 700]
+2. Solar Energy and Applications (ME) [3-0-2, Credit:4, Level:
+700]
+3. Wind turbine and field design (Civil)[3-0-0, Credit:3, Level:
+700]
+4. Energy Harvesting (PHY)[3-0-0, Credit:3, Level: 700]
+5. Biomass Energy Conversion(BIO) [3-0-0, Credit:3, Level:
+700]
+6. Hydropower (ME)[3-0-0, Credit:3, Level: 700]
+7. Building services and Intelligent building (Civil)[3-0-0,
+Credit:3, Level: 700]
+8. Smart Grid (EE) [3-0-2, Credit:4, Level: 700]
+9. Computational Fluid Dynamics and Heat Transfer
+[3-1-0, Credit:4, 700 Level]
+10. Renewable Energy Systems (EE) [3-0-0, Credit:3, Level:
+700]
+11. Automotive Propulsion [3-0-2, Credit:4, Level: 700]
+12. Combustion Technology [3-0-0, Credit:3, Level: 700]
+13. Materials for Energy Conversion and Storage (MT)[ 3-0-
+0, Credit:3, Level: 400]
+14
+14. Conduction and Radiation [3-0-0, Credit:3, Level: 700]
+15. Convective Heat and Mass Transfer [3-0-0, Credit:3, Level:
+700]
+16. Porous media flows & applications [3-0-0, Credit:3, Level:
+600]
+17. Project Credit:3
+2 Design
+Engineering
+1. Advanced Mechanics
+of Solid [3-0-0,
+Credit:3, 700 Level]
+2. Finite Element
+Methods and its
+Application [3-0-0,
+Credit:3, 600 Level]
+3. Optimization [1-0-0,
+Credit:1, 600 Level]
+4. Design Lab [0-0-2,
+Credit:1, 600 Level]
+1. Mechanical Vibrations [3-0-0, Credit:3, 700 Level]
+2. Introduction to Acoustics [3-0-0, Credit:3, 600 level]
+3. Geometric Modeling & CAD [2-0-2, Credit:3, 700 Level]
+4. Robotics [3-0-2, Credit:4, 700 Level]
+5. Principles and Techniques of Vibration Control [3-0-0,
+Credit:3, 600 level]
+6. Techniques of Noise Control[3-0-0, Credit:3, 600 level]
+7. Mechanics of Soft Materials[3-0-0, Credit:3, 600 level]
+8. Product Design & Feasibility[3-0-0, Credit:3, 600 level]
+9. Nonlinear Oscillations and Chaos [3-0-0, Credit:3, 600
+Level]
+10. Experimental Modal Analysis [3-0-2, Credit:4, 600 Level]
+11. Vehicle Dynamics [3-0-0, Credit:3, 600 Level]
+12. Theory of vibrations [3-0-0, Credit:3, 700 Level]
+13. Rotor Dynamics [3-0-0, Credit:3, 700 Level]
+14. Helicopter Dynamics [3-0-0, Credit:3, 700 Level]
+15. Project Credit:3
+3 Smart
+Manufacturing
+1. Artificial
+Intelligence-1: CS
+[3-0-0, Credit:3]
+2. Introduction to
+Cyber Physical
+Systems: CPS [3-0-0,
+credit:3]
+3. Statistics 2: Data &
+Computational
+Science [2-0-0,
+credit:2]
+1. Applied Ergonomics [3-0-0, Credit:3, 400 Level]
+2. Casting and Allied Processes [3-0-0, Credit:3, 400 Level]
+3. Welding Science & Technology [3-0-2, Credit:4, 400 Level]
+4. Non Traditional Machining Process [3-0-0, Credit:3, 400
+Level]
+5. Design for Manufacturing [3-0-0, Credit:3, 600 Level]
+6. Geometric Modelling & CAD [2-0-2, Credit:3, 700 Level]
+7. Robotics [3-0-2, Credit:4, 700 Level]
+8. Computer-Aided Manufacturing [3-0-2, Credit:4, 700 Level]
+9. Additive Manufacturing [3-0-0, Credit:3, 700 Level]
+10. MEMS & Microsystems Technology [3-0-2, Credit:4, 700
+Level]
+11. Precision and Micro Manufacturing [3-0-0, Credit:3, 700
+Level]
+12. Mechatronic Systems Design [3-0-0, Credit:3, 700
+Level]
+13. Computer Aided Inspection & Quality Control [3-0-0,
+Credit:3, 700 Level]
+14. Welding Metallurgy [3-0-0, Credit:3, 700 Level]
+15. Fundamentals of Metal Forming Technology[3-0-0,
+Credit:3, 600 Level]
+16. Micro-forming Techniques [3-0-0, Credit:3, Level: 700]
+17. Project Credit:3
+15
+11. Curriculum of B.Tech. Mechanical Engineering (Regular)
+Table 10. Curriculum of B.Tech. Mechanical Engineering
+Cat Course LTP CH NC GC Cat Course LTP CH N
+C
+GC
+I Semester II Semester
+IE Engineering
+Mechanics
+2-1-0 3 - 3 IE Introduction to
+Electrical Engineering
+3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer Science
+3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering
+3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization
+0-0-2 2 - 1 IE Engineering
+Realization
+0-0-2 1 - 1
+NE Engineering
+Design I
+0-0-2 2 1 - NE Engineering Design II 0-0-2 2 1 -
+NH Communication
+Skill I
+0-0-2 2 1 - NH Communication Skill
+II
+0-0-2 2 1 -
+NH Social Connect and
+responsibilities I
+0-0-1 1 0.5 - NH Social Connect and
+responsibilities II
+0-0-1 1 0.
+5
+-
+NH Performing Arts I
+/Sports I
+0-0-1 1 0.5 - NH Performing Arts
+II/Sports II
+0-0-1 1 0.
+5
+-
+Total 11-2-
+12
+25 3 16 Total 12-1-
+14
+27 3 17
+III Semester IV Semester
+LS Scientific
+Computations
+3-1-0 4 - 4 IE Materials Science &
+Engineering
+F1:Material Selection
+F2: Structure of
+Materials
+F3: Physical
+Metallurgy
+3 ×
+1-0-0
+3 - 3
+IE Thermodynamics 3-1-0 4 - 4 PC Data Structure and
+Algorithm 3-0-2 5 4
+PC Mechanics of
+solids
+3-1-0 4 - 4 IE Signals and Systems 3-1-0 4 - 4
+IE Introduction to
+Machine Learning
+3-0-2 5 - 4 PC Fluid Mechanics 3-1-0 4 - 4
+PC Fluid Mechanics-Lab 0-0-2 2 1
+16
+LS Statistical
+Mechanics
+2-0-0 2 - 2 PC Manufacturing
+Process
+3-0-0 3 - 3
+Optical
+Measurement
+Techniques
+1-0-0 1 1 IH Humanities I 3-0-0 3 - 3
+NE Intro. To
+Profession
+0-1-0 1
+Total 15-3-
+2
+20 1 19 Total 18-2-4 24 - 22
+V Semester VI Semester
+PC
+Production &
+Operations
+Management
+3-0-0 3 - 3 PC Design of Machine
+elements 3-0-2 5 4
+PC
+Manufacturing
+Processes and
+Systems lab (HC)
+0-0-2 2 - 1 PC
+Machining and
+Automated
+Manufacturing Lab
+(HC)
+0-0-2 2 1
+PC Heat Transfer 3-0-0 3 3 PC Smart
+Manufacturing(HC) 2-0-2 4 3
+PC
+Kinematics and
+Dynamics of
+Machines
+3-0-2 5 4 PC Thermofluids
+Engineering 3-1-0 4 4
+PC Machining Science
+and Metrology 3-0-0 3 3
+PC Control of
+Mechanical Systems –
+(HC)
+3-0-4 7 5
+PC Digital Fabrication 3-0-0 3 3 PE Programme Elective-
+1
+3-0-0 3 3
+PC Heat Transfer Lab 0-0-2 2 1
+IH Humanities II 3-0-0 3 - 3
+NH Professional Ethics
+I
+0-1-0 1 - NH Professional Ethics II 0-1-0 1 -
+Total 18-0-
+6
+24 1 21 Total 14-1-
+10
+25 1 20
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE Programme
+Electives
+6-0-0 6 - 6 PE Programme Electives 7-0-0 7 - 7
+PC Thermofluids Lab 0-0-2 2 1 OE Open Elective-2 3-1-0 4 4
+OE Open Elective-1 3-0-0 3 3 OE Open Elective-3 3-0-0 3 3
+IH Humanities III 3-0-0 3 - 3
+17
+IS Environmental
+Science
+2-0-0 2 - 2
+Total 14-0-
+8
+22 - 18 Total 16-1-0 17 - 17
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 1
+5
+165
+18
+13. Curriculum of Double B.Tech. : B.Tech. Mechanical Engineering and Engineering Science
+Table 11. Programme structure of Double B.Tech.
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+I Semester II Semester
+IE Engineering
+Mechanics
+2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering
+3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer
+Science
+3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering
+3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization
+0-0-2 2 - 1 IE Engineering
+Realization
+0-0-2 1 - 1
+NE Engineering Design
+I
+0-0-2 2 1 - NE Engineering
+Design II
+0-0-2 2 1 -
+NH Communication
+Skill I
+0-0-2 2 1 - NH Communication
+Skill II
+0-0-2 2 1 -
+NH Social Connect and
+responsibilities I
+0-0-1 1 0.5 - NH Social Connect
+and
+responsibilities
+II
+0-0-1 1 0.5 -
+NH Performing Arts I
+/Sports I
+0-0-1 1 0.5 - NH Performing Arts
+II/Sports II
+0-0-1 1 0.5 -
+Total 11-2-12 25 3 16 Total 12-1-14 27 3 17
+III Semester IV Semester
+ES Probability and
+Statistics
+3-1-0 4 - 4 IE Materials
+Science &
+Engineering
+F1: Material
+Selection
+F2: Structure of
+Materials
+F3: Physical
+Metallurgy
+3 ×
+1-0-0
+3 - 3
+ES Modern Physics 3-0-0 3 - 3 ES Embedded
+Systems and IoT
+3-0-2 5 - 4
+IE Thermodynamics 3-1-0 4 - 4 ES Data Structure
+and Algorithm
+3-0-2 5 - 4
+19
+IE Signals and Systems 3-1-0 4 - 4 ES Design of
+Experiments
+3-0-0 3 - 3
+IE Machine Learning 3-0-2 5 - 4 ES Modelling and
+Simulation
+3-0-2 5 - 4
+NE Intro. To Profession 0-0-2 2 IH Humanities I 3-0-0 3 - 3
+Total 15-3-2 20 2 19 Total 18-0-6 24 - 21
+V Semester VI Semester
+PC
+Manufacturing
+Processes and
+Systems lab (H)
+0-0-2 2 - 1 PC
+Design of
+Machine
+elements 3-0-2 5 4
+PC Heat Transfer 3-0-0 3 3
+PC Fluid
+Mechanics-
+Lab
+0-0-2
+2
+1
+PC
+Kinematics and
+Dynamics of
+Machines
+3-0-2 5 4 PC
+Machining
+and
+Automated
+Manufacturin
+g Lab (HC)
+0-0-2 2 1
+PC Machining Science
+and Metrology 3-0-0 3 3 PC
+Smart
+Manufacturin
+g(HC)
+2-0-2 4 3
+PC Mechanics of solids 3-1-0 4 - 4 PC Thermofluids
+Engineering 3-1-0 4 4
+PC Fluid Mechanics 3-1-0 4 - 4 PE/Es
+Control of
+Mechanical
+Systems
+3-0-4 7 5
+PC Heat Transfer Lab 0-0-2 2 1 PC Manufacturin
+g Process
+3-0-0 3 - 3
+IH Humanities II 3-0-0 3 - 3 PE Programme
+Electives-2
+3-0-0 3 3
+NH Professional Ethics I
+0-1-0 1 1 - NH Professional
+Ethics II
+0-1-0
+1
+1 -
+Total 18-2-6 26 1 23 Total 17-2-10 30 1 24
+VII Semester VIII Semester
+PP B. Tech. Project
+0-0-6 6
+-
+3
+PE/
+ES
+Programme/Eng
+ineering Science
+Electives
+15-0-0 15 - 15
+PC Production &
+Operations
+Management
+3-0-0 3 - 3
+IH Humanities III 3-0-0 3 - 3
+PC Digital Fabrication 3-0-0 3 3 PC
+20
+ES Scientific
+Computation 3-0-2 5 4
+PC Thermofluids Lab 0-0-2 2 1
+PE/
+OE
+Programme/Engine
+ering Science
+Electives
+6-0-0 6
+-
+6
+IS Environmental
+Science 2-0-0 2 - 2
+Total 17-0-10 27 - 22 Total 18-0-0 18 - 18
+Total of graded and Non-Graded Credit 9 160
+Non-Graded Design Credits 6 -
+Grand Total 15 170
+Note: 1. ES are proposed Engineering Science compulsory courses,
+* Students will be required to take 4 extra credits under Engineering Science Elective in lieu of double counting
+of Embedded System and IOT
+21
+14. Detailed Course Content of Programme Compulsory Courses
+Title Fluid Mechanics Number MEL2XX0/ CHL2XX0
+Department Mechanical Engineering/ Chemical
+Engineering
+L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME, CH) Type Program Compulsory (PC)
+Prerequisite
+Objectives
+The instructor will
+1. To inculcate the fundamental laws governing fluid flow
+2. Help the students to understand the importance and application of fluid mechanics.
+3. To exemplify concepts of similarity and model testing
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply fundamental knowledge in modelling and analysis of fluid flow problems in engineering
+2. Interpret data from experiments of fluid flows and solve using differential equations and charts
+Contents
+Introduction [2 Lecture]: Definition and properties, continuum approach, types of fluids, basics of vector
+calculus and index notations.
+Fluid statics [4 Lectures]: Basic equations, Manometry, hydrostatic force on submerged bodies, rigid body
+motion.
+Integral analysis of fluid flow [4 Lectures]: Reynolds transport theorem, conservation equations.
+Differential analysis [5 Lectures]: Kinematics of fluids - Deformations in fluid particle, strain rate, vorticity,
+stream function, potential function, streamlines, pathlines, streaklines, derivation of Navier-Stokes equations.
+Incompressible Inviscid flow [6 Lectures]: Euler’s equation, Bernoulli’s equation, elementary potential flows,
+superposition of elementary flows. Vorticity and vortex flows
+Internal Incompressible Viscous flow [4 Lectures]: Hagen-Poiseuille and Couette flows, skin friction and loss
+coefficients, venturimeter, orifice meter and Pitot tube.
+External Incompressible Viscous flow [5 Lecture]: Boundary layer over flat plate, boundary layer thickness,
+Prandtl-boundary layer equations, momentum integral equation, adverse pressure gradient & separation, drag
+coefficients.
+Dimensional analysis and similarity [2 Lectures]: Buckingham Pi theorem and examples.
+Introduction to Turbulent flows [3 Lectures]: Decomposition of instantaneous velocities, time-averaged continuity
+and Navier-Stokes equations, Reynolds stresses, turbulent viscosity.
+Basics of Compressible flow [3 Lectures]: Acoustic waves, isentropic equations, concept of shock waves
+Few Industrial Applications [4 Lectures]: Pipe networks, Flow past immersed objects, Agitation and Mixing.
+Text Book
+1. Fox, R. W., Pitchard, P. J and McDonald, A. T., (2010), Introduction to Fluid Mechanics, 7thEdition, John
+Wiley & Sons Inc.
+2. Munson, B. R., Rothmayer, A. P., Okiishi, T’H., and Huebsch, W. W. (2009),Fundamentals of Fluid
+Mechanics, 7th Edition, John Wiley and Sons
+3. Kundu, P. K, Cohen, I. M and Dowling, D. R, (2014), Fluid Mechanics, 6th Edn., Associated Press.
+4. McCabe, W.L., Smith, J.C., Harriott, P., (2005), Unit Operations of Chemical Engineering, 7th edition,
+McGraw-Hill International edition.
+22
+Reference Books
+1. White, F. M.,(2003), Fluid Mechanics, 5thEdition, McGraw-Hil
+2. Cimbala, J.M. and Cengel, Y.A., (2010),Fluid Mechanics: Fundamentals and Applications, McGraw-Hill
+3. Bird. R. B., Stewart, W. E. and Lightfoot, E. N., 2006, Transport Phenomena, 2nd edition, John Wiley & Sons.
+4. Panton, Ronald L - Incompressible flow, John Wiley & Sons, 2006. Third edition is available from Wiley
+Student Edition
+Self-Learning Material
+1. S. Chakrabarty, Introduction to Fluid Mechnics, NPTEL Course Material, Mechanical Engineering, IIT
+Kharagpur, https://nptel.ac.in/courses/112/105/112105269/
+2. V.Shankar, Fluid Mechanics, NPTEL Course Material, Chemical Engineering, IIT Kanpur,
+https://nptel.ac.in/courses/103/104/103104044/#
+3. Nishith Verma, Fluid Mechanics, NPTEL Course Material, Chemical Engineering, IIT Kanpur,
+https://nptel.ac.in/courses/103/104/103104043/
+23
+Title Heat Transfer Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite Basics of Thermodynamics & Fluid
+Mechanics
+Objectives
+1. To inculcate understanding, formulation, designing and solving problems with concepts in conduction,
+convection and radiation
+2. To explain design concepts of fins, heat exchangers
+3. To introduce physical background associated with empirical correlations for heat transfer coefficients
+using real world problems
+Learning Outcomes
+The students will have the ability to:
+1. Analyze empirical situation of steady and transient conduction heat transfer
+2. Evaluate transfer coefficients in natural and forced convection in and out of control areas
+3. Assess performance of various heat exchangers
+4. Solve numerical problems related to conduction and radiation heat transfer
+Contents
+Introduction (1 Lectures): Modes of heat transfer, Fourier’s law, conductivity, diffusivity
+Introduction to Heat conduction (3 Lectures): General heat conduction equations, 1D Heat conduction, Boundary and
+initial conditions, Heat generation
+Steady heat conduction (4 Lectures): Heat conduction in plane wall, cylinder, sphere, network analysis, critical
+radius of insulation, heat transfer from fins
+Transient heat conduction (4 Lectures): Lumped system analysis, transient heat conduction in large plane walls, long
+cylinders and sphere with spatial effect, Heisler and Grober charts
+Introduction to convection (4 Lectures): Velocity and thermal boundary layer, laminar, turbulent flows, solution
+of boundary layer equations, Non-dimensional numbers
+External heat transfer (3 Lectures): Drag and heat transfer, parallel flow over flat plates, flow across cylinders and spheres
+Internal heat transfer (4 Lectures): Mean Velocity and Temperature, Critical Reynolds number, The entrance regions,
+Hydrodynamic and thermal entry lengths, fully developed flow
+Natural/free convection (3 Lectures): Physical Mechanism, Natural convection over surfaces, Criteria for forced and
+natural convection
+Boiling and condensation (3 Lectures): Boiling Curve, Nucleate boiling, film boiling, Dropwise and film condensation,
+Nusselt’s theory of film condensation
+Heat Exchangers (4 Lectures): Classifications, Overall Heat Transfer Coefficient, LMTD, Effectiveness-NTU method,
+Operation Issues, Introduction to Design of Heat Exchanger
+Introduction to radiation (5 Lectures): Physical Mechanism, Radiations laws, Intensity of Radiation, gray body
+View factors (4 Lectures): View Factor Integral for diffuse surfaces, Radiation exchange, Electric Circuit Analogy
+Text Book
+1. Incropera, F. P. & Dewitt, D. P.,(2011),Fundamental of Heat and Mass Transfer, John Wiley & Sons
+2. Cengel, Y. A. & Ghajar, A. J.,(2008),Heat and Mass Transfer, McGraw Hill
+3. Sukhatme S.P., (2005), A Text Book on Heat Transfer, Universities Press
+Reference Books
+1. Holman J.P., Heat Transfer, Tata McGraw-Hill Edition, New Delhi
+2. Bejan A., Heat Transfer, Fourth Edition, John Wiley and Sons
+Self-Learning Material
+1. https://www.youtube.com/watch?v=qa-PQOjS3zA&list=PL5F4F46C1983C6785
+24
+Title Thermofluids Engineering Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–1–0 [4]
+Offered for B.Tech (ME) Type Programme Compulsory (PC)
+Prerequisite Basics of Thermodynamics and
+Fluid Mechanics
+Objectives
+1. Introduce various energy conversion devices using fluid and thermal energy
+2. To analyses the performance of various energy conversion cycles and devices
+Learning Outcomes
+1. Fundamental understanding on the thermodynamics cycles used in various energy conversion systems
+2. Performance analysis of various machines used in power plants, automobiles and refrigeration systems
+Contents
+Introduction [2 Lectures]: Basics of Fluid Mechanics and Thermodynamics Laws
+Fuels and Combustion [3 Lectures]: Introduction to combustion, Reacting systems, Stoichiometry and exhaust gas
+composition, Heat of formation, Adiabatic Flame Temperature
+IC Engines [5 Lectures]: Introduction to SI and CI engines, Air standard cycle analysis, 2-S and 4-S engines, SI
+& CI engine combustion, Performance and testing of SI and CI engines.
+Emissions [2 Lectures]: IC engine emissions, after treatment systems, Low carbon propulsion techniques ; Steam
+Power Plants [5 Lectures]: Steam power plant cycle, reheating, regeneration, co-generation, Layout of a thermal
+power plant, classification of steam generators.
+Gas Turbine Power Plants [5 Lectures]: Layout of gas turbine power plant, Brayton Cycle, with reheat,
+intercooling, regeneration.
+Refrigeration Systems and Cycles [6 Lectures]: Performance parameters, Bell Coleman refrigeration cycle, Vapour
+compression refrigeration, Vapour absorption system.
+Psychrometry and its applications [4 Lectures]
+Turbines [4 Lectures]: Euler’s equation, velocity triangle, similarity laws & specific speed, Hydraulic Turbines:
+Impulse and reaction machines, Pelton-Turbine, Francis Turbine, Kaplan Turbine.
+Pumps [2 Lectures]: Centrifugal pump, Performance analysis, Pump Characteristics
+Compressors and Gas Turbines [4 Lectures]: Centrifugal Compressors, Stalling and Surging, Axial flow
+compressors, stage velocity triangles, Axial Gas Turbines.
+Textbook
+1. Heywood, J. B. (2004), Internal Combustion Engine Fundamentals, MIT Press.
+2. El-Wakil, M.M, (1985), Power Plant Technology – Mc -Graw Hill.
+3. Stocker, W. F and Jones J. W, (1983), Refrigeration & Air Conditioning, McGraw-Hill
+4. Dixon, S.L. (2005), Fluid Mechanics & Thermodynamics of Turbomachinery, 5th edition, Elsevier.
+Reference Books
+Cimbala, J. M. and Cengel, Y. A, (2010), Fluid Mechanics: Fundamentals and Applications, McGraw-Hill
+25
+Title Heat Transfer Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Heat Transfer
+Objectives
+The instructor will:
+1. Provide the practical knowledge with regard to the determination of rate of heat exchange in various modes
+of heat transfer
+2. Provide practical exposure to various temperature measurement instruments and its working principle
+Learning Outcomes
+1. The students will have the ability to:
+2. Compare the performance of different convection processes
+3. Measure the heat transfer properties of various metals
+4. Understand basic laws of radiation heat transfer
+5. Measure the temperature of objects using different temperature measurement instruments
+Contents (13-14 Classes)
+1. Study on Temperature distribution during 1-D heat transfer in (a) Plain Wall (b) Cylinder.
+2. Measurement of Thermal Conductivity of unknown material.
+3. Effect of Size of Plain wall on Temperature distribution and contact resistance.
+4. Demonstration of domestic solar water heating system (Time vs Temperature plots).
+5. Investigation of the influence of solar luminous intensity, the water flow rate and the angle of incidence of
+the light on the efficiency and temperature difference.
+6. Study on forced and free convection heat transfer for flow over flat plate, Tube bundle and Fins.
+7. Testing the accuracy and time response of different temperature sensors (PT100, NTC, Thermocouple,
+Mercury Thermometer, Gas Pressure Thermometer, Bimetallic Thermometer).
+8. Calibration of PT100 temperature sensor and derive equation of temperature as function of resistance.
+9. Calibration of K-Type thermocouple temperature sensor and derive equation of temperature as function
+of voltage.
+10. Study on validation of different radiation laws (a) Lambert’s Distance Law (b) Lambert’s Direction Law
+(Cosine Law) (C) Stefan Boltzmann’s Law.
+11. Study on Heat Exchangers (a) Parallel Flow and (b) Counter Flow
+12. Lab Course Project
+Reference Books
+1. Incropera, F. P. & Dewitt, D. P.,(2011),Fundamental of Heat and Mass Transfer, John Wiley & Sons
+2. Cengel, Y. A. & Ghajar, A. J.,(2008),Heat and Mass Transfer, McGraw Hill
+3. Sukhatme S.P., (2005), A Text Book on Heat Transfer, Universities Press
+26
+Title Fluid Mechanics Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fluid Mechanics
+Objectives
+1. To introduce various forms of flow measuring devices and techniques
+2. To provide hands on experience on in the area of experimental fluid mechanics
+Learning Outcomes
+The students will have:
+1. Ability to design experimental methods for fluid flow problems
+2. Ability to interpret data from experiments of fluid flows and usage of charts and hand books
+Contents (13-14 Classes)
+1. Determination of head loss in pipes having different diameters, different materials and different
+roughness
+2. Determination of pressure drop at different types of bends and valves
+3. Reynolds apparatus to measure critical Reynolds number for pipe flows
+4. Measurement of Cp distribution on a cylinder
+5. Wake survey experiments in a flow over a cylinder
+6. Impact of jet on flat and curved plates
+7. Wind tunnel calibration using Pitot static tube
+8. Working principle of different flow meters (orifice plate, venture meter, turbine, Rota meter,
+electromagnetic flow meter)
+9. Effect of change in cross section and application of the Bernoulli equation
+10. Flow measurement around an object or blockage using PIV techniques
+11. Class projects for designing and measurement of simple fluid mechanics experiments
+Reference Books
+1. Fox, R. W., Pitchard,P. J.,and McDonald, A. T., (2010), Introduction to Fluid Mechanics, 7thEdition, John
+Wiley & Sons Inc.
+2. Cimbala, J.M., Cengel, Y. A. (2010),Fluid Mechanics: Fundamentals and Applications, McGraw-Hill
+27
+Title Thermofluids Lab Number MEP4XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fluid Mechanics
+Objectives
+1. To provide hands on training on the operation of the different energy conversion devices
+2. To enable practical visualization of complex energy conversion processes
+Learning Outcomes
+The students will have:
+1. Ability to interpret data from experiments on energy conversion and usage of charts and hand books
+2. To enable novel designs for new generation ThermoFluids technologies of hybrid and non-hybrid
+character
+Contents (13-14 Classes)
+1. Performance characteristics of Pelton turbine
+2. Performance characteristics of Francis turbine
+3. Performance characteristics of Centrifugal pump
+4. Performance analysis of Pumps in series and parallel
+5. Vapor absorption refrigeration
+6. Vapor compression refrigeration
+7. Ventilation experimentation facility and analysis
+8. Compresses air vortex tube
+9. Steam jet refrigeration Engine performance, Morse test
+10. Emission measurements
+11. Investigation of flames and spray structure
+Reference Books
+1. Heywood, J.B. (1988). Internal Combustion Engine Fundamentals.
+2. Ei-Wakil,M.M, (1985),Power Plant Technology, Tata McGraw-Hill
+3. Jordan, R. C. & Priester, G. B., (2003), Refrigeration & Air conditioning, Prentice Hall of India
+4. Sheperd, D. G., (1983),Principles of Turbomachinery, Mac Millan
+28
+Title Mechanics of Solids Number ME2XX
+Department Mechanical Engineering L-T-P-Th [C] 3–1–0–0 [4]
+Offered for B.Tech (ME) Type Programme Compulsory (PC)
+Prerequisite
+Objectives
+1. To inculcate fundamental concepts of stress, strain and deformation of solids
+2. Fundamental of applying equilibrium, compatibility and forced deformation relationships to structural
+elements
+Learning Outcomes
+1. Apply the fundamentals to analyze structural members
+2. Physical insight into distribution of stresses and strains in structural members
+3. Ability to design structural members using dimensions, force-displacement relationships, boundary
+conditions, loading and allowable stress
+Contents
+Stress and strain [10 Lectures]: Concept of stress at a point, Plane stress case: transformation of stresses at a point,
+principal stresses and Mohr's circle, Displacement field, Concept of strain at a point, Plane strain case:
+transformation of strain at a point, principal strains and Mohr's circle, Strain Rosette, Polar coordinates in stress
+and strain analysis. St. Venant’s principles and stress concentrations
+Mechanical behaviour [8 Lectures]: Concepts of elasticity, plasticity, strain hardening, failure (fracture/yielding),
+Generalized Hooke's law (without and with thermal strains) for isotropic materials, orthotropic and
+anisotropic materials, Force displacement relationship and geometric compatibility for axially loaded members
+and thin walled pressure vessels
+Static Analysis[5 Lectures]: Complete equations of elasticity; Force analysis (axial force, shear force, bending
+moment, and twisting moment diagrams) of slender members
+Elastic Bending[5 Lectures]: Moment curvature relationship for pure bending of beams with symmetric cross
+section, bending stress, shear stress; Cases of combined stresses, Deflection due to bending, Integration of the
+moment curvature relationship for simple boundary conditions, Stress concentrations
+Elastic torsion[5 Lectures]: Torsion of circular shafts and thin walled tubes, Stress concentrations
+Strain Energy[5 Lectures]: Concept of strain energy, strain energy for simple structural elements, Castigliano's
+theorems for deflection analysis and indeterminate problems;
+Elastic Buckling [4 Lectures]: Concept of elastic instability, Introduction to column buckling, Euler's formula
+Text books
+1. Crandall, S.H., Dahl, N.C., and Lardner, T. J., (1978), An Introduction to the Mechanics of Solids, McGraw Hill,
+Second Ed. with SI Units.
+2. Beer, F.P, Johnston, E.R. and De Wolf, J.T., (2004), Mechanics of Materials, Tata McGrawHill.
+3. Popov, E.P., (1990),Engineering Mechanics of Solids, First Ed. Prentice Hall
+4. Meriam, J.L. and Kraige, L.G., (1980), Engineering Mechanics, Vol. 1: Statics, 2nd Ed. John Wiley
+5. Timoshenko, S.P. and Goodier, J.N. ``Theory of Elasticity``, McGraw-Hill, International Edition, 1970.
+Self Learning Materials:
+1. https://nptel.ac.in/courses/105/106/105106116/
+2. https://nptel.ac.in/courses/105/102/105102090/
+3. https://nptel.ac.in/courses/105/104/105104160/
+29
+Title Kinematics and Dynamics of Machines Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite Engineering Mechanics
+Objectives
+1. To cover the kinematics and dynamics of planar single degree freedom mechanisms
+2. To develop skills for designing and analyzing linkages, cams, gears and other mechanisms
+3. To teach students concepts of Newtonian dynamic analysis of mechanisms and machines
+Learning Outcomes
+1. To analyze position, velocity and acceleration kinematics of mechanisms
+2. Evaluation of forces and torques in mechanism and machines in operation
+3. To understand the implication of computed results to improve design of machines
+Contents
+Part I: Kinematics [21 Lectures]
+Kinematics and Mechanism [2 Lectures]: Links, Kinematic pairs, Kinematics diagram and inversion, mobility,
+range of movements, Equivalent linkage
+Motion characteristics of Mechanism [5 Lectures]: Displacement analysis of planar mechanisms analytical
+methods, Plane motion of a rigid body, Velocity analysis: analytical and Instantaneous Centre of Velocity
+methods, Coriolis component of acceleration, Acceleration analysis
+Mechanism Synthesis [4 Lectures]: Function, Path, and Motion Generation, Three Position Dimensional Synthesis
+Cam follower mechanism [5 Lectures]: Classification of Cam and followers, nomenclature, description and
+analysis of follower motion, pressure angle, Determine of basic dimensions and synthesis of cam profiles
+Gear and gear train [5 Lectures]: Spur gears and gear terminology, Fundamental law of gearing, Involute
+profile, Interference and undercutting, Minimum number of teeth, Contact ratio, Helical gears on parallel
+shafts, Bevel helical, Spiral and Worm gears. Simple, compound, epicyclic gear trains, planetary gear trains.
+Part I: Dynamics [21 Lectures]
+Introduction to Dynamics [2 Lectures]: Dynamics lumped-parameter models of mechanical systems, Newton’s
+Law, Inertia and D Alembert Principle, Energy Method
+Dynamics of Rigid bodies [6 Lectures]: Solution Methods: superposition and simultaneous equation solution,
+Newtonian Approach, Shaking force and Shaking Moments, Applications to Linkage and Single and Multi-
+cylinder engines, Controlling Input Torque - Flywheel Design
+Balancing [5 Lectures]: Static unbalance, static balancing machines, dynamics balancing, applications to
+balancing of linkage, single and multi-cylinder engines
+Vibration Analysis [4]: Introduction, Basic features of vibratory systems, single degree freedom systems
+Dynamics of Cams [3 Lectures]: Rigid and elastic body cam system, analysis of eccentric cams, analysis of elastic
+cam systems, lumped models of cams and vibration analysis.
+Gyroscope [1 Lecture]: Gyroscopic Torque
+Laboratory Classes (12 Classes)
+Experimental: Coriolis Acceleration, Gear Trains, Static and Dynamic Balancing, Vibration Analysis,
+Gyroscope, Cam Dynamics
+Matlab-based: Analytical Position, Velocity and Acceleration Analyses, Synthesis of CAM, Force analysis
+using Newtonian solution approach - simultaneous equation solution
+Reference Books
+1. Ghosh, A. & Mallik, A. K., (2009), Theory of Mechanisms, and Machines, 3rd Edition, East West Press
+2. Norton, R. L., (2009), Kinematics and Dynamics of Machinery, Tata McGraw Hill
+3. Uicker, J. J., Pennock, G. R. and Shigley, J. E., (2009), Theory of Machines and Mechanisms, 3rd Edition,
+Oxford University Press
+4. Waldron, K. J. & Kinzel, G. L., (2004), Kinematics, Dynamics and Design of Machinery, 2nd Edition, Wiley
+5. Thomson, W. T., Theory of Vibrations with Applications, CBS Publishers & Distributors
+6. Paul, B., Kinematics and Dynamics of Planar Mechanisms’, Prentice Hall, 1979.
+30
+Self-Learning Material
+1. Ashok K Mallik, Kinematics of Machines, NPTEL Course, Department of Mechanical Engineering, IIT
+Kanpur, Link: https://nptel.ac.in/courses/112104121/
+2. Amitabh Ghosh, Dynamics of Machines, NPTEL Course, Department of Mechanical Engineering, IIT
+Kanpur, Link: https://nptel.ac.in/courses/112/104/112104114/
+31
+Title Design of Machine Elements Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–2–0 [4]
+Offered for B.Tech (ME) Type Programme Compulsory (PC)
+Prerequisite Basic knowledge in Mechanics
+and kinematics
+Objectives
+1. Understand the nomenclature and selection of machine elements
+2. To be able to design machine components taking into consideration stress concentration, failure and
+fatigue.
+Learning Outcomes
+1. Understanding different types of failure modes of machine components and their role in engineering
+design
+2. To compare the design options involving various machine elements used in the machine design process
+and to graphically represent them using computer aided design software
+Contents
+Introduction to Engineering Design[5 Lectures]: Life cycle approach to Design, Mechanical Engineering Design,
+Design Considerations, Design Methods, Engineering Materials and their Mechanical properties Use, types
+of codes & standards in Design, Selection of preferred sizes, Behavior of Ductile & Brittle material, Stress-
+Strain Diagram for various materials. Material selection in design
+Design for strength [5 Lectures]: Failure Criteria such as Maximum Normal and Shear Stress theory, Distortion
+energy theory;
+Stress Concentration [4 Lectures]: Stress concentration factor, Stresses in members subjected to axial, shear,
+Bending, Torsional & Eccentric loading, Fatigue Failure, Endurance Limit & Strength.
+Design of members [5 Lectures]: Problems on design of members for finite & infinite life in members subjected
+to individual & combined loading.
+Design of shaft and couplings [5 Lectures]: Types, Design of solid & hollow shaft on strength and rigidity basis
+with steady loading subjected to pure torsion. Design of shafts carrying pulleys & gears (Combined loading).
+ASME Code for shaft design. Selection and design of Keys, Cotter & Knuckle Joints and couplings.
+Classification and Selection of Bearings.
+Design of Riveted, Bolted and Welded joints [5 Lectures]
+Design of Helical springs [3 Lectures]
+Classification and selection steps for main components of belt, rope and chain drives [4 Lectures]
+Classification, application and design consideration of clutches and brakes [4 Lectures]
+Laboratory Classes [12 Classes]
+1. Experimental sessions on machine drawing exercises (sketching and on CAD software)
+2. Design project
+Textbook
+1. Shigley, J. E., Mischke, C., Nisbett, K., and Richard, B., (2008), Mechanical Engineering Design, McGraw Hill
+Education
+2. Spotts, M. F. & Shamp, T. E., (2003), Design of Machine Elements, Prentice Hall
+3. Sidheswar, K. N, & Sastry, P. V. V. V., (1997), Machine Drawing, Tata McGraw Hill
+4. Cencil Jensen, Jay D. Helsel, Dennis R. Short, (2012), Engineering Drawing & Design, 7th Edition, TATA
+McGRAW-HILL
+5. Mahadevan, K., Reddy,K.B. (2013), Design Data Handbook for Mechanical Engineers, CBS Publishers &
+Distributors
+6. Dieter, Engineering Design, 4th Ed., McGraw-Hill, 2013.
+32
+Title Control of Mechanical Systems Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–4 [5]
+Offered for B. Tech (ME) Type Program Compulsory
+(PC)
+Prerequisite Basic Knowledge of Systems
+Objectives
+1. Familiarize with methods to characterize dynamical behaviour of a mechanical system using the models
+2. Provide an understanding of the basic concepts of control theory.
+3. Provide a basic understanding of implementing control laws.
+Learning Outcomes
+1. Develop necessary mathematical models from the knowledge of the mechanical engineering discipline,
+and become familiar with various strategies for their representation and solution
+2. Ability to design control systems for LTI systems and implementation using embedded hardware.
+Contents
+Part I: System Modeling and Response [14]
+Introduction to Modelling & Representation [5 Lectures]: Objective, basic modelling concepts & types of models,
+Models of simple mechanical systems, linearization of nonlinear models, Transfer Function Modeling of
+LTI systems, block diagram representation and manipulation, signal flow graphs.
+Basic Characteristics of Feedback System [4 Lectures]: Properties of feedback systems, sensitivity analysis, effect
+of control gain on system performance, effect of disturbances on system performance.
+Response & Stability Analyses [5 Lectures]: Test signals, response of 1st and 2nd order, as well as, higher-order
+systems, poles and zeros and its effect on system response, Stability criteria, BIBO stability, Routh’s stability
+criterion.
+Part II: Control of Mechanical Systems [14]
+Introduction to Control [2 Lectures]: Control objectives, introduction to control problem, open/ closed-loop
+control and structures.
+Root- Locus and Compensator Design [6 Lectures]: Concept of root locus; use of control gain to change pole locations,
+design of lag, lead and lag-lead compensators using root locus techniques, PI, PD and PID controller design
+Applications of control to Mechanical Systems [4 Lectures]: Practical aspect of control implementation - Actuators,
+sensors; Temperature control, Flow control, Pressure and Force control, Vehicle Active Suspension Control,
+Robot control
+Implementation of Control Law [2 Lecturer]: Discretization of control law, Difference equation, computational
+aspect of control law
+Part III Embedded Hardware for Control Implementation [14 Lectures ]
+Introduction to Embedded Processors [08 Lectures]: Concept of Processors; Microprocessors and
+Microcontrollers, Architecture of ARM M0 processors, Memory Interfacing, Memory-mapped peripherals,
+peripherals like GPIOs, Timers, analog inputs.
+Programming of Embedded Processor [06 Lectures]: Introduction to Arm Mbed development
+environment, use of Arm Mbed for programming Embedded processors, digital I/Os and analog I/Os
+interface. Implementing PI, PID controllers using embedded processors
+Laboratory Classes (12 Classes)
+1. Control simulation of different systems i.e. temperature control, robot control using MATLAB as a tool
+[3 Lab classes]
+2. Experiments on DC servo position control, inverted pendulum, helicopter emulator system, Active
+suspension, robot control [6 Lab classes]
+3. Controller implementation using embedded hardware, interfacing sensors and actuators and
+implementation of PI [3 Lab classes]
+33
+Textbook:
+1. Nise, N.S. (2014), Control Systems Engineering, 6th Edition, John-Wiley India, 2014
+2. G. F. Franklin, J. D. Powell and A. E. Emami-Naeini (2002), Feedback Control of Dynamic Systems;
+Prentice Hall Inc.,
+3. Perry Xiao., (2018), Designing Embedded Systems and the Internet of Things (IoT) with the ARM®
+Mbed™, John Wiley & Sons Ltd.
+Reference Books
+1. Ogata, K. (2012), Modern Control Engineering, 5th Edition, Prentice-Hall India, 2012,
+2. Gopal, M. (2000), Control Systems - Principles & Design, 3rdEdition, Tata McGraw-Hill, 2015
+3. Dorf, R.C. & Bishop, R.H. (2008), Modern Control Systems, 11th Edition, Pearson, 200
+Self-Learning Material
+1. Gopal, M., Control Engineering, NPTEL Course Material, Department of Electrical Engineering, Indian
+Institute of Technology Delhi, https://nptel.ac.in/courses/108102043/
+2. Ramkrishna Pasumarthy R., Control Engineering, NPTEL Course Material Department of Electrical
+Engineering, IIT Madras, Link: https://onlinecourses.nptel.ac.in/noc17_ee12/preview
+34
+Title Manufacturing Processes Number MEL2XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. Impart fundamental understanding of various casting, welding and forming processes.
+2. Discuss design methodology and process parameters involve in obtaining defect free component.
+3. Discuss tools, techniques and equipment involved in casting, welding and forming processes.
+Learning Outcomes
+The students will have the ability to:
+1. Select appropriate primary manufacturing process and related parameters for obtaining initial shape
+and size of components.
+2. Design and develop adequate tooling linked with casting, welding and forming operations.
+Contents
+Module 1: Metal Casting Processes [14 Lecture]:
+Introduction to Casting [3 Lectures]: Casting Terminology, Types of pattern and allowances, Applications and
+Challenges.
+Design of various parts [4 Lecture]: Riser and Gating system design, Design principles for mould cavity.
+Solidification [3 Lecture]: Metal flow and solidification; solidification and cooling of casting.
+Types of casting process and defects [4 Lecture]: Expendable and Permanent Mould Casting Processes, Die
+casting and centrifugal casting, Casting defects and inspection of castings.
+Module 2: Welding [14 Lecture]:
+Introduction to Joining Processes [3 Lecture]: Basic requirements and classification of welding processes; Arc
+Welding Processes, Arc welding principle, Welding power source and its characteristics.
+Arc Welding Processes [4 Lecture]: TIG&MIG processes and their parameters; Introduction to other welding
+processes such as submerged arc welding (SAW), shielded metal arc welding (SMAW)
+Advance welding processes [3 Lecture]:Resistance welding processes, friction stir welding (FSW).
+Weldability and thermal aspects [3 Lecture]: Concept of weldability of materials; Thermal Effects in Welding
+(Distortion, shrinkage and residual stresses in welded structures); Welding defects and remedies.
+Allied processes [1 Lecture]: Soldering and Brazing.
+Module 3: Metal Forming Processes [14 lecture]:
+Introduction of metal forming process [5 Lecture]: Mechanical behavior of metals in elastic and plastic
+deformation, stress-strain relationships, Yield criteria, Application to tensile testing, train rate and
+temperature in metal working; Hot deformation, Cold working and annealing.
+Metal Working Processes [5 lecture]: Fundamentals of metal working, Analysis of bulk forming processes like
+forging, rolling, extrusion, wire drawing by slab method,
+Other sheet metal processes [4 Lecture]: Sheet metal forming processes (Die and punch assembly, Blanking,
+piercing, bending etc., Compound and Progressive die), High Energy rate forming processes.
+Text book:
+1. Ghosh, A. and Mallik, A. K., (2017), Manufacturing Science, East-West Press.
+2. Parmar R. S., (2007), Welding Processes and Technology, Khanna Publishers.
+Reference Books
+1. Heine, R. W., Loper, C. R., and Rosenthal, P. C., (2008), Principles of Metal Casting, Tata McGraw Hill.
+2. Conne, L. P., (1989), Welding Handbook- Welding Technology Part-1, American Welding Society.
+3. Black, S. C., Chiles, V, Lissaman, A. J., and Martin, S. J., (1996), Principles of Engineering Manufacture,
+Butterworth-Heinemann.
+4. Groover, M. P., (2011), Introduction to Manufacturing Processes, Wiley.
+5. Kalpakjian, S., and Schmid, S. R., (2001), Manufacturing Engineering and Technology, Pearson.
+6. Riggs, J. L., (1976), Production System-Planning Analysis and Control, John Wiley.
+35
+Self-Learning Material
+1. D. B. Karunakar, Metal Casting, NPTEL Course Department of Mechanical and Industrial
+Engineering, IIT Roorkee, Link: https://nptel.ac.in/courses/112107083/
+2. P. Biswas, Fundamental of Welding Science and Technology, Department of Mechanical Engineering,
+IIT Guwahati, https://nptel.ac.in/courses/112107083/
+3. P. K. Jha, Principles of Metal Forming Technology, Department of Mechanical and Industrial
+Engineering, IIT Roorkee, https://nptel.ac.in/courses/112107250/
+36
+Title Machining Science and Metrology Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite ----
+Objectives
+1. Impart fundamental understanding of various conventional and non-conventional machining
+processes.
+2. Discuss various measuring and gauging techniques used for inspection of machined components.
+3. Discuss various techniques for improvement and assessment of the surface finish.
+Learning Outcomes
+1. Appreciate theories of material removal associated with conventional and non-conventional machining
+processes.
+2. Understand various aspects related with finishing and super-finishing processes.
+3. Apply different inspection techniques to assess the dimensional accuracy of machined components.
+Contents
+Module 1: Conventional Machining Processes [17 Lecture]:
+Introduction [1 Lecture]: Machining Process; Basic working principle of conventional machining processes.
+Tool and Chip formation [4 Lecture]: Configuration, Specification and Classification of machine tools;
+Mechanics of Metal Cutting: Geometry of single point cutting tools; Mechanism of chip formation;
+Orthogonal and oblique cutting.
+Force and temperature analysis [5 Lecture]: Analysis of machining forces and power requirement; Causes,
+effects and control of cutting temperature; Application of cutting fluids.
+Machinability and tool life [3 Lecture]: Machinability concept; Tool Wear; Failure of cutting tools and tool life;
+Cutting Tool Materials; Economics of metal cutting.
+Finishing process [4 Lecture]: Finishing and Super-Finishing Processes: Purpose and application of grinding;
+Selection of grinding wheels and their conditioning methods; Specific energy and power requirement in
+grinding; Super-finishing processes such as Honing, Lapping etc.
+Module 2: Advanced Machining Processes [15 Lecture]:
+Introduction [2 Lecture]: Comparison of non-conventional and conventional methods of machining;
+Classification of the processes; Advantages, limitations and applications.
+Mechanical Processes [7 Lecture]: Abrasive Jet Machining Process, process parameters effect on material
+removal rate, Water Jet Machining (WJM) process; Abrasive Water Jet Machining (AWJM) process;
+Ultrasonic Machining (USM), Material removal in USM.
+Thermo-electric Processes [7 Lecture]: Electric Discharge Machining (EDM); Use of LASERs in machining and
+Laser Beam Machining, Electron Beam Machining (EBM) and Plasma Machining (PM).
+Electrochemical Processes [2 Lecture]: Electroplating and reverse-electroplating; Electro Chemical Machining
+(ECM).
+Module 3: Metrology [10 Lecture]:
+Introduction [3 Lecture]: Introduction to metrology and its relevance; Standardization; Limits, fits and
+tolerances, tolerance grades.
+Measurement [7 Lecture]: Measurement of linear and angular dimensions; Measurement of geometric error
+such as straightness, flatness, parallelism, squareness, circularity and roundness; Surface Metrology:
+Surface topography definitions, Measurement of surface texture, Methods for measurement.
+Text book:
+1. Shaw, M C, (2014), Metal Cutting Principles, Oxford University Press.
+2. McGeough, J A, (1988), Advanced Methods of Machining, Springer.
+3. Mitutoyo, (2015), Metrology Handbook, Mitutoyo.
+Reference Books
+1. Chattopadhyay, A B, (2013), Machining and Machine Tools, Wiley India.
+2. Galyer, J F W, Shotbolt, C R, (1990), Metrology for Engineers, Cassell.
+37
+3. Boothroyd, G., and Knight, W. A., (1932), Fundamentals of Machining and MAchine Tools, CRC Press.
+Self-Learning Material
+1. V. K. Jain, Advanced Machining Processes, NPTEL Course Department of Mechanical Engineering, IIT
+Kanpur, Link: http://nptel.ac.in/courses/112104028/.
+2. M. S. Shunmugam, Metrology, NPTEL Course Department of Mechanical Engineering, IIT Madras,
+Link: http://nptel.ac.in/courses/112106138/.
+3. U. S. Dixit, Mechanics of Machining, NPTEL Course Department of Mechanical Engineering
+Guwahati, Link: http://nptel.ac.in/courses/112103248/.
+4. A. B. Chattopadhyay, Manufacturing Processes II, NPTEL Course of Department of Mechanical
+Engineering, IIT Kharagpur, https://nptel.ac.in/courses/112/105/112105126/.
+38
+Title Productions and Operations Management Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Compulsory
+(PC)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. Familiarize students with basic concepts, techniques and algorithms that help in optimizing the
+performance of manufacturing systems
+Learning Outcomes
+The students will have the ability to:
+1. Appreciate the need of developing mathematical models of conflicting situations and analyze the same;
+2. Select rational options in practical decision-making problems using various techniques and algorithms.
+Contents
+Module 1: Introduction (14 Lecture)
+Introduction [2 Lecture]: System concept of manufacturing; Types of manufacturing systems; Concept of
+productivity.
+Linear Programming [6 Lecture]: Introduction to Linear Programming Problem (LPP); Formulation of
+mathematical model; Applications of LPP; Solution techniques for LPP such as graphical method, simplex
+method and its variants; Special issues in LPP e.g. degeneracy, multiple optimum solutions, infeasibility,
+unbounded feasible region; Sensitivity analysis.
+Transportation problem and Assignment Problem [6 Lecture]: Transportation problem and its applications;
+Solution methods for transportation problem; Transhipment problem; Assignment problem and its
+applications; Solution techniques for assignment problem; Traveling salesman problem.
+Module 2: Inventory Management (14 Lecture)
+Introduction [3 Lecture]: Basic concept and terminology; Inventory classification and inventory costs;
+Concept of Economic Order Quantity.
+Deterministic inventory models [3 Lecture]: Probabilistic inventory models; ABC analysis.
+Project Management [1 Lecture]: Introduction and terms used in project management; Construction of
+network diagram.
+PERT/CPM [4 Lecture]:Deterministic network model - CPM; Probabilistic network model – PERT; Crashing
+of network; Resource leveling and smoothing techniques.
+Waiting Line Models [3 Lecture]:Introduction and terms used in queuing models; Kendall’s notations;
+Classification of queuing models; Mathematical analysis of queuing system using various models; Queuing
+costs
+Module 3: Forecasting (14 Lecture)
+Forecasting [4 Lecture]: Nature and use of forecast; various forecasting models; Measure of forecasting
+accuracy; Selection of forecasting techniques.
+Material Management [4 Lecture]:Product design considerations, Product development, Detailing, Value
+Engineering and its role in product design and cost rationalization, IPR.
+Maintenance Management [3 Lecture]: Objectives, Nature of maintenance problems, Maintenance strategies,
+Organization, Maintenance Information Systems, Spare Parts Management, Maintenance Cost Control,
+Introduction to Total Productive Maintenance.
+Work study [3 Lecture]:Purpose and scope, Productivity and work-study, Method Study and Work
+Measurement; Engineering economy and costing:Fixed cost, variable cost, introduction to break even
+analysis.
+Text book
+1. Buffa E S and Sarin R K, (1987), Modern Production/Operations Management, Wiley.
+2. Taha H A, (2010), Operations Research: An Introduction, Pearson.
+39
+Reference Books
+1. Sen R, (2016), Operations Research, Prentice Hall.
+2. Hiller F S and Liberman G J, (2005), Introduction to Operations Research, McGraw Hill.
+3. Pai J K, (2010), Operations Research, Oxford University Press.
+Self-Learning Material
+1. G Srinivasan, Operations Research, NPTEL Course Department of Mechanical Engineering, IIT Madras,
+Link: http://nptel.ac.in/courses/112106134/1
+2. A Kanda, Project and Production Management, NPTEL Course Department of Mechanical Engineering,
+IIT Delhi, Link: http://nptel.ac.in/courses/112102106/
+40
+Title Digital Fabrication Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite --
+Objectives
+The instructor will:
+1. discuss various techniques involved for the digital presentation of objects
+2. cover fundamentals of various digital manufacturing processes (additive and subtractive) and
+inspection technologies to demonstrate its potential in modern manufacturing industries
+3. introduce concepts of smart manufacturing and Industry 4.0 in manufacturing industries
+Learning Outcomes
+The students will have the ability to:
+1. develop and manipulate digital models of physical objects
+2. program and execute various operations on digital subtractive and additive manufacturing processes
+3. appreciate the recent manufacturing trends related to Industry 4.0 and its implementation
+Contents
+Digital design (14 Lectures):
+Geometric design [7 Lectures]:Geometric design of curves, surfaces and solids
+Shape digitization[7 Lectures]: 3-D object scanning, solid reconstruction from point cloud and tessellated data
+Digital manufacturing (14 lectures):
+Subtractive manufacturing [5 Lectures]:
+Basic programming architecture [5 Lectures]: Control hardware and software details, Tooling, sculptured
+surface machining.
+Additive Manufacturing [4 Lectures]: Introduction to various processes, capabilities and limitations, various
+applications of AM
+Introduction of Industry 4.0 (14 lectures):
+Introduction to Smart Manufacturing [7 Lectures]: IoT applications in Manufacturing, Cloud applications in
+manufacturing.
+Introduction to Computer Aided Process Planning (CAPP)[7 Lectures]: Algorithms for CAPP, CAD-CAM
+development, Industry 4.0 applications in Product Development
+Text Book
+1. Zeid, I and Subramanian R, (2010), CAD/CAM Theory and Practice, Tata McGraw Hill.
+2. Smid P., (2005), CNC Programming Handbook, Industrial Press.
+3. Gibson I, Rosen D W, Stucker B, (2015), Additive Manufacturing Technologies: Rapid Prototyping to Direct
+Digital Manufacturing, Springer.
+Reference Books
+1. Chua C K, Leong K F, Lim C S, (2012), Rapid Prototyping, World Scientific.
+2. Marciniak K, (2006), Geometric Modeling for Numerically Controlled Machining, Oxford University Press
+Self-Learning Material
+1. Asimava Roy Choudhury, CNC Machine Tools and Processes, NPTEL Course Material Department of
+Mechanical Engineering, IIT Guwahati, Link: https://nptel.ac.in/courses/112105211/
+2. John Hart, Additive Manufacturing, MIT Online courseware, Link:
+https://www.youtube.com/watch?v=ICjQ0UzE2Ao
+41
+Title Manufacturing Processes and Systems Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program
+Compulsory (PC)
+Prerequisite Fundamentals of Manufacturing Processes and Systems
+Objectives
+The instructor will:
+1. demonstrate concepts related with primary manufacturing processes by conducting various practical
+exercises
+2. familiarize students with various simulation tools involved in manufacturing processes and systems
+3. explain the software tools and skills required for optimization of manufacturing systems
+Learning Outcomes
+The students will have the ability to:
+1. Appreciate the effect of process parameters on quality of manufactured components
+2. Use various simulation tools and software for designing manufacturing processes and systems
+Contents (13-14 classes)
+1. Studying the effect of the clay and moisture content on sand mold properties
+2. Derivation of cooling curve and mold thermal gradient using thermocouple and data acquisition system
+3. Studying the effect of welding process parameters on bead profile using image processing system
+4. Analysing the problem of heat balance using resistance spot welding setup
+5. Effect of interface lubrication and temperature on bulk deformation characteristics using hydraulic press
+6. Sheet metal punch/die design and layout optimization
+7. Solving linear programming problems using LINGO software
+8. Demonstration of material flow and solidification simulation using Auto-Cast software
+9. Derivation of isotherms and estimation of bead profile using Ansys Software
+10. Development of computational tool using Microsoft excel for solving transportation/Assignment and
+Inventory management problem.
+Reference Books
+1. Laboratory manual of various equipment.
+2. Reveillac J, (2017), Operational research using the spread sheet. Wiley.
+42
+Title Machining and Automated Manufacturing Lab Number MEP4XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fundamentals of Manufacturing Processes and
+Systems
+Objectives
+The instructor will:
+1. Demonstrate concepts related with conventional and non-conventional machining processes by
+conducting various practical exercises
+2. Demonstrate various inspection technologies to examine dimensional control of components
+3. Discuss manual and automated programming of CNC machine tools
+4. Demonstrate steps related to additive manufacturing of components
+Learning Outcomes
+The students will have the ability to:
+1. Appreciate the effect of process parameters on quality of machined components
+2. Use various simulation tools and software related to machining processes
+3. Build and inspect components fabricated using additive processes
+4. Generate and execute part programs for CNC machine tools
+Contents (13-14 classes)
+1. Effect of process parameters on machinability and surface characteristics of machined components
+2. Measurement of cutting forces and analysing effect of process parameters in machining operation
+3. Analysing machining characteristic of hard materials using Laser Beam Machining
+4. Demonstration of hybrid machining concept using Ultrasonic Machining set up
+5. Study of machinability characteristics of various materials using DEFORM software
+6. Manual part programming using CNC turning simulator
+7. Manual part programming using CNC milling simulator
+8. Generation of CNC part programs and CAD/CAM integration
+9. Demonstration of process flow in Additive Manufacturing and discussion of case studies
+10. Measurement of freeform geometries using contact and noncontact inspection systems
+Reference Books
+1. Shaw M C, (2015), Metal Cutting Principles, Oxford University Press.
+2. Smid P., (2005), CNC Programming Handbook, Industrial Press.
+3. Chua C K, Leong K F, Lim C S, (2012), Rapid Prototyping, World Scientific.
+43
+Title Smart Manufacturing Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 2–0–2 [2]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite --
+Objectives:
+The instructor will:
+Introduce students to the fundamentals of smart manufacturing and Industry 4.0
+Learning Outcomes:
+The students will have the ability to:
+1. Appreciate concepts and basic framework necessary for smart manufacturing
+2. Develop understanding about harnessing smartness into manufacturing processes from the data
+Contents:
+Introduction:
+Introduction [5 Lecture]: Introduction to manufacturing processes and systems; Industrial revolutions,
+Background and concept of smart manufacturing.
+Models and key technologies for smart technologies [3 Lecture]
+Automated manufacturing processes [6 lectures]: Elements of smart manufacturing process; sensing elements
+and IoT technologies; data-driven models.
+Decision making systems [4 Lecture]: Decision making systems, Case Studies.
+Automated manufacturing systems:
+Concept of mass production [5 Lecture]: Precision manufacturing, flexible manufacturing and agile
+manufacturing; Concept of edge, fog and cloud computing in manufacturing
+Big data and services in smart manufacturing [5 Lecture]: AR, VR and Mixed Reality in Manufacturing, Case
+Studies
+Text Book:
+1. Wang L, and Vincent W X, (2019), Cloud Based Cyber-Physical Systems in Manufacturing, Springer.
+2. Tao F, Zhang M, and Nee A Y C, (2019), Digital Twin Driven Smart Manufacturing, Academic Press.
+Reference Books:
+Jeschke S, Brecher C, Song H, and Rawat D B, (2017), Industrial Internet of Things – Cyber manufacturing Systems,
+Springer
+Self-Learning Material
+MIT Online Course on Smart Manufacturing: https://professional.mit.edu/course-catalog/smart-
+manufacturing-moving-static-dynamic-manufacturing-operations
+44
+15. Detailed Course Content of Programme Elective Courses
+Title Turbomachinery Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basics of Fluid Mechanics and
+Thermodynamics
+Objectives
+1. To teach about different types of turbomachines used in energy transformations
+2. To introduce basic principles and equation governing the steady and unsteady fluid flow associated with
+Turbomachinery
+3. To impart knowledge of designing turbines vanes using velocity triangles
+Learning Outcomes
+1. To analyse the flow behaviour which depends on the geometric configuration of various turbomachines
+2. Identify and analyse the thermal cycles related to turbomachines
+3. Turbo-machine stage characterization using various design parameters
+Contents
+Introduction [3 Lectures]:Classifications, Eulers equation of Turbomachines, Concept of velocity triangles,
+Expression of Eulers equation showing the components of energy transfer
+Dimensional analysis of incompressible Turbomachines [3 Lectures]: Similarity laws and model testing., concept of
+specific speed and specific diameter, affinity laws, unit quantities
+Hydraulics Turbines [5 Lectures]:Impulse and reaction machines, Analysis of Pelton-Turbine, efficiencies,
+performance characteristics, Analysis of Francis Turbine, Analysis of Kaplan Turbine.
+Centrifugal Pumps [5 Lectures]: Introduction to pumping systems, Centrifugal pumps working principle,
+Efficiencies, losses, operating characteristics, pumps in series and parallel, NPSH, priming and cavitation.
+Compressible flow Turbomachines [6 Lectures]:Introduction to compressible flows, flow choking, review of T-S and
+H-S diagrams of gas turbines and compressors, efficiencies, effect of reheat and preheat. Dimensional analysis
+of compressible flow machines. Lift and drag, blade cascading concept
+Centrifugal Compressors [5 Lectures]: Centrifugal compressors, construction, flow analysis, performance analysis,
+stalling and surging.
+Axial Compressors and Turbines [5 Lectures]: Axial flow compressors, construction details, stage velocity triangles,
+degree of reaction, stage pressure rise, stage pressure coefficient, stage efficiency, Axial Turbines.
+Steam turbines [4 Lectures]: Overview, impulse turbine, speed ratio, idea of velocity and pressure compounding.
+Reaction stages-50% and 100% reaction
+Fans and blowers [4 Lectures]: Axial fans: velocity triangle, stage parameters, performance characteristics
+Centrifugal fan: velocity triangle, stage parameters and performance characteristics.
+Turbomachines used in power transmission[2 Lectures]: Fluid coupling, Torque converter
+Textbook
+1. Dixon, S. L., (2005), Fluid Mechanics & Thermodynamics of Turbomachinery, 5th Edition, Elsevier Science
+2. Cohen, H., Rogers, G. F. C., and Saravanamuttoo, H. I. H., Gas Turbine Theory, Longman Publishing Group
+Reference Books
+1. Sheperd, D. G., Principles of Turbomachinery, Mac Millan
+2. Kearton, W. J., Steam Turbine Theory and Practice, CBS Publishers & Distributors
+45
+Title Refrigeration and Air-conditioning Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic Knowledge in Thermodynamics,
+Thermofluids Engineering
+Objectives
+To study the characteristics and engineering design of heating, ventilating, air conditioning and refrigeration
+and to enable the students to achieve effective and efficient design solutions.
+Learning Outcomes
+1. The students will learn to explain and analyze the refrigeration systems, their various components, and to
+apply them in real system analysis.
+2. They will demonstrate the knowledge of basic principles of refrigeration cycle and psychometry.
+Contents
+Introduction [2 Lectures]: Definition, Necessity, Methods of refrigeration, Coefficient of performance (COP),
+Fundamentals of air-conditioning systems,
+Air Refrigeration Systems [5 Lectures]: Carnot refrigeration cycle, Brayton refrigeration or the Bell Coleman air
+refrigeration cycle, Air craft refrigeration system, Simple cooling and simple evaporative types, Regenerative
+type, Comparison of different systems;
+Vapour Compression (VC) Refrigeration Systems [5 Lectures]: Simple VC refrigeration system - Limitations of
+reversed Carnot cycle with vapor as the refrigerant, Analysis of VC cycle considering degrees of sub cooling
+and super heating, Multistage and cascade refrigeration systems
+Refrigerants [4 lectures]: Definition, Classification, Nomenclature, Desirable properties, Comparative study,
+Introduction to eco-friendly Refrigerants, binary and azeotropic mixtures, alternate refrigerants.
+Other Refrigeration Systems [5 Lectures]: Vapour Absorption Refrigeration System Basic Systems, Actual COP of
+the system, Performance, Relative merits and demerits, Electrolux refrigeration, Steam jet refrigerating system
+- Introduction, Analysis, Relative merits and demerits, Performance applications,
+Psychrometry of Air & Air Conditioning Processes [5 Lectures]: Properties of moist Air-Gibbs Dalton law, Specific
+humidity, Dew point temperature, Degree of saturation, Relative humidity, Enthalpy, Wet bulb temperature,
+Thermodynamics wet bulb temperature, Psychometric chart, Psychometry of air-conditioning processes,
+Mixing process, Basic processes in conditioning of air.
+Load Calculations [4 Lectures]: Outside and inside design conditions, Sources of heating and cooling load, Heat
+transfer through structure, Solar radiation, Electrical applications, Infiltration and ventilation, Heat generation
+inside conditioned space, Human physiology, Comfort chart.
+Controls & Accessories [4 Lectures]: Classifications, Layout of plants, Equipment selection, Air distribution
+system, Duct system design, Filters, Refrigerant piping, Design of summer air-conditioning and Winter air
+conditioning systems, Temperature sensors, Pressure sensors, Humidity sensors, Actuators, Safety controls,
+Accessories;
+Equipment design and selection [4 Lectures]: Type of compressors and their performance curves, Types of
+condensers, Heat transfer in condensers, Types of expansion devices, Types of evaporators, Cooling and
+dehumidifying coils.
+HVAC design for buildings [4 lectures]: Design considerations, Ductwork, Cooling towers, Enclosed stairwells
+and elevator shafts, Smoke exhaust, Noise and vibration considerations, Mechanical equipment rooms,
+Ventilation requirements, Water piping, airflow requirements.
+Textbook
+1. Jordan, R. C. & Priester, G. B., (2003), Refrigeration & Air conditioning, Prentice Hall of India
+2. Arora, C. P., (2008), Refrigeration & Air conditioning, Tata McGraw Hill
+3. Stocker, W. F. & Jones, J. W., (2000), Refrigeration & Air conditioning, Tata McGraw Hill
+4. Prasad, M., (1999), Refrigeration & Air conditioning, Wiley Eastern Limited
+5. Arora, C. P. & Domkundwar, S., (1985), A course in Refrigeration & Air Conditioning, Dhanpat Rai & Sons
+46
+Title Power Plant Engineering Number ME7XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic Knowledge in
+Thermodynamics
+Objectives
+To introduce fundamental technologies related to the conversion of energy resources into electrical power
+generation
+Learning Outcomes
+1. Introduction to power plant components, operation and engineering.
+2. Ability to select an appropriate type of power plant for given requirements under different situations
+3. Optimization of energy efficiency of plant with respect to available resources and energy requirement
+Contents
+Introduction to power plant Engineering [2 Lectures]: National and International status on power generation and
+use
+Thermal Power Plant [5 Lectures]: Plant layout, Thermal power plant equipment, Types of boilers, performance
+of boilers, super critical steam generator,
+Condenser and steam turbines [3 Lectures]: Performance of condensers, types of steam turbines, draught system,
+Latest development in thermal power plants.
+Gas Turbine Power Plant [4 Lectures]: Plant layout, Power cycles, Combustion chamber and gas turbines
+Combine cycle power plants [5 Lectures]: Load type and calculation, Load variation, Use of internal combustion
+engine plant, plant layout and design calculation, combine cycle efficiency
+Nuclear power plant [4 Lectures]: Principles of nuclear energy, Elements of nuclear power plants, Types of
+nuclear fuel, nuclear reactor, Fast breeder reactors, Next generation nuclear plant,
+Hydroelectric power plant [3 Lectures]: Site selection, plant layout, types of plants, water turbine, plant operation,
+water storage and flow duration
+Solar thermal power plant [5 Lectures]: Introduction to solar thermal power generation, type of solar collectors
+and receivers, daily and yearly load variation, Energy storage, Recent advances in solar power plants
+Wind Turbine [3 Lectures]: Wind energy, types of wind turbine, site selection, turbine efficiency
+Other Non-convectional power plants [3 Lectures]: Introduction to fuel cell, gasification, Ocean thermal energy,
+Tidal energy, geothermal energy, challenges and recent developments,
+Hybrid power system [3 Lectures]: Power system selection, design of hybrid power system, power optimization,
+load distribution, plant efficiency
+Selection of power plant [2 Lectures]: Environmental impact, different types of pollutions, fuel availability,
+Economic aspect
+Textbook
+1. Ei-Wakil, M.M, (1985), Power Plant Technology, Tata McGraw-Hill
+2. P. K. Nag, Power Plant Engineering, Tata McGraw-Hill,
+3. F. T. Morse, Power Plant Engineering, D. Van Nostran, New York,
+Self-Learning
+https://nptel.ac.in/courses/112107291/
+47
+Title Solar Thermal Systems Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Programme
+Elective (PE)
+Prerequisite
+Objectives
+1. To deliver knowledge of fundamental principles of solar energy and their utilization.
+2. To make students familiar with the potential of solar energy to meet the growing energy demands of society
+in a sustainable way.
+3. To introduce solar thermal systems and related technologies.
+Learning Outcomes
+1. Knowledge to explain the technical and physical principles of solar collectors and solar thermal systems.
+2. Ability to perform measurements on a wide variety of solar thermal systems and to evaluate their
+performance.
+3. Ability to design solar thermal systems from energy requirements.
+Contents
+Introduction[2 Lectures]: Energy demand and supply, energy crisis, conventional and non-conventional energy
+resources, solar energy applications.
+Solar Radiation [4 Lectures]: Solar radiation, attenuation by atmosphere, solar radiation on earth, measurement,
+utilization of data.
+Flat Plate Solar Collector [5 Lectures]: General description of flat plate collectors, general characteristics,
+performance, short term and long term performance, design.
+Concentrating Solar Collector [5 Lectures]: General description of focusing solar collectors, concentrators,
+receivers and orienting systems, general characteristics, performance, materials, design.
+Energy Storage [5 Lectures]: Energy storage in a solar process system, different types of storages, characteristics,
+and capacity of storage medium, solar pond.
+Solar Cooling and Heating [4 Lectures]: Passive heating and cooling, nocturnal radiation, Solar Cooking, Solar
+Desalination, Solar drying, Solar greenhouse.
+Solar Cooling and Heating [4 Lectures]: Active heating and cooling, solar water/air heaters, absorption cooling,
+combined solar heating and cooling systems, performance, economics of solar heating and cooling.
+Solar Thermal Power and Process heat [5 Lectures]: Solar thermal power, Examples: Rankine solar thermal power
+plant, Stirling Cycle, Solar industrial process heat.
+Solar Thermal Design[4 Lectures]: Concept of system design, performance index, Simulation of Process, System
+performance, Design methods.
+Economics and policies for Solar Energy [4 Lectures]: Definitions, Life cycle Costing, Economic Analysis, Payback
+period, current policies, clean development.
+Textbook
+1. John A. Duffie, William A. Beckman. John, (2013), Solar Engineering of Thermal Processes, Fourth Edition,
+Wiley & Sons, Inc.
+2. Garg, H.P and Prakash, J, (2012) Solar Energy: Fundamentals and Applications, Tata McGraw – Hill Education
+3. Tiwari, G.N. (2002), Solar Energy Fundamentals, Design, Modelling and Applications. Narosa publishing House,
+Delhi
+4. Sukhatme, P, K and Nayak, J.K. (2008), Solar Energy, Tata McGraw-Hill Education, 3rd Ed.
+Self-Learning Material
+1. https://nptel.ac.in/courses/112/105/112105051/ (video course)
+2. Excerpts, references, reading material, examples, problems & their solutions will be made available at the
+time of the course.
+48
+Title Non-Conventional Sources of Energy and
+Emerging Technologies
+Number ME7XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech/M.Sc./M.Tech/M.Tech-
+Ph.D./Ph.D.
+Type Programme Elective (PE)
+Prerequisite
+Objectives
+The Instructor will:
+1. Deliver knowledge of fundamental principles of non-conventional sources of energy and their utilization.
+2. Teach important technologies of producing power from non-conventional and alternative energy sources.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand various energy sources such as solar, wind, hydropower, biomass, geothermal, and emerging
+technologies.
+2. Utilize the potential of non-conventional energy sources and their applications.
+Contents
+(Fractal 1) ME7XX1 Principles of Non-Conventional Sources and Solar Energy (1-0-0)
+Introduction to non-conventional energy sources [4 Lectures]: Availability and form of delivery; Energy consumption
+and conservation; Sustainable development; Standards and Regulations.
+Solar radiation [5 Lectures]: Distribution, measurement and data; Solar energy collectors; Photovoltaic cell;
+Parabolic trough; Parabolic dish; Central receiver system; Solar energy storage.
+Applications of solar energy [5 Lectures]: Solar distillation, Solar cooker, Solar drying, Solar greenhouse, Solar water
+heating, Solar heating and cooling of buildings.
+(Fractal 2) ME7XX2 Wind and Hydro Energy (1-0-0)
+Wind Energy [5 Lectures]: Wind data, Estimation and site selection; Principle of wind energy conversion- system
+and its components; Wind turbine and estimation of power output; Energy storage.
+Application of wind energy [2 Lectures]: Applications and Environmental Aspects.
+Hydro-electric power [5 Lectures]: Introduction and its classification; Typical components of micro/mini
+hydropower station; Water turbine; Pelton wheel turbine; Working principle, Performance and limitations.
+Ocean wave energy [2 Lectures]: Working principle, Performance and limitations.
+(Fractal 3) ME7XX3 Geothermal, Biomass and Emerging Technologies (1-0-0)
+Geothermal Energy [4 Lectures]: Geothermal sources;Geothermal system and technologies; Ground-source heat
+pumps; Social and environmental aspects; Applications.
+Biomass Energy conversion [4 Lectures]: Biomass conversion technologies, Classification, Advantages, and
+disadvantages; Production of biomass, Photosynthesis; Biogas generation; Properties of biogas and its
+purification; Applications.
+Fuel cell [4 Lectures]: Working principle, Performance and limitations; Hydrogen Energy, Production methods,
+Storage and Transportation.
+Hydrogen as an alternative fuel for vehicles [2 Lectures]
+Textbook
+1. J. Twidell, T. Weir, Renewable Energy Resources. 3rd Ed., Taylor & Francis Group, London, 2015.
+2. J. A. Duffie, W. A. Beckman, Solar Engineering of Thermal Processes. 4th Ed., Wiley & Sons, Inc., 2013.
+3. B.H.Khan, Non-Conventional Energy Resources. Tata McGraw-Hill Education, New Delhi, 2009.
+Self-Learning Material
+Dr. P. Haridoss, Non-Conventional Energy Resources, NPTEL Course Material, IIT Madras.
+https://nptel.ac.in/courses/121/106/121106014/
+49
+Title Porous Media Flows and Applications Number ME6XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic knowledge in Fluid Mechanics
+Objectives
+1. To impart the basic dynamic phenomena that occurs in within porous media from a mathematical and
+numerical perspective.
+2. To apply different flow based equation to model porous flows in different media such as biomaterials,
+contaminant separation media, soils, etc.
+Learning Outcomes
+1. To exemplify how different porous processes occur in different multi-physical settings.
+2. To apply empirical and deterministic porous media equations to model and design processes occurring in
+distinct phases.
+3. To understand and identify different porous flow phenomena in biological, material transport, chemical as
+well as soil related contexts.
+Contents
+Basic concepts [6 Lectures]: Basics of porous materials, porosity, tortuosity, percolation, infiltration, soils, permeability,
+porous materials, biomaterials and their classifications, flow types, fluid types, nature of different fluids in different setting
+such a bio-fluid flows, ground water flows, water percolation and so on.
+Visualizing and Experimental observation [6lectures] Understanding the porous nature, imaging techniques, microscopy
+and advanced methods, tomography methods, Hydrostatic- permeability measurements, Pressure variation. porosity
+measurement, capillary diaphragm methods, CT-scan and spectrometer method,
+Modelling Basics [6 Lectures]: , Darcy’s thought, Random walks and the advection diffusion equation, Network Models,
+Unit cells, volume averaging, elemental volumes, Statistical Descriptors Fractal Models, Effective Medium, Mixture
+Theories, Double Porosity Models,
+Types of Media [5 lectures] Homogenous porous media, Stokes Thought, Karmen-Kozeny and Ergun’s thought, Hazen-
+Dupuit-Darcy (HDD) models, Percolation Wettability, Klinkenberg effects, heterogeneous porous media,
+Mass and Momentum transport [6 Lectures]: Brinkman and Generalized Momentum aspects, Hydrodynamic boundary
+layers, Wall Channelling, Viscous fingering (application of box-counting for fractal dimension),
+Thermal Aspects: [6lectures] Thermal properties and applications, Thermal dispersion, thermal conductivity measurement,
+lumped capacitance models, local thermal Non-equilibrium models, thermodynamics of Interface
+Energy Perspective [6 Lectures]: Forced convection thought, Nusselt numbers, energy equation appended with flows viscous
+dissipation, porous media as heat exchangers, pipes and channels with porous media fillings, Non Darcy flows, Heat
+Generation, Boundary layer calculations.
+Textbook
+1. Nield Donald A and Bejan Adrian, Convection in Porous Media, Fifth Edition, Springer Verlag
+2. M. Kaviany, Principles of heat transfer in porous media, Second Edition, Springer Verlag
+3. Arunn Narasimhan, Essentials of Heat and Fluid Flow in Porous Media, Ane Books Pvt Ltd.
+4. Caffarelli L.A., Karakhanyan A.L. (2010) Lectures on Gas Flow in Porous Media. In: Cabrelli C., Torrea J.
+(eds) Recent Developments in Real and Harmonic Analysis. Applied and Numerical Harmonic Analysis.
+Birkhäuser, Boston, MA
+5. Dullien, F.A.L. (1979), Porous Media, Academic Press
+6. Scheidegger, Adrian E. (1974). The Physics of Flow Through Porous Media, 3rd Edition. University of
+Toronto Press
+Reference Books
+1. J. Bear, Dynamics of Fluids in Porous Media, Dover, 1972.
+2. J. Cushman, The Physics of Fluids in Hierarchical Porous Media: Angstroms to Miles, Springer, 1997.
+50
+3. M. Beran, Statistical Continuum Theories, Wiley Interscience,1968.
+4. S. Torquato, Random Heterogeneous Materials, Springer, 2002.
+51
+Title Micro-Nano Flows Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Program Elective (PE)
+Prerequisite Fluid Mechanics & Heat Transfer
+Objectives
+1. To inculcate the physics of liquid transport in micro-nano fabricated systems.
+2. To introduce theory and physical principles of fluid mechanics on the microscale
+Learning Outcomes
+The students will have the ability to:
+1. Understand physics involved in fluid flow in micro-nano fabricated systems
+2. Solve problems of fluid flows in microchannels
+Contents
+Hydrodynamics Review [3 Lectures]: Continuum assumption, Conservation equations at Continuum level, Low
+Reynolds’s no. flows-creeping flows, Physics of miniaturization, Scaling laws.
+Fluid mechanics at Micro-scale [4 Lectures]: Intermolecular forces, States of matter, Governing equations,
+Constitutive relations, Gas and liquid flows, Boundary conditions, Slip theory-first order and higher order
+models, Transition to turbulence.
+Shear driven Flows [6 Lectures]: Couette Flow- Slip flow regime, Transition and Free molecular, Oscillatory
+Couette Flow, Cavity Flow
+Pressure driven Flows [6 Lectures]: Micro channel flows- Slip flow regime, Transition and Free molecular,
+Entrance flows, Effects of Roughness, compressible micro channel flows
+Thermal Effects in Microscales [6 Lectures]: Thermal Creep, Heat Transfer in Poiseuille Microflows- Pressure-
+Driven Flows, Force-Driven Flows, Heat Transfer in Couette Microflows
+Surface Tension-Driven Flows [5 Lectures]: Surface tension and interfacial energy, Different forms of Young’s
+Equation, Thin Films, Capillary flows.
+Electrokinetic Flows [6 Lectures]:Electrokinetic Effects, Electric Double Layer, Governing Equations,
+Electroosmotic Flows, Electrophoresis, Dielectrophoresis, Electrocapillary, Continuous electro-wetting, Direct
+electro-wetting, Electro-wetting on dielectric.
+Microfluidic devices [6 Lectures]: Micropumps,, Microvalves, Microflow sensors, Micromixers, Micropropulsion
+and Micronozzle Flows
+Text Book
+1. Karniadakis, G. M, Beskok, A, Aluru, N, (2005),Microflows and Nanoflows: Fundamentals and Simulation,
+Springer
+2. Nguyen, N. T., Werely, S. T., (2002), Fundamentals and applications of Microfluidics, Artech house Inc.
+3. Kirby, B.J., (2010), Micro- and Nanoscale Fluid Mechanics: Transport in Microfluidic Devices, Cambridge
+University Press.
+Reference Books
+1. Tabeling, P., (2005), Introduction to microfluidics, Oxford University Press Inc.
+2. Colin, S., (2009), Microfluidics, John Wiley & Sons.
+Self-Learning Material
+1. https://nptel.ac.in/courses/112105187/
+2. https://nptel.ac.in/courses/112106169/
+52
+Title Microfluidics Lab Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2 [1]
+Offered for B.Tech (ME) Type Program Elective (PC)
+Prerequisite Fluid Mechanics & Heat Transfer
+Objectives
+The instructor will:
+1. Provide the practical knowledge with regard to the fluid flows in micro-nano fabricated systems
+2. Provide practical exposer to various sensors and equipment use in micro system analysis
+Learning Outcomes
+1. The students will have the ability to:
+2. Design microfluidic systems
+3. Plan experiments to evaluate key performance characteristics of a micro-nano system
+Contents
+1. Visualisation of different micro-nano systems
+2. Study of capillary action in conventional, mini and micro channels
+3. Analysis of Laminar Flow and Diffusion in a Microchannel
+4. Analysis of Turbulent Flow in Microchannel
+5. Study of Droplet microfluidics
+6. Electrophoretic Separation in a Microchannel
+7. Demonstration of Paper Microfluidic Device for Blood-Plasma Separation
+8. Measurement of Heat Transfer Coefficient during Flow Through Microchannel
+9. Flow Simulation for micro-nano systems
+10. Demonstration of ELectrokinetic Flows
+Reference Books
+1. Karniadakis, G. M, Beskok, A, Aluru, N, (2005), Microflows and Nanoflows: Fundamentals and
+Simulation, Springer
+2. Nguyen, N. T., Werely, S. T., Fundamentals and applications of Microfluidics, Artech house Inc., 2002.
+3. Kirby, B.J., Micro- and Nanoscale Fluid Mechanics: Transport in Microfluidic Devices,Cambridge
+University Press, 2010.
+53
+Title Tool Design Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. discuss the fundamentals related to design of tools used during various manufacturing operations
+2. principles of fixture design for various components
+Learning Outcomes
+The students will have the ability to:
+Design tooling and fixtures involved in manufacturing operations
+Contents
+Introduction To Tool Design [6 Lectures]: Tool engineering, Tool classifications, Tool design objectives, Tool
+design in manufacturing, Challenges and requirements, Standards in tool design, Tool drawings, Surface
+finish, Fits and tolerances, Tooling materials - Ferrous and nonferrous tooling materials - Carbides, Ceramics
+and Diamond - Non-metallic tool materials, Importance of tool design in PLM, Importance of tool design in
+process planning and selection of machine tool
+Types of cutting tools [5 Lectures]: Single point cutting tools, Design of form tools, Design of drills, Reamers,
+Milling cutters, Broaching tools, Gear cutting tools, Thread cutting tools.
+Cutting tools and tool holding [5 Lectures]: Tool holding methods for CNC machines, ISO standard for Inserts,
+455 Tool holders, Selection of inserts and tool holders for specific applications, Automatic tool changers, Tool
+positioners and Tool presetting in CNC machines.
+Design Of Jigs And Fixtures [8 Lectures]: Locating and supporting principles, Clamping and work holding
+principles, Drill bushes, Design of drill jigs and Milling fixtures, Turning fixtures, Welding fixtures, Modular
+fixtures.
+Design Of Tools For Press Work [8 Lectures]: Study of power presses and accessories, Types of dies, Method of
+die operation, Clearance and cutting force calculations, Pilots, Strippers and pressure pads, Presswork
+materials, Strip layout, Design of blanking and piercing dies, Drawing dies, Bending dies, EDM for press tool
+making.
+Mold elements [3 Lectures]: Mold Elements, Two plate and Three plate mold design,
+Design of parts [4 Lectures]: Design of gates - runners - ejectors, under cut molds, hot runner mold.
+Mold materials and manufacturing [3 Lectures]: Mold materials, mold manufacturing.
+Text Book:
+1. Donaldson C, Lecain G H and Goold V, (2012), Tool Design, Tata McGraw Hill.
+2. Hoffman E. G, Jigs and Fixtures Design, Thomson Learning.
+Reference Books:
+1. Joshi P H, (2010), Jigs and Fixtures, McGraw Hill.
+2. Arshinov V and Alekseev G, (1979), Metal Cutting Theory and Cutting Tool Design, MIR Publication
+Self-Learning Material
+A B Chattopadhyay, Manufacturing Processes II, NPTEL Course Department of Mechanical Engineering, IIT
+Kharagpur, https://nptel.ac.in/courses/112105126/
+54
+Title Applied Ergonomics Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME) Type Program Elective (PE)
+Prerequisite
+Objectives
+The Instructor will:
+Teach about Human-Machine system, work study, Physical Ergonomics, Cognitive Ergonomics, Biomechanics,
+Physical Work Environment and Occupational Safety & Health
+Learning Outcomes
+Students will be able to
+1. Correlate the understanding of this subject with their day to day activities and will be aware of concepts
+related to enhancing human as well as overall system efficiency. The course syllabus is designed so as to
+cover work physiology, engineering aspect of product, improvement in the cognitive capabilities etc.
+2. Analyze the factors responsible for decreasing the system performance and work on those aspects, thereby
+making an efficient system.
+Contents
+Introduction [2 Lectures]: Overview of Ergonomics, Introduction to human-machine system.
+Physical ergonomics [8 Lectures]: Work Physiology, Musculoskeletal system, Metabolism & digestive system,
+Cardiovascular system, Respiratory system
+Anthropometry [8 Lectures]: Design principles, Collection of data & statistical tools).
+Cognitive ergonomics [8 lectures]: Human Sensory system, Perception, Attention resources, Memory, Common
+Cognitive tasks
+Physical work environment [8 Lectures]: Visual environment, Physics of light, Visibility & visual performance
+Lighting system, Auditory environment, Effect noise & permissible noise, Noise control, Climate control,
+Thermoregulation, Heat stress & cold stress
+Biomechanics aspect and work study [4 Lectures]: Anatomical sites important for occupational ergonomics, manual
+work system, tools and techniques for work systems design and assessment
+Industrial/organizational ergonomics [4 Lectures]: Occupational Safety & Health, Case studies over industrial
+problems
+Text Books:
+1. Bridger R. S., (2008), Introduction to Ergonomics, 3rd edition, CRC Press
+2. Wickens C. D., (2003), An Introduction to Human Factors Engineering, 2nd edition, Pearson
+3. David C. A. (1986) The practice and management of Industrial Ergonomics, Prentice Hall
+Online Course Material:
+https://nptel.ac.in/courses/nptel_download.php?subjectid=112104222
+55
+Title Micro-Nano Manufacturing Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+Objectives
+The Instructor will:
+Provide exposure to students with emerging manufacturing techniques for producing micro- and nano- level
+products
+Learning Outcomes
+The students will have the ability to:
+1. Able to appreciate the processes employed for the fabrication of miniaturized products.
+2. Explain the physical description, modelling and experimentations for manufacturing at micro and nano
+scale.
+Contents
+An overview of micro and nano mechanical systems and their applications in Mechanical Engineering [5 Lectures]:
+Nano-machines, Nanomechanics, Nano-metrology, Nano-tribology, Nano-fluidics, Nano-manufacturing.
+MEMS Micro fabrication [7 Lectures]: Science, modelling and experimental aspect of diffusion, thermal
+oxidation, ion implantation, rapid thermal processing, optical lithography, photoresists, non-optical
+photolithography, vacuum processes and plasmas, and etching processes, thin film manufacturing using
+physical vapor deposition, chemical vapor deposition, epitaxial growth processes.
+Silicon Micromachining [5 Lectures]: anisotropic wet chemical etching, wafer bonding, dry plasma etching,
+surface micromachining
+Laser Micromachining methods [2 Lectures]
+Mechanical Micromachining [6 Lectures]: Abrasive micro grinding, micro milling, micro electro discharge
+machining, micro electro chemical machining, nano grinding.
+Beam method [2 Lectures]: focused ion beam and electron beam machining.
+Fabrication of nano materials and nano crystalline materials [7 Lectures]: Characterization techniques such as SEM,
+SPM,AFM,TEM
+Micro- nano patterned surfaces for functional devices [6 Lectures]: application potential of micro and nano
+structured surfaces
+Recent advances in micro & nanofabrication [2 lectures]
+Reference Books:
+1. Drexler K E, Nanosystem: Molecular Machinery, Manufacturing and Computation, John Wiley
+2. Rai-Choudhuri P, Handbook of Microlithography, Micromachining and Microfabrication, SPIE Press
+3. McGeough J A, Micromachining of Engineering Materials, Marcel Dekkar
+4. Jain V K,(2011), Introduction to micromachining, Narosa Publications
+5. Cabrini S and Hawata S, (2012), Nano fabrication hand book – CRC press
+Self-Learning Material
+K N Bhat, Micro- and Smart Systems, NPTEL Course Material Department of Electrical Engineering, IISc
+Bangalore, https://nptel.ac.in/courses/112108092/
+56
+Title Design and Manufacturing of
+Biomaterials
+Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. Discuss the fundamental principle in biomedical engineering material science, chemistry.
+2. Enable engineering skills to students needed to solve challenges in the biomaterials and tissue engineering
+domain.
+Learning Outcomes
+The students will have the ability to:
+Appreciate processes used in making of biocompatible materials
+Contents
+Classes of materials used in medicine and healthcare [5 Lectures]: Metals, polymers, FRPs, fabrics, nanocomposites,
+ceramics, glasses etc
+Bioresorbable and bio-erodable materials [3 Lectures]
+Host reactions to biomaterials [5 Lectures]: biocompatibility, implant associated infection;
+Testing of biomaterials [5 Lectures]: In vitro assessment, in vivo assessment, blood materials interactions.
+Design of materials for biomedical application [4 Lectures]: Cardiovascular, dental implants, orthopaedic
+application, skin, ophthalmologic applications, wound healing, sutures,
+Biomedical and biosensors [2 Lectures]
+3-D printing of biomaterials [6 Lectures]: Fabrication of nanomaterials, tissue regenerations, laser assisted bio
+printing, scaffolding techniques,
+3-D scaffold for organs, bone regeneration [2 Lectures]
+Implantation techniques for soft tissue and hard tissue replacements [6 Lectures]: Problems and possible solutions in
+implant fixation;
+Failure analysis of medical devices and implants [4 Lectures]
+Text Books
+1. Ratner B D, Hoffman A, Schoen F, Lemons J, (2004), Biomaterials Science: An Introduction to Materials in
+Medicine, Academic Press
+2. Park J.B. and Bronzino J.D., (2002), Biomaterials: Principles and Applications. CRC Press. ISBN: 0849314917
+Reference Books
+1. Wright T M, and Goodman S B, (2001), Implant Wear in Total Joint Replacement: Clinical and Biologic Issues,
+Material and Design Considerations. American Academy of Orthopaedic Surgeons.
+2. Ambrosio L, (2009), Biomedical composites, Woodhead Publishing Limited, UK.
+3. Hin T.S., (2004), Engineering Materials for Biomedical Applications. World Scientific. ISBN 981-256-061-0
+Self-Learning Material
+M Doble, Medical Biomaterials, NPTEL Course Material Department of BioEngineering, IIT Madras,
+https://nptel.ac.in/courses/102106057/
+57
+Title Computer Integrated Manufacturing Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. Understand the effect of manufacturing automation strategies and derive production metrics
+2. Analyze automated flow lines and assembly systems, and balance the line.
+Learning Outcomes
+The students will have the ability to:
+1. Design automated material handling and storage systems for a typical production system
+2. Design a manufacturing cell and cellular manufacturing system
+3. Develop CAPP systems for rotational and prismatic parts.
+Contents
+Manufacturing Automation [4 Lectures]: Automated Manufacturing Systems, Computerized Manufacturing
+Support Systems, Reasons for Automation, Automation Strategies-The USA Principle
+Automated Flow lines [4 Lectures]: System Configurations, Workpart Transfer Mechanisms, Storage Buffers,
+Control of Production Line, Analysis of Transfer Lines-Transfer Lines with No Internal Parts Storage
+Manual Assembly Lines [4 Lectures]: Assembly Workstations, Work Transport Systems, Line Pacing, Coping
+With Product Variety, Analysis of Single Model Assembly Lines-Repositioning Losses, The Line Balancing
+Problem, Line Balancing Algorithms-Largest Candiate Rule, Kilbridge and Wester Method, Ranked Positional
+Weights Method
+Automated Assembly Systems [4 Lectures]: System Configurations, Parts Delivery at Workstations, Applications,
+Quantitative Analysis of Assembly Systems- Parts Delivery System at Workstations, Multi-station Assembly
+machines, Single Station Assembly Machines, Partial Automation
+Automatic Material Handling and Storage systems [4 Lectures]: Design Considerations in Material Handling,
+Material Transport Equipment-Industrial Trucks, Automated Guided Vehicles, Monorails and Other Rail-
+Guided Vehicles, Conveyors, Cranes and Hoists, Analysis of Vehicle Based Systems, Conveyor Analysis.
+Automated Storage/Retrieval Systems, Carousel Storage Systems
+Automated Inspection systems [4 Lectures]: Overview of Automated Identification Methods, Bar Code
+Technology, Radio Frequency Identification, Other AIDC Technologies-Mangnetic Stripes, Optical Character
+Recognition, and Machine Vision
+Cellular Manufacturing Systems [4 Lectures]: Part Families, Parts Classification and Coding, Features of Parts
+Classification and Coding Systems, Opitz of Parts Classification and Coding Systems, Production Flow
+Analysis, Composite Part Concept, Machine Cell Design, Quantitative analysis of Cellular Manufacturing,
+Grouping of parts and Machines by Rank Order Clustering, Arranging Machines in a GT Cell
+Flexible Manufacturing Systems [4 Lectures]: Flexibility, Types Of FMS-A Dedicated FMS, A Random Order FMS,
+FMS Components-Workstations, Material Handling and Storage Systems, Computer Control System, Human
+Recourses, FMS Applications and Benefits
+Agile Manufacturing and Lean Manufacturing [2 Lectures]
+Text Book:
+1. Groover M. P., (2007), Automation, production Systems and Computer Integrated Manufacturing, 3 rd Edition,
+Prentice Hall Inc., New Delhi.
+2. Singh N., (2006), System Approach to Computer Integrated Manufacturing, Wiley & Sons Inc.
+3. Kusiak A, (2002), Intelligent Manufacturing System, Prentice Hall Inc., New Jersey.
+Self-Learning Material
+J Ramkumar, Computer Integrated Manufacturing, NPTEL Course Department of Mechanical Engineering,
+IIT Kanpur, https://nptel.ac.in/courses/112104289/
+58
+Title Design for Manufacturing Number MEL6XX0
+Department Mechanical Engineering L-T-P[C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Program Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Demonstrate the importance of integrating design and manufacturing to optimize production cost, quality
+and flexibility
+2. Discuss topics related to design for quality and reliability along with approaches towards robust design
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the impact of manufacturing constraints on product design and process planning
+2. Understand factors controlling production rate and influence the quality, cost and flexibility of
+manufacturing processes and systems.
+Contents
+Introduction [4 Lectures]: Need identification and problem definition, Concept generation and evaluation,
+embodiment design
+Selection of Materials and Shapes [8 Lectures]: Properties of engineering materials, Selection of materials (with
+examples and case studies), selection of shapes, Co-selection of materials and shapes.
+Selection of Manufacturing processes [8 Lectures]: Overview of manufacturing processes, Design for Casting, Design
+for bulk deformation and sheet metal processes,
+Processing of polymer [8 Lecture]: Design for Machining, Design for Polymer and powder processing, Case
+studies.
+Design for Assembly [8 lectures]: Review of Assembly operations, Design for Welding, Soldering, Brazing and
+Adhesive joining, Design for heat treatment, Case Studies
+Design for Reliability and Quality [6 Lectures]: Failure Mode and Effect Analysis, Design for Quality, Design for
+Reliability, Approach to robust design, Design for optimization
+Reference Books:
+1. Dieter G., Engineering Design - a materials and processing approach, McGraw Hill
+2. Ashby M. F., Material Selection in Mechanical Design, Butterworth-Heinemann
+3. Boothroyd G., Dewhurst P., and Knight W., Product Design for Manufacture and Assembly, John Wiley
+4. Bralla J. G., Handbook for Product Design for Manufacture, McGraw Hill
+Online Course Material:
+1. https://nptel.ac.in/courses/107103012/
+2. https://ocw.mit.edu/courses/mechanical-engineering/2-008-design-and-manufacturing-ii-spring-2004/
+59
+Title Casting and Allied Processes Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. Impart fundamental understanding of various casting processes.
+2. Discuss fundamentals of solidification, design principles, melting techniques etc.
+Learning Outcomes
+The students will have the ability to:
+1. Appreciate various casting processes and its selection for different materials
+2. Design systems and components necessary for obtaining cast components.
+Contents
+Casting Processes [8 Lectures]: classification, characteristics of sand casting processes, metal mould casting
+processes and casting processes using other mould/core materials, Pattern materials, types of patterns, Mould
+and core making materials and their characteristics
+Technology of Selected Casting Processes [6 Lectures]: clay bonded, oil bonded, synthetic resin bonded, and
+inorganic material bonded mould and core making processes. Sand additives and mould coatings. Metal
+mould casting processes, centrifugal and continuous casting processes
+Casting for heterogeneous materials [6 Lectures]: FRP, quick casting , full mould casting, evaporative pattern
+casting
+Solidification [7 Lectures]: Nucleation and grain growth, Solidification of pure metals, short and long freezing
+range alloys. Rate of solidification, Solidification contraction.
+Microstructure study and testing [5 Lecture]: macrostructure and microstructure Fluidity and its measurement.
+Mould-metal interface reactions.
+Design of the casting system [4 Lecture]: Gating and Risering design & analysis.
+Melting and quality control of various steels and non-ferrous alloys [6 Lectures]: Casting defects - fettling, inspection
+and testing of castings
+Reference Books:
+1. Serope Kalpakjian, (1997), Manufacturing processes for Engineering Materials, Addison Wesley.
+2. Mukherjee, P. C. Fundamentals of metal casting technology, Oxford and IBH.
+3. Dieter G, Mechanical Metallurgy, Me Graw Hill, Kogakusha
+4. Korolkove, V.Casting properties of metals and alloys
+Self-Learning Material
+P K Jha, Principles of Metal Casting, NPTEL Course Material Department of Mechanical Engineering, IIT
+Roorkee https://nptel.ac.in/courses/112107215/
+60
+Title Non-Traditional Machining Processes Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective
+(PE)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. Discuss the fundamentals of non-conventional machining processes.
+2. Appreciate the effect of process parameters on quality of machined components
+Learning Outcomes
+1. Students will learn new class of machining techniques used in industries
+2. Students will learn about process parameters involved in non-traditional techniques and their effects on
+process performance
+3. Students will be aware of distinct class of materials along with their industrial applications
+Contents
+Introduction [2 Lectures]: Technological and commercial need, classification, performance constraints, selection
+of NTM, advanced processes
+Mechanical Machining Process [7 Lectures]: Abrasive jet machining, water jet cutting, abrasive water jet
+machining, abrasive flow machining, magnetic abrasive finishing - process variables, material removal rate,
+mechanism of material removal, process capabilities, abrasive particle size, limitations and applications.
+Ultrasonic Machining [4 Lectures]: Ultrasonic machining system, mechanics of cutting, process parameters,
+analysis, capability, grain growing model, grain hammering model, applications and limitations.
+Electro Discharge Machining (Edm) [7 Lectures]: Working principle, process parameters, process capabilities,
+components of system and its functions, analysis of RC circuit, power delivered to discharging circuit, current
+in discharge circuit, parametric relation for material removal rate and surface finish, gap cleaning, process
+characteristics, effect of various parameters on material removal rate, application and limitations,, wire EDM
+machine, stratified wire, process characteristics, applications and limitations.
+Laser Beam Machining (LBM) [4 Lectures]: Production of lasers, types of lasers, process characteristics, working
+principle, process parameters, process capabilities, components of system and its functions, limitations,
+application in drilling, cutting, marking and miscellaneous applications.
+Plasma Arc Machining (PAM) [4 Lectures]: Working principle, process parameters, process capabilities, elements
+of PAM system and their functions, various plasma arc torches, process capabilities, comparison with oxy fuel
+cutting, applications and limitations.
+Electron Beam Machining (EBM) [2 Lectures]: Working principle, process parameters, process capabilities,
+elements of EBM system and their functions, applications and limitations.
+Introduction to ElectroChemical And Chemical Machining Processes [2 Lectures]: Working principle components and
+functions, process parameters, limitations and applications.
+Mechanism of MRR [3 Lectures]: Electro chemical machining, material removal rate and mechanism.
+Parametric study [7 Lectures]: inter electrode gap, zero feed rate, finite feed rate, maximum permissible feed rate,
+self-regulation feature, effect of Joule’s heating, effect of hydrogen bubbles generation, anode shape prediction.
+Application, Advantages and limitations [2 Lectures]: Tool design - Chemical machining, masks, etchants,
+advantages and limitations.
+Text Book
+1. Jain V K, (2012), Advanced Machining Processes, Allied Publications Private Limited.
+2. McGeough J A, (2011), Advanced Methods of Machining, Springer.
+3. Benedict G F, (2011), Non Traditional Manufacturing Process, Taylor and Francis.
+Reference Books
+1. Pandey P C and Shan H S, (2011), Modern Machining Process, Tata McGraw Hill Publications.
+2. Ghosh A and Mallik A K, (2006), Manufacturing Science, East West Press Private Limited.
+3. Abdel H and El-Hofy G, (2005), Advanced Machining Processes, McGraw Hill Publications.
+61
+4. Sommer C, (2000), Non-traditional Machining Handbook, Advance Publishing Inc.
+Self-Learning Material
+V K Jain, Advanced Machining Processes, NPTEL Course Department of Mechanical Engineering, IIT Kanpur,
+https://nptel.ac.in/courses/112104028/
+62
+Title Welding Science and Technology Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+Objectives
+The Instructor will:
+1. Impart fundamental understanding of various conventional and non-conventional welding processes
+2. Discuss various metallurgical aspects related with welding
+3. Discuss heat transfer and associated issues with the welding operation
+Learning Outcomes
+The students will have the ability to:
+1. Appreciate the physics of welding operation and allied processes and select the process
+2. Model heat transfer and cooling characteristics of welding
+Contents
+Introduction and classification of welding [7 Lectures]: Design principles of welded structures; Physics of welding
+arc – characteristics of arc, mode of metal transfer, forces acting on a molten droplet.
+Shielded metal arc welding, Submerged arc welding (SAW) [3 Lecture]:Gas tungsten arc welding, Gas metal arc
+welding,
+Arc welding [6 Lectures]:Flux cored arc welding, Plasma arc welding, Electroslag welding, Electrogas welding,
+Arc stud welding, Synergic and pulsed welding.
+Diffusion welding [2 Lecture].
+Friction welding, resistance welding, brazing, soldering [8 Lectures]:
+Power source [4 Lecture]: Types of power source and their characteristics.
+Flux and coating [4 Lecture]: Welding fluxes and coatings - type and classification.
+Welding thermal cycle [2 Lecture]: Cooling rates, models for welding heat sources.
+Testing of the welded joint [4 Lecture]: Non-destructive Testing of welds, fracture and fatigue of welded
+structures.
+Role of heat treatment and alloying elements on performance [4 Lecture]: Welding metallurgy, heat treatment of
+welds, effect of alloying materials.
+Welding symbol for process and position [2 Lecture]: Welding symbols, standards and codes.
+Laboratory Classes (12 Classes)
+Study of temperature distribution during weld thermal cycle.
+Study of residual deformation in arc welded joint.
+Distortion study for the welded joint.
+Effect of the welding parameters on bead profile.
+Study on effect of welding parameters on mechanical performance of the welded joint.
+Study of the heat input on microstructure of bulk weld metal and HAZ.
+Non-destructive testing of the welded joint (Liquid penetrant testing).
+Text book
+1. Brien, O., (2004), Welding Handbook: Welding Processes, Part 1, Vol. 2, AWS.
+2. Lancaster J. F., (1986), The Physics of welding, Pergamon,.
+3. Messler, R. W., (1999), Principles of Welding, John Wiley and Sons.
+Reference book
+1. Grong O., (1997), Metallurgical modelling of welding, 2nd Ed, IOM Publication.
+2. Radhakrishnan V M, (2002), Welding technology and design, New age.
+3. Goldak A, (2005), Computational welding mechanics, Springer.
+4. Lindgren L E, (2007), Computational welding mechanics, Woodhead Publishing Limited.
+Self-Learning Material
+G Phanikumar, Analysis and Modeling of Welding, NPTEL Course Material Department of Metallurgical
+Engineering, IIT Madras, https://nptel.ac.in/courses/113106067/
+63
+Title Welding Metallurgy Course No. MEL6XX0
+Department Mechanical Engineering L-T-P[C] 3-0-0[3]
+Offered for B. Tech (ME) Type Program Elective
+Pre-requisite
+Objectives
+To provide students understanding of the metallurgical principles involved in welding of ferrous and non-
+ferrous metals and alloys and to provide knowledge on dissimilar metal welding.
+Learning Outcomes
+1. To enable understanding and effective application of physical metallurgy principles to non-equilibrium
+thermo-mechanical conditions associated with welding.
+2. Facilitate understanding and familiarity of the joining of dissimilar metal welds.
+3. Understanding of the basic fundamentals, techniques and processes suitable for welding non-ferrous
+alloys.
+Course Content
+Metallurgy principles for welding [6 Lectures]: Application of physical metallurgy principles to non-equilibrium
+thermo-mechanical conditions associated with welding.
+Heat and Fluid Flow in Welding [10 Lectures]:
+Fluid flow in welding [5 Lecture]: fluid flow at flow in welding, Fluid flow and metal evaporation in welding.
+Chemical reaction during the welding process [5 Lecture].
+Fusion zone [12 Lectures]:
+Various zones of the welded joint [6 Lecture]: Fusion zone, Partially melted zone, Heat affected zone.
+Solidification and cracking in welds [6 Lecture]: Weld solidification principles, Chemical Inhomogeneities and
+cracking.
+Welding of various materials [12 Lectures]:
+Welding of similar alloys [6 Lecture]: Welding of stainless steels, aluminum alloys, copper alloys and Nickel
+alloys.
+Joining of Dissimilar metal welds [6 Lectures]: Ni/Cu with SS; different grade steels.
+Reference Books
+1. Sindo Kuo, (2002), Welding Metallurgy, Second Edition, Wiley
+2. Easterling K.E., (1992), Introduction to the physical metallurgy of welding, Butterworths
+3. Lippold J. C. and Kotecki D. J., (2005), Welding Metallurgy and Weldability of Stainless steels, Wiley
+Self Learning Material
+http://nptel.ac.in/courses/113106082/
+64
+Course Title Fundamentals of Metal Forming
+Technology
+Number MEL6XXX
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite
+Objectives
+1. To impart the basic knowledge and concepts used in the area of metal forming technology.
+2. To understand the science and technology of different forming processes and analyze forming problems -
+both the mechanics of forming processes and how the properties of metals interact with the processes.
+Learning Outcomes
+1. The course will enable the students to be conversant with working principles so that they can use the
+knowledge gained towards increasing the productivity of manufacturing industries in the long run.
+2. Enabling the students to understand the fundamentals of the formability of materials.
+Contents
+Introduction [4 Lectures]: Introduction to metal forming technology; Classification of metal forming processes;
+Cold, warm and hot working; Mechanical behavior of materials.
+Mechanical properties of materials [5 Lectures]: Concepts of stress-strain; State of stress in three-dimension;
+Elastic and plastic stress-strain relationships; Tensile properties; Flow stress and flow curves.
+Theory of plasticity[5 Lectures]: Introduction to the theory of plasticity; Yield criteria; Strain, strain rate and
+temperature effects on flow properties; Microstructure variable and residual stresses.
+Bulk forming processes [6 Lectures]: Introduction and classification of forging, rolling, extrusion, wire and tube
+drawing processes; Defects in rolled and forged products.
+Analysis of bulk forming processes [5 Lectures]:Analysis of forming processes by Slab method, Slipline field
+method, Upper and lower bound methods.
+Factors affecting metal working [2 Lectures]: Friction and lubrication in metal working; Metallurgical
+parameters affecting metal working processes.
+Sheet metal forming processes [4 Lectures]: Shearing, Punching/Blanking, Bending &Deep drawing, Stretch
+forming, etc.
+Formability [5 Lectures]: Formability testing of sheet metals; Determination of forming limit diagrams (FLD)
+and their applications; Defects in sheet metal forming; Case studies on the evolution of stress-strain during
+the forming processes.
+Special metal forming processes [6 Lectures]: High-energy rate forming such as explosive, electrohydraulic and
+magnetic forming processes; Powder metallurgy forming; Pilgering, Semi-solid forming, Forming by severe
+plastic deformation (SPD) processes; Hot isostatic pressing (HIP).
+Text Books
+1. Ghosh A. and Mallik A.K., Manufacturing Science, Pearson India, 2010.
+2. Altan T. and Tekkaya A.E., Sheet Metal Forming: Processes and Applications, ASM International, 2012.
+3. Harris J.N., Mechanical Working of Metals ‐ Theory and Practice, Pergamon 1983.
+Reference Books
+1. Rowe G.W., An introduction to the Principles of Metalworking, Edward Arnold, 1968.
+2. Dieter G.E., Mechanical Metallurgy (Third edition), McGraw Hill Education, 2017.
+Self-Learning Material
+1. https://nptel.ac.in/courses/112/107/112107250/
+2. https://nptel.ac.in/courses/112/106/112106153/
+65
+Title Introduction to Acoustics Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Program Elective (PE)
+Prerequisite Linear Algebra and Calculus
+Objectives
+This course aims to provide fundamental concepts of acoustics involving sound propagation, sound
+generation, sound radiation, sound reflection and transmission, and sound reception, and use of these concepts
+for studying and development of noise control methods
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand characteristics of acoustic field for different scenarios like in a room, in a muffler, in a duct, in
+free field etc.
+2. Identify different noise sources in a system and then, work to develop methods to reduce the noise.
+Contents
+Introduction and terminology used in acoustics [1 Lecture]
+Acoustic wave equation and its simple solutions [4 Lectures]
+Spherical waves [3 Lectures]: Inhomogeneous acoustic wave equation, concept of point source
+Reflection and transmission [5 Lectures]: Plane waves under normal and oblique incidence, Sound transmission
+through a fluid layer and a thin panel
+Radiation [5 Lectures]: Sound field of oscillating spheres (as elemental sources), Sound field due to monopole,
+dipole and quadrupole sources, their importance, and their relation with oscillating spheres, sound field from
+a plane circular piston, continuous line source, radiation impedance, directivity and directivity index
+Acoustic field in a rectangular waveguide of constant cross section [3 Lectures]
+Pipes, resonators and filters [4 Lectures]: Resonance in pipes, power radiation from open ended pipes, Helmholtz
+resonator, Mufflers, Acoustic barriers and enclosures
+Sound absorption [5 Lectures]: A simple model for growth of sound in a room, Reverberation Time, Sound
+absorption and Sound absorption materials, direct and reverberant sound
+Electro-mechanical-acoustic analogies [4 Lectures]: Lumped parameter modeling of a loudspeaker using these
+analogies
+Hearing [2 Lectures]: Anatomy of human ear and function of different parts, Fundamental properties of hearing
+Noise and sound measurement [3 Lectures]: Introduction to sound measurement and instrumentation, frequency
+analysis, octave analysis, Combining band levels, Loudness level and loudness, Pitch and frequency
+Green’s function and Kirchoff’s formula [3 Lectures]: Introduction to generalized functions and Green’s theory for
+solution of partial differential equations, as required in acoustics, Reciprocal theorem in linear acoustics,
+Kirchhoff’s formula of linear acoustics in the presence of surfaces.
+Textbook
+1. Kinsler L. E., Frey A. R., Coppens A. B., Sanders J. V., (1999), Fundamentals of Acoustics, 4th Edition, Wiley
+2. Beranek L., Mellow T. (2019), Acoustics: Sound Fields, Transducers and Vibration, 2nd Edition, Academic Press
+3. Migeot J. L., Coyette J. P., Lielens G., (2016), Acoustics: Essential concepts, theory and models of linear acoustics
+for engineers, 1st Edition, IJK Numerics
+4. Munjal M. L., (2013), Noise and Vibration Control, World Scientific Publishing Pte. Ltd.
+5. Dowling and Ffowcs-Williams, (1983), Sound and sources of sound, Ellis Horwood Publishers.
+Self Learning Material
+1. https://nptel.ac.in/courses/112106225/
+2. https://nptel.ac.in/courses/112104026/
+3. http://teachingexcellence.mit.edu/category/inspiring-teachers/amar-g-bose-6-312-acoustics
+66
+Title Computer Aided Design Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–2 [4]
+Offered for B.Tech (ME) Type Program
+Elective (PE)
+Prerequisite Linear Algebra and Calculus
+Objectives
+To introduce the concepts of geometric modelling and its use in Computer Aided Design
+Learning Outcomes:
+1. Understanding fundamentals of geometric modelling techniques
+2. Understand the application of geometric modelling and CAD techniques in creation of product desi
+Contents
+Transformations [6 Lectures]: 2D transformations, 3D transformations, Projections
+Analytical Curves [2 Lectures]: Circle, Ellipse, Parabola, Hyperbola, General quadratic curve
+Synthetic Curves [4 Lectures]:Cubic Curves (Hermite), Parabolically blended Curves, Bezier curves, B-spline
+Curves, NURBS [4 Lectures]
+Surfaces [3 Lectures]: Surface of revolution, Sweep Surfaces, Quadratic Surfaces, Spherical Surfaces
+Surfaces [6 Lectures]: Coon's linear and bicubic patches, Ruled and Developable Surfaces, Bezier Surfaces, B-
+spline Surfaces, Rational Surfaces
+Curve and Surface intersections and relational properties [4 Lectures]
+Solid Modelling [6 Lectures]: B-rep, CSG, Analytical solid modelling, Octree and Voxel representation, Euler's
+operators, Euler's formula, Euler-Poincare characteristics, Topology and Geometry
+Optimum Design [4 Lectures]: Purpose and applications of optimum design, effect of manufacturing errors;
+Characteristics of mechanical systems; Selection of optimum configuration; Critical regions; Materials and
+dimensions; Primary and subsidiary design equations; Limit equations; Normal redundant and incompatible
+specifications;
+Design techniques [3 Lectures]: Exact and iterative techniques. Optimal design of elements and systems; shafts,
+beams, gears, bearings, springs, high speed machinery, cams, intermittent motion devices.
+Laboratory Classes [12-13 Classes]
+Rotation of a 2D object about any arbitrary point (m, n) using 2D transformations , Reflection of a 2D object
+about any arbitrary line using 2D transformations, Rotation of a 3D object about any arbitrary line using 3D
+transformations, Reflection of a 3D object about any arbitrary plane using 3D transformations, Program for
+Oblique projection (Verify with cube with cut section), Program for Perspective projection (Verify with cube
+or cube with cut section), Program for translating the object, rotating the object and then performing
+perspective projection, program to find curve values { x(t), y(t), z(t) } for normalised cubic splines when initial
+and final points of the curve and tangents at initial and final points are given, Plot Bezier basis function or
+Bernstein basis functions or blending function for Bezier curves of various degree, MATLAB code to plot B-
+spline basis functions and B-spline curves. The code should facilitate choice of knot vector: Uniform knot
+vector, open uniform knot vector, non-uniform knot vector, non-uniform knot vector proportional to chord
+distances, MATLAB code to plot rational B-spline basis functions and rational B-spline curves, MATLAB code
+for generating Bezier Surfaces, MATLAB code for generating B-spline surfaces, MATLAB code for generating
+rational B-spline surface
+Textbook
+1. Rogers D.F, and Adams J. A., Mathematical elements of Computer Graphics, McGraw Hill
+2. Mortenson M. (2006), Geometric modelling, Industrial Press
+3. Zeid, I., and Sivasubramanian, R., Theory and Practice CAD/CAM, McGraw Hill
+4. Johnson,‘Optimum Design of Mechanical Element’, John Wiley and Sons, 1961.
+5. Johnson, ‘Mechanical Design Synthesis’, Van Nostrand Reinhold, 1970.
+6. Fox, ‘Optimization Methods for Engineering Design’, Addison-Wesley, 1971.
+67
+Self-Learning Material:
+1. http://nptel.ac.in/courses/106108056/
+2. https://nptel.ac.in/courses/112104031/
+3. https://nptel.ac.in/courses/112102101/
+68
+Title Principle of Biomechanics Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0[3]
+Offered for B.Tech (ME, BS & BE) Type Programme
+Elective(PC)
+Prerequisite Engineering mechanics, linear
+algebra, differential equations, and
+mechanics of materials
+Objectives
+1. To provide basic background in biomechanics for engineering students to understand the overview of
+musculoskeletal anatomy, mechanical and structural behavior of biological organs
+2. To analysis the forces in human function and movement; energy and power in human activity
+3. To apply the concept of stress and strain analysis in biological tissues and organs
+4. To explore the concept of viscoelasticity in modeling of biological organs
+Learning Outcomes
+1. Ability to identify a given bone, ligament or muscle by name, anatomic location, or function
+2. Ability to demonstrate the basic principles of mechanics to the analysis of human movement
+3. Ability to analyze the forces at a skeletal joint for various static and dynamic human activities
+4. Ability to calculate the stresses and strains in biological tissues given the loading conditions and material
+properties
+5. Ability to identify the appropriate viscoelasticity model for the mechanical behavior of a given biological
+tissue.
+Contents
+Basic Terminologies [5 Lectures ]: Skeletal System, Axial and Appendicular Skeleton, Bones in Human Body,
+Types of Joints, Movements about Joints, Levers in the Human Body
+Principle of Statics and its application of Musculoskeletal System [5 Lectures]: Joint structures and function, Joint
+Forces and Moments, Muscle Forces, Structural Function/Analysis of Skeletal Body Element (Shoulder, Elbow
+And Forearm, Wrist And Hand, Trunk And Spine, Hip, Knee, Ankle, Patterns Of Movement
+Review of Dynamics and its applications [ 5 Lectures]: Linear And Angular Kinematics of Human Motion, Kinetic
+of Human Motion, Examples In Biomechanics; Applications of Human Motion Analysis In Fluid Medium
+Stress And Strain In Tissue [5 Lectures]: Bone, Tendon and Ligament, Muscle, Articular Cartilage, Hookian
+Constitutive Law ( Homogeneous/Non Homogeneous, Isotropic/Anisotropic),
+Linear/Nonlinear Behavior of Tissues and its degradation [7 Lectures]: Tensile, Compressive, And Shear Properties
+of Connective Tissues, Mechanical Properties of Bones, Degradation of Tissue
+Anisotropic Behavior of Bone [5 Lectures]: Response Of Tissue to Different Loading Conditions (Overload Injuries
+And Conditioning),
+Introduction to Viscoelasticity [Lecture 5]: Viscoelasticity of Soft Tissues, Models of Viscoelasticity (Maxwell,
+Voigt, Kelvin),
+Viscoelastic Behavior of Tissues[Lecture 5]: Viscoelastic Behavior of Tendons, Tendon Interaction with
+Surrounding Tissues, Mechanical Properties of Muscles
+Textbooks
+1. Hall, S. J, Basic biomechanics.
+2. Ozkaya and Nordin, Fundamentals of biomechanics: equilibrium, motion, and deformation.
+3. Mow And Hayes, Basic orthopedic biomechanics
+4. Nordin & Frankel, Basic biomechanics of the musculoskeletal system
+5. Duane Keaton, ‘Fundamentals of Biomechanics’, 2nd Ed, Springer, 2007
+Reference Books
+1. Fung, Biomechanics: mechanical properties of living tissues
+2. Winter, Biomechanics and control of human movement
+69
+Title Mechanical Vibrations Number ME4XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (ME) Type Program Elective (PE)
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide the fundamentals of vibration of discrete systems, influence of damping
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyse the vibration characteristics of discrete systems
+2. Thorough understanding of modeling of damping and their effects on system response
+Contents
+Introduction [1 Lecture]
+Single degree of freedom systems [5 Lectures]: Undamped free and forced vibration
+Types of damping [2 Lectures]: Viscous, Friction, Hysteretic damping
+Damped single degree of freedom [2 Lectures]: Frequency response, resonance
+Beating phenomenon [1 Lecture]
+Vibration under general forcing condition, Duhamel Integral [4 Lectures]
+Vibration measuring instruments [4 Lectures]
+Response spectrum or Shock spectrum [4 Lectures]
+Two-degrees of freedom system [5 Lectures]
+Multi degree of freedom systems [5 Lectures]
+Free vibration of undamped systems [3 Lectures]: Normal modes ,Orthogonality of modes, Expansion theorem,
+Modal analysis
+Vibration control [3 Lectures]: Vibration isolation, vibration absorber
+String and beam vibration [2 Lectures]
+Vibration of rotating shafts and critical speeds [1 lecture]
+Textbook
+1. Thompson, W.T., (1993), Theory of Vibration with Applications, Prentice Hall
+2. Rao, S.S., (1990), Mechanical Vibrations, Prentice Hall
+3. Meirovitch, L., (1986), Elements of vibration analysis,, Prentice Hall
+4. Weaver, Timoshenko and Young, ‘Vibration Problems in Engineering’, 5th Ed. John-Wiley and Sons, 1990.
+5. Clough and Penzien, ‘Dynamics of Structures’, 2nd Ed. McGraw-Hill,1993.
+Online Course Material
+nptel.ac.in/courses/112103112/
+70
+Title Introduction to Robotics Number RM4XX0
+Department/
+IDRP
+Robotics and Mobility Systems L-T-P [C] 3-0-0 [3]
+Offered for B. Tech (All Branches) Type Specialization
+Core
+Prerequisite
+Objectives
+1.To introduce fundamental aspects of modelling and control of robot manipulators.
+2.To provide a brief of results from geometry, kinematics, dynamics, motion planning and control
+Learning Outcomes
+The course will equip students with theoretical and practical knowledge of robot modelling, programming and
+control.
+Contents
+Part I: Robot Modelling [14 Lectures]
+Position Kinematics [6 lectures]: Transformations, Rigid Motions, Forward Kinematics: Denavit-Hartenberg
+Convention, Inverse Kinematics
+Velocity Kinematics [4 lectures]: The Jacobian: Angular and Linear Velocity: Singularities, Accelerations
+Robot Dynamics [4 lectures]: Equations of Motion, Kinetic and Potential Energy, Euler-Lagrange Equations,
+Recursive Newton-Euler Formulation
+Part II: Motion Planning and Vision based control [14 Lectures]
+Path Planning [3 lectures]: The Configuration Space, Planning in Configuration Space, Potential Fields, RRTs
+Trajectory Planning [5Lectures]: Point to Point Motion, Paths Specified by Via Points
+Computer Vision [3 lectures]: Introduction to Computer Vision, The Geometry of Image Formation, Camera
+Calibration, Image Features, Segmentation
+Vision-Based Control [3 lectures]: Relation between End Effector and Camera Motions, Camera Motion and
+Interaction Matrix, Image-Based Control Laws, Partitioned Approaches
+Part III: Robot Control [14 Lectures]
+Linear Control [6 lectures]: Feedback and closed-loop control, second-order linear systems, control of second-
+order systems, Control-law partitioning, trajectory-following control, disturbance rejection, Continuous vs.
+Discrete time control, modelling and control of a single joint, architecture of an industrial-robot controller
+Nonlinear control [5 lectures]: Nonlinear and time-varying systems, multi-input, multi-output control systems,
+control of manipulators, practical considerations, Lyapunov stability analysis, cartesian-based control systems,
+adaptive control
+Force Control [3 lectures]: Interaction with Environment, Force Control, Hybrid Force/Motion control
+Text Books
+1.Craig J. J (2008), Introduction to robotics: mechanics and control. Pearson 3rd Edition.
+2.Spong M. W., Hutchinson, S., and Vidyasagar, M.(2020), Robot modeling and control. New York: Wiley 2nd
+Edition.
+3.Saha S. K. (2017), Introduction to robotics. Tata McGraw-Hill Education, 2nd edition
+Self-Learning Material
+1.https://see.stanford.edu/Course/CS223A
+71
+Title Mechatronics Number ME6XX
+Department Electrical Engineering L-T-P-Th [C] 2–0–2–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic knowledge in Mechanisms
+Objectives
+1. Understanding basics of sensing and actuation (electrical, hydraulic and pneumatic with industrial
+applications).
+2. Inculcate system design thinking among students
+3. Impart Programming and interfacing techniques of embedded microcontrollers with sensors and actuators
+for internet of things applications in mechanical engineering
+Learning Outcomes
+1. Knowledge and understanding of Sensors, actuators and microcontrollers in the context of mechanisms
+and machines.
+2. Power management of systems through modern technologies and system integration and design
+3. IoT fundamentals and modern computing skills, and the role of programming within the mechanical
+engineering domain.
+Contents
+Introduction to Mechatronics systems [3 Lectures]: Mechatronics system components- Measurement Systems,
+Block diagram representation
+Types of systems [5 Lectures]: First order systems, second order systems, Performance specifications in time and
+frequency domain, Open and Closed Loop Systems, PID Control of mechanical Systems
+Introduction to sensors [5 lectures]: Basics of analog and digital electronic devices, Principles and working of
+typical sensors such as Resistive, capacitive, inductive and resonant transducers, encoders, piezoelectric
+accelerometers and pressure sensors, ultrasonic flow meters, GPS sensor etc.
+Sampling rate selection for sensors [3 Lectures]: Signal to noise ratio, power requirements for wired and
+wireless sensors, Selection of D/A and A/D converters, quantization and measurement errors.
+Introduction to actuators [5 Lectures]: Classification of actuators: Basic working principles of DC motors, Stepper
+Motors, Pulse width modulation, Hydraulic and pneumatic actuation, PLC based control of systems with
+solenoids and relays,
+Microcontrollers [3 Lectures]: Basics of Microcontrollers and Interrupts and Low Power Features, interfacing of
+sensors and actuators with microcontrollers.
+Internet of Things (IOT) [3 Lectures]: Fundamentals of IOT, basic communication Networks, Introduction to
+protocols such as Bluetooth Low Energy, ZigBee etc,
+Connecting Things to the Cloud [3 Lectures]: Review of IOT platforms, Hands-on project of a sensor based
+Weather Station.
+Laboratory Classes (12 Classes):
+1. Dissection and assembly of consumer appliances
+2. Programmable logic controller (PLC) and Pneumatic circuits
+3. Programmable logic controller for material handling system (conveyor belt)
+4. Quanser CUBE servo control design with QUARC real time interface
+5. Sensors and Internet of things project
+6. MATLAB SIMULINK simulations
+Reference Books
+1. Bolton, W., (2010), Mechatronics, 4th Edition, Addison Wesley
+2. R. Kamal (2017), Internet of things, Architecture and Design Principles, McGrawhill, First edition
+3. Fraden, J., (2004), Handbook of Modern Sensors Physics, Designs and Applications, 3rd Edition, Springer Verlag
+4. Histand & Aciatore, Introduction to mechatronics and measurement systems, McGraw Hill, 1999.
+5. Bradley, Dawson, Burd & Loader, ‘Mechatronics’, Chapman & Hall, 1993.
+Online sources:
+72
+1. NPTEL IIT Kharagpur: https://nptel.ac.in/courses/106105166/
+2. Stanford: https://online.stanford.edu/courses/xee100-introduction-internet-things
+3. https://www.coursera.org/specializations/iot (basic raspberry pi and Arduino)
+4. Curtin university Micromasters program in IOT. https://news.curtin.edu.au/media-releases/curtin-offer-
+new-internet-things-micromasters/
+73
+Title Finite Element Methods and Applications Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME and CI) Type Program
+Elective (PE)
+Prerequisite
+Objectives
+Understand the fundamental concepts and formulation of the finite element methods for solving differential
+equations arising in solid and fluid mechanics.
+Learning Outcomes
+1. The application of finite element algorithms for structural, fluid mechanics and thermal applications.
+2. Be able to formulate and solve basic problems in heat transfer, solid mechanics and fluid mechanics
+Contents
+Introduction [8 Lectures]: Basic concept of a finite element technique, Role of discretization, General procedure
+for finite element analysis, Assumed functions, Comparison between FEM solution and exact solution;
+Stiffness matrix, spring and bar elements; Finite element formulation of axial rod and beam problems.
+Truss and Frame Structures [5 Lectures]: Stiffness Method Introduction; Element Transformation; Boundary
+conditions, Constraint forces, Global Stiffness matrix; Element strain and stress; Three Dimensional
+Trusses and Frames
+Finite Element Formulation of Beam Elements [5 Lectures]: Introduction; Elementary beam theory; Flexure
+element stiffness matrix; Boundary conditions, constraint forces, Global stiffness matrix; General three
+dimensional beam element
+Method of Weighted Residuals and Interpolation Functions [6 Lectures]: Introduction; Completeness and
+compatibility; Concept of interpolation functions; Polynomial forms, geometric isotropic; Triangular,
+rectangular and three dimensional elements; Isoparametric formulation, axisymmetric elements; Numerical
+Integration: Gaussian Quadrature.
+Finite Element Analysis for Plane Stress and Plane Strain Problems [8 Lectures]: Basic Equations; Boundary
+Conditions; FEM Formulation; Shape Functions; Numerical Evaluation of Elements Matrices and Vectors;
+Global matrices; Boundary conditions and solutions; Thin plate formulation; Various thin plate elements;
+Finite Element Analysis in Free and Forced Vibration Problems [5 Lectures]: Vibration of a rod; Vibration of a beam;
+Classification of partial differential equations; Time response of parabolic equations; Forced vibration
+problems
+Finite Element Analysis in Heat Transfer and Fluid Flows problems [5 Lectures) : Conduction, Convection and
+Radiation conditions, Incompressible flows, Navier-Stokes equations including heat transfer, Acoustic fluids
+coupled to structures, Navier-Stokes fluids coupled to structures
+Reference Books:
+1. R. D. Cook, (2008), Concepts and Applications of Finite Element Analysis, John Wiley & Sons.
+2. K. J. Bathe, (2002), Finite Element Procedures in Engineering Analysis, Prentice-Hall
+3. S. Moaveni, (2008), Finite Element Analysis, Theory & Application with ANSYS, 2nd Edition, Prentice
+Hall
+4. D Hutton, (2009), Fundamental of Finite Element Analysis, McGraw-Hill,
+5. J. N. Reddy, (2005), An Introduction to the Finite Element Method, 3rd edition , McGraw Hill Education;
+6. Zienkiewicz and Taylor, ‘Finite Element Method’, 4th Edition, McGraw-Hill, UK, 1989.
+Self-learning Materials:
+1. https://nptel.ac.in/courses/112104116/#
+2. https://nptel.ac.in/courses/112/106/112106135/
+3. https://nptel.ac.in/courses/112/104/112104115/
+74
+Title Vehicle Dynamics Course No. ME6XX0
+Department Mechanical Engineering L-T-P[PE] 3-0-0[3]
+Offered for B.Tech (ME) Type Program Elective
+Pre-requisite
+Objectives
+1. To cover the fundamentals of vehicle dynamics
+2. To appreciate the vehicle subsystem design issues
+Learning Outcomes
+1. To be able to model and simulate dynamics of vehicles
+2. To be able to analyze vehicle sub-systems
+Course Content
+Introduction [2 Lectures]: History, vehicle classifications, fundamental approaches to vehicle dynamics
+modelling, motion analysis, force analysis
+Acceleration Performance [6 Lectures]: Power train components; power-limited acceleration; traction limited
+acceleration; transverse weight shift; front wheel drive vs rear wheel drive vs. all-wheel drive vehicles;
+Braking Performance [6 Lectures]: Braking force analysis; brake design and analysis; federal regulation on braking
+performance; anti-lock braking system; wheel lock-up; tire/road friction; safety and maintenance issues in
+braking.
+Tire and Tire Dynamics [6 Lectures]: Tire specifications and constructions; tire motion analysis; tire force analysis;
+tire contact stress analysis;
+Ride [6 Lectures]: Riding comfort; perception of vibration; vibration sources; vibration transmission to the
+passengers; vibration models; vibration isolation techniques.
+Cornering/steering [6 Lectures]: Lower speed cornering; high speed corner; cornering bicycle model; steering
+angle; over-steering vs. under-steering;
+Chassis and Suspension Systems[6 Lectures]: General kinematics; vehicle constraint analysis; practical designs;
+Text Books:
+1. Thomas Gillespie, Fundamentals of Vehicle Dynamics, SAE Publication.
+Reference Books:
+1. Mike Blundell and Damian Harty , (2004),The Multibody systems Approach to Vehicle Dynamics, , Elsevier
+2. Vehicle Dynamics, (2009), Theory and Application, Reza N. Jazar, Springer,
+3. Reimpell, Stoll and Betzler: The Automotive Chassis: Engineering Principles.
+75
+Title Experimental Modal Analysis Number ME6XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–2–0 [4]
+Offered for B.Tech (ME) Type Programme Elective
+(PE)
+Prerequisite Linear algebra, calculus and
+Mechanical Vibrations
+Objectives
+The Instructor will:
+1. To study theory and practice of experimental modal analysis for identification
+of dynamic characteristics of structures
+2. To study application of experimental modal analysis results for assessing
+structural dynamic behaviour
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand theory of experimental modal analysis (theory of modal analysis and signal processing
+techniques)
+2. Understand complete system and methods required for experimental modal analysis of any real life systems
+(practical system like car etc.)
+Contents
+Overview [1 Lecture]: introduction of modal analysis
+Theory of modal analysis [6 Lectures]: single degree of freedom (SDoF) system, Theory of modal analysis for
+undammed and damped multi degree of freedom (MDoF) system
+Signal Processing related to experimental modal analysis [5 Lectures]: Fourier Transform, Digital Fourier Transform,
+Aliasing, Windowing, Leakage
+Experimental Set-up for modal analysis [3 Lectures]: Excitation instruments, response measurements, types of
+excitation signals
+Modal parameter extraction [6 Lectures]: frequency domain methods, SDoF Methods and MDoF methods
+Modal parameter estimation [6 Lectures]: Time domain methods
+Model Validation [3 Lectures]: Modal scale factor, modal assurance criteria, mode phase collinearity and mode
+phase deviation
+Model Updating [4 Lectures]: Direct methods and Iterative methods
+Multi-input multi-output modal analysis methods [5 Lectures]
+Applications of EMA [3 Lectures]: structural dynamic modification, coupled structural analysis and response
+simulation
+Laboratory Experiments
+Obtaining modal parameters (natural frequencies and mode shapes) of a cantilever beam using impact hammer
+and accelerometer (Hammer roving and accelerometer roving case), Obtaining modal parameters (natural
+frequencies and mode shapes) of a simply supported plate using impact hammer and accelerometer (Hammer
+roving and accelerometer roving case), Obtaining modal parameters using Laser Doppler Vibrometer and
+impact hammer, Obtaining modal parameters (acoustic mode shapes) of rectangular cavity and a vibro-
+acoustic rectangular cavity, Using modal parameters identified from experiment to update the models, Use of
+update model for desired structural dynamic modification of a cantilever beam
+Textbook
+1. Ewins, D. J., (1984), Modal testing: Theory and Practice, Research Studies Press Limited.
+2. Avitabile, P. (2017), Modal Testing: A Practitioner's Guide, John Wiley & Sons.
+3. Heylen, W., Lammens, S., Sas, P.(1998), Modal analysis theory and testing, Katholieke Universiteit Leuven,
+Faculty of Engineering, Department of Mechanical Engineering, Division of Production Engineering,
+Machine Design and Automation, 2nd edition.
+4. He, J. and Fu, Z. F. (2001), Modal Analysis, Butterworth-Heinemann 1st edition.
+76
+Title Techniques of Noise Control Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME, CI) Type Programme
+Elective (PE)
+Prerequisite Introduction to Acoustics
+Objectives
+The Instructor will:
+Provide background of feed forward and feedback control strategies for active control of sound
+Learning Outcomes
+The students are expected to have the ability to:
+Understand theory and application of single channel and multi-channel feed forward and feedback
+control strategies for active control of sound
+Contents
+Introduction to acoustics [2 Lectures]
+Frequency analysis [3 Lectures]
+Linear systems and digital filters (FIR and IIR Filters) [5 Lectures]
+Interference in plane wave sound fields [6 Lectures]: Sound fields in an infinite duct and enclosed fields,
+physical mechanisms behind active minimization of acoustic energy in enclosed sound fields
+Single channel feed forward control system [4 Lectures]
+Single channel feedback control system [4 Lectures]
+Global control of enclosed sound fields [6 Lectures]
+Local control of enclosed sound fields [4 Lectures]
+Multichannel feed forward control systems [4 Lectures]
+Active suppression of free field radiation by point sources [4 Lectures]
+Textbook
+1. Nelson, P. A., and Elliott, S. J. (1992). Active Control of Sound, Academic Press Limited, London.
+2. Hansen, C. H. (2001). Understanding active noise cancellation, Spon Press, Taylor & Francis Group, London &
+New York.
+77
+Title Nonlinear Oscillations and Chaos Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME, CI, EE, PH, MA) Type Programme Elective
+(PE)
+Prerequisite Differential equations and linear algebra,
+Engineering Mechanics, Mechanical vibrations
+Objectives
+1. To provide the fundamental understanding about nonlinear phenomena and associated different types of
+responses
+2. To provide different types of solution techniques of nonlinear equations
+3. To provide basics of bifurcations and principle of stability
+4. To enable different numerical techniques to solve nonlinear equations
+5. To highlight various route to chaos phenomena and its significant in the stability analysis of physical
+systems
+Learning Outcomes
+1. Understand fundamentals of nonlinear phenomena and associated different types of responses, Solution
+techniques of nonlinear equations and
+2. Understand different aspects of bifurcations and principle of stability
+3. Get an idea of various route to chaos phenomena and its significant in the stability analysis of physical
+systems
+Contents
+Introduction [8 Lectures]: linear and nonlinear systems, conservative and non-conservative systems; potential
+well, Phase planes, types of forces and responses; Local and global stability; Nonlinear phenomena.
+Nonlinear equation of motion [6 Lectures]: Linearization techniques, ordering techniques; Duffing equation, Van
+der Pol’s oscillator, Mathieu’s and Hill’s equations.
+Perturbation Solution techniques [6 Lectures]: Harmonic balance, Linstedt-Poincare’, Method of Multiple Scales,
+Averaging, incremental harmonic balance, modified Lindstedt Poincare’ techniques.
+Stability and bifurcation analysis [8 Lectures]: static and dynamic bifurcations, different routes to chaotic response
+crisis.
+Numerical techniques [8 Lectures]: time response, phase portrait, FFT, Poincare’ maps, point attractors, limit
+cycles and their numerical computation, strange attractors and chaos; Lyapunov exponents and their
+determination, basin of attraction, fractal dimension.
+Application [6 Lectures]: Single degree of freedom systems: Free vibration-Duffing’s oscillator; primary-,
+secondary-and multiple- resonances; Forced oscillations: Van der Pol’s oscillator; parametric excitation:
+Mathieu’s and Hill’s equations, Floquet theory; effects of damping and nonlinearity. Multi degree of freedom
+and continuous systems.
+Text Book
+1. Nayfeh, A. H., and Mook, D. T., Nonlinear Oscillations, Wiley-Interscience,
+2. Hayashi, C. (1964), Nonlinear Oscillations in Physical Systems, McGraw-Hill.
+3. Nayfeh, A. H., and Balachandran, B. (1995), Applied Nonlinear Dynamics, Wiley.
+Reference books
+1. Evan-Ivanowski, R. M., (1976), Resonance Oscillations in Mechanical Systems, Elsevier.
+2. Seydel, R., (1988), From Equilibrium to Chaos: Practical Bifurcation and Stability Analysis, Elsevier.
+3. Moon, F. C., (1992), Chaotic & Fractal Dynamics: An Introduction for Applied Scientists and Engineers, Wiley.
+4. J. S., Advanced Theory of Vibration: Nonlinear Vibration and Onedimensional Structures, New Age
+International, 1992.
+78
+Title Micro-Nano Mechanics Number ME 6XX
+Department Mechanical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech (ME, EE) Type Programme Elective
+(PE)
+Prerequisite Mathematics, Basic Sciences, Engineering Mechanics,
+Mechanical vibration, and Structural mechanics
+Objective
+1. Provide the fundamentals of kinematics and kinetics of deformations of microsystem
+2. Highlights the interactions among thermal, electrical and mechanical effects in MEMS design
+Outcomes
+Students can able to
+1. Gain equivalent continuum mechanics to model nano-structures as sensors/actuators and energy
+harvester
+2. Develop MEMS/NEMS models and their solutions
+Contents
+Introduction [8 Lectures]: Kinematics of deformations (Deformation gradient, different strain tensors, strain-rate
+and rotation tensors, deformations of lines, surfaces and volumes); Kinetics of deformations; stress tensors;
+Coulomb force; Van der Waals force; Casimir force; Maxwell equations.
+Small-scale Mechanics[10 Lectures]: Lumped parameters micro-models; Micro-beams; Micro-plates; Governing
+equations; Boundary Conditions; Elctromechanical instability; Thermal effect in MEMS design; Inertia Forces
+and time-dependent voltage in MEMS design
+Nanomechanics [10 Lectures]:Equivalent continuum mechanics for nano structures; Nano-sensors; Nano-
+composites; Size dependency; Nonlocal continuum mechanics
+Text Books:
+1. Elements of Continuum Mechanics, R. C. Batra, AIAA
+2. Fundamentals Of Continuum Mechanics, Stephen Bechtel & Robert Lowe, ELSEVIER
+3. Nonlinear Differential Equations in Micro/nano Mechanics & Application in Micro/nano Structures and
+Electromechanical Systems, Ali Koochi & Mohamadreza Abadyan
+79
+Title Principle of Vibration Control Number MT 7XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective
+(PE)
+Prerequisite Mathematics, Basic Sciences, Solid Mechanics,
+Mechanical vibration, and Structural mechanics
+Objective
+This course has been developed with the objective of providing a broad overview of different passive, active
+and semi-active vibration control strategies applied in Engineering fields.
+Learning Outcomes
+Students can able to gain enhanced understanding of the principles and earn the requisiteconfidence to address
+the new problems by themselves.
+Contents
+Introduction [5 Lectures]:Overview of mechanical vibration; methods and strategies of vibration control,
+Vibration reduction at sources; Affecting factors to vibration control
+Dynamics properties and selection of materials [5 Lectures]. Damping-stress relationships; selection of criteria of
+structural materials; Design for enhancing the damping capacity; Stress-strain relationship of viscoelastic
+material; Complex stiffness model; Viscoelastic laminate
+Dynamic Vibration Absorbers [6 Lectures]:Introduction; Dynamic Vibration Neutralizers; Self-tuned Pendulum
+Neutralizer; Optimum Design of Damped Absorbers; Auxiliary Mass with Damper; Gyroscopic Absorber;
+Impact Absorber; Absorbers attached to Continuous Systems; Stability analysis
+Vibration Isolations[5 Lectures]: Isolators with Complex Stiffness; Isolators with Coulomb Damping; Three
+Element Isolators; Two-stage Isolators; Velocity Shock and Shock force
+Active Vibration Control[6 Lectures]: Collocated and non-collocated control model; Lumped parameter models;
+State-space model; Distributed parameter models; Centralized and de-centralized control
+Vibration Damping and Absorption[5 Lectures]: Stability theorem of vibratory systems; Velocity, acceleration and
+position feedback control
+Actuators and Sensors[5 Lectures]: Electrodynamics actuators and sensors; Magnetostrictive materials, Smart
+fluids and actuators
+Piezoelectric Materials[5 Lectures]: Introduction; Electrically shunted piezoelectric materials; Piezoelectric
+actuators and sensors; Semi-active vibration control
+Text/reference books
+1. Principle of Passive and Active Vibration Control, Mallik and Chatterjee, 2014
+2. Mechanical Vibrations, S S Rao, 2012
+3. Vibration Control of Active Structures : An Introduction, A. Preumont, Kluwer Academic
+4. Vibration with Control, D. J. Inman, Wiley
+80
+Title Mechanics of Soft Materials Number MT6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME, BS & BE) Type Programme Elective
+(PE)
+Prerequisite Mechanics of materials, Advanced mechanics of solids
+Objective
+The objective of the course is to provide an overview of the wide range of non-linear mechanical behaviours
+displayed by soft materials and tissues together with a basic understanding of their physical origin, to
+familiarize students with appropriate mathematical concepts for their modelling, and to illustrate the
+application of these concepts in different fields in mechanics.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand fundamentals and mathematical concepts of modelling the nonlinear material behaviour.
+2. Get an idea of various failure modes of soft materials and safe design of soft material based systems.
+Contents
+Introduction [4 Lectures]:Introduction to soft materials: rubber-like materials, gels, soft biological tissues, etc.
+Mathematical preliminaries [4 Lectures]: Physical quantities and their classification; scalars, vectors, and tensors;
+index notation, vector products (dot, cross, and dyadic), representation of partial differentiation using comma
+symbol, gradient, divergence, curl of tensors and their representation using index notation.
+Non-linear continuum mechanics [5 Lectures]: Configurations and motion of continuum bodies, deformation
+gradient, strain tensors, stress and the balance principles:
+Conservation Equations [4 Lectures]: Conservation of mass, the momentum principles, the Cauchy stress tensor,
+stress measures for large deformations, the equations of motion and symmetry of stress, balance of mechanical
+energy, the principles of virtual work and power.
+Hyperelastic materials [4 Lectures]: General remarks on constitutive modeling, isotropic hyperelastic materials,
+incompressible hyperelastic materials, compressible hyperelastic materials,
+Different forms of strain energy density functions [5 Lectures]: neo-Hoboken, Mooney Rivlin, Ogden, Gent, Arruda
+Boyce models, etc. elasticity tensors, anisotropic hyperelastic materials, composite materials with one
+characteristic direction, materials with two characteristic directions, Fung’s model of biological tissue.
+Viscoelastic Materials [3 Lectures]: Coupling of elasticity and fluidity, kinematics, multiplicative decomposition
+of deformation gradient,
+Rheological models [5 Lectures]: concept of internal variables, dissipation inequality, constitutive equations,
+evolution equations, incompressibility.
+Applications [4 Lectures]:Homogeneous deformation of hyperelastic membranes under uniaxial and biaxial
+loading, balloon inflation, inflation of an artery under blood pressure, creep phenomena,
+Instabilities of soft materials [4 Lectures]: snap through instability, morphological instabilities: wrinkles, creases,
+folds, and ridges. dielectric actuators.
+Text/reference books
+1. A. Freed, Soft solids, Birkhauser Verlag Ag, 2016.
+2. K. Volokh, Mechanics of soft materials, Singapore, Springer, 2016.
+3. G.A. Holzapfel, Nonlinear Solid Mechanics - A continuum approach for engineering, 2000
+4. L.R.G. Treloar, The physics of rubber elasticity, 3rd ed., 2005
+5. P. Haupt, Continuum Mechanics and Theory of Materials, 2nd ed., 2002
+81
+Title Product Design and Feasibility Number MT6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME, BS & BE) Type Programme Elective
+(PE)
+Prerequisite Mechanics of materials, Advanced mechanics of solids
+Objectives
+1. To provide understanding of need of a new product and product life cycle
+2. To inculcate basic steps of visualizing product development
+3. To enable understanding of user experience, product form, human factors, and marketplace realities.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Enable to develop an engineering viewpoint for a specific product of societal use.
+2. Ability to design new products and processes
+3. Able to predict and assess the impact of specific products and their performance.
+Contents
+New Product [4 Lectures]:User-Centric Requirement, identifying customer needs, Need of a new product,
+concept generation, symbols, semantics, syntax and usability, product life cycle, steps towards a successful
+product.
+Design [7 Lectures]: Human use experience analysis, synthesis, sketching, analysis and selection of profitable
+products, basic engineering, concept generation, detailed design, prototype a physical product and/or
+service, product for an organization, product design and architecture.
+Characteristics of a Design[7 Lectures]: Applications in product design, Problem identification and selection,
+feasibility, viability, and human values towards a product, Analysis of functional Anatomy of function.
+Primary versus secondary versus tertiary/unnecessary functions, Functional analysis: Functional Analysis
+System Technique.
+Sketching [7 Lectures]: Sketching in 3D, Designing in 3D, hand sketch to digital rendering, quality function
+deployment, CAD based design and Ergonomics in product designs.
+Manufacture [8 Lectures]:Design for Manufacture and Assembly, design guidelines for different
+processes. Ideation, Rapid prototyping and its application, design for manual assembly user testing,
+iteration, and storytelling.
+Materials [5 Lectures]: Durable products, non durable products, package designs, families of materials and
+processes in this areas, Product prototyping and manufacturing technologies; Creativity and innovation in
+product design.
+Specification and Final Product [5 Lectures]:- Product performance test; Cost models for product design,
+development and production; Marketing and product specification; Design protection and intellectual
+property rights.
+Text Books
+1. Baxter, M.,,Product design : a practical guide to systematic methods of new product development,
+London: Chapman & Hall, 1996
+Reference Books
+1. M.M Andereasen, Integrated Product Development, IFS Publications Ltd. / SpringerVerlag, Berlin, 1987.
+2. Woodson, W. E. (1981). Human Factors Design Handbook. New York, McGraw-Hill Book Company.
+3. Norman, D. (1989). The Design of Everday Things. New York, Doubleday Currency
+4. Powell, D. (1985). Design Rendering Techniques. London, Orbis Publishing Limited
+5. Asimow Morris; Introduction to Design, Prentice Hall, Englewood Cliffs, N.J., 1962.
+6. Pulos, Arthur, The American Design Ethic, MIT, USA, 1983.
+7. Roozenburg and Eekels, Product Design: Fundamentals and Methods, Publisher: JohnWiley & Sons Inc;
+New Ed edition, 1995
+Self-learning Materials:
+Product Design and Development, IIT Roorkee, https://nptel.ac.in/courses/112/107/112107217/#

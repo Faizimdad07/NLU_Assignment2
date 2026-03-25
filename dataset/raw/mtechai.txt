@@ -1,0 +1,438 @@
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+M.Tech. (AI)
+and
+Dual degree M.Tech. (AI) + PhD
+Programs
+offered by the
+Department of Computer Science and Engineering
+July 2019
+M.Tech in Artificial Intelligence (AI)
+Introduction:
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines to act with higher
+levels of intelligence and emulate the human capabilities of sense, comprehend and act. The core problems of
+artificial intelligence include programming computers for certain traits such as Knowledge, Reasoning,
+Problem-solving, Perception, Learning and Planning. AI technology development and applications are
+evolving rapidly with major implications for economies and societies. As the demand for such applications
+increases, there is also an increasing need for building the future workforce for AI. For developing the AI
+ecosystem, this program will be executed in synergy with other M.Tech programs running in IIT Jodhpur,
+such as Sensors & IoT, Cyber-Physical Systems, and Advanced Manufacturing and Design.
+Objectives:
+This M.Tech in AI programme will offer students with deep knowledge of both fundamental AI technologies,
+as well as application-oriented AI. A student completing this program will be capable to undertake careers in
+industry as well as academia. He/She will have the option to explore a variety of domains including
+Manufacturing, Fintech, Healthcare, Agriculture/Food Processing, Education, Retail/Customer Engagement,
+Human and Robot interaction/intelligent automation, Smart City , Aid for Differently Abled/Accessibility
+Technology.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Comprehend fundamental concepts and hands-on knowledge of the state-of-the-art AI methodologies.
+2. Design and Build real-world AI systems for complex planning, decision making and learning, solving
+application-specific problems, and to reason about them.
+3. Conceive, Design and Develop Intelligent multi-modal multi-sensory Man-Machine interfaces.
+4. Design, Develop and Deploy machine learning based applications using structured and unstructured
+data (e.g., speech, text, images/videos).
+5. Understand and Assess reliability, dependability and trust-worthiness of AI-based systems.
+6. Design and develop AI applications for resource constrained environments.
+7. Adhere to evolving ethics and privacy laws across various domains and territories.
+8. Plan and manage technical projects.
+Learning Outcome:
+1. Understand the fundamentals of Artificial Intelligence, Machine Learning, Inference Engines, Speech,
+Vision, Natural Language Understanding, Robotics, and Human Computer Interaction.
+2. Unify the knowledge of human cognition, AI, Machine Learning and data engineering for
+designing systems.
+3. Demonstrate hands-on knowledge of state-of-the-art AI tools for real-world problem-solving.
+4. Ability to develop real-time and robust AI-based systems with specific software, hardware and data
+requirements.
+5. Build solutions to explore fully immersive computer-generated worlds (in VR), and overlay computer
+graphics onto our view of our immediate environment (AR) along with smart, cognitive functionality.
+6. Demonstrate advanced skills to comprehend and communicate effectively.
+7. Carry out projects using intelligent cognitive solutions provided by AI algorithms to get more insights
+in stakeholder management, risk modeling, intelligent resource scheduling and managing project
+constraints with intelligent use of data models.
+Course Structure for
+M.Tech. (AI) Program and Dual degree M.Tech. (AI) + PhD
+Cat Code Course Title L-­‐T-­‐P Cr Cat Code Course Title L-­‐T-­‐P Cr
+I Semester II Semester
+C MAL7xx
+0
+Statistics I
+Matrix Computation
+Optimization
+1-­‐0-­‐0
+1-­‐0-­‐0
+1-­‐0-­‐0
+3 C CSL8xx0 Artificial Intelligence II 3-­‐0-­‐0 3
+C CSL7xx0 Artificial Intelligence I 3-­‐0-­‐0 3 C CSL8xx0 Machine Learning II 3-­‐0-­‐0 3
+C CSL7xx0 Machine Learning I 3-­‐0-­‐0 3 C CSL8xx0 Real Time Autonomous
+Systems
+2-­‐0-­‐0 2
+C CSP7xx0 Data Structures and
+Practices
+0-­‐0-­‐2 1 PE xxxxx Program Elective 3 3-­‐0-­‐0 3
+PE xxxxx Program Elective 1 3-­‐0-­‐0 3 OE xxxxx Open Elective 1 3-­‐0-­‐0 3
+PE xxxxx Program Elective 2 3-­‐0-­‐0 3 NG xxxxx Ethics and Professional Life 1-­‐0-­‐0 1
+xxxxx Technical
+Communication
+1-­‐0-­‐0 1
+Total Credits: 17 Total Credits: 15
+*Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+Cat Code Course Title L-­‐T-­‐P Cr Cat Code Course Title L-­‐T-­‐P Cr
+III Semester IV Semester
+P CSDxx0 Major Project – Part 1 0-­‐0-­‐10 5 P CSDxx
+0
+Major Project – Part 2 0-­‐0-­‐22 11
+PE xxxxx Program Elective 4 3-­‐0-­‐0 3 PE xxxxx Program Elective 6 3-­‐0-­‐0 3
+PE xxxxx Program Elective 5 3-­‐0-­‐0 3 NG xxxxx Intellectual Property 1-­‐0-­‐0 1
+OE xxxxx Open Elective -­‐ 2 3-­‐0-­‐0 3
+NG xxxxx System Engineering
+and Project
+Management
+1-­‐0-­‐0 1
+Total Credits: 15 Total Credits: 15
+Credit Distribution
+1 Program Core 18 credits
+2 Program Electives 18 credits
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-­‐graded 4 credits
+Total 62 credits
+Program Electives for M.Tech. (AI) and
+Dual Degree M.Tech. (AI)+Ph.D. Program
+Courses offered by Department of Computer Science and Engineering
+• Advanced Computer Graphics
+• Algorithms for Big Data
+• AI for Finance
+• Bio-­‐image computing
+• Blockchain
+• Computer Graphics
+• Computer Vision
+• Computational Optimization
+• Computer Architecture
+• Data Visualization
+• Dependable AI
+• Digital Image Analysis
+• Edge and Fog Computing
+• Embedded Systems
+• GPU Programming
+• Graph Theory and Applications
+• Human Machine Interface
+• Information Retrieval and Web Mining
+• Introduction to Augmented Reality and Virtual Reality
+• Machine Learning with Big Data
+• Natural Language Processing
+• Neuromorphic Computing and Design
+• Ad hoc Wireless Networks
+• Selected Topics in Artificial Intelligence -­‐ I
+• Selected Topics in Artificial Intelligence -­‐ II
+• Selected Topics in Artificial Intelligence -­‐ III
+• Selected Topics in Computer Science -­‐ I
+• Selected Topics in Computer Science -­‐ II
+• Selected Topics in Computer Science -­‐ III
+• Social Network Analysis
+• Software and Data Engineering
+• Security and its Applications
+• Speech processing
+• Stream Analytics
+• Vehicular Ad-­‐hoc Networks (VANETs)
+Courses offered by Department of Electrical Engineering
+• Adaptive Signal Processing
+• Advanced Control System
+• Advanced Digital Communication
+• Advanced Signal Processing
+• Analog and Interfacing Circuits
+• Antenna Engineering
+• Applied Optimization for Wireless Communication
+• Backhaul Networks for Wireless Systems
+• Coding Theory
+• Compressive Sensing
+• Computational Imaging
+• Cyber Physical System Modelling Laboratory
+• Data Compression
+• Digital image and Video Processing Lab
+• Digital Image Processing and Applications
+• Digital Signal Processing
+• Digital Video Processing
+• Digital VLSI Design
+• Embedded System Design
+• Embedded System Design Lab
+• Flexible and Printed Electronics
+• Free Space Optical Communications
+• GNSS Signal Processing
+• Image Sensor Design and Applications
+• Introduction to Cyber-­‐Physical Systems
+• Machine Learning for Communication
+• Mathematical Modelling and Simulation
+• Microfluidics Technology
+• Microsystems Fabrication Technology
+• Millimeter Wave Technology
+• Multi-­‐rate Digital Signal Processing
+• Nanosensors
+• Network Information Theory
+• Neuromorphic computing and design
+• Optical Fiber Communications
+• Optimal Filtering
+• Physical Layer Security
+• Principles of Data and System Security
+• Real Time Communications
+• Resource Constrained AI
+• RF IC Design
+• RF IC Design Lab
+• Selected Topics in Communication I
+• Selected Topics in Communication I
+• Selected Topics in Communication II
+• Selected Topics in Communication III
+• Selected Topics in Sensors & IoT I
+• Selected Topics in Sensors & IoT II
+• Selected Topics in Sensors & IoT III
+• Selected Topics in Signal Processing I
+• Selected Topics in Signal Processing II
+• Selected Topics in Signal Processing III
+• Sensors and IoT Lab
+• Sensors and Measurement
+• Smart Grid
+• Speech and Audio Signal Processing
+• Statistical Decision Theory
+• Systems-­‐on-­‐Chips Design
+• VLSI Design Lab
+• Wavelets
+• Wireless Communication
+• Wireless Networks
+Courses offered by Department of Mechanical Engineering
+• Robotics
+Courses offered by Department of Bioscience and Bioengineering
+• Bioinformatics
+• Computational Biology
+Courses offered by Department of Mathematics
+• Financial Engineering
+• Computational finance
+• Computational Game Theory
+• Advanced topics in computational PDE
+• Dynamical Systems
+• Stochastic Processes
+• Representation of Finite Groups
+Courses offered by Department of Physics
+• Quantum Computing
+• Quantum Information Processing
+• Quantum Cryptography and Coding
+Courses offered by IDRP Digital Humanities
+• Digital Humanities
+Title Data structures and practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. Type Compulsory
+Prerequisite Computer Programming
+Objectives
+The Instructor will:
+1. Explain various data structures and provide details to implement and use them in different
+algorithms
+Learning Outcomes
+The students are expected to have the ability to:
+1. Write, debug and rectify the programs using different data structures
+2. Expertise in transforming coding skills into algorithm design and implementation
+Contents
+Laboratory Experiments
+Exercises based on
+Abstract Data Types: Arrays, link-list/list, hash tables, dictionaries, structures, stack, queues
+(4 labs)
+Data Structures: Heap, Sets, Sparse matrix, Binary Search Tree, B-Tree/ B+ Tree, Graph (4
+labs)
+Algorithm implementation: Quick or Merge sort, Breadth or Depth first search or Dijkstra’s
+Shortest Path First algorithm, Dynamic programing (6 labs)
+Textbook
+1. Weiss, M. A. (2007), Data Structures and Algorithm Analysis in C++, Addison-Wesley.
+2. Lipschutz, S. (2017), Data Structures with C, McGraw Hill Education.
+3. Cormen, T. H., Leiserson, C. E., Rivest, R. L. and Stein, C., (2009), Introduction to
+Algorithms, MIT Press.
+Online Course Material
+1. Department of Computer Science and Engineering, IIT
+Delhi, http://www.nptelvideos.in/2012/11/data-structures-and-algorithms.html
+Title Artificial Intelligence I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+Objectives
+The Instructor will:
+1. Cover various paradigms that come under the broad umbrella of AI.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop an understanding of where and how AI can be used.
+Contents
+Introduction (1 lecture)
+Propositional logic (8 lectures)
+Search: Uninformed strategies (BFS, DFS, Dijkstra), Informed strategies (A* search, heuristic
+functions, hill-climbing), Adversarial search (Minimax algorithm, Alpha-beta pruning) (10
+lectures)
+Predicate logic: Knowledge representation, Resolution (6 lectures)
+Rule-based systems: Natural language parsing, Context free grammar (3 lectures)
+Constraint satisfaction problems (4 lectures)
+Planning: State space search, Planning Graphs, Partial order planning (4 lectures)
+Uncertain Reasoning: Probabilistic reasoning, Bayesian Networks, Dempster-Shafer theory,
+Fuzzy logic (6 lectures)
+Textbook
+1.Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd Edition,
+Prentice Hall
+Reference Books
+1. Research literature
+Self Learning Material
+1. Department of Computer Science, University of California, Berkeley,
+http://www.youtube.com/playlist?list=PLD52D2B739E4D1C5F
+2. NPTEL: Artificial Intelligence, https://nptel.ac.in/courses/106105077/
+Title Artificial Intelligence II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Artificial Intelligence-1
+Objectives
+The Instructor will:
+1. Cover modern paradigms of AI that go beyond traditional learning.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop an understanding of modern concepts in AI and where they can be used.
+2. Design, implement and apply novel AI techniques based on emerging real-world
+requirements.
+Contents
+CSL8XX1: Artificial Intelligence: Probabilistic Reasoning and Knowledge
+Representation 1-0-0[1]
+Probabilistic Reasoning over time: Hidden Markov Models, Kalman Filters, Dynamic
+Bayesian Networks (7 lectures)
+Knowledge Representation: Ontological engineering, Semantic Networks, Description Logics
+(7 lectures)
+CSL8XX1: Artificial Intelligence: Making Decisions 1-0-0[1]
+Making decisions: Utility theory, utility functions, decision networks, sequential
+decision problems, Partially Observable MDPs, Game Theory (14 lectures)
+CSL8XX1: Artificial Intelligence: Reinforcement Learning 1-0-0[1]
+Reinforcement Learning: Passive RL, Active RL, Generalization in RL, Policy
+Search, Deep Reinforcement Learning (14 lectures)
+Textbook
+1.Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd Edition,
+Prentice Hall
+Reference Books
+1. Yang, Q. (1997), Intelligent Planning: A decomposition and abstraction based approach,
+Springer Verlag, Berlin Heidelberg.
+Title Machine Learning I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide motivation and understanding of the need and importance of Machine Learning
+in today’s world
+2. Provide details about various algorithms in Machine Learning
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop a sense of Machine Learning in the modern context, and independently work
+on problems relating to Machine Learning
+2. Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+Contents
+CSL7XX1: Machine Learning I: Supervised Learning 1-0-0[1]
+Introduction: Motivation, Different types of learning, Linear regression, Logistic regression (2
+lectures)
+Gradient Descent: Introduction, Stochastic Gradient Descent, Subgradients, Stochastic
+Gradient Descent for risk minimization (2 lectures)
+Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick,
+Implementing Soft SVM with Kernels (4 lectures)
+Decision Trees: Decision Tree algorithms, Random forests (2 lectures)
+Neural Networks: Feedforward neural networks, Expressive power of neural networks, SGD
+and Backpropagation (3 lectures)
+Model selection and validation: Validation for model selection, k-fold cross-validation, Training-
+Validation-Testing split, Regularized loss minimization (1 lectures)
+CSL7XX2: Machine Learning I: Unsupervised Learning and Generative Models 1-0-
+0[1]
+Nearest Neighbour: k-nearest neighbour, Curse of dimensionality (1 lecture)
+Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral clustering (3
+lectures)
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed
+sensing (2 lectures)
+Generative Models: Maximum likelihood estimator, Naive Bayes, Linear Discriminant Analysis,
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning
+(3 lectures)
+CSL7XX3: Machine Learning I: Computational Learning Theory and Deep Neural
+Networks 1-0-0[1]
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff,
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+Textbook
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From
+Theory to Algorithms, Cambridge University Press
+Reference Books
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Self Learning Material
+1. Department of Computer Science, Stanford University,
+https://see.stanford.edu/Course/CS229
+Title Machine Learning II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Machine Learning-1
+Objectives
+The Instructor will:
+1. Provide technical details about various recent algorithms and software platforms related
+to Machine Learning with specific focus on Deep Learning.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and program efficient algorithms related to recent machine learning techniques,
+train models, conduct experiments, and develop real-world ML-based applications and
+products
+Contents
+CSL7XX1: Machine Learning II: Introduction to Deep Learning 1-0-0[1]
+Model Search: Optimization, Regularization, AutoML (4 lectures)
+Deep Networks: Attention layers, Gated CNNs, Graph Neural Networks (8 lectures)
+Applications: Neural language models (2 lectures)
+CSL7XX2: Machine Learning II: Representation Learning & Structured Models 1-0-
+0[1]
+Representation Learning: Unsupervised pre-training, transfer learning and domain adaptation,
+distributed representation, discovering underlying causes (7 lectures)
+Structured models: learning about dependencies, inference and approximate inference,
+sampling and Monte Carlo Methods, Importance Sampling, Gibbs Sampling, Partition Function,
+MAP inference and Sparse Coding, Variational Inference (7 lectures)
+CSL7XX3: Machine Learning II: Deep Generative Models 1-0-0[1]
+Deep Generative Models: Deep Belief Networks, Variational Autoencoder, Generative
+Adversarial Network (GAN), Deep Convolutional GAN, Autoencoder GANs, iGAN, pix2pix,
+CycleGAN, Conditional GANs, StackGAN (14 lectures)
+Laboratory Experiments
+Overview of Deep Learning platforms such Tensorflow and PyTorch.
+Textbook
+1.Goodfellow,I., Bengio.,Y., and Courville,A., (2016), Deep Learning, The MIT Press
+Reference Books
+1. Charniak, E. (2019), Introduction to deep learning, The MIT Press.
+Self Learning Material
+1. https://www.deeplearningbook.org/
+Title Real Time Autonomous Systems Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for Type Compulsory
+Prerequisite Machine Learning I, Artificial Intelligence I
+Objectives
+The Instructor will:
+1. Provide an understanding about autonomous/ semi autonomous systems like autonomous
+cars and drones.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand and use the methodologies to design, model and implementation of
+autonomous systems for real time applications.
+Contents
+Introduction to Agents, Agent Architectures: Subsumption Architecture, Situated Automata,
+Hybrid Architecture (4)
+Real time System Implementation (3)
+Mobile agents – locomotion (wheeled, legged, aerial), sensors and mechanisms. (3)
+Robot localisation & SLAM (4)
+Planning and Navigation (6)
+Case Study: Autonomous car – learning to drive; human centered autonomous vehicle. (8)
+Laboratory Experiments
+Textbook
+1. Seigwart, R. and Nourbakhsh, I.R. Introduction to Autonomous Mobile Robots, 2nd edition,
+MIT Press 2011
+2. Giorgio C. Buttazzo, Hard Real-Time Computing Systems: Predictable Scheduling Algorithms
+and Applications,” Springer US, Year: 2011
+3. Stuart J. Russell and Peter Norwig, Artificial Intelligence: A Modern Approach, 3rd edition,
+Pearson Press
+4. Markus Maurer et al. eds. Autonomous Driving, Springer Link (open access)
+5. Gerhard Weiss ed., Multiagent System, Second Edition, MIT Press, 2013
+Reference Books
+1. Tzafestas, S. G. (Ed.). (2012). Advances in intelligent autonomous systems (Vol. 18).
+Springer Science & Business Media.
+2. Ge, S. S. (2006). Autonomous mobile robots: sensing, control, decision making and
+applications. CRC press.
+1. 3. Mhamed Itmi, Alain Cardon(2016), New Autonomous Systems, Wiley-ISTE.
+2. 4. De Gyurky, S. M., & Tarbell, M. A. (2013). The Autonomous System: A Foundational
+Synthesis of the Sciences of the Mind. John Wiley & Sons.

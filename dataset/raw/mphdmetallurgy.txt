@@ -1,0 +1,1077 @@
+Indian Institute of Technology Jodhpur
+M.Tech. (Metallurgical and Materials Engineering)
+Introduction
+Metallurgical and Materials Engineering is an interdisciplinary branch that deals with converting
+ore into a product by focusing on design, extraction, processing, and characterization of
+materials for aerospace, automotive, energy, electronics, and healthcare applications. The
+following are the focus areas of the Department: (a) Process Metallurgy, (b) Structural
+Materials, (c) Functional Materials, and (d) Computational Materials Engineering. While the
+Process Metallurgy deals with mineral beneficiation and metal extraction, the Structural
+Materials deals with understanding the process-microstructure-property correlation to expand
+the application of a given material. In the Functional Materials research, materials for specific
+functions such as energy harvesting, healthcare, and information processing are studied. The
+Computational Materials Engineering provides understanding of materials from atomistic to
+macro length scales, and help in materials selection, alloy design, and improvement of
+metallurgical processes.
+Objective
+ To produce professionals with deep understanding of experimental and computational
+materials engineering, capable of providing innovative solutions for materials challenges
+in energy, electronics, aerospace, automotive, and healthcare industries.
+ To train the students for the roles of future academicians, scientists, innovators, and
+entrepreneurs.
+Graduate attributes
+ Ability to correlate electronic structure with transport properties of materials
+ Skill set to optimize microstructure and determine structure-property correlation
+ Ability to design and execute experiments for studying mechanical behavior of materials,
+and develop mechanistic models for failure prediction
+ Ability to determine metallurgical processing parameters for extraction of ferrous and
+non-ferrous metals, and design process cycle to convert ore to final product
+ Ability to fabricate components following traditional and non-traditional manufacturing
+processes
+ Ability to characterize features at atomic, nano-, meso-, micro- and macro- length scales
+ Ability to innovate materials for next generation energy, electronic and healthcare
+devices
+ Skills to communicate the scientific findings to peers and general public
+ Appreciation and adherence to professional ethics
+ Ability to design and execute technical projects
+Learning Outcome
+Ability to
+ Design the materials by microstructure control to meet the required properties
+ Use various modeling techniques for studying physical, mechanical, functional and
+transport properties of materials
+ Apply thermodynamics and kinetics principles to understand and control materials
+processes
+ Fabricate structural and functional materials through traditional and non-traditional
+manufacturing processes
+ Use various material characterization tools
+ Apply principles of material deformation to predict failure of materials for reliable design
+of structures
+ Understand the process metallurgy involved in ferrous and non-ferrous metal extraction
+ Define a scientific problem and devise an appropriate methodology for addressing the
+problem
+ Identify normative commitments of technological knowledge, artifacts and familiarity
+with the manifold responsibilities linked to their profession.
+ Critically develop linguistic competence and subject competence in the genres of
+technical communication.
+Program structure with courses
+Cat. Course Number, Course Title L-T-P-D Credits Cat. Course Number, Course Title L-T-P-D Credits
+I Semester II Semester
+C MT7LXX0 Metallurgical
+Thermodynamics and
+Kinetics
+3-1-0-0 4 C MT7LXX0 Computational
+Materials Engineering
+3-0-2-0 4
+C MT7LXX0 Characterization of
+Minerals, Metals and
+Materials
+3-0-2-0 4 C MT7LXX0 Phase
+Transformations in
+Solids
+3-0-2-0 4
+E MT7LXX0 Program Elective -1 3-0-0-0 3 E MT7LXX0 Program Elective-3 3-0-0-0 3
+E MT7LXX0 Program Elective -2 3-0-0-0 3 E MT7LXX0 Program Elective-4 3-0-0-0 3
+NH HSN7XX0 Technical
+Communication
+1-0-0-0 0 NH HSN7XX0 Professional Ethics 1-0-0-0 0
+Total 14 Total 14
+III Semester IV Semester
+E MT7LXX0 Program Elective-5 3-0-0-0 3 O Open Elective-2 3-0-0-0 3
+E MT7LXX0 Program Elective-6 3-0-0-0 3 C MT7DXX0 Project (Stage-II) 0-0-0-11 11
+O Open Elective-1 3-0-0-0 3 NH HSN7XX0 IP Management and
+Exploitation
+1-0-0-0 0
+C MT7DXX0 Project (Stage-I) 0-0-0-5 5
+NH HSN7XX0 Systems Engineering
+and Project
+Management
+1-0-0-0 0
+Total 14 Total 14
+Distribution of Credits (M.Tech.)
+S.No. Category Category Title Total
+Courses
+Total Credits
+1 C Compulsory 4 16
+2 E Program Electives 6 18
+2 E Open Electives 2 6
+4 C Project 16 16
+Total 56
+Program electives can be taken from any of the following courses offered by the department.
+Open electives may be taken from other departments.
+Topic Clouds
+1. Metallurgical Thermodynamics and Kinetics
+ Laws of thermodynamics
+ Thermodynamics of solutions
+ Application of Thermodynamics to Chemical reactions
+ Phase diagrams
+ Thermodynamics of interfaces
+ Diffusion in solids
+2. Characterization of Minerals Metals and Materials
+ Optical Microscopy
+ Scanning Electron Microscopy
+ Transmission Electron Microscopy
+ Scanning Probe Microscopy
+ Spectroscopic characterization
+ X-Ray Diffraction
+ Electron Diffraction.
+ Thermal Analysis
+ Non-destructive testing of materials
+3. Computational Materials Engineering
+ First principles calculations
+ Molecular dynamics simulations
+ Alloy Design
+4. Phase Transformations and Solidification
+ Thermodynamics of phase transformations
+ Solid state phase transformations
+ Solidification process
+ Gating and riser design for casting
+ Nucleation and growth
+5. Material Processing
+ Light Metal and Alloys
+o Processing of light metals and alloys
+ Additive manufacturing
+o Materials for additive manufacturing
+o Additive manufacturing methods
+o Structure-property control in additive manufacturing
+ Thermo Mechanical Processing
+o Principles and applications of thermo- mechanical processing
+6. Microstructure Design and Mechanical Properties
+ Effect of microstructure on mechanical properties
+ Strengthening mechanisms
+ High Temperature deformation
+ Deformation behavior of ceramics and polymeric materials
+ Theory of fracture mechanics
+ Cyclic deformation of materials
+ Creep-Fatigue interaction
+7. Electrochemistry and Corrosion
+ Fundamentals of electrochemistry
+ Forms of corrosion
+ Corrosion Prevention methods
+ High temperature oxidation
+ Corrosion monitoring
+8. Ceramics and Composites
+ Structural Ceramics
+ Processing of ceramics
+ Functional ceramics
+ Metal Matrix Composites
+ Polymer Matrix Composites
+ Ceramic matrix composites
+List of Electives
+Following is the list of courses that can be offered to M.Tech. Students
+(A) ELECTIVE I: Materials Modeling and Simulation
+Course
+Number
+Course Title L-T-P-D Credits
+MT7LXX0 Alloy Design : Computational Thermodynamic
+approach
+3-0-2-0 4
+(B) ELECTIVE II: Extractive and Process Metallurgy
+Course
+Number
+Course Title L-T-P-D Credits
+MT7LXX0 Mineral Engineering 3-0-0-0 3
+MT7LXX0 Iron and Steel Making 3-0-0-0 3
+MT7LXX0 Solidification Processing 3-0-0-0 3
+MT7LXX0 Industrial Waste: Control and Utilization 3-0-0-0 3
+(C) ELECTIVE III: Metallurgical Manufacturing
+Course
+Number
+Course Title L-T-P-D Credits
+MT7LXX0 Light Metals and Alloys 3-0-0-0 3
+MT7LXX0 Near Net Forming 3-0-0-0 3
+MT7LXX0 Powder Metallurgy 3-0-0-0 3
+MT7LXX0 Thermo Mechanical Processing 3-0-0-0 3
+MT7LXX0 Material Aspects in Additive Manufacturing 3-0-0-0 3
+(D) ELECTIVE IV: Physical Metallurgy
+Course
+Number
+Course Title L-T-P-D Credits
+MT7LXX0 Plastic Deformation and Microstructure Evolution 3-0-0-0 3
+MT7LXX0 Corrosion Engineering 3-0-0-0 3
+MT7LXX0 Introduction to Dislocations 3-0-0-0 3
+MT7LXX0 Structure-Property-Correlation 3-0-0-0 3
+MT7LXX0 Mechanical Behavior of Materials 3-0-2-0 4
+MT7LXX1 Electron and Scanning Probe Microscopy 1-0-0-0 1
+MT7LXX2 Light Microscopy and Spectroscopic Techniques 1-0-0-0 1
+MT7LXX3 Diffraction and Thermal Analysis Techniques 1-0-0-0 1
+MT7PXX4 Materials Characterization Laboratory 0-0-2-0 1
+(E) ELECTIVE V: Functional Materials and Devices
+Course
+Number
+Course Title L-T-P-D Credits
+MT7LXX0 Ceramics 3-0-0-0 3
+MT7LXX0 Composites 3-0-0-0 3
+MT7LXX0 Polymers and their composites 3-0-0-0 3
+MT7LXX0 Principles of Engineering Material Selection 3-0-0-0 3
+DETAILED SYLLABUS FOR THE COMPULSORY COURSES
+Title Metallurgical Thermodynamics and
+Kinetics
+Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–1–0 [4]
+Offered for M.Tech. and Ph.D. Type Compulsory
+Pre-requisite
+Objectives
+1. Provide a basis for describing and understanding the stability of various forms of
+matter.
+2. Provide a basis for predicting the properties of an equilibrated system as a function of
+its content and characteristics.
+Learning Outcomes
+1. Establish the conditions for stability of a material and derive its properties.
+2. Control the evolution of microstructures with respect to different parameters.
+Course Content
+Laws of thermodynamics and Chemical reactions (14 lectures)
+First, second and third laws (3 lectures)
+statistical interpretation of entropy (3 lectures)
+Free energy functions and criteria for equilibrium (3 lectures)
+reaction equilibrium, equilibrium constant; applications to materials and metallurgical
+systems (5 lectures).
+Thermodynamics of solutions and phase diagrams (14 lectures)
+Ideal and non-ideal solutions, partial and molar quantities, quasi-chemical model and
+regular solutions (3 lectures).
+Phase rule and binary phase diagrams (2 lectures),
+free energy composition diagrams (5 lectures)
+phase equilibrium calculations. (4 lectures)
+Thermodynamics of interfaces and kinetics (14 lectures)
+Interfaces, surface tension and surface energy (3 lectures)
+equilibrium at interfaces, nucleation (3 lectures),
+coherency (1 lecture),
+thermal activation, diffusion, concentration gradients, thermal gradients (3 lectures)
+Fick’s laws, mechanisms of interface migration (3 lectures)
+Text Books
+1. Gaskell, D.R., Introduction to Metallurgical Thermodynamics, McGraw-Hill 1995.
+2. Swalin, R. A., Thermodynamics of Solids, reprint Edition, Wiley, 1962.
+3. Balluffi, R. W., Samuel, M. A., Carter, W. C., Kinetics of Materials, Wiley, 2005.
+Self-Learning Material
+1. Bird, R.B., Stewart, W.E. and Lightfoot, E.N., Transport Phenomena, Wiley, 1960.
+2. Hillert, M., Phase Equilibria, Phase Diagrams and Phase Transformations Their
+Thermodynamic Basis, Second edition, Cambridge University Press 2008.
+Title Characterization of Minerals Metals
+and Materials
+Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech. 1st Year Type Compulsory
+Pre-requisite
+Objective
+1. Understanding the instruments and methods for characterising different materials and
+their properties.
+Learning Outcomes
+1. Basic working principles for various instruments.
+2. Choice of characterization methods based on their analysis and performance.
+Course Content
+MTL7XX1: Electron and Scanning Probe Microscopy [1-0-0]
+Introduction: Importance of Characterization of Materials, Structural and Functional
+Characterizations, Review of Crystallography. (4 Lectures)
+Electron Microscopies: Scanning Electron Microscopy (SEM) & Transmission Electron
+Microscopy (TEM). (7 Lectures)
+Scanning Probe Microscopy: Scanning Tunnelling Microscopy (SEM) & Atomic Force
+Microscopy (AFM). (3 Lectures)
+MTL7XX2: Light Microscopy and Spectroscopic Techniques [1-0-0]
+Light Optical Microscopy: Polarization microscopy for minerals, Phase contrast
+microscopy for metals, DIC Microscopy and Confocal and other special techniques for
+polymers and biomaterials. (7 Lectures)
+Spectroscopic characterization: UV-VIS-NIR, FTIR, Photoluminescence and Raman
+Spectroscopy. (7 Lectures)
+MTL7XX3: Diffraction and Thermal Analysis Techniques [1-0-0]
+Diffraction Techniques: X-Ray Diffraction, Electron Diffraction. (10 Lectures)
+Thermal Analysis: Thermal Mechanical Analysis (TMA), Differential Scanning
+Calorimetric (DSC), Thermal Gravimetric Analysis (TGA), Differential Thermal Analysis
+(DTA). (4 Lectures)
+MTP7XX4: Materials Characterization Laboratory [0-0-2]
+Calculation of thermodynamic parameters using DSC analysis; Functional group analysis
+using FTIR; XRD Pattern Indexing; Lattice parameter and crystallite size
+calculation; Electron Diffraction Pattern Indexing; Image Analysis.
+Text Books
+1. Zhang, S., Li, L. and Kumar, A., Materials Characterization Techniques, CRC Press, 2008.
+Self-Learning Material
+1. Evans, C., Brundle. R. and Wilson, Encyclopaedia of Materials Characterization: Surfaces,
+Interfaces, Thin Films (Materials Characterization Series), Butterworth-Heinemann, 1992.
+2. Kaufmann, E.N., Characterization of Materials, 3 Volume Set, 2nd Edition, Wiley, 2012.
+Online Course Material
+1. Shankaran, S., Materials Characterization, Department of Metallurgical & Materials
+Engineering, Indian Institute of Technology, Madras, NPTEL
+http://nptel.ac.in/courses/113106034/
+2. Biswas, K. and Gurao, N.P., Advanced Characterization Techniques, Department of
+Materials Science and Engineering, Indian Institute of Technology, Kanpur, NPTEL
+http://nptel.ac.in/courses/113104004
+Title Computational Materials
+Engineering
+Number MT7LXX0
+Department Metallurgical and Materials
+Engineering
+L-T-P [C] 3–0–2 [4]
+Offered for M.Tech. and Ph.D. Type Compulsory
+Pre-requisite
+Objective
+1. To understand different modeling and simulations techniques for studying various
+materials.
+Learning Outcomes
+1. Student will be able to understand and use the first-principles calculations
+2. Student will be able to understand and run the Molecular dynamics simulations
+Course Content
+First-principles calculations (28 lectures)
+Introduction, Density functional theory (5 lectures), Kohn-Sham method (4 lectures),
+Exchange-correlation energy (2 lectures), Crystal structure (1 lecture), Pseudopotential approach
+(2 lectures), Bloch’s theorem (2 lectures), Structure relaxation (1 lecture), Electronic band
+structure and density of states (3 lectures), Fermi-Dirac distribution (1 lecture), Smearing
+methods (1 lectures), Lattice dynamics (1 lectures), Phonon dispersion relations (1 lecture),
+Force constants (3 lectures), Vibrational thermodynamics (1 lecture)
+Molecular dynamics simulations (14 lectures)
+Introduction (1 lecture), Potentials (2 lectures), Newtons Equation of motion (2 lectures),
+Algorithms (2 lectures), Simulation parameters (2 lectures), Types of ensembles (2 lectures),
+Temperature control and data analysis (3 lectures)
+Laboratory Experiments
+Preparation of input files, Technical parameters optimization, Structure optimization, Electronic
+band structure calculation, density of states calculation, metallic system simulation, phonon band
+structure calculation
+Text Books
+1. Lee, J., Computational Materials Science: An Introduction, 2nd Edition, CRC Press 2016.
+2. Sholl, D. S., and Steckel, J. A., Density Functional Theory: A Practical Introduction, 1st
+Edition, Wiley, 2009.
+3. Dove, M.T., Introduction to Lattice Dynamics, 1st Edition, Cambridge University Press,
+1993.
+Self-Learning Material
+1. Parr, R.G., and Yang, W., Density-Functional Theory of Atoms and Molecules, 1st Edition,
+Oxford Science Publications, 1994.
+2. Raabe, D., Computational Materials Science: The Simulation of Materials, Microstructures
+and Properties, Wiley VCH, 1998.
+Online Course Materials
+MIT open courseware: Gerbrand Ceder, and Nicola Marzari. 3.320 Atomistic Computer
+Modeling of Materials (SMA 5107). Spring 2005. Massachusetts Institute of Technology:
+MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Title Phase Transformations in Solids Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech. and Ph.D. Type Compulsory
+Pre-requisite
+Objective
+1. Understanding the correlation between the phase diagram and chemical
+thermodynamics for alloy design.
+Learning Outcomes
+1. Ability to construct multicomponent phase diagrams using computational
+thermodynamic approach.
+2. Understand the variation of properties with the microstructure evolution during
+phase transformations.
+Course Content
+Thermodynamics and kinetics: free energy, order of transformation, driving force,
+homogeneous and heterogeneous nucleation, growth kinetics, coarsening,
+precipitation. (8 Lectures)
+Interfaces: atomic mechanisms of diffusion, activation energy, interfacial free energy,
+types of interface (coherent, semi-coherent and incoherent interfaces), interface
+migration. (6 Lectures)
+Austenite, transformation of austenite, TTT diagram, eutectoid transformation, pearlite
+and bainite transformation. (8 Lectures)
+Martensite transformation: characteristics and nature, morphology, crystallography,
+theory of nucleation and growth, and pre-martensite phenomena, martensitic
+transformation in steel. (6 Lectures)
+Precipitation hardening and spinodal decomposition: Solutionising and ageing, GP
+zones, intermediate phases and structural changes, spinodal decomposition. (8
+Lectures)
+Order-disorder transformation: common structures in ordered alloys, variation of order
+with temperature; determination of degree of ordering, effect of ordering on
+properties, applications. (6 Lectures)
+Laboratory Experiments: Hardenability measurement, Solid-liquid transformation,
+Activation energy calculation, Heat treatment of ferrous metals, Precipitation
+Hardening, TTT Diagram construction.
+Text Books
+1. Raghavan, V., Solid State Phase Transformations, 1st edition, Prentice Hall India,
+1987.
+2. Porter, D.A., Easterling, K. E., and Sherif, M.Y., Phase Transformation in Metals and
+Alloys, 3rd edition, CRC Press, 2009.
+3. Abbaschian, R., Abbaschian, L., and Reed-Hill, R. E., Physical Metallurgy Principles,
+4th edition, Cengate Learning, 2009.
+Self-Learning Material
+1. Khachaturyan, A.G., Theory of Structural Transformations in Solids, 1st edition,
+Dover publications, 2008.
+2. Avner, S.H., Introduction to Physical Metallurgy, 2nd edition, McGraw Hill
+Education, 2017.
+Online Course Material:
+1. Gururajan, M.P., Phase Transformations and Heat Treatment, Indian Institute of
+Technology Bombay, NPTEL http://nptel.ac.in/courses/113101003/
+SYLLABUS FOR ELECTIVES OFFERED BY
+DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING:
+Title Alloy Design : Computational Thermodynamic
+Approach
+Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech Type Elective
+Prerequisite
+Objectives
+1. Understanding the correlation between the phase diagram and chemical
+thermodynamics for alloy design.
+Learning Outcomes
+1. Ability to construct multicomponent phase diagrams using computational
+thermodynamic approach.
+2. Ability to learn the assessment of binary phase diagram using PARROT module.
+Contents
+1. Thermodynamics of Solution: Ideal solution, configurational entropy, regular solution
+model, chemical potential, free energy composition diagram, evolution of phase
+diagrams quasichemical theory, Sub regular solution model. (8 Lectures)
+2. Alloy Design of multicomponent system: Redlitch-kister polynomial, Muggianu and
+kohler extrapolation. Crystallography in thermodynamics, Order and disorder structure,
+antisite defect and vacancies. Compound energy formalism. Modeling of Interstitial and
+substitutional phases, stoichiometric and non-stoichiometric compounds. (14 Lectures)
+3. CALPHAD modeling of non - metallic system. Cluster variance model. (6 Lectures)
+4. Calculation of thermodynamic parameters: First principle calculation, Semi-empirical-
+Miedema approach. Calorimetric measurement, electrochemical measurement,
+Diffusion couple method. (8 Lectures)
+5. Assessment of thermodynamic system: Optimization of binary isomorphous and
+eutectic phase diagram using PARROT module. (6)
+Lab Experiments
+Construction of equilibrium and non-equilibrium phase diagram, Vertical section phase
+diagram and Property diagram for multi-component alloys, Scheil and equilibrium
+solidification simulation, Liquidus projections and monovariant reactions in ternary phase
+equilibria, Creation of user defined thermodynamic database for Solid solution,
+Stoichiometric compounds, non-stoichiometric compounds.
+Textbooks
+1. Saunders and Miodownik, CALPHAD (Calculation of Phase Diagrams): A
+Comprehensive Guide, 1st Edition, Pergamman Press, 1998
+2. Hans Lukas, Suzana G. Fries, Bo Sundman, Computational Thermodynamics: The
+Calphad Method, Cambridge University Press, 2007
+Self-Learning Material
+1. Porter, D.A., Easterling, K. E., and Sherif, M.Y., Phase Transformation in Metals and
+Alloys, 3rd edition, CRC Press, 2009
+Online Course Materials
+1. Murty, B.S., Advanced Metallurgical Thermodynamics, NPTEL Course Material,
+Department of Metallurgical and Materials Engineering, Indian Institute of Technology
+Madras, https://nptel.ac.in/courses/113106031/.
+Title Mineral Engineering Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Pre-requisite
+Objective
+1. To introduce the importance of mineral processing and engineering.
+Learning Outcomes
+1. Ability to engineer selective mineral processing.
+Course Content
+1. Introduction to Mineral Geology: Geological formation of minerals. Classification and
+identification of minerals. (4 lectures)
+2. Introduction to Mineral Engineering: Various ore dressing methods, their principles and
+applications. Role of cavitation, Gravity separation, Heap bioleaching, Fundamentals and
+Plant practices of beneficiation, Surface properties and selective flotation, Mineral
+Liberation: Random and non-random breakage. (10 lectures)
+3. Mineral Processing: Solid Liquid and Liquid-Liquid processing methods, gas phase
+extraction. (8 lectures)
+4. Metal Recovery: Phase extraction in metal recovery, Recovery of metals from slag waste,
+Heavy metal removal mechanism. (8 lectures)
+5. Mineral Processing of special materials (from brine and mineral resources), rare earths,
+vanadium, etc.(8 lectures)
+6. Characterization techniques in mineral processing: Rheology studies for flotation slurries.
+7. Simulation and control of column flotation.(4 lectures)
+Text Books
+1. Wills, B.A. and Napier-Munn, T.J., Mineral Processing Technology, Elsevier Science &
+Technology Books, 7th Edition, 2006.
+2. Subbarao, D.V., Mineral Beneficiation: A Concise Basic Course, CRC Press, 2011.
+3. Flemings, M.C., Solidification Processing, McGraw Hill, 1974.
+4. German, R. M., Powder Metallurgy & Particulate Materials Processing, Metal Powder
+Industry, 2005.
+Title Iron and Steel Making Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective
+1. Introduce principles of iron and steel making and the field of special steels.
+Learning Outcomes
+1. Understand the basics of metallurgy involved in iron and steel making.
+2. Describe the overview of processing of iron and steel.
+Course Content
+1. Iron making: sequence of operations, raw materials preparation, thermodynamics and
+kinetics. (6 lectures)
+2. Blast furnace: design, internal zones and gas flow, productivity, fuel efficiency, products.
+(4 lectures)
+3. Sponge Iron making and smelting reduction. (4 lectures)
+4. Reactions in steel making: removal of C, Si, Mn, P and S. (8 lectures)
+5. Design and selection of steel making slags and refractories. (8 lectures)
+6. Steel making: basic oxygen furnace processes, electric arc furnace and induction furnace
+steel making. (8 lectures)
+7. Secondary steel making processes, alloy steel making. (2 lectures)
+8. Special steels and their applications. (2 lectures)
+Text Books
+1. Ghosh, A., and Chatterji, A., Ironmaking and Steelmaking: Theory and Practice, Prentice-
+Hall (India), 2008.
+2. Chatterjee, A., Beyond the Blast Furnace, CRC Press, 1994.
+3. Peacey, J.C. and W. G. Davenport, The Iron Blast Furnace: Theory and Practice,
+Pergamon, 1979.
+Self-Learning materials
+1. Making, Shaping and Treating of Steel, Vol.1: Iron Making, 11th Ed., AISE Steel
+Foundation, 1999.
+Online Course Materials
+1. Koria, S.C., Steel Making, IIT Kanpur, http://nptel.ac.in/courses/113104059
+Title Solidification Processing Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective:
+1. Treat the fundamentals of liquid to solid transformation and practical implication to
+practice.
+2. Processes such as crystal growth, interface stability, splat cooling, ingot casting shape
+casting will be dealt with paying particular emphasis to fundamentals of mass transport,
+heat flow and interface kinetics.
+Learning Outcomes
+1. Build up knowledge on fundamentals of solidification of metals and alloys and correlating
+with various casting processes.
+Course Content
+1. Casting and related phenomena: Thermodynamics of nucleation and growth phenomena,
+crystal growth, grain refinement. (4 lectures)
+2. Solidification process: heat flow, plain front solidification, cellular solidification,
+constitutional supercooling, , formation of dendrites, eutectic solidification, monotectic
+solidification, peritectic growth, effect of pressure on solidification. (14 lectures)
+3. Gating system: fluid flow, gating and riser design, Adams’ and Caine’s riser design,
+fluidity. (8 lectures)
+4. Solidification during welding, Directional solidification and single crystal fabrication. (8
+lectures)
+5. Recent developments: interface kinetics, interface dynamics, phase selection,
+microstructure selection. Effect of vibration. Theory convection effects. Multicomponent
+alloys and numerical techniques. (8 lectures)
+Text Books
+1. Flemings, M.C., Solidification Processing, Mcgraw-Hill Book Company, 1974.
+2. Campbell, J., Complete casting Handbook: Metal Casting Processes, Metallurgy,
+Techniques and Design, Butterworth-Heinmann, 2015.
+1. Minkoff, I., Solidification and Cast Structure, Wiley, 1986.
+Title Industrial Waste: Control and Utilization Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective:
+1. Classification of waste products and technological management for their environmental
+sustainability
+Learning Outcomes
+1. Differentiate among the different kinds of waste.
+2. Find optimum method for waste management.
+Course Content
+1. Types of waste: Solid, Liquid and gaseous (4 lectures)
+2. Sources of waste: Industrial: Metallurgical, Pharma & Chemical, Electronic, Biological (8
+lectures)
+3. Recycling of waste: Metal Scrap remelting, Extraction of precious and harmful metals
+from electronic waste, (8 lectures)
+4. Waste to wealth: Waste for energy, Production of commercial nano particles from waste
+(8 lectures)
+5. Treatment Storage and Disposal of waste: Long term storage Land filling, incineration;
+Short term storage and container materials (8 lectures)
+6. Case Studies: Nuclear industry, Biomedical industry, Steel industry (6 lectures)
+Text Books
+1. Pichtel, J., Waste Management Practices: Municipal, Hazardous, and Industrial, 2nd
+edition, CRC Press, 2014.
+2. Choudhary, C. K., Waste management and bioremediation, Oxford Book Company, 2012.
+Self-Learning materials
+1. Wong, J. W. C, Surampalli, R. Y., Zhang, T. C., Tyagi, R. D., Selvan, A., Sustainable Solid
+Waste Management, American Society of Civil Engineers, 2016.
+2. Ojovan, M. I., Handbook of Advanced Radioactive Waste Conditioning Technologies,
+Woodhead Publishing, 2011.
+Online Course Material
+1. Dubey, B. K., Electronic Waste Management - Issues and Challenges, Division of
+Environmental Engineering and Management at Indian Institute of Technology,
+Kharagpur, NPTEL, https://onlinecourses.nptel.ac.in/noc18_ce07/preview
+2. Dubey, B. K., Integrated Waste Management for a Smart City, Division of Environmental
+Engineering and Management at Indian Institute of Technology, Kharagpur, NPTEL,
+https://onlinecourses.nptel.ac.in/noc17_ce20/preview
+3. Ramachandra, T. V., Municipal Solid Waste Management, Centre for Ecological Sciences,
+Indian Institute of Science, NPTEL, http://nptel.ac.in/courses/120108005/2#
+Title Light Metal and Alloys Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective
+1. Introduce the prospect of competitive structural materials with high specific strength.
+Learning Outcomes
+1. Appreciate the role of light metals for energy savings in different applications/sectors.
+Course Content
+1. Introduction: Importance of light metals, overview of light metals production. (4 lectures)
+2. Techniques for melting and solidification: solidification, grain refinement, casting
+processes. (6 lectures)
+3. Heat treatment: grain refinement, strengthening by solid solution, precipitation
+hardening, dispersion of second phase particles. (8 lectures)
+4. Alloy designations and properties: specific alloy systems ((a) Al-alloys, (b) Mg-alloys, (c)
+Ti-alloys). (8 lectures)
+5. Manufacturing and applications: aerospace, biomedical, automobile, domestic appliances.
+(8 lectures)
+6. Novel processing methods: composites, metallic foams, rapid solidification, Quasi
+crystals, amorphous alloys, mechanical alloying, physical vapor deposition, additive
+manufacturing. (8 lectures)
+Text Books
+1. Polmear, I. J., St. John, D., Nie, J. F., Qian, M, Light Alloys, 5th edition, Elsevier 2016.
+2. Brandes E. A. and Brook G. B., Smithells Light Metals Handbook, Elsevier, 1998.
+Self-Learning materials
+1. Totten G.E. and Mackenzie D.S., Handbook of Aluminum Vol. 1: Physical Metallurgy and
+Processes, CRC Press 2003.
+2. Friedrich H.E., and Mordike B.L., Magnesium Technology, Springer, 2004.
+3. Lütjering G., Williams J.C., Titanium, 2nd edition, Springer, 2007.
+Title Near Net Forming Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective
+1. Industrial processing technique of near net forming for their applications.
+Learning Outcomes
+1. Development of methods used by forging industry.
+Course Content
+1. Introduction and Application of Near net forming.(2 lectures)
+2. Manufacturing:
+a. Casting: Robo-casting, additive manufacturing by 3D printing, investment casting,
+near net casting, direct coagulation casting, low pressure injection molding, state
+of the art casting & foam casting. (4 lectures)
+b. Pressure less spark plasma sintering, miniature components sintering near net
+rolling of soft parts, cross wedge rolling process. (3 lectures)
+c. Spray forming: electric arc spray forming, spraying-conform process & thermal
+spray forming. (3 lectures)
+d. Extrusion, infiltration, compound forming, precise shape forming, isothermal and
+near isothermal processing, friction stir forming & micro forming. (3 lectures)
+e. Thixo Methods: semi-solid processing, thixo-forming, thixo extrusion, shape
+forming from colloidal processing, polymer impregnation and pyrolysis. (4
+lectures)
+f. Powder methods: Powder technology & die pressing powders. (3 Lectures)
+g. Other methods: Net shaped heaping, laser metal deposition, warm spinning of
+cast iron, diffusion bonding, explosive welding, micro-forming, micro deep
+drawing, thermo hydrogen processing, spinning, shear forming and flow forming &
+bulge forming. (8 lectures)
+3. Materials: Bimetal, Ti and its composites, Al alloys (Al-Mg, Al-Ti, Al-Si), Ni super alloys,
+intermetallic porous materials, SiC, etc for different applications. (6 lectures)
+4. Biological applications: Clinical Therapeutics and Health Monitoring. (3 lectures)
+5. Engineering applications: Turbine Blade, Thermal coatings and Hollow turbine blades.(3
+lectures)
+Text Books
+1. Near Net Shape Manufacturing of Metal: A Review of Approaches and Their Evolutions,
+Proceedings of the Institution of Mechanical Engineers Part B Journal of Engineering
+Manufacture, 2017.
+2. Grant, P. S., Spray forming, Progress in Materials Science, 39, 497-545, 1995.
+3. Waterman, N. A., The Selection of Materials, Engineering Design, 1982.
+Further reading
+1. G Giuliano, G., Superplastic Forming of Advanced Metallic Materials, Woodhead, 2011.
+Course Title Powder Metallurgy Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective
+1. Understand recent concepts in powder metallurgy and product design parameters.
+Learning Outcomes
+1. Student will be able to conceptualize the powerful tool of powder metallurgy and directly
+apply to contemporary products.
+Course Content
+1. Introduction and application of powder metallurgy. (2 lectures)
+2. Powder production: (8 lectures)
+a. Different production methods namely physical, chemical, mechanical methods.
+b. Single fluid atomization: Rotating electrode atomization, roller atomization,
+rotating disc atomization.
+c. Two fluid atomization: Gas atomization, water atomization, oil atomization etc.
+d. Reduction methods: Carbonyl process, hydride-dehydride process & electrolytic
+method.
+3. Powder characterization: (10 lectures)
+Particle size and Size distribution using sieving, sedimentation method, Andreasen pipette
+method, size distribution functions like normal distribution, log-normal distribution,
+Rosin-Rammler distribution, particle shape, shape factors, specific surface area of
+powder, flow rate, tap density, apparent density, compressibility, pyrophoricity,
+explosivity and toxicity of powder
+4. Powder compaction: (4 lectures)
+Die compaction, isostatic pressing, single level and multi-level part compaction,
+repressing, plane strain compression, powder forging, powder roll compaction and
+powder extrusion
+5. Sintering: (10 lectures)
+Theory of sintering practice, types of furnaces and atmosphere control, activated
+sintering techniques, post-sintering treatments; industrial sintering practice for ferrous
+and non-ferrous products.
+6. Applications of powder metallurgy: Self-lubricating bearing, magnetic materials, tungsten
+carbide tool bits, bearing materials, dispersion strengthen materials for high temperature
+applications and manufacture of diamond based cutting tools, brake pads, etc. (8
+lectures)
+Text Books
+1. German, R.M., Powder Metallurgy and Particulate Materials Processing, MPIF, 2005Sands,
+R.L. and Shakespeare C.R., Powder Metallurgy Practice and Applications, Newness
+2. Publications, 1970.
+3. Upadhyaya, G.S., Powder Metallurgy Technology, Cambridge Press 1996.
+Self-Learning materials
+1. Masuda, H., Powder Technology Handbook, Taylor & Francis 2006.Powder Metal
+Technologies and Applications, Metals Handbook, Vol.7, 9th edition, ASM, 1989.
+Online Course Material
+1. Schuh, C., 3.044 Materials Processing. Spring 2013. Massachusetts Institute of
+Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-
+NC-SA.
+Course Title Thermo Mechanical Processing Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective
+1. Methodology for developing varying microstructures to meet a range of properties for
+industrial applications.
+Learning Outcomes
+2. Development of methods using mechanical working and heat treatment effectively.
+Course Content
+3. Introduction: microstructure control, application of heat treatment. (4 lectures)
+4. Effect of mechanical working: low temperature and dislocation structure, high
+temperature deformation and sub-structure evolution, concurrent relationship between
+flow properties and microstructure evolution. (12 lectures)
+5. Principles of thermo mechanical processing (TMP): single phase versus multi-phase
+materials, sequencing of mechanical working and heat treatment, concurrent
+manipulation of microstructure. (14 lectures)
+6. Application of TMP: deformation induced phase transformation, steel for car body, dual
+phase and TRIP steel, controlled rolling of HSLA steel, electrical steel, patented steel
+wire, aerospace applications (Aluminium, Special alloys). (12 lectures)
+Text Books
+1. Krauss G., Steels: Processing, Structure and Performance, ASM Int'l Materials Park,
+2005.
+2. Verlinden, B., Driver, J., Samajdar, I. and Doherty, R. D., Thermo-Mechanical
+Processing of Metallic Materials, Elsevier, 2007.
+3. Krauss G., Principles of Heat Treatment of Steel, ASM Intl, 1989.
+Suggested References
+1. Sakaia, T., Belyakov, A., Kaibyshev, R., Miura, H. and Jonas, J.J., Dynamic and Post-
+Dynamic Recrystallization Under Hot, Cold and Severe Plastic Deformation Conditions,
+Progress in Materials Science 60, 130-207 (2014).
+2. Sherby, O.D., Wadsworth, J., and Nieh, T. G., Superplasticity in Metals and Ceramics,
+Cambridge University Press, 2005.
+Web Resources
+1. Shekhar, S. and Gaur, A. Fundamentals of Materials Processing (Part- II) Department
+of Materials Science and Engineering Indian Institute of Technology, Kanpur, NPTEL
+http://nptel.ac.in/courses/113104075/
+2. Gururajan, M.P. , Phase Transformations and Heat Treatment, Department of
+Metallurgical Engineering and Materials Science, Indian Institute of Technology,
+Bombay, NPTEL, http://nptel.ac.in/courses/113101003/
+3. Schuh, C., 3.044 Materials Processing. Spring 2013. Massachusetts Institute of
+Technology: MIT Open Course Ware, https://ocw.mit.edu. License: Creative Commons
+BY-NC-SA.
+Course Title Material Aspects in Additive Manufacturing Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P
+[C]
+3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective:
+1. Understanding the metallurgical and materials engineering aspects of additive
+manufacturing.
+Learning Outcomes
+2. Ability to learn the additive manufacturing process physics to design and fabricate the 3D
+parts with desired structure and property.
+3. Ability to monitor and control the additive manufacturing (AM) process.
+Course Content
+1. AM Overview : Direct Digital Manufacturing and their importance. Different AM processes
+and relevant Process Physics. (5 Lectures)
+2. AM Powder Production and Characterization: Different Mechanical and Chemical methods,
+Atomization of Powder, other emerging processes. Performance Evaluation of different
+processes. Chemical and Microstructural Characterization of powders. (6 Lectures)
+3. Transport phenomena model for AM process: Temperature, Fluid Flow and Composition.
+(6 Lectures)
+4. Metallurgical Aspects of AM process: Solidification. Texture. Non-equilibrium
+Microstructure. Residual stress. Process-Structure-Property relationship (8 Lectures)
+5. Process monitoring and Control for AM: Defects, Geometry, Temperature, Composition
+and Phase Transformation (6 Lectures)
+6. Post processing of AM parts: Support material removal. Machining. Heat Treatment. Hot
+Isostatic Processing. Hybrid manufacturing. (6 Lectures)
+7. Applications of Additive Manufacturing: Additive Manufacturing in Aerospace, Automotive,
+Electronics industries and Biomedical applications. (5 Lectures)
+Text Books
+1. Gibson I., David W. R., Stucker B., Additive Manufacturing Technologies: 3D Printing,
+Rapid Prototyping, and Direct Digital Manufacturing, Springer, 2nd Ed. (2015).
+2. Chua C.K., Leong K.F. and Lim C.S., Rapid prototyping: Principles and applications, 3rd
+Edition, World Scientific, 2010.
+Self-learning Materials
+1. Sands, R.L. and Shakespeare C.R., Powder Metallurgy Practice and Applications, Newness
+Publications, 1970.
+2. Majumdar J.D. and Manna I., Laser-assisted fabrication of materials, Springer Series in
+Material Science, 2013.
+Title Plastic Deformation and Microstructure Evolution Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective
+1. Provide background to assess the properties and mechanisms which help in optimizing
+the plastic deformation of metals over a wide range of service conditions.
+Learning Outcomes
+1. To provide basic understanding of the reasons that make the metal exhibit variation in
+deformation and strength for metal forming and applications.
+2. Imparting knowledge in metals plastic deformation with respect to their microstructure
+evolution.
+Course Content
+1. Deformation behaviour: single crystal vs polycrystalline material, stress-strain curves,
+geometrically necessary dislocations. (4 lectures)
+2. Effect of microstructure on flow properties: Hall-Petch relationship, role of grain-
+boundaries. (6 lectures)
+3. Strengthening mechanisms: solid solution strengthening, precipitation hardening,
+grain refinement. (10 lectures)
+4. High Temperature deformation: creep, super-plasticity, dynamic recovery,
+recrystallization and grain growth. (12 lectures)
+5. Deformation behaviour of ceramics and polymeric materials: ductile ceramics,
+plasticity in specific ceramics, dislocation activity in ceramics, non-crystalline polymer,
+crystalline polymer, structure-property relationship in polymers. (10 lectures)
+Text Books
+1. Dieter, G. E., Mechanical Metallurgy, 3rd Edition, McGraw Hill Book Company, 1986.
+2. Courtney, T. H., Mechanical Behaviour of Materials, 2nd Edition, Waveland Pr. Inc.,
+2005.
+3. Shetty, M.N., Dislocations and Mechanical Behaviour of Materials, Prentice Hall India
+Learning Private Limited, 2013.
+Suggested References
+1. Honeycombe, R.W.K., The Plastic Deformation of Metals, 2nd Edition, ASM, 1984.
+2. Meyers, M. A. and Chawla, K. K., Mechanical Metallurgy, Principles and Applications,
+Prentice-Hall, Inc 1984.
+Online Course Material
+1. Bauri, R., Introduction to Materials Science and Engineering, Department of
+Metallurgical & Materials Engineering, Indian Institute of Technology, Madras, NPTEL
+http://nptel.ac.in/courses/113106032/
+2. Sundararaman, M., Defects in Materials, Department of Metallurgical and Materials
+Engineering, Indian Institute of Technology, Madras, NPTEL
+http://nptel.ac.in/courses/113106075/
+3. Krystyn van Vliet. 3.22 Mechanical Behavior of Materials. Spring 2008. Massachusetts
+Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative
+Commons BY-NC-SA.
+Title Corrosion Engineering Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective
+1. Introduce the principles of corrosion and its prevention methods.
+Learning Outcomes
+1. Understand the reasons for material degradation under various environments.
+2. Know the methods to minimize/prevent the loss due to corrosion.
+Course Content
+1. Thermodynamics and Kinetics: Causes of corrosion, electrochemical mechanisms,
+corrosion tendency, electrode potentials, The Nernst Equation, Pourbaix Diagrams,
+Polarization and Passivation. (8 Lectures)
+2. Forms of corrosion: Galvanic corrosion, crevice corrosion, pitting corrosion, intergranular
+corrosion, selective leaching, erosion corrosion, stress corrosion, hydrogen damage. (10
+Lectures)
+3. Prevention methods: Materials selection, alteration of environment, design, cathodic and
+anodic protection, coatings. (6 Lectures)
+4. Corrosion in common metals and alloys: Iron and steel, Copper and Copper alloys,
+Aluminum and Aluminum alloys, Magnesium and Magnesium alloys, Titanium and
+Titanium alloys.(6 Lectures)
+5. Corrosion monitoring : Destructive and Non-destructive methods (6 Lectures)
+6. High temperature oxidation: Electrochemical and morphological aspects, oxide defect
+structure, kinetics, effects of alloying, high temperature materials. (6 Lectures)
+Text Books
+1. Fontana, M.G., Corrosion Engineering, 3rd edition, McGraw Hill, 2017.
+2. Revie, W.R. and Uhlig, H.H., Corrosion and Corrosion Control, 4th edition, Wiley, 2008.
+Online Course Material
+1. Natarajan, K.A., Advances in Corrosion Engineering, IISc Bangalore, NPTEL,
+http://nptel.ac.in/courses/113108051/
+Title Introduction to Dislocations Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective
+1. Give a broad overview of dislocations and their interactions in crystals.
+Learning Outcomes
+1. The student would know the role of dislocations on properties of materials.
+Course Content
+1. Defects in crystals: types of defects, types of dislocations, methods for observation of
+dislocations. (4 lectures)
+2. Movement of dislocations: slip and slip plane, cross-slip and climb. (4 lectures)
+3. Elastic properties of dislocations: forces on dislocations, stress field and strain energy of
+a dislocation. (10 lectures)
+4. Dislocations in different crystals: dislocations in FCC, HCP and BCC metals, and other
+periodic systems. (10 lectures)
+5. Intersection of dislocations: Jogs, movement of dislocations containing elementary jog,
+superjogs, intersection of extended dislocations and extended jogs. (4 lectures)
+6. Multiplication of dislocations: nucleation, Frank-Reed sources, multiple cross-glide, climb
+& grain boundary. (5 lectures)
+7. Dislocation arrays and crystal boundaries: dislocation boundaries, low-angle boundaries &
+steps in interfaces. (5 lectures)
+Text Books
+1. Hull, D. and Bacon, D. J., Introduction to Dislocations, 4th edition, Butterworth-
+Heinemann, 2001.
+2. Hirth, J. P., and Lothe, J. L., Theory of Dislocations, 2nd edition, Krieger, 1982.
+Course Title Structure-Property-Correlation Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective
+1. To understand the structure-property-correlation in materials.
+Learning Outcomes
+1. To design materials based on their structure for various properties.
+Course Content
+1. Structure sensitive properties: classification, dimensional range of various structural
+features, interrelationship between different structural parameters, effect of structure on
+properties. (10 lectures)
+2. Dynamics of microstructure evolution: evolution at different length scales and its effect
+on properties, factors influencing the properties, concurrent microstructure evolution and
+properties. (12 lectures)
+3. Application of structure-property correlation: influence of different service conditions,
+effect of alloys systems. (10 lectures)
+4. Computational approaches: constitutive relationship under dynamic conditions, evolution
+of concurrent structure and properties.(10 lectures)
+Text Books
+1. Meyers, M. A., Chawla, K. K., Mechanical Metallurgy: Principles and Application, Prentice-
+Hall, 1983.
+2. Mugharabi, H., Plastic Deformation and Fracture of Materials, VCH Weinheim, 1993.
+3. Krauss, G., Steels: Processing, Structure, and Performance, 2nd Edition, ASM
+International, 2005.
+Suggested Reference
+1. Krauss, G., Deformation, Processing, and Structure, ASM Materials Science Seminar,
+American Society for Metals, 1984.
+Title Mechanical Behavior of Materials Number MT7XX
+Department Metallurgical and Materials Engineering L-T-P-D
+[C]
+3–0–2-0 [4]
+Offered for M.Tech. and Ph.D. Type Compulsory
+Pre-requisite
+Objectives
+1. To provide background on the mechanisms of deformation in engineering materials,
+and on the evolution of material microstructure when subjected to mechanical stress
+during materials processing and engineering applications
+Learning Outcomes
+1. Ability to design materials with improved mechanical properties and identify failure
+mechanisms in materials for engineering applications
+2. To measure important mechanical properties and correlate with the microstructure
+Contents
+Continuum Theory of Deformation: 3D-state of stress and strain, Mohr’s Circle, Generalized
+Hooke’s Law and introductory theory of elasticity, stress and strain invariants, Yield Criteria,
+Yield surface and normality (6 lectures)
+Defects in Crystals: Vacancies and interstitials, edge, screw and mixed dislocations, Burgers
+vector, slip, cross-slip and climb, stress fields around edge and screw dislocations, strain
+energy of dislocations, dislocation-dislocation interaction: Peach-Koehler force on
+dislocation, image forces, dislocations in different crystal structures (10 lectures)
+Twinning in Crystalline Solids: Deformation twinning, geometry of twin formation, twin shape,
+stress requirement for twinning, twinning in HCP, BCC, and FCC crystals (4 lectures)
+Fracture and Toughening Mechanisms Fatigue: theoretical fracture strength of a material and
+Griffith’s Law, modes of fracture, fracture toughness, G and R-curve, brittle and ductile
+fracture, toughening mechanisms in metals, ceramics, and polymers (8 lectures)
+Fatigue and Creep: Introduction to fatigue, stress and strain-life approach, cyclic stress-strain
+curve, fatigue crack propagation, high temperature deformation, fatigue-creep interaction
+(8 lectures)
+Deformation of Polymers: Elasticity in dilute and semi-dilute polymer networks, nonlinear
+elastic deformation, rubber elasticity: Mooney-Rivlin and Ogden models (6 lectures)
+Laboratory Experiments
+Measurement of uniaxial monotonic stress-strain response of metals, ceramics, and
+polymers, Measurement of hardness via spherical and Vickers indentation and correlation
+with yield strength for ductile and brittle materials, The effect of grain size on mechanical
+properties, The effects of strain rate and temperature on yield strength, Recrystallization of
+cold rolled metals, Measurement of impact fracture toughness using Charpy/Izod impact test,
+Fracture surface interpretation, Creep of a 60%Sn-40%Pb Solder wire at room temperature.
+Text Books
+1. Dieter, G.E. (1986), Mechanical Metallurgy, 3rd Edition, McGraw-Hill Book Company.
+2. Courtney, T. H., (2005), Mechanical Behaviour of Materials, 2nd Edition, Waveland
+Press Inc.
+3. Shetty, M. N., (2013), Dislocations and Mechanical Behavior of Materials, Prentice Hall
+India Learning Private Limited
+Self-Learning Materials
+1. Hertzberg, R.W., (1976), Deformation and Fracture Mechanics of Engineering
+Materials, John Wiley and Sons
+2. McClintock,F.A., and Argon,A.S., (1966), Mechanical Behavior of Materials, Addison-
+Wesley.
+Title Ceramics Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective
+1. Exposure to range of ceramics and their properties based on structure.
+Learning Outcome
+1. Selection of ceramics for various applications.
+Course content
+1. Introduction to ceramics: oxide and non-oxide ceramics, their chemical formulae, crystal
+and defect structures, non-stoichiometry and typical properties. (8 Lectures)
+2. Ceramics with special properties: ductile ceramics, transparent ceramics, single crystal,
+thick and thin film ceramics, porous ceramics and ceramic membrane. (10 Lectures)
+3. Properties of ceramics: physical, chemical, mechanical, electrical and optical. (8 Lectures)
+4. Application of different types of ceramics in various industries. (8 Lectures)
+5. Exotic ceramics: functionally graded, smart/intelligent, bio-mimetic and nano-ceramics.
+(8 Lectures)
+Text Books
+1. Norton, F.H., Elements of Ceramics, Addison-Wesley Press, 1952.
+2. Barsoum, M. and Barsoum, M.W., Fundamentals of Ceramics, CRC Press, 2002.
+3. Kingery, W.D., Bowen, H.K., and Uhlmann, D.R., Introduction to Ceramics, 2nd Ed., 1976.
+Title Composites Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective
+1. To provide comprehensive background on the processing, properties, and mechanics of
+deformation of composite materials for engineering applications
+Learning Outcome
+1. Design and selection of composites for specific applications.
+Course content
+1. Introduction and classification of composites: Composites, matrix, reinforcements metal
+matrix composites, polymer matrix composites, ceramic matrix composites (6 Lectures)
+2. Manufacturing of Composite Materials: Manufacturing techniques, Defects in
+manufactured composites (4 Lectures)
+3. Macro and micromechanics of a lamina: stress-strain relations for anisotropic and
+orthotropic materials, lamina in an arbitrary orientation, strengths of an orthotropic
+lamina, mechanics of materials approach to stiffness and strength, elasticity approach to
+stiffness (9 Lectures)
+4. Macromechanics of a laminate: stress-strain relations for a laminate, in-plane and
+flexural modulus of a laminate, strength of laminates (9 Lectures)
+5. Fracture and Toughening of Composites: fracture processes in composites, toughening
+mechanisms in fibre reinforced plastics and ceramic-matrix composites (6 Lectures)
+6. Designing of Composites: Selection of matrix and reinforcement, Wettability and role of
+interface (4 Lectures)
+7. Applications of different types of composites in various industries and Emerging trends (4
+Lectures)
+Text Books
+1. Barbero, E.J., Introduction to Composite Materials Design, Second Edition, CRC Press,
+2011.
+2. Kar, K. K., Composite Materials: Processing, Applications, Characterizations, Springer,
+2017.
+Course Title Polymers and Their Composites Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+Objective
+1. Introduce students to the wide range of polymers and their possible combinations with
+other materials for getting desired properties.
+Learning Outcomes
+1. The student will be able to apply the properties of polymers and their composites to
+construction, transport and storage industries.
+Course Content
+1. Introduction: Classification and synthesis of polymers Basic definitions and nomenclature,
+molar mass and degree of polymerization, synthesis, glass transition temperature and
+crystallinity in polymers, structure and its relation to thermal, chemical, electrical and
+optical properties. (8 Lectures)
+2. Mechanical and thermo mechanical characteristics: General characteristics, viscoelasticity,
+deformation behavior of elastomers, deformation mechanisms, fractures, and toughened
+polymers. (8 Lectures)
+3. Polymer processing, characterization and applications: Introduction, plastics, elastomers and
+fibers, compounding and processing techniques, practical aspects of polymer blending,
+standards and engineering applications of polymers. (8 Lectures)
+4. Polymer composites and their applications (2 Lectures)
+5. Carbon nanomaterials and synthesis: C-C bonding, types of carbon fullerenes, crystal
+structure of selected carbon nanomaterials: CNT, graphene, nano crystalline diamond,
+synthesis by arc discharge, thermal CVD, microwave plasma CVD, Laser ablation; growth
+mechanism; special synthesis techniques- vertical aligned growth of CNT, selective area
+growth of CNT, single walled CNT growth, large area graphene synthesis, nano-patterning on
+graphene (16 Lectures)
+Text Books
+1. Young, R.J., and Peter A. Lovell, Introduction to Polymers, 3rd revised edition, CRC Press,
+2011.
+2. Rudin, A., The Elements of Polymer Science and Engineering, 3rd edition, Academic Press,
+2012.
+3. Koo, J.H., Polymer Nanocomposites: Processing, Characterization, and Applications,
+McGraw-Hill, 2010.
+Online Course Material
+1. Adhikari, B., Science and Technology of Polymers, Materials Science Centre, Indian
+Institute of Technology, Kharagpur, NPTEL, http://nptel.ac.in/courses/113105028/
+2. Garg, A., Electro Ceramics, Department of Materials science and Engineering, Indian
+Institute of Technology Kanpur, NPTEL, http://nptel.ac.in/courses/113104005/
+Course Title Principles of Engineering Material Selection Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objective:
+1. Develop comprehensive knowledge on the procedure for selection of materials for a wide
+range of products in engineering applications.
+Learning Outcomes
+1. Relationship between material properties with product and component design.
+2. The methodology of materials selection, use of computer-aided selection and material data
+and knowledge sources and their usefulness in industry.
+Course Content
+1. Importance of materials: Crystal structure, bonding, processes, and mechanical factors in
+construction/design. Diffusion in materials and interpretation of phase diagrams. (6
+Lectures)
+2. Selection of materials for a specific application depending on the property and performance
+using CES Selector for materials selection: A generalized material selection strategy will be
+introduced together with use of material property charts, computer-aided selection, and
+case studies. (8 Lectures)
+3. Finding and understanding structured information on materials and processes for material
+selection: How to screen information on materials and arrive at a conclusion? How to
+create hybrid materials with combined properties of two or three materials? (10 Lectures)
+4. Component/structural failures: Fracture, fatigue, creep, embrittlement, corrosion, etc.
+Detailed survey of typical real life examples of failures from different applications –
+lectures and videos. (10 Lectures)
+5. Applications in technological sectors: Bio-medical, building, high temperature, industrial
+applications, micro-electronics, packaging, transportation, etc. (8 Lectures)
+Text Books
+1. Ashby, M.F., Materials Selection in Mechanical Design, 4th Edition, Butterworth-Heinemann,
+2010.
+2. Callister, W. D., Materials Science and Engineering- An Introduction, John Wiley & Sons,
+1985.
+Suggested References
+1. Shackelford, J. F., Introduction to Materials Science for Engineers, Mac Millan Publishing,
+1992.
+2. Cottrell, A., An Introduction to Metallurgy, Universities Press, 2000.
+3. Smith, W. F., Materials Science and Engineering, 4th Edition, Tata McGraw Hill, 2008.
+4. Van Vlack, L. H., Elements of Material Science and Engineering, 6th Edition, Pearson
+Education, 2006.
+Online Course Material
+1. Granta Design, CES EduPack Software, 2016.

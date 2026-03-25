@@ -1,0 +1,2362 @@
+Indian Institute of Technology Jodhpur
+2nd year B.Tech. Materials Engineering
+Curriculum Structure
+AY 2020-21
+2nd year B.Tech. Materials Engineering
+Curriculum Structure
+AY 2020-21
+1
+1. Introduction
+Addressing continuously evolving demands for materials in the emerging areas such as, energy, aerospace,
+defence, healthcare, transport, etc. requires engineers with thorough understanding and knowledge of the
+materials. To cater to this requirement, the Department of Metallurgical and Materials Engineering at IIT Jodhpur
+envisions to impart high-quality education in the areas of Materials Engineering. The B.Tech. program in
+Materials Engineering offers a broad-based academic curriculum designed to attract highly motivated students
+interested in the emerging area of Materials and the program is committed to impart high-quality education in
+designing, processing and development, characterization and evaluation of advanced materials, and process
+metallurgy, so that the students can contribute to the Materials innovation.
+The B.Tech. program in Materials Engineering educates and trains students to understand the scientific principles
+that govern the relationships among extraction, processing, structure, properties, and performance of materials.
+The undergraduate Materials Engineering curriculum encompasses four major streams:
+1. Structural materials
+2. Functional materials
+3. Computational materials engineering
+4. Process metallurgy.
+The proposed UG curriculum consists of foundational courses, and core and electives from all four major streams.
+The foundational courses form the base of the program and enables the student to take program core and program
+elective courses from the four major streams. With such a broad curriculum with sufficient subject depth for an
+undergraduate program, the B.Tech. program aims to provide students with a solid academic foundation to
+address the needs in materials area and encourages them to pursue research in the new and emerging areas. In
+the curriculum, an emphasis is given to the emerging areas in materials engineering such as computational
+materials engineering, energy materials, and advanced structural materials. Additionally, to enable the students
+to pursue their interest in one of the four major streams, the program structure allows students to specialize in
+one of the above mentioned streams of Materials Engineering. The students can obtain a Departmental
+Specialization after completing additional 20 credits beyond the regular B.Tech. program requirement. This
+ensures depth along with sufficient breadth in the curriculum. This curriculum is expected to equip the students
+with relevant experimental and computational skillsets relevant to the industry and will enable the graduates to
+innovate and address present day materials challenges to meet the future needs of the country.
+2. Objective of the program
+1. To impart education on the core concepts in Materials Engineering along with providing sufficient breadth
+of knowledge in the traditional as well as emerging areas of materials engineering
+2. To train students on experimental techniques for studying materials engineering
+3. To provide students sufficient analytical and computational skills to address materials engineering needs
+4. To introduce an early sense of attitude towards technology development and its lifecycle
+5. To inculcate an attitude towards the commitment to engineering ethics, continued learning, and professional
+development
+6. To enable students to optionally specialise in one of the four areas of focus:
+a. Structural materials
+b. Functional materials
+c. Computational materials engineering
+d. Process metallurgy.
+3. Expected Graduate Attribute
+1. Overall understanding of atomic structure, crystal structure and imperfections in materials
+2. Ability to understand the physical and chemical phenomena or process through thermodynamic and kinetic
+principles
+3. Ability to understand the relation between electronic band structure and electrical, optical and magnetic
+properties of materials
+2
+4. Broad knowledge on processing of materials and fabrication components following various processing and
+manufacturing techniques, and basic skills to characterize the microstructure
+5. Ability to correlate processing-structure-property-performance of materials and their processing
+6. Knowledge about the process of extraction of ferrous and non-ferrous metals from ore
+7. Ability to use various simulation tools to design materials and predict material behaviour for a better
+understanding of materials
+8. Ability to design and execute technical projects
+9. Skills to communicate engineering concepts and ideas to peers
+10. Appreciation and adherence to professional ethics
+4. Learning Outcome
+1. Ability to apply principles of thermodynamics and kinetics to understand, design and process advanced
+materials
+2. Ability to use computational and analytical modelling techniques to predict various properties of materials
+3. Ability to use materials testing and characterization techniques to validate structure-property-performance
+correlation in materials at various length scales
+4. Understanding of electronic structure of materials and ability to correlate electronic structure with transport
+properties of materials
+5. Knowledge of processing parameters for the extraction of ferrous and non-ferrous metals, and knowledge to
+comprehend the process cycle to convert raw material to a final product
+6. Ability to understand materials processing and process scale up
+5. Topic clouds
+The major topics from the individual courses are presented here in the form of a topic cloud.
+Computational
+Materials Engineering
+Modelling, Boundary value problem,
+Diffusion type problem, Wave
+Propagation Problem, Finite Difference,
+Computation, Molecular dynamics,
+Atomistic simulations, Calculation of
+Phase diagram, Thermodynamic
+Database, Solidification simulation, Alloy
+Design, Modelling, Machine learning,
+Feature identification, Informatics, Finite
+Element Analysis, Stiffness Matrix,
+Galerkin method, Displacement
+Structural Materials
+Defects in Solids, Plastic Deformation,
+Strengthening Mechanisms, Mechanical
+Properties, Failure of Materials, Steels,
+Processing, Physical Metallurgy,
+Microstructure, Properties, Corrosion,
+Oxidation, Polymers, Processing, Rheology,
+Composites, Fibre-Matrix interface,
+laminae and laminates, Ceramics,
+Refractories, Glasses, Sintering, Coatings,
+Abrasives, 3D printing, Materials for 3D
+Printing Process, Additive manufacturing,
+Casting techniques, gating design, casting
+defects, Fusion welding, Solid state
+welding, Microstructure and Properties of
+weld zone
+Functional Materials
+Band structure, Density of States,
+Semiconductors, Dopants, metal-oxides,
+organics, electronic devices,
+semiconductor processing, Battery
+Materials, Fuel cells, Hydrogen Storage,
+Solar cells, Supercapacitors,
+Thermoelectrics, Carbon based materials,
+Shape memory alloys, smart materials,
+functionally graded materials, self-healing
+materials, bio-medical sensing,
+electrostrictive and magnetostrictive
+materials, smart textiles, Nanomaterials,
+Biomaterials, Tissue materials, Implants,
+Coatings, Thin films, Deposition,
+Processing, functional Properties
+Process Metallurgy
+Transport processes, Metal-Slag
+interaction, Continuous Casting,
+Hydrometallurgy, Pyrometallurgy,
+Electrometallurgy, Metal extraction,
+Refining, Mineral processing,
+comminution and screening, separation,
+concentration, Chemical Kinetics,
+Chemical control, Diffusion control, Rate
+controlling step, Ladle metallurgy,
+Degassing, Ingot defects, Process
+phenomena, Metal-slag interaction,
+Energy and Mass Balance, Process control,
+Leaching, Phase stability diagram, Metal
+recovery processes, Metal utilization,
+Electrochemistry, Electrodeposition,
+Foundational and
+Core topics
+Physics, Chemistry, Mathematics, Biology,
+Signals and systems, Machine learning,
+Numerical Methods, Differential Equations,
+Computation, Data structure, algorithm,
+Thermodynamics, Mechanics, Structure of
+Materials, Physical Metallurgy, Polymers,
+Corrosion, Materials Selection, Phase
+Diagram, Functional Properties, Diffusion,
+Mass Transfer, Heat Transfer, Fluid Flow,
+Nucleation and Growth, Solidification,
+Diffraction, Microscopy, Spectroscopy,
+3
+6. Unique skillsets targeted
+Computational approaches, which will enable
+a. Designing of materials and components for engineering applications
+b. Prediction of properties of materials
+c. Designing of industrial processes
+Experimental techniques for
+a. Materials testing and characterization
+b. Performance evaluation and enhancement
+7. Mapping of Topic clouds with proposed courses
+Table 1. Mapping of topic clouds with proposed courses
+Area Topics Category (Core/
+Elective)
+Course
+Foundations
+of Materials
+Engineering
+Numerical Methods, Differential
+Equations, Computation
+Institute Engineering
+Core (IE)
+Scientific Computation
+Reversible and irreversible process, Laws
+of thermodynamics, Intensive and
+Extensive properties, State variable and
+Path variable
+Institute Engineering
+Core (IE)
+Thermodynamics
+Supervised learning, Unsupervised
+learning, Classification, Artificial neural
+network
+Institute Engineering
+Core (IE)
+Introduction to
+Machine Learning
+Deformation and Strain, Stress, Linear
+elasticity, Combined loading, Energy
+methods, Buckling
+Program Core (PC) Mechanics of Solids
+Condensed matter, Functional properties,
+Soft matter, Surfaces and Interfaces
+Institute Program
+linked Science core
+(LS)
+Introduction to
+Condensed Matter
+Physics
+Data structure, algorithm, searching and
+sorting, hashing
+Institute Engineering
+Core (IE)
+Data Structure and
+Algorithm
+Structure of Materials, Physical
+Metallurgy, Polymers, Corrosion,
+Materials Selection
+Institute Engineering
+Core (IE)
+Materials Science and
+Engineering
+Phase equilibria, Thermodynamics of
+Solutions, Phase diagram, Reaction
+Thermodynamics
+Program Core (PC) Materials at
+Equilibrium
+Nucleation and growth, Phase diagram,
+Thermodynamics and kinetics of Phase
+transformation, Diffusion, Solidification,
+Heat treatment
+Program Core (PC) Phase Transformations
+Characterization, Diffraction, Microscopy,
+Spectroscopy, Thermal Analysis
+Program Core (PC) Materials
+Characterization
+Casting, Solidification, Forming, Joining,
+Additive manufacturing
+Program Core (PC) Materials processing
+and Manufacturing
+Structural
+Materials
+Defects in solids, Plastic Deformation,
+Strengthening Mechanisms, Failure of
+Materials, Failure prevention
+Program Core (PC) Mechanical Behaviour
+of Materials
+Steels, Processing, Physical Metallurgy,
+Microstructure, Strengthening, Properties
+Program Elective (PE) Processing-
+Microstructure and
+Properties of Steels
+4
+Electrochemistry, Corrosion, Forms of
+Corrosion, Corrosion induced failure,
+Oxidation, Corrosion Prevention
+Program Elective (PE) Degradation of
+Materials
+Structure of Polymers, Defects,
+Polymerization, Processing, Rheology,
+Characterization
+Program Elective (PE) Polymeric Materials
+and Processing
+Matrix, Reinforcements, Fibre-Matrix
+interface, Processing, laminae and
+laminates, Properties, Nanocomposites
+Program Elective (PE) Composites
+Oxide and non-oxide Ceramics,
+Refractories, Glasses, Sintering, Coatings,
+Abrasives
+Program Elective (PE) Ceramics and Glass
+3D printing, Materials for 3D Printing
+Process, Additive manufacturing,
+Materials processing
+Program Elective (PE) 3D Printing: Material
+Processing and
+Properties
+Casting techniques, solidification, Heat
+flow, fluid flow, gating design, casting
+defects
+Program Elective (PE) Casting and
+Solidification
+Joining, Fusion welding, Solid state
+welding, Microstructure of weld zone,
+Mechanical Properties of weld zone
+Program Elective (PE) Metallurgy of Joining
+Creep, Oxidation and Hot Corrosion,
+Super Alloys
+Program Elective (PE) High Temperature
+Materials
+Functional
+Materials
+Band structure, Density of States,
+Semiconductors, Dopants, metal-oxides,
+organics, carbon nanotubes, electronic
+devices
+Program Core (PC) Electronic Materials
+Battery Materials, Fuel cells, Hydrogen
+Storage, Solar cells, Supercapacitors,
+Thermoelectrics, Carbon based materials
+Program Core (PC) Materials for Energy
+Conversion and
+Storage
+Shape memory alloys, smart polymers,
+smart ceramics, functionally graded
+materials, self-healing materials, bio-
+medical sensing, electrostrictive and
+magnetostrictive materials, smart
+composites, smart textiles
+Program Core (PC) Smart Materials (both
+structure property and
+electronic property of
+materials components)
+Semiconductors processing, Synthesis and
+processing of 2D Materials
+Program Elective (PE) Synthesis and
+Processing of
+Semiconductors and
+2D Materials
+Electrodes and Electrolytes,
+Electrochemical Cell, Primary and
+secondary batteries, Thermodynamics
+and Kinetics
+Program Elective (PE) Battery Materials
+Nanomaterials, Synthesis, Processing,
+Characterization, Properties of materials
+Program Elective (PE) Nanoscience (from
+Department of
+Chemistry)
+Biomaterials, Biocompatibility,
+Biodegradability, Tissue materials,
+Implants
+Program Elective (PE) Biomaterials
+Engineering (Jointly
+with BSBE)
+Coatings, Thin films, Deposition,
+Processing, Properties
+Program Elective (PE) Surface Engineering
+(PE)
+Computatio
+nal
+Boundary value problem, Partial
+Differential Equation, Diffusion type
+problem, Finite Difference method,
+Program Core (PC) Computational
+Modelling of Materials
+5
+Materials
+Engineering
+Molecular dynamics, Atomistic
+simulations
+Thermodynamic parameters, Calculation
+of Phase diagram, Thermodynamic
+Database, Solidification simulation, Alloy
+Design
+Program Elective (PE) Computational
+Thermodynamics (PE)
+Total energy calculations, Electronic and
+Phonon Band Structure Calculations
+Program Elective (PE) First Principles
+Calculations
+Conserved and Non-Conserved Order
+Parameter, Phase Transitions,
+Microstructure Evolution
+Program Elective (PE) Phase Field Modelling
+Scientific Data, feature identification,
+Supervised learning, Materials Design,
+Model verification
+Program Elective (PE) Machine Learning for
+Materials Design (PE)
+Finite Element Analysis, Stiffness Matrix,
+Galerkin method, Displacement
+formulation, Stress analysis
+Program Elective (PE) Finite Element
+Methods and
+Applications (PE)
+Process
+Metallurgy
+Transport processes, Metal-Slag
+interaction, Ladle and tundish metallurgy,
+Continuous Casting
+Program Core (PC) Iron and Steel Making
+Hydrometallurgy, Pyrometallurgy,
+Electrometallurgy, Metal extraction,
+Refining
+Program Core (PC) Extraction of
+Nonferrous Metals
+Mineral processing, comminution and
+screening, separation, concentration
+Program Elective (PE) Mineral Beneficiation
+Chemical Kinetics, Transport processes,
+Chemical control, Diffusion control, Rate
+controlling step
+Program Elective (PE) Kinetics of
+Metallurgical
+Processes
+Degassing, Ladle metallurgy, Ingot
+defects, Continuous casting
+Program Elective (PE) Secondary and Special
+Steelmaking
+Process phenomena, Metal-slag
+interaction, Energy and Mass Balance,
+Process control
+Program Elective (PE) Process Metallurgy
+Principles
+Leaching, Phase stability diagram, Metal
+recovery processes, Metal utilization
+Program Elective (PE) Hydrometallurgy
+Electrochemistry, Electrodeposition,
+Electrowinning
+Program Elective (PE) Electrometallurgy
+6
+8. Course categories and credit distribution in the proposed B.Tech. programs
+Table 2. Course categories and credit distribution in the proposed B.Tech. programmes
+S.
+N.
+Course Type Course Category Regular B.Tech. Double B.Tech.
+Credit Total Credit Total
+1 Institute Core (I) Engineering (IE) 34 69 34 59
+Science (IS) 16 16
+Humanities (IH) 12 9
+2 Programme Linked (L) Science (LS) 7 0
+3 Programme Core (P) Programme Compulsory (PC) 50 71 50 71
+Programme Electives (PE) 18 18
+B.Tech. Project (PP) 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0
+5 Engineering Science (E) Engineering Science Core 0 0 22 22
+Engineering Science Elective (EE) 0 0 8 8
+Total Graded 150 160
+6 Non-Graded (N) Humanities (NH) 6 15 6 15
+Engineering (NE) 3 3
+Design/Practical Experience (ND) 6 6
+Total Graded + Non-Graded 165 175
+7
+9. Credit Structure of B.Tech. Programmes
+Table 3. Credit Structure for B.Tech. Programmes
+Type L-T-P Distribution of contact and beyond contact hours Total Credits
+(TC=TH/3)Contact Hours
+(CH)
+Beyond Contact
+Hours (BCH)
+Total Hours
+(TH)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+#Contact hour for project refers to the involvement of students in the laboratory, discussion, etc.
+8
+10. List of Programme Compulsory Courses
+Table 4. Programme Compulsory Courses for Materials Engineering
+Sr. No Course Name LTP Contact
+Hours
+Credit
+1 Mechanics of Solids 3-1-0 4 4
+2 Data Structure and Algorithms 3-0-2 5 4
+3 Materials at Equilibrium 3-1-0 4 4
+4 Electronic Materials 3-0-0 3 3
+5 Mechanical Behaviour of Materials 3-0-0 3 3
+6 Phase Transformations 3-0-0 3 3
+7 Iron and Steel Making 3-0-0 3 3
+8 Materials Characterization 3-0-0 3 3
+9 Computational Modelling of Materials 3-0-0 3 3
+10 Materials Processing and Manufacturing 3-0-0 3 3
+11 Materials for Energy Conversion and Storage 3-0-0 3 3
+12 Extraction of Nonferrous Metals 3-0-0 3 3
+13 Smart Materials 3-0-0 3 3
+14 Electronic Materials Lab 0-0-3 3 1.5
+15 Physical Metallurgy Lab 0-0-3 3 1.5
+16 Materials Characterization Lab 0-0-2 2 1
+17 Computational Modelling of Materials Lab 0-0-2 2 1
+18 Materials Processing and Manufacturing Lab 0-0-3 3 1.5
+19 Energy Materials Lab 0-0-3 3 1.5
+Total 50
+9
+11. Stream-wise Programme Elective Courses
+Table 6. Stream-wise Programme Electives Courses
+Stream SN Courses L-T_P Credit Course
+Level
+Structural
+Materials
+1 Processing-Microstructure and Properties of
+Steels
+3-0-0 3 400
+2 Degradation and Failure of Materials 3-0-0 3 400
+3 Composites 3-0-0 3 400
+4 Polymeric Materials and Processing 3-0-0 3 400
+5 Ceramics and Glass 3-0-2 4 400
+6 Casting and Solidification 3-0-0 3 600
+7 Metallurgy of Joining 3-0-0 3 600
+8 High Temperature Materials 3-0-0 3 700
+9 Digital Fabrication (Offered by ME) 3-0-0 3 300
+10 Smart Manufacturing (Offered by ME) 2-0-2 3 300
+11 Additive Manufacturing (Offered by ME) 3-0-0 3 600
+12 Computer Aided Design (Offered by ME) 3-0-2 4 400
+13 Design of Machine Elements (Offered by
+ME)
+3-0-2 4 300
+Functional
+Materials
+1 Battery Materials 3-0-0 3 400
+2 3D Printing: Material Processing and
+Properties
+3-0-0 3 400
+3 Lithium ion Batteries 2-0-2 3 400
+4 Surface Engineering 3-0-0 3 600
+5 Synthesis and Processing of Semiconductors
+and 2D materials
+3-0-0 3 400
+6 Functional Ceramics 3-0-0 3 400
+7 Magnetism and Magnetic Materials 3-0-0 3 400
+8 Nanoscience (Offered by Chemistry) 3-0-0 3 400
+9 Biomaterials Engineering 3-0-0 3 400
+10 Cell-Material Interaction (BSBE) 3-0-0 3 400
+11 Tissue Engineering (BSBE) 3-0-0 3 400
+12 Interfacial Engineering in Soft Matter (CHE) 3-0-0 3 400
+13 Quantum Mechanics (PHY) 3-0-0 3 600
+14 Advanced Condensed Matter Physics (PHY) 3-0-0 3 700
+15 Energy Harvesting Technologies (PHY) 3-0-0 3 700
+16 Physics of Solar Cells (PHY) 3-0-0 3 700
+Computational
+Materials
+Engineering
+1 Computational Thermodynamics 2-0-2 3 400
+2 Modelling of Metallurgical Processes 3-0-0 3 700
+2 Machine Learning for Materials Design 2-0-2 3 700
+4 First-Principles Calculations 3-0-2 4 700
+5 Phase field modelling 3-0-0 3 700
+6 Industry 4.0: Applications in Metallurgical
+and Materials Engineering
+2-0-0 2 700
+7 Introduction to Internet of Things (Offered
+by EE)
+1-0-0 1 700
+8 Finite Element Methods (Offered by ME) 3-0-0 3 600
+9 Artificial Intelligence (CSE) 3-0-0 3 300
+10 Deep Learning (CSE) 3-0-3 4.5 400
+10
+11 Optimization (Offered by MA) 3-0-0 3 400
+Process
+Metallurgy
+1 Mineral Beneficiation 3-0-0 3 400
+2 Kinetics of Metallurgical Processes 3-0-0 3 400
+3 Principles of Process Metallurgy 3-0-0 3 400
+4 Hydrometallurgy 3-0-0 3 400
+5 Electrometallurgy 3-0-0 3 400
+6 Secondary and Special Steelmaking 3-0-0 3 600
+7 Processing of Rare Earth and Radioactive
+Materials (CH)
+3-0-0 3 400
+8 Computational Fluid Dynamics (Offered by
+CH)
+3-0-2 4 700
+Special Topics 1 Special Topics in Materials Engineering 3-0-0 3 400/600
+11
+12. Specialization to be proposed by the department
+The students can obtain a Departmental Specialization after completing additional 20 credits beyond the regular
+B.Tech. program credit requirement. From the 20 credits, 8 credits must be taken from core areas of that
+specialization and 12 credits should be taken from the electives within that specialization. 4 elective credits (out
+of 12) may be taken as elective project, which will allow the student to pursue his/her B.Tech. project in the area
+of his/her specialization. Therefore, after proper planning, a student opting for specialization may earn 7 (4
+specialization elective project + 3 regular B.Tech. project) credits for B.Tech. project. The specializations will
+enable the students to pursue their area of interest and will ensure depth in the curriculum.
+Table 7. Specializations List
+S. No. Name of Specializations Credit requirement
+Core Elective
+1 Structural Materials 8 credits 12 credits
+2 Functional Materials 8 credits 12 credits
+3 Computational Materials Engineering 8 credits 12 credits
+4 Process Metallurgy 8 credits 12 credits
+Table 8. Specialization concept notes
+1
+Structural Materials
+Structural materials encompass a wide variety of materials whose primary purpose is to support or
+transmit load. Structural materials are used in applications such as transportation (aircraft and
+automobiles), construction (buildings and roads), or in components used for body protection (helmets
+and body armor), energy production (turbine blades), or other smaller structures such as those used in
+microelectronics. Structural materials can be metallic, ceramic, polymeric or a composite.
+The objective of offering this specialization to encourage students to pursue emerging area of Materials
+design, processing, and structure-property correlation for advanced materials for lightweight structures
+subjected to severe environments such as high temperature, wear, high stress and strain rates, etc. to
+name a few. The advancement in the microstructural characterization has enabled investigation of
+materials properties at different length scales which played a key role in solving the sudden material
+failure issues in the industry domain. Apart from structural investigation, structural materials stream
+provides knowledge of correlating these microstructural features with the mechanical, physical and
+electronic properties of the material. This can be achieved by thorough understanding of different
+materials processing and manufacturing techniques at lab as well as industry scales.
+Therefore, the specialization will provide in-depth education required for designing advanced structural
+materials and processing conditions as per the demand of the respective industry to obtain the usable
+products in a cost-effective manner. Detailed curriculum for this specialization will be proposed later.
+2
+Functional Materials
+Functional materials represent an ever-growing set of advanced materials, whose properties e.g. shape,
+electrical conductivity, mechanical properties, color etc. could be tuned by an external stimulus -
+thermal, electrical, mechanical, light etc. These materials are characterized by one or multiple native
+properties of their own, e.g. ferroelectricity, thermoelectricity, piezoelectricity, magnetism, energy
+storage functions, magneto and electrostrictive materials and could be found in all classes of materials -
+ceramics, metals, polymers and organic molecules. Practically all modern-day applications ranging from
+computers, memory devices, displays, advanced sensors and MEMS based devices to batteries and
+shape memory alloys are a result of the advances in the functional properties of materials.
+With the ever-increasing demand for higher performing, more energy efficient and device
+miniaturization the functional properties of materials remains the most active areas of research not just
+in Materials Science but also cross disciplinary. With the advent of 5G and demand for IoT and AI based
+12
+technologies and building towards a more sustainable world there is an ever-increasing demand for
+materials with hitherto unexplored novel functionalities.
+The specialization on “Functional Materials” is being designed to impart the students with different
+facets of the functional properties of materials and their real-world applications along with a strong
+emphasis on the basics of the underlying phenomena. The functional properties of materials are
+continuously evolving in a very dynamic world and hence demands a continuously evolving nature of
+the curricula. Owing to the importance of Functional Materials in today’s world we would like to
+introduce a specialization on Functional Materials in our B.Tech program. A detailed curriculum will be
+proposed later.
+3
+Computational Materials Engineering
+Computational Modeling approaches provide insights into Materials aspects at atomic, micro, macro
+length scales and aid in better understanding of Materials and processes. Developments in the
+hardware front are making the computing power more affordable and developments in the theoretical
+approaches are broadening the capabilities of Modelling approaches. As a result, computational
+modeling is playing a key role in Materials design and discovery. The Computational Materials
+Engineering (CME) approach combines all available modelling techniques for improving existing
+metallurgical processes or properties of a structural material or a functional material. In this respect,
+the CME forms a horizontal for different specializations of Materials Engineering.
+Traditional science-based modeling techniques such as first-principles calculations, molecular dynamics,
+phase field methods, finite element methods, finite difference methods, Calphad methods, etc. have
+evolved to give results within acceptable accuracy of the experimental results. Recently, Materials
+Scientists started using data analysis-based techniques in Materials design and discovery. The emerging
+data-based techniques have potential to accelerate the Material Discovery and improve the Materials
+Processing.
+The objective of the CME is to combine the traditional science-based techniques with emerging data
+based techniques for improving Materials design and discovery. The CME concept is still in infancy and
+requires continuous efforts from all the stakeholders involved to bring it to the state-of-the-art stage. In
+this direction, we would like to start a B.Tech. program in Materials Engineering with a specialization in
+CME. Detailed curriculum for this specialization will be proposed later.
+4
+Process Metallurgy
+Process metallurgy is a specialization concerned with extracting metals from their ores, and the
+development, production, and use of metallic materials. Process metallurgy practitioners design
+complex metallurgical reactors using principles of physics, thermodynamics, reaction kinetics, and
+transport phenomena. Designing of such metallurgical reactors also requires skills in high-temperature
+experimentation and computer simulation techniques. In the years to come, extraction of metal will be
+extremely difficult due to the decreasing ore grade and strict laws to regulate the environmental impact
+of metallurgical emissions. In fact, the future trend in extractive metallurgy is to recover metals, even in
+parts-per-million levels, from wastes such as used catalysts and more importantly the ever-increasing
+volume of electronic wastes.
+A process metallurgy expert acquires multifaceted skills and hence the careers of process metallurgists
+may not be restricted to steel, copper, or aluminum plants. In fact, they can also design materials
+processing operations such as casting, powder metallurgy, and heat treatment. Semiconductor and
+waste processing facilities could also provide job openings. Experts in a computer simulation with a
+sound knowledge of transport phenomena have job opportunities spanning across other engineering
+branches too. Detailed curriculum for this specialization will be proposed later.
+13
+13. Curriculum of B.Tech. Materials Engineering
+Table 9. Curriculum of B.Tech. in Materials Engineering
+Ca
+t
+Course LTP C
+H
+N
+C
+GC Ca
+t
+Course LTP C
+H
+NC GC
+I Semester II Semester
+IE Engineering
+Mechanics
+2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering
+3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer Science
+3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering
+3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization
+0-0-2 2 - 1 IE Engineering
+Realization
+0-0-2 2 - 1
+NE Engineering Design
+I
+0-0-2 2 1 - NE Engineering Design
+II
+0-0-2 2 1 -
+N
+H
+Communication
+Skill I
+0-0-2 2 1 - N
+H
+Communication Skill
+II
+0-0-2 2 1 -
+N
+H
+Social Connect and
+responsibilities I
+0-0-1 1 0.
+5
+- N
+H
+Social Connect and
+responsibilities II
+0-0-1 1 0.5 -
+N
+H
+Performing Arts I
+/Sports I
+0-0-1 1 0.
+5
+- N
+H
+Performing Arts
+II/Sports II
+0-0-1 1 0.5 -
+Total 11-2-
+12
+25 3 16 Total 12-1-
+14
+27 3 17
+III Semester IV Semester
+LS Scientific
+Computations
+3-1-0 4 - 4 IE Materials Science &
+Engineering
+Fractal 1: Physical
+Metallurgy
+Fractal 2: Polymers
+Fractal 3: Corrosion
+3 ×
+1-0-0
+3 - 3
+IE Thermodynamics 3-1-0 4 - 4 PC Data Structure and
+Algorithm
+3-0-2 5 4
+PC Mechanics of Solids 3-1-0 4 - 4 PC Materials at
+Equilibrium
+3-1-0 4 4
+IE Introduction to
+Machine Learning
+3-0-2 5 - 4 PC Materials for Energy
+Conversion and
+Storage
+3-0-0 3 3
+LS Condensed Matter
+Physics
+3-0-0 3 - 3 IE Signals and Systems 3-1-0 4 - 4
+NE Intro. To Profession 0-0-2 2 1 IH Humanities I 3-0-0 3 - 3
+Total 15-3-
+4
+22 1 19 Total 15-1-
+4
+23 - 21
+V Semester VI Semester
+PC Electronic Materials 3-0-0 3 3 PC Computational
+Modelling of
+Materials
+3-0-0 3 3
+PC Mechanical
+Behavior of
+Materials
+3-0-0 3 3 PC Materials Processing
+and Manufacturing
+3-0-0 3 3
+14
+PC Phase
+Transformations
+3-0-0 3 3 PC Extraction of
+Nonferrous Metals
+3-0-0 3 3
+PC Materials
+Characterization
+3-0-0 3 3 PC Iron and Steel
+Making
+3-0-0 3 3
+PC Electronic Materials
+Lab
+0-0-3 3 1.5 PC Smart Materials 3-0-0 3 3
+PC Physical
+Metallurgy Lab
+0-0-3 3 1.5 PC Computational
+Modelling of
+Materials Lab
+0-0-2 2 1
+PC Energy Materials
+Lab
+0-0-3 3 1.5 PC Materials Processing
+and Manufacturing
+Lab
+0-0-3 3 1.5
+PC Materials
+Characterization
+Lab
+0-0-2 2 1
+IH Humanities II 3-0-0 3 - 3 PE Programme/Open
+Elective
+3-0-0 3 3
+N
+H
+Professional Ethics
+I
+0-1-0 1 - N
+H
+Professional Ethics II 0-1-0 1 -
+Total 15-1-
+11
+26 1 20.5 Total 18-1-
+5
+24 1 20.
+5
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE
+/
+OE
+Programme/Open
+Electives
+10-0-
+0
+10 - 10 PE
+/
+OE
+Programme/Open
+Electives
+15-0-
+0
+15 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science
+2-0-0 2 - 2
+Total 15-0-
+6
+21 - 18 Total 18-0-
+0
+18 - 18
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 15 165
+15
+14. Detailed Course Content
+Program Compulsory Courses
+Course Title Materials at Equilibrium Number MTL2XX0
+Department Metallurgical and Materials Engineering L–T–P [C] 3–1–0 [4]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+Pre-requisite
+Objectives
+1. Provide a basis for describing and understanding the stability of various forms of matter.
+2. Provide a basis for predicting the properties of an equilibrated system as a function of its content and
+characteristics.
+Learning Outcomes
+3. Establish the conditions for stability of a material and derive its properties.
+4. Control the evolution of microstructures with respect to different parameters.
+Course Content
+Phase equilibria [8 lectures]: Criteria for equilibrium, Maxwell relations, One component system, variation of
+free energy with temperature and pressure, equilibrium between condensed phases (solid-liquid, solid-solid),
+equilibrium between a vapor phase and a condensed phase
+Behavior of gases and liquids [6 lectures]: Ideal and non-ideal gases, activity, fugacity, Partial molar quantities,
+Raoult’s law and Henry’s law
+Solution thermodynamics [8 lectures]: Gibbs Duhem equation, Gibbs free energy of formation of a solution
+(ideal, non-ideal), configurational entropy, Regular solution model, statistical model of solutions
+Gibbs Free Energy Composition and Phase Diagrams (binary) [8 lectures]: Gibbs free energy and thermodynamic
+activity, standard state, criterion for phase stability, Gibbs free energy composition diagrams, activity-
+composition diagrams, Application of regular solution model to phase diagrams
+Reactions involving gases [6 lectures]: Reaction equilibrium a gas mixture and the equilibrium constant, effect of
+pressure and temperature on the equilibrium constant
+Reactions involving a condensed phase and a gas phase [6 lectures]: Standard Gibbs free energy variation with
+temperature, Ellingham diagrams, effect of phase transformations
+Text Books
+Gaskell, D.R. and Laughlin, D.E., (2018), Introduction to Thermodynamics of Materials, 6th Edition CRC Press
+References
+1. Hillert, M., (2008), Phase Equilibria, Phase Diagrams and Phase Transformations Their Thermodynamic Basis,
+Second edition, Cambridge University Press
+2. Dehoff, R., (2006), Thermodynamics in Materials Science, 2nd Edition, CRC Press
+Online Course Material
+Ceder, G., and Anton Van der Ven, A., 3.20 Materials at Equilibrium (SMA 5111). Fall 2003. Massachusetts
+Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-
+SA.
+16
+Title Electronic Materials Number MTL3XX0
+Department Metallurgical & Materials Engineering L-T-P
+[C]
+3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce and discuss about different electronic materials, devices and processes.
+2. Motivate students to learn more about advanced electronic devices and technologies
+Learning Outcomes
+The students are expected to gain:
+1. Basics of electronic structures of different materials.
+2. Understanding the physics of electronic materials and devices.
+Contents
+Physics of Electronic Materials [12 lectures]: Introduction, electronic structures, basics of quantum mechanics,
+energy band theory, Free Electron Bands, Band structure in metals and semiconductors, Development of band
+gap, Fermi energy levels, Fermi surface, density of states and charge transport
+Semiconductor Materials [8 lectures]: Intrinsic Semiconductors: carrier concentration, mobility, temperature
+dependence; Extrinsic semiconductors: Dopant types and materials, Donors and Acceptors, temperature
+dependence of number of carriers, Effective mass, Compound Semiconductors
+Electronic devices [4 lectures]: p-n junctions, metal-semiconductor contacts, metal-insulator-semiconductor
+capacitors, bipolar junction transistors, junction field-effect transistors, MOSFETs and logics.
+Other electronic materials [8 lectures]: III-V and II-VI semiconductors, metal oxides, organics, carbon nanotubes
+and 2D semiconductors.
+Optical properties of materials & Applications [10 lectures]: Optical properties of materials: optical constants, index
+of refraction, absorbance, reflectivity, transmissivity, Hagen-Rubens relation; atomistic theory, harmonic
+oscillators. Quantum mechanical treatment of the optical properties: absorption, optical spectra of materials.
+Applications of the optical properties of materials: Kramers-Kronig analysis, reflection spectra, Lasers, light-
+emitting diodes, integrated optoelectronics, waveguides, modulators, switches.
+Textbook
+1. Streetman,B.G., Banerjee,S. (2001) Solid state electronic devices, Prentice-Hall of India.
+2. R.E. Hummel, Electronic Properties of Materials, Springer-Verlag, 3rd edition, 2001.
+Reference Books
+Sze,S. M., Ng,K.K. (2006) Physics of semiconductor devices, John Wiley & sons.
+Online Course Material
+Parasuraman Swaminathan, Electronic materials, devices and fabrication, NPTEL Course Material,
+Department of Metallurgical and Materials Engineering, IIT Madras,
+https://nptel.ac.in/courses/113/106/113106062/
+17
+Title Mechanical Behavior of Materials Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program
+Compulsory (PC)
+Pre-requisite -
+Objectives
+To provide background on the mechanisms of deformation in engineering materials, and on the evolution of
+material microstructure when subjected to mechanical stress during materials processing and engineering
+applications
+Learning Outcomes
+1. Ability to design materials with improved mechanical properties and identify failure mechanisms in
+materials for engineering applications
+2. To measure important mechanical properties and correlate with the microstructure
+Contents
+Continuum Theory of Deformation [2 lectures]: Stress and strain tensor, Generalized Hooke’s Law, Yield Criteria
+Lattice Defects [6 lectures]: Vacancies and interstitials, dislocations: Edge and Screw, stress fields around edge
+and screw dislocations, strain energy of dislocations, force on dislocation, dislocation-dislocation interaction
+Plastic Deformation [8 lectures]: Slip in a perfect lattice, slip by dislocation movement, Critical Resolved Shear
+stress, cross-slip and climb, deformation of single crystals, dislocations in different crystal structures, twinning
+Strengthening Mechanisms [8 lectures]: Grain boundary strengthening, strain hardening, solid-solution
+hardening, age-hardening, martensite strengthening
+Fracture and Toughening Mechanisms [6 lectures]: theoretical fracture strength and Griffith’s Law, modes of fracture,
+fracture toughness, brittle and ductile fracture, toughening mechanisms in metals, ceramics, and polymers
+Fatigue and Creep [6 lectures]: Introduction to fatigue, stress and strain-life approach, cyclic stress-strain curve,
+fatigue crack propagation, high temperature deformation, fatigue-creep interaction
+Deformation of Polymers [6 lectures]: Elastic deformation in semi crystalline polymers, nonlinear elastic
+deformation, shear banding and crazing, stress-strain curves
+Text Books
+1. Courtney, T. H., (2005), Mechanical Behaviour of Materials, 2nd Edition, Waveland Press Inc.
+2. Dieter, G.E., (1989), Mechanical Metallurgy, SI Metric Edition, McGraw-Hill Book Company.
+3. Shetty, M. N., (2013), Dislocations and Mechanical Behavior of Materials, Prentice Hall India Learning Private
+Limited
+Reference Books
+1. Hertzberg, R.W., (2013), Deformation and Fracture Mechanics of Engineering Materials, 5th Edition, Wiley
+2. McClintock,F.A., and Argon,A.S., (1966), Mechanical Behavior of Materials, Addison-Wesley.
+Online Course Material
+Van Vilet, K., 3.22 Mechanical Behavior of Materials, Spring 2008. Massachusetts Institute of Technology:
+MIT OpenCourseWare, https://ocw.mit.edu/courses/materials-science-and-engineering/3-22-mechanical-
+behavior-of-materials-spring-2008/
+18
+Title Phase Transformations Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program
+Compulsory
+(PC)
+Prerequisite -
+Objectives
+The Instructor will:
+Explain the importance of phase transformations in solid and liquid state and their applications through
+experimentation
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the microstructure evolution during the phase transformation
+2. Understand the variation of properties with the microstructure evolution towards developing heat
+treatment-microstructure-property relationship
+Contents
+Thermodynamics and Kinetics [6 Lectures]: free energy, order of transformation, driving force, homogeneous and
+heterogeneous nucleation, growth kinetics, coarsening, precipitation
+Phase Transformation during Solidification [4 Lectures]: Eutectic and Peritectic Transformation
+Heat-Treatment of Ferrous and Nonferrous Metals [6 Lectures]: Annealing, Normalizing, Hardening and
+Tempering, Precipitation Hardening
+Interfaces [4 Lectures]: atomic mechanisms of diffusion, activation energy, interfacial free energy, types of
+interface (coherent, semi-coherent and incoherent interfaces), interface migration
+Diffusional Phase Transformations in Solids [14 Lectures]: austenite, transformation of austenite, TTT diagram,
+eutectoid transformation, pearlite and bainite transformation, order-disorder transformation, precipitation
+hardening, spinodal decomposition and massive transformation
+Diffusionless Phase Transformations in Solids [8 Lectures]: Martensite transformation: characteristics and nature,
+morphology, crystallography, theory of nucleation and growth, and pre-martensite phenomena, martensitic
+transformation in steel. Martensite in non-Ferrous systems-thermoelastic martensite and shape memory effect.
+Textbooks
+1. Raghavan,V., (1987), Solid State Phase Transformations, 1st edition, Prentice Hall India,.
+2. Porter,D.A., Easterling,K.E., and Sherif,M.Y., (2009), Phase Transformation in Metals and Alloys, 3rd edition,
+CRC Press,
+3. Abbaschian,R., Abbaschian,L., and Reed-Hill,R.E., (2009), Physical Metallurgy Principles, 4th edition,
+Cengate Learning,
+4. Rajan,T.V., Sharma,C.P., and Sharma,A., (2011), Heat Treatment: Principles and Techniques, 2nd edition,
+Prentice Hall India
+Reference Books
+1. Khachaturyan,A.G., Theory of Structural Transformations in Solids, 1st edition, Dover publications, 2008.
+2. Avner, S.H., Introduction to Physical Metallurgy, 2nd edition, McGraw Hill Education, 2017
+Online Course Material
+Gururajan,M.P., Phase Transformations and Heat Treatment, NPTEL Course Material, Department of
+Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay,
+http://nptel.ac.in/courses/113101003/
+19
+Title Iron and Steel Making Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+Pre-requisite
+Objectives
+Explain principles of thermodynamics and process metallurgy involved in traditional and advanced iron and
+steel making processes
+Learning Outcomes
+1. Understand the basics of process metallurgy involved in iron and steel making processes
+2. Be cognizant of advanced iron making and steel making processes in industries
+Contents
+Introduction to Iron Making and steelmaking [10 lectures]: concept of integrated steel plant, different types of
+ironmaking processes, agglomeration techniques, basic thermodynamics, kinetics and transport phenomena
+in iron and steelmaking processes
+Transport Processes in Blast Furnace [8 lectures]: temperature, burden distribution, and aerodynamics of blast
+furnace, physical and chemical; processes in upper and lower zones of blast furnace
+Alternative Iron Making Processes [8 lectures]: direct reduction process-DRI, HBI, smelting reduction process-
+Corex, Romelt, HiSmelt, Finex etc.
+Modern Steelmaking Processes [10 lectures]: basic oxygen furnace steelmaking, Electric Arc Furnace, and induction
+furnace steelmaking
+Secondary Steelmaking Processes [6 lectures]: deoxidation, ladle and tundish Metallurgy, continuous casting,
+casting defects
+Text Books
+1. Ghosh,A., and Chatterji,A., (2008), Ironmaking and Steelmaking: Theory and Practice, Prentice-Hall (India)
+2. Turkdogan,E.T., (1997), A Text Book of Steelmaking, Academic Press, London Shetty, M. N., (2013),
+Dislocations and Mechanical Behavior of Materials, Prentice Hall India Learning Private Limited
+3. Chatterjee,A., (1994), Beyond the Blast Furnace, CRC Press
+Self-Learning Materials
+Ghosh,A., (2000), Secondary Steelmaking, CRC Press, Boca Raton
+Online Course Material
+1. Muzumdar,D., and Koria,S.C., Steelmaking, NPTEL Course Material, Department of Material Science and
+Engineering, Indian Institute of Technology Kanpur, http://nptel.ac.in/courses/113104013/
+2. Gupta,G.S., Iron Making, NPTEL Course Material, Department of Materials Engineering, Indian Institute
+of Science Bangalore, http://nptel.ac.in/courses/113108079/
+20
+Title Materials Characterization Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Program Type Program Compulsory
+(PC)
+Prerequisite -
+Objectives
+The Instructor will:
+Explain the principle of the instruments and methods for characterizing different materials and their properties
+Learning Outcomes
+The students are expected to have the ability to:
+1. Know the basic working principles of various instruments and use the same while performing experiments
+2. Choose the characterization methods based on the requirement and performance
+Contents
+Light Optical Microscopy [6 Lectures]: polarization microscopy, phase contrast microscopy, DIC Microscopy and
+confocal microscopy
+Diffraction Techniques [6 Lectures]: X-Ray Diffraction, Electron Diffraction
+Electron Microscopies [8 Lectures]: Scanning electron microscopy (SEM) & transmission electron microscopy
+(TEM)
+Scanning Probe Microscopy [6 Lectures]: scanning tunnelling microscopy (STM) & atomic force microscopy
+(AFM)
+Spectroscopic Characterization [6 Lectures]: UV-VIS-NIR, optical emission, XRF, FTIR, and Raman spectroscopy
+Surface Characterization [6 Lectures]: Auger electron spectroscopy, X-ray photoelectron spectroscopy
+Thermal Analysis [4 Lectures]: thermal mechanical analysis (TMA), differential scanning calorimetry (DSC),
+thermal gravimetric analysis (TGA), differential thermal analysis (DTA)
+Textbook
+1. Zhang,S., Li,L. and Kumar,A., (2008), Materials Characterization Techniques, , CRC Press
+2. Cullity, B.D., Stock, S.R., (2014), Elements of X-Ray Diffraction, 3rd Edition, Pearson Education Limited
+Reference Books
+1. Evans,C., Brundle.R. and Wilson, (1992), Encyclopaedia of Materials Characterization: Surfaces, Interfaces, Thin
+Films (Materials Characterization Series), Butterworth-Heinemann,
+2. Kaufmann,E.N., (2012), Characterization of Materials, 3 Volume Set, 2nd Edition, Wiley
+3. Egerton,R., (2016), Physical Principles of Electron Microscopy: An Introduction to TEM, SEM and AEM, 2nd ed.
+Springer
+4. Hwang,J-Y, Monteiro,S.N., Bai,C., Carpenter,J.S., Cai,M., Firrao,D., Kim,B-G., (2012), Characterization
+of Minerals, Metals and Materials, Wiley
+Online Course Materials
+1. Shankaran,S., Materials Characterization, NPTEL Course Material, Department of Metallurgical &
+Materials Engineering, Indian Institute of Technology Madras, http://nptel.ac.in/courses/113106034/
+2. Alagarsamy,P., Characterization of Materials, NPTEL Course Material, Department of Physics, Indian
+Institute of Technology, Guwahati, http://nptel.ac.in/courses/115103030/
+3. Biswas,K. and Gurao,N.P., NPTEL Course Material, Advanced Characterization Techniques, Department of
+Materials Science and Engineering, Indian Institute of Technology, Kanpur,
+http://nptel.ac.in/courses/113104004/
+4. Barbastathis,G., Smith,H. and Berggren,K., Submicrometer and Nanometer Technology. Spring 2006.
+Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative
+Commons BY-NC-SA
+21
+Course Title Computational Modelling of Materials Number MTL3XX0
+Department Metallurgical and Materials Engineering L–T–P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+Pre-requisite -
+Objectives
+1. Introduce modelling in the context of Materials Engineering
+2. Introduce the theory behind the first-principles calculations
+3. Create awareness of the opportunities and limitations of Molecular dynamics simulations
+Learning Outcomes
+1. Ability to formulate model and solve initial value and boundary value problems
+2. Understand the working principles of the first-principles calculations and molecular dynamics
+3. Simulate materials using the first-principles calculations and molecular dynamics
+Course Content
+Introduction to Modelling in Materials [14 lectures]: Types of linear PDEs, Modelling Diffusion type problems-
+Derivation of Heat Equation, Boundary Conditions, Separation of Variables, Infinite diffusion problem by
+integral transform, 1-D wave equation-Boundary conditions, Steady state problems, Numerical solutions-
+Finite Difference Method
+Molecular Dynamics [14 lectures]: Molecular dynamics: Applications, basic concepts, potential energy
+functions, integration algorithms, temperature control, boundary conditions, neighbour lists, initialization,
+equilibrium, geometry optimization, static properties, dynamical properties, analysis of results, visualisation
+First Principle Calculations-2 [14 lectures]: Notation & Mathematics: Dirac notation, Fourier transformation,
+Function and functional, Quantum mechanics: Schrodinger equation, Born-Oppenheimer approximation,
+Mean-field methods, Kohn-Sham method: Density functional theory, Hohenberg-Kohn theorems, Kohn-
+Sham method, Exchange correlation functional, Structure relaxation, Smearing methods, Electronic band
+structure, Fermi-Dirac distribution
+Text Books
+1. Rappaz, M., Bellet, M., Deville, M., Numerical Modeling in Materials Science and Engineering, Springer Science
+& Business Media, 2010.
+2. Frenkel, D., Smit, B., Understanding Molecular Simulation: From Algorithms to Applications, 2nd Edition,
+Elsevier 2001.
+3. Lee, J. G., Computational Materials Science: An Introduction, 2nd edition, CRC Press, 2016.
+References
+1. Sholl, D. S., and Steckel, J. A., Density Functional Theory: A Practical Introduction, 1st Edition, Wiley, 2009.
+2. Parr, R.G., and Yang, W., Density-Functional Theory of Atoms and Molecules, 1st Edition, Oxford Science
+Publications, 1994.
+3. Lesar, R., Introduction to Compuational Materials Science
+Online Course Material
+Ceder, G. and Marzari, N., 3.320 Atomistic Computer Modeling of Materials (SMA 5107). Spring 2005.
+Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative
+Commons BY-NC-SA
+22
+Title Materials Processing and Manufacturing Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+Prerequisite -
+Objectives
+The Instructor will:
+Introduce the various industrially relevant materials processing and manufacturing techniques
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the microstructure evolution during the phase transformation
+2. Understand the variation of properties with the microstructure evolution towards developing heat
+treatment-microstructure-property relationship
+Contents
+Bulk Processing of Materials [14 lectures]: Thermodynamics of solidification, pure metal solidification, Alloy
+Solidification: Constitutional undercooling, dendritic growth. Structure of casting and ingots, Types of casting,
+Heat transfer, Joining- Welding and its types, Brazing and Soldering, Microstructural mechanisms associated
+with metals joining operations, Powder Metallurgy, Additive manufacturing of metals.
+Bulk Metal Forming Techniques [14 lectures]: Rolling- Analysis of rolling, hot and cold rolling, microstructural
+changes during rolling, rolling defects, rolling mill; Forging- open and closed die forging; lubricated and non-
+lubricated extrusion.; wire-drawing- die design and materials, optimal die angle, sheet metal forming-
+bending, stretching and deep drawing, anisotropy parameter, forming limit diagram, microstructural changes
+Processing of Ceramics and Polymers [14 lectures]: Ceramic processing: Powder preparations, solid state reactions,
+Sintering, Colloidal processing, Co-precipitation method, Sol-Gel process, Porous ceramics and ceramic fibres.
+Polymer processing: Mixing and compounding, extrusion process, moulding processes, thermoforming, roller
+and blade coating, textile/fiber spinning technology, Additive manufacturing of polymers and ceramics.
+Textbooks
+1. Flemings,M.C., (1974), Solidification Processing, Mcgraw-Hill Book Company
+2. Dieter,G.E., (1986), Mechanical Metallurgy, 3rd Edition, McGraw Hill Book Company
+3. El-Kareh, B., Fundamentals of semiconductor processing technology, 3rd Edition, 1995, Springer US
+Reference Books
+1. Chalmers,B., (1967), Principles of Solidification, Wiley
+2. Stefanescu,D.M., (2015), Science and Engineering of Casting Solidification, 3rd edition, Springer
+3. Hosford, W.F., Caddell, R.M., (2014), Metal Forming: Mechanics and Metallurgy, 4th Edition, Cambridge
+University Press
+Online Course Material
+1. Shekhar, S., Fundamentals of Materials Processing (Part–1), NPTEL Course Material, Department of
+Materials Science and Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/113/104/113104073/
+2. Shekhar, S., Fundamentals of Materials Processing (Part–2), NPTEL Course Material, Department of
+Materials Science and Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/113/104/113104075/
+23
+Title Materials for Energy Conversion and Storage Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+The course outlines in a nutshell:
+1. Different modes of energy conversion and storage
+2. Development of materials with time and different applications, scale, energy and power density
+Learning Outcomes
+The students are expected to gain knowledge on:
+1. Structure processing property performance relationship of the energy materials developed over time.
+2. Different modes of energy conversion and storage with respect to scale, cost, energy and power density
+Contents
+Introduction [2 lectures]: Classification, Overview of Electrical (static), Electrochemical, Thermal, Mechanical,
+Photo-electrochemical (includes biological) energy storage.
+Electrical (static) [4 lectures]: Capacitor, Leyden Jar, corona discharge, dielectrics.
+Electrochemical conversion and storage [14 lectures]: Introduction to Electrolytic capacitor, Electrochemical cell
+(Battery), Supercapacitor, primary and secondary batteries, Li-ion battery, fuel cells.
+Photo-electrochemical conversion [4 lectures]: Photo-electric effect, artificial photo synthesis, semiconductor based
+solar cells, dye-synthesized solar cells.
+Thermal conversion and storage [8 lectures]: Solar thermal energy conversion, sterling engines, Molten salt
+technology, eutectic mixtures, Phase-change materials, thermoelectric materials.
+Mechanical storage [6 lectures]: Pumped storage, gravity batteries, Compressing air storage, flywheels.
+Carbon Materials for Energy conversion and storage [4 lectures]: Hybridization and carbon allotropes overview,
+Synthesis and characterization of carbon allotropes, Functionalization of carbon materials, Carbon
+nanomaterials for energy conversion and storage.
+Textbook
+Cheong K.Y., Impellizzeri,G and Fraga,M.A., (2018), Emerging Materials for Energy Conversion and Storage, 1st
+Edition, Elsevier
+Reference Book
+Rosen, M.A., (2012) Energy Storage, Nova
+Online Course Materials
+1. Prof. Bazant M., MITopencourseware: Electrochemical Energy Systems, MIT Course Number 10.626 /
+10.426,
+https://ocw.mit.edu/courses/chemical-engineering/10-626-electrochemical-energy-systems-spring-2014/
+2. Prof. Pal K., Selection Of Nanomaterials For Energy Harvesting And Storage Application, NPTEL Course
+Material, Mechanical Engineering, Indian Institute of Technology Roorkee,
+https://nptel.ac.in/courses/112/107/112107283/
+24
+Title Extraction of Nonferrous Metals Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+Pre-requisite -
+Objectives
+Explain principles of thermodynamics and process metallurgy involved in traditional and advanced
+processes of nonferrous metal extraction
+Learning Outcomes
+Understand the basics of extractive metallurgy involved in nonferrous metal extraction processes
+Contents
+Early developments in metal extraction [2 lectures]: Nonferrous metals in Indian history, uses of nonferrous metals,
+Sources of nonferrous metals
+Principles of metals extraction [4 lectures]: Thermodynamic principles, homogeneous and heterogeneous
+reactions, Ellingham diagram, kinetic principles, principles of electro-chemistry
+General methods of extraction [10 lectures]: Pyrometallurgy – calcination, roasting and smelting, Hydrometallurgy
+– leaching, solvent extraction, ion exchange, precipitation, and electrometallurgy – electrolysis and electro-
+refining)
+General methods of refining [4 lectures]: Basic approaches, preparation of pure compounds, purification of crude
+metal produced in bulk
+Extraction of metals from oxide sources [6 lectures]: Basic approaches and special features of specific extraction
+processes, extraction of metals such as magnesium, aluminum, tin and ferro-alloying elements, production of
+ferro alloys.
+Extraction of metals from Sulphide Ores [6 lectures]: Pyro-metallurgy and hydrometallurgy of sulphides,
+production of metals such as copper, lead, zinc, nickel etc.
+Extraction of metals from Halides [6 lectures]: Extraction of metals from halides: Production of halides and refining
+methods, Methods of extraction of metals such as titanium, rare earths, uranium, thorium, plutonium,
+beryllium, zirconium etc.
+Production of precious metals [2 lectures]: Methods applied for gold, silver and Pt group of metals
+Waste Utilization [2 lectures]: Secondary metals and utilization of wastes, Energy and environmental issues in
+nonferrous metals extraction
+Text Books
+1. Ray, H.S., Sridhar, R. and Abraham, K.P. Extraction of nonferrous metals, Affiliated East West Press Pvt
+Ltd., New Delhi (2007)
+2. Dennis, W.H., Extractive Metallurgy, Philosophical Library, New York (1965)
+Self-Learning Materials
+Ray, H.S., and Ghosh, A., Principles of extractive metallurgy, Wiley Eastern Ltd., New Delhi, 1991
+Online Course Material
+Ray, H.S., Non-ferrous Extractive Metallurgy, NPTEL Course Material, Department of Materials and
+Metallurgical Engineering, Indian Institute of Technology Kharagpur,
+https://nptel.ac.in/courses/113/105/113105021/
+25
+Title Smart Materials Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Materials Engineering Type Compulsory
+Prerequisite Nil
+Objectives
+The Instructor will:
+1. Introduce the family of smart materials along with their mechanisms, design and applications
+2. Provide appreciation to utilize smart materials in context of smart engineering structure
+Learning Outcomes
+The students are expected to gain:
+1. Basic understanding of intelligent materials and their utilization
+2. Methodology of newer materials development towards specific applications
+Contents
+Introduction [6 lectures]: Basic definitions, classification of smart materials, modification of material structures,
+stimuli for reversible shape and structural transformation
+Shape Memory Alloys (SMA) [8 Lectures]: Shape memory and superelasticity effects, Microstructural
+mechanisms, Range of SMA, phases and crystal structure, Processing (training), bonding and joining, High
+temperature SMA, Magnetic SMA, Giant magnetostrictive material, Thin films, Applications
+Polymeric Smart Materials [14 lectures]: Functionally graded polymer blend, Smart performances; Electro-
+conductive polymers, Electro-chromatic Sol-Gel, Smart drug delivery systems, Bio-medical sensing, Self-
+healing materials, Nanoparticles, Porous particles, Smart widows, Flip-chip under-fill, Magneto-rheological
+fluids, Thermo-responsive polymers, Information materials and adaptive architecture, Application in forensic
+science
+Ceramic Smart Materials [6 lectures]: Piezoelectric and electrostrictive ceramics, Non-contact ultrasonic material
+testing and analysis, Hydrothermal synthesis of smart ceramics, Intelligent control of phase assemblage,
+crystal size and morphology
+Smart Composites [4 lectures]: Design and characterization of magnetostrictive composites, Carbon
+nanomaterials based yarns and nanocomposites, Structural health monitoring and self-healing, Active fiber
+composites
+Smart Textiles [2 lectures]: Smart textile for medicine and health care, Textile based electronic components
+Integration of Smart Materials and Smart Structures [2 lectures]: Varying smart materials and multifunctions,
+Biotelemetry study, Structure design concepts, Applications
+Laboratory Experiments
+NA
+Textbook
+1. Schwartz M. (Ed.) (2009) Smart Materials, CRC Press, Taylor and Francis Group
+2. Hou X. (Ed.) (2016), Design, Fabrication, Properties and Applications of Smart and Advanced Materials,
+CRC Press
+3. Elhajjar et al. (Eds.) (2014) Smart Composites Mechanics and Design, LLC, Taylor and Francis Group
+Reference Books
+Guardia, M., Esteve-Turrillas F.A. (Eds.) (2019) Handbook of Smart Materials in Analytical Chemistry, Vol. 1,
+Wiley
+Online Course Material
+1. Bhattacharya B, Smart Materials and Intelligent System Design (Video); IIT Kanpur, 2018,
+https://nptel.ac.in/courses/112104251/#
+2. Bhat K.N. et al., Micro and Smart Systems, IISc Bangalore. NPTEL 2012,
+https://nptel.ac.in/courses/112108092/
+26
+Title Electronic Materials Lab Number MTL3XX0
+Department Metallurgical & Materials Engineering L-T-P [C] 0-0-3 [1.5]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+Prerequisite
+Objectives
+The objective of the course is to introduce the students to different types of electrical and electronic property
+characterization and instrumentation.
+Learning Outcomes
+Upon successful completion of the course students will get a first-hand knowledge of device fabrication and
+then measure and analyse the functional properties of the materials.
+Laboratory Experiments
+1. Impedance Spectroscopy: Impedance Measurements as a function of temperature
+2. Measurement of Dielectric and Ferroelectric properties of Materials
+3. Piezoelectric Effect: Measurement of piezoelectric constants
+4. Preparation of structures using photolithography
+5. Deposition of metallic electrodes using thermal evaporation method
+6. Semiconducting thin films using solution/printing processes
+7. Measuring electrical resistance and sheet resistance of semiconductors
+8. Effect of temperature on the electrical conductivity of semiconductors
+9. Electrical characterization of p-n junction diodes
+10. Magnetic Measurements: M-H hysteresis, M vs T measurement
+11. Optical Property measurements
+Textbook
+Specific Laboratory protocols and handouts will be made for different experiments.
+27
+Title Physical Metallurgy Lab Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0–0–3 [1.5]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+Pre-requisite -
+Objectives
+To introduce the students to different types of phase transformations in solid and liquid state experiments
+and to provide hands-on training on various mechanical testing equipment to measure mechanical properties
+of materials.
+Learning Outcomes
+The students are expected to have the ability to
+1. Apply the knowledge of phase transformation to understand microstructure and mechanical property
+evolution in materials
+2. Measure mechanical properties of materials
+Laboratory Experiments
+1. Uniaxial monotonic stress-strain response of metals, ceramics, and polymers
+2. Hardness via spherical and Vickers indentation and correlation with yield strength
+3. Effects of annealing, normalizing, and hardening heat treatments on microstructure and mechanical
+properties of steels
+4. The effects of grain size on yield strength
+5. Effects of cold working and subsequent annealing on microstructure and mechanical properties
+6. Hardenability of steels using Jominy end quench test
+7. Age hardening study of a range of aerospace materials (Al-alloys, Ti-alloys, superalloys)
+8. Activation energy and Stored energy calculation for phase transformation
+9. Measurement of quasi-static and indentation fracture toughness
+10. Measurement of impact fracture toughness using Charpy/Izod impact test
+11. Fracture surface interpretation using SEM
+12. Creep of a 60%Sn-40%Pb Solder wire at room temperature
+Textbook
+Specific Laboratory protocols and handouts will be made for different experiments.
+28
+Title Materials Characterization Lab Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0-0-2 [1]
+Offered for B.Tech. Program Type Program Compulsory (PC)
+Prerequisite -
+Objectives
+Hands on training on instruments and methods for characterizing different materials and their properties
+Learning Outcomes
+The students are expected to have the ability handle various material characterization tools.
+Laboratory Experiments
+1. Quantitative metallogrphic analysis of metals, ceramics, polymers and composites
+2. Electropolishing of aluminium alloys
+3. Grain refinement studies using polarization microscope
+4. Crystal structure determination using X-ray Diffraction analysis
+5. Crystallite size measurement using X-ray Diffraction analysis
+6. Indexing of selected area diffraction pattern
+7. Specific heat and enthalpy calculation using DSC analysis
+8. Phase transformation during solidification using thermal analysis
+9. FTIR analysis of ceramic materials
+10. UV-Visible spectroscopy analysis of thin films
+Textbook
+Specific Laboratory protocols and handouts will be made for different experiments.
+29
+Course Title Computational Modeling of Materials Lab Number MT3LXX0
+Department Metallurgical and Materials Engineering L–T–P [C] 0–0–2 [1]
+Offered for B.Tech. 3rd Year Type Compulsory
+Pre-requisite
+Objectives
+Hands-on training in running simulations.
+Learning Outcomes
+Simulate materials using numerical methods, molecular dynamics, first-principles calculations
+Course Content
+Numerical modelling Exercises
+1. One-Dimensional Transient Heat Conduction: Numerical implementation
+2. Diffusion equation: finite difference method
+3. 1D-wave equation
+Molecular dynamics Exercises
+1. Calculate the energy in different crystal lattice structures
+2. Determination of coefficient of thermal expansion
+3. Application of tensile load and visualize the results
+4. Determination of bulk modulus
+First-principles calculations Exercises
+1. Preparation of input files and visualisation of structures
+2. Optimisation of simulation parameters.
+3. Determination of equilibrium lattice parameter
+4. Structure optimisation using a variable-cell method
+Text Books
+1. Rappaz, M., Bellet, M., Deville, M., Numerical Modeling in Materials Science and Engineering, Springer Science
+& Business Media, 2010.
+2. Frenkel, D., Smit, B., Understanding Molecular Simulation: From Algorithms to Applications, 2nd Edition,
+Elsevier 2001.
+3. Lee, J. G., Computational Materials Science: An Introduction, 2nd edition, CRC Press, 2016.
+References
+1. Sholl, D. S., and Steckel, J. A., Density Functional Theory: A Practical Introduction, 1st Edition, Wiley, 2009.
+2. Parr, R.G., and Yang, W., Density-Functional Theory of Atoms and Molecules, 1st Edition, Oxford Science
+Publications, 1994.
+Online Course Material
+Ceder, G. and Marzari, N., 3.320 Atomistic Computer Modeling of Materials (SMA 5107). Spring 2005.
+Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative
+Commons BY-NC-SA
+30
+Title Materials Processing and Manufacturing Lab Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0-0-3 [1.5]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+Prerequisite -
+Objectives
+Hands on training on various industrially relevant materials processing and manufacturing techniques
+Learning Outcomes
+The students are expected to have the ability to handle various material processing and manufacturing
+equipment.
+Laboratory Experiments
+1. Injection molding of polymers
+2. Blade coating of polymers
+3. Sol-gel processing of ceramics
+4. Sintering of ceramics
+5. Melting and Casting of Aluminum Alloys
+6. Welding of steels
+7. Welding of Aluminum alloys
+8. Additive manufacturing of polymers
+9. Additive manufacturing of ceramics
+Textbook
+Specific Laboratory protocols and handouts will be made for different experiments.
+31
+Title Energy Materials Lab Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0-0-3 [1.5]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+The course outlines in a nutshell:
+1. Different modes of energy conversion and storage
+2. Development of materials with time and different applications, scale, energy and power density
+Learning Outcomes
+The students are expected to gain knowledge on:
+1. Structure processing property performance relationship of the energy materials developed over time.
+2. Different modes of energy conversion and storage with respect to scale, cost, energy and power density
+Laboratory Experiments
+1. Demonstration of static electricity storage with electrostatic generator, Corona effect, Energy storage in
+Leyden jar. Fabrication of a capacitor
+2. Charging and discharging of a capacitor, Measuring the capacitance of a Capacitor, Role of capacitor in
+voltage stabilizing/regulating, filtering
+3. Fabrication and operation of a Lead-acid battery, Charge discharge voltammetry/EIS characteristics of
+Lead-acid battery
+4. Fabrication and operation of a Lithium-ion battery, half-cell and full cell configuration, Charge
+discharge/voltammetry/EIS characteristics of Lithium-ion battery
+5. Degradation test for lithium ion batteries, Use of different cathodes, Cell fabrication and dismantling,
+observation of structural changes, effect of temperature
+6. Battery aging and self-discharge of lead-acid and lithium ion battery, battery for electric vehicles
+7. Conversion of carbon dioxide into propane through artificial photosynthesis
+8. Experimental Evaluation of a Paraffin as Phase Change Material for Thermal Energy Storage
+9. Modelling and validation of a flywheel energy storage, modelling of gravity assisted storage systems (can
+be taken before)
+10. Synthesis of different forms of carbon nanomaterials for capacitor, artificial photosynthesis devices and
+electrodes for batteries, observation of different morphologies and structural reversibility (demonstration
+experiment, make it simple)
+Textbook
+Specific Laboratory protocols and handouts will be made for different experiments.
+32
+15. Program Elective Courses
+Title Processing-Microstructure and Properties of Steels Number MT4XXX
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective
+(PE)
+Prerequisite None
+Objectives
+The Instructor will:
+Describe the processing-structure-property relationship of steels used in engineering applications
+Learning Outcomes
+The students are expected to have the ability to:
+Design the processing routes to obtain steel microstructures that will provide customizable properties to the
+component for specific engineering applications
+Contents
+Processing of Steels [6 lectures]: Melting and casting, Steel refining by ESR and VIM, and VAR, heat treatment of
+steels, thermo-mechanical processing of steels, sheet metal forming and welding of steels
+Physical Metallurgy of Steels [12 lectures]: Effects of alloying elements on Fe-C phase diagram, structure and
+transformation kinetics of pearlite, interphase precipitation, divorced pearlite, Martensite-crystal structure,
+transformation kinetics, morphology, Bainite-Bainite start temperature, upper and lower bainite, bainitic
+microstructure, Widmanstattaen ferrite, acicular and equiaxed ferrite
+Low Carbon Steels [8 lectures]: types of low carbon steels, hot-rolled ferrite-pearlite steels, processing by hot
+rolling, cold-rolling and annealing, interstitial free steel, HSLA steel, Dual-phase (DP) steel, TRIP steels,
+applications
+Medium and High Carbon Steels [8 lectures]: microalloyed steel-microstructure and mechanical properties, rail
+steels, patenting-pearlite formation in high strength steel wire, drawing of pearlitic high carbon steel wires,
+hardening and tempering process, temper embrittlement, tool steels, applications
+Stainless Steels [4 lectures]: alloy design for stainless steels, austenitic, ferritic and martensitic stainless steels,
+precipitation hardened and duplex stainless steels, applications
+Surface Hardened Steels [4 lectures]: carburizing, Nitriding, carbo-nitriding, induction hardening, flame
+hardening
+Textbooks
+Krauss,G., (2005), Steels: Processing, Structure, and Performance, 2nd Edition, ASM International
+Reference Books
+Bhadeshia,H.K.D.H, Honycombe,R.W.K, (2017), Steels: Microstructures and Properties, 4th Edition, Butterworth-
+Heinemann
+33
+Title Degradation and Failure of Materials Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+The instructor will explain
+1. About materials degradation due to different types of corrosion, their mechanisms and inhibition.
+2. Failures resulting due to corrosion and corrosion prevention
+Learning Outcomes
+The students are expected to gain:
+1. Basic understanding on the possibility, outcome and rate of corrosion.
+2. Knowledge on selection of corrosion resistant materials even before designing
+Contents
+Introduction [4 lectures]: Definitions, Different forms of Environmental degradation, Cost of Corrosion,
+Electrochemical Nature, Aims
+Thermodynamics of Corrosion [10 lectures]: Process at Interface, Free Energy and Electrochemical Potential, EMF
+Series, Nernst Relationship, Important Reactions, Cell Potential, Reference Electrodes, Pourbaix diagram and
+its important in metal corrosion, Calculation of Pourbaix diagram for Al, Cu, Ni and Fe.
+Kinetics of Corrosion [10 lectures]: Current Density and Corrosion Rate, Corrosion Rate Expressions, Exchange
+Current Density, Polarization, Activation, Concentration and Resistance polarization, Mixed potential theory.
+Types of Corrosion and Failures [8 lectures]: Major forms of corrosion and failures originating due to corrosion,
+Hydrogen embrittlement, Corrosion fatigue
+Corrosion testing and protection [6 lectures]: Corrosion experiments - Potentiodynamic test - Galvanostatic test -
+Linear Polarization-Immersion test - Salt fog test. Electrochemical ways: Sacrificial anode, Impressed current
+cathodic protection, Anodic protection, Environmental control over corrosion - Coating – Inhibitor.
+Oxidation of Metals and Alloys [4 lectures]: Pilling Bedworth Ratio - Thermodynamics of oxidation: Ellingham
+diagram, of oxidation - Effect of doping on the oxidation behaviour.
+Laboratory Experiments
+NA
+Textbook
+Fontana M. G. (1987) Corrosion Engineering, 3rd Edition, McGraw Hill Book Company
+Reference Books
+Zaki A. (2006) Principles of Corrosion Engineering and Corrosion Control, Elsevier Science & Technology
+Books.
+Online Course Material
+Mondal K., Corrosion - Part I and II, NPTEL Course Material, Metallurgy & Material Science, Indian Institute
+of Technology Kanpur, https://nptel.ac.in/courses/113104082/,
+https://nptel.ac.in/courses/113/104/113104089/
+34
+Title Composites Number MT3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Pre-requisite -
+Objectives
+The main objective of this course is
+1. To introduce structure and processing of composites
+2. To and uses of composites
+Learning Outcomes
+The students are expected to
+1. Classification and application of different composite materials and their processing techniques
+2. Acquire understanding about the structure property relationship of different types of composites
+Contents
+Introduction and Classification of Composites [6 lectures]: Composites, matrix: metal matrix composites, polymer
+matrix composites, ceramic matrix composites, fiber reinforcements: fiber types, particulate reinforcements,
+nanocomposites
+Design and Manufacturing of Composites [14 lectures]: Selection of matrix and reinforcement- Reinforcement with
+Aligned
+Continuous Fibers and Discontinuous fibers, wettability and role of interface; Manufacturing- Hand and
+Prepeg layup, Bag molding, Autoclave Processing, Compression Molding, Resin Transfer Molding, Pultrusion;
+Metal-Matrix Composites- Solid state and Liquid State processing; Ceramic-Matrix Composites- Solid state,
+sol-gel, co-precipitation and hydrothermal techniques
+Tailoring Composite Materials [6 lectures]: by component selection, by interface modification, surface
+modification, microstructure control
+Basic Mechanics of Composites [8 lectures]: Fiber-Matrix interface- theories of adhesion, glass fiber-polyester resin
+interface, measurement of bond strength, Elastic properties-unidirectional lamiae, elastic properties of short
+fiber composite materials, strength of a unidirectional laminae, fiber pull out, longitudinal and transverse
+tensile and compressive strength, in-plane shear strength
+Properties and Applications of Composites [8 lectures]: Monotonic properties, fatigue and creep properties of
+composites, Applications of Composites- Materials for Lightweight Structures, Materials for civil infrastructure,
+Materials for Aerospace components- propeller blades, turbine blades, space applications
+Textbook
+1. Clyne, T. W. and Hull, D., (2019) An Introduction to Composite Materials, 3rd edition, Cambridge University
+Press.
+2. Balasubramanian, M., (2013), Composite Materials and Processing, 1st Edition, CRC Press
+Reference Book
+Matthews F. L. and Rawlings R. D. (1999) Composite Materials, 1st edition, Woodhead Publishing.
+Online Course Material
+Prof. Nachiketa Tewari, Introduction To Composites, Aerospace Engineering, Indian Institute of Technology
+Kanpur, https://nptel.ac.in/courses/112/104/112104229/
+35
+Title Polymeric Materials and Processing Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+The Instructor will:
+Provide background on basics of processing, structure and properties of polymers of engineering applications
+Learning Outcomes
+The students are expected to gain:
+1. Basic understanding of structure-property relationship in polymers
+2. Knowledge about synthesis, and processing of polymers for engineering applications
+Contents
+Structure of Polymers [14 lectures]: Basics definitions, molar mass averages, Tacticity and isomerism, Amorphous
+and semi-crystalline polymers, free volume theory, crystal structure and its determination, degree of
+crystallinity, melting and crystallization, defects in crystalline polymers, polymer blends, block-copolymers,
+elastomers (Offered by Chemical Engineering)
+Synthesis and Processing of Polymers [14 lectures]: Polymerization conditions and polymer reactions; Melt
+Processing, Extrusion, Injection Molding, Thermosets and Thermoforming; Plastics Technology: Molding,
+Extrusion, multipolymer systems and composites, additives and compounding; Elastomer Technology:
+vulcanization, elastomer compounding (Offered by MT)
+Polymer Rheology and Mechanical Behavior [4 lectures]: Viscous flow, Storage and Loss modulus, visco-elasticity
+- creep, stress relaxation, kinetic theory of rubber elasticity (Offered by MT)
+Characterization of Polymers [10 lectures]: Measurement of molecular weight and size: end group analysis,
+thermal analysis, colligative property measurement, dynamic light scattering, gel permeation
+chromatography, X-ray scattering, Spectroscopic methods (Offered by MT)
+Laboratory Experiments
+NA
+Textbook
+Young R.J. and Lovell P.A. (2011) Introduction to Polymers, 3rd Edition, CRC Press
+Reference Books
+1. Chanda M. (2006) Introduction to Polymer Science & Chemistry, CRC Press
+2. Baird,D.G, Collias,D.I., (2014), Polymer Processing, Wiley
+Online Course Material
+Adhikari B, Science & Technology of Polymers, NPTEL Course Material, Department of Metallurgy & Material
+Science, Indian Institute of Technology Kharagpur, https://nptel.ac.in/courses/113105028/
+36
+Title Ceramics and Glass Number MT4XX
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Pre-requisite -
+Objectives
+The main objective of this course is to
+Impart and introduce the basic concepts and uses of ceramics and glass.
+Learning Outcomes
+Upon successful completion of the course the student
+1. Would have the knowledge of basic science and technology involved in ceramic materials and glass.
+2. Be cognizant of various processing techniques involved in the creation of products.
+Contents
+Ceramic Compounds & Materials [8 lectures]: Chemistry of ceramics, crystal structure and bonding in ceramic
+materials, defect chemistry in ceramics, Polymorphism, Ceramic raw materials (Clay, Silicate, Zirconia),
+Mechanical and Thermal properties of ceramics
+Sintering and Microstructure of Ceramics [6 lectures]: Thermodynamics and kinetics, Mass Transport, Solid phase
+sintering, Liquid phase sintering, Sintering additives, Pressure sintering
+Ceramic Processing [8 lectures]: Ceramic Powder Characterization, Rheological behaviour of slurries, Particle
+packing, Forming Processes: Dry pressing, Semi dry pressing, Plastic forming method: extrusion and injection
+molding, Sol-gel processing, Casting methods: slip casting, tape casting, Drying and Firing process
+Non-oxide Ceramics [2 lectures]: Silicon nitride, Aluminum nitride, Silicon carbide, Boron carbide
+Industrial Applications of Ceramics [9 lectures]: Refractories, Abrasives, Whitewares, Cement, Ceramic Coatings,
+Nuclear Ceramics, Bio Ceramics
+Glass [9 lectures]: Structure of glass, Thermodynamics and Kinetics of Glass, Physics of glass, Thermal &
+Mechanical properties, Coloring, Glass production, Glass-Ceramics
+Laboratory Experiments
+1. Chemical Analysis of Raw materials
+2. Characterization of Ceramic powder: Tap density, Particle Size Analysis
+3. Thermal analysis of ceramic powders using DTA / TGA / DTGA
+4. Ceramic powder preparation:
+5. Measurement of Green Strength and Green Density of Ceramics
+6. Sintering of Ceramics: Measurement of sintering density, microstructure and phase analysis
+7. Casting and Forming Lab
+8. Preparation of Soda-Lime-Silica glass with different colouring oxides, e.g. CoO, FeO etc.
+9. Preparation of Boro-silicate glass with alkali & alkaline earth oxides.
+Text Books
+1. Kingery,W.D., Bowen, H.K., and Uhlmann, D.R., Introduction to Ceramics, John Wiley & Sons
+2. Barsoum,M.W., Fundamentals of Ceramics, CRC Press
+3. Shelby,J.E., (2005) Introduction to Glass Science and TechnologyThe Royal Society of Chemistry
+Self-Learning Materials
+1. Reed,J.S., Introduction to the principles of ceramic processing
+4. Tooley,F.V., Hand Book of Glass Manufacture – Vol. I & II, Ogden Publishing Co., NY
+Online Course Material
+Juejun Hu, Amorphous Materials, DMSE MIT, MIT OCW, https://ocw.mit.edu/courses/materials-science-
+and-engineering/3-071-amorphous-materials-fall-2015/index.htm
+37
+Title Casting and Solidification Number MT6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+Objectives
+The Instructor will:
+1. Impart fundamental understanding of various casting processes and the theory of solidification
+2. Discuss design methodology and process parameters involve in obtaining defect free casting.
+Learning Outcomes
+The students are expected to have the ability to:
+Understand of solidification of metals and alloys and correlating with various casting processes
+Contents
+Conventional and Special Casting Techniques [14 Lecture]: Casting Terminology, Types of pattern and allowances,
+Applications and Challenges; Expendable and Permanent Mould Casting Processes. Special casting
+techniques: investment casting, rheocasting and thixocasting, squeeze casting, high and low pressure die
+casting, continuous casting.
+Solidification of metals and alloys [14 Lecture]: Heat flow, plain front solidification, cellular solidification,
+constitutional undercooling, formation of dendrites, eutectic solidification, monotectic solidification.
+Gating design and casting defects [14 Lecture]: Fluid flow, gating and riser design, Adams’ and Caine’s riser
+design, fluidity. Casting defects: classification, remedial measures, quality assessment.
+Textbooks
+Flemings,M.C., Solidification Processing (1974), Mcgraw-Hill Book Company
+Campbell,J., (2015), Complete casting Handbook: Metal Casting Processes, Metallurgy, Techniques and Design,
+Butterworth-Heinmann
+Reference Books
+1. Heine R. W, Loper C. R., and Rosenthal P. C., (2008), Principles of Metal Casting, Tata McGraw Hill
+2. Davies, G. J., (1973) Solidification and Casting, Wiley,
+3. Stefanescu, D. M., Science and Engineering of Casting Solidification, (2015), 3rd edition, Springer
+Online Course Materials
+Karunakar, D.B., Metal Casting, NPTEL Course Material, Department of Mechanical and Industrial
+Engineering, Indian Institute of Technology Roorkee, http://nptel.ac.in/courses/ 112107083/
+38
+Title Metallurgy of Joining Number MT6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Program Type Program Elective (PE)
+Prerequisite -
+Objectives
+The Instructor will:
+Introduce the basics of materials joining techniques and the associated metallurgy of welds
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the importance of the materials joining in structural applications.
+2. Study the fundamentals of welding microstructures and properties
+Contents
+Materials Joining basics [6 lectures]: Materials joining basics, type of joints, Types of welding techniques, heat
+input and joining efficiency, importance of welding in structural applications
+Fusion welding [8 lectures]: Important welding techniques such as submerged arc welding, flux core arc welding,
+tungsten inert gas welding, Metal inert gas welding, plasma arc welding, electron beam welding, laser beam
+welding.
+Solid state welding [8 lectures]: Important welding techniques like Diffusion bonding, friction welding, friction
+stir welding, adhesive joining, ultrasonic welding, forge welding
+Metallurgy of fusion welding [8 lectures]: Fusion zone, partially melted zone, heat affected zone, residual stresses
+in welding, epitaxial growth during welding, heat transfer in welding
+Metallurgy of solid state welding [6 lectures]: materials plasticization, bonding interfaces, effect of processing
+parameters, heat input in welding
+Case Studies [6 lectures]: fusion welding of Al alloys, Friction stir welding of Mg alloys, Laser beam welding of Al alloys
+and steel
+Textbook
+1. Kou S., (2003), Welding Metallurgy, 2rd Edition, Jhon Willey and Sons, New Jersey, United States
+2. Lippold J.C., (2015) Welding Metallurgy and Weldability, Jhon Willey and Sons, New Jersey, United States
+Reference Books
+Reeser M.A., (2017), Welding complete: Techniques, project plans and instructions, cool springs press, MA
+USA.
+39
+Title Battery Materials Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite Thermodynamics, Corrosion
+Objectives
+Through this course the instructor
+Will provide an insight of development of battery materials
+Learning Outcomes
+The students are expected to gain knowledge on:
+1. Cycling behaviour of the batteries.
+2. Development of different types of batteries demanding on application, Merits and demerits of each
+batteries.
+3. Materials developed so far and future goals to be achieved.
+Contents
+Introduction to Electrochemistry [8 lectures]: Chemical and Electrochemical Reactions, Components of
+electrochemical cells, Operation of a Cell, Self-Discharge, Theoretical Cell Voltage, Capacity, and Energy,
+Specific Energy and Energy Density, Thermodynamic Background, Variation of the Voltage with Discharging
+and Recharging, Cycling Behaviour.
+Battery Characteristics, Performance, Design, Selection & Standardization [2 lectures]: General Characteristics and
+Factors Affecting Battery Performance, Battery Design and Construction, Selection and Application of
+Batteries, Battery Standardization
+History and evolution of Batteries [6 lectures]: Primary Batteries, voltaic pile, Daniell cell, Zinc-Carbon Batteries,
+Alkaline-Manganese Dioxide Batteries, Secondary Batteries, Lead-Acid Batteries, Nickel-Iron Batteries, Nickel-
+Cadmium Batteries, Nickel-Zinc Batteries, Nickel-Hydrogen Batteries, Nickel-Metal Hydride Batteries,
+Lithium-Ion Batteries.
+Development of Negative Electrodes [8 lectures]: The lead electrode, Aluminium and Magnesium electrode, Zinc
+and Cadmium Electrode in Aqueous Systems, Metal Hydride Electrodes, Negative Electrodes in Lithium Cells
+Development of Positive Electrodes [8 lectures]: Manganese Dioxide/ The “Nickel” Electrode / Lead oxide
+electrode/ Oxygen electrode Electrodes in Aqueous Systems.
+Development of Electrolytes [10 lectures]: Liquid Electrolytes, General Considerations Regarding the Stability of
+Electrolytes Vs. Alkali Metals, Elevated Temperature Electrolytes for Alkali Metals, Electrolyte Stability
+Windows and Their Extension, Composite Structures That Combine Stability Regimes, Solid Electrolytes.
+Laboratory Experiments
+NA
+Textbook
+Huggins R. A. (2009) Advanced Batteries: Materials Science Aspects, 1st Edition, Springer
+Reference Books
+Linden D. and Reddy T. B. (2002) Handbook of Batteries, 3rd Edition, The McGraw-Hill Companies
+Online Course Material
+Prof. Bazant M., MITopencourseware: Electrochemical Energy Systems, MIT Course Number 10.626 / 10.426,
+https://ocw.mit.edu/courses/chemical-engineering/10-626-electrochemical-energy-systems-spring-2014/
+40
+Title 3-D Printing: Material Processing and Properties Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Materials Engineering Type PE
+Prerequisite Nil
+Objectives
+The Instructor will introduce:
+1. Importance of 3-D printing of materials for various range of applications
+2. Process control and product quality evaluation through application of basics
+Learning Outcomes
+The students are expected to gain:
+1. Insight of the evolutionary technology for rapid and cost effective growth of products
+2. Aptitude to translate the knowledge into novel components with industrialization competitiveness
+Contents
+Introduction [5 lectures]: 3-D printing small but multipurpose product inspiration, Science fiction to innovation,
+Multidisciplinary terminology, Current system configurations, Construction, Classification
+Hardware – software – material Interdependence [5 lectures]: Essence of hardware, software and materials, Impact
+on systems engineering in various industries, Processing philosophy
+Raw Materials [4 lectures]: Forms and sources of raw materials, Processing methods and characteristic
+properties, Material specifications based industries and processing technology e.g. aerospace, medicine
+3-D Printing Processes [2 lectures]: Process flow and basics of stages involved, Process control, Upgrading
+options, 3-D product design, evaluation, justification and integration (DEJI) model
+Additive Manufacturing of Metallic Systems [5 lectures]: Light metals and alloys, Superalloys, Intermetallic
+compounds, Shape memory alloys, porous metals, Rare earth permanent magnets
+Thermo-mechanical Effects [2 lectures]: Phase transformation, Microstructure evolution, Variation in properties,
+Thermo-mechanical modeling of microstructure evolution and mechanical properties
+3-D Printing of Polymers and Hydrogels [5 lectures]: Natural polymers, Synthetic polymers, Design
+considerations and guidelines, Mechanics modeling, AM of tooling for mass production processes, 3-D
+bioprinting hardware, Reactive inkjet printing of nylon materials, Stimuli responsive hydrogels, Biopolymer
+hydrogel biolinks
+3-D Printing of Ceramics and composites [5 lectures]: Processing technology and options, Laminated object
+manufacturing, Laser Engineered net shaping, Bio-active ceramics and bio-active glasses, Engineering
+ceramics, Green-tape-based AM, Complex ceramic architecture, Metal matrix composites, Ceramic matrix
+composites, Polymer matrix composites and their variants, Nano-composites
+Special Purpose 3-D Printing [5 lectures]: Functionally grades materials, Bio-medical applications, Biomematic
+design model, Frugal design sustainability, Smart material- DNA origami, 4-D printing, Reconstructive
+surgery, Patient specific 3-D printing, Hydrogen storage material, Printed and hybrid electronics enabled by
+digital AM technologies, Reverse Engineering
+Post-processing and Inspection techniques [2 lectures]: Post processing problems and requirements, Rectification
+Student Presentation & Discussion [2 lectures]: Concept for developing prototype object, Methodology,
+Examining novelty and market acceptability, Translation to business idea
+Laboratory Experiments
+NA
+Textbooks
+1. Gibson, I., et al (Eds.) (2015), Additive Manufacturing Technology: 3D printing, Rapid Prototyping, and Direct
+Digital Manufacturing, 2nd Ed., Springer
+2. Maniruzzaman, M.. (Ed.), (2019), 3D and 4D Printing in Bio-medical Applications: Process-Engineering and
+Additive Manufacturing, Wiley- VCH Verlag GmbH & Co.
+Reference Books
+1. Declan, M.D.. (2019), Polymer Based Additive Manufacturing- Biomedical Applications, Springer Nature.
+2. Gu, D., (2015), Laser Additive Manufacture of High-Performance Materials, Springer Verlag
+41
+Online Course Material
+1. Ramkumar, J., 2018, NOC: Rapid Manufacturing, Department of Mechanical Engineering; IIT Kanpur,
+https://nptel.ac.in/courses/112/104/112104265/
+42
+Title Lithium ion batteries Number MTL4XX
+Department Metallurgical and Materials Engineering L-T-P [C] 2-0-2 [3]
+Offered for B.Tech. (MT) Type PE
+Prerequisite Thermodynamics
+Objectives
+The theoretical and practical limits of battery technology can be a barrier to meeting some performance
+requirements. Through this course the instructor will provide a thorough insight of development of battery
+materials with future goals to be achieved.
+Learning Outcomes
+The students are expected to gain knowledge on:
+1. Cycling behaviour of the batteries.
+2. Development of different types of batteries demanding on application, Merits and demerits of each
+batteries.
+3. Materials developed so far and future goals to be achieved.
+Contents
+Introduction: [4 lectures] Components of Li ion electrochemical cells, Operation of a Li ion Cell, Reconstitution
+and Insertion Reactions, Theoretical Cell Voltage, Capacity, and Energy, Cycling Behaviour, Experimental
+Methods to Evaluate the Critical Properties of Electrodes and Electrolytes, Use of DC and AC Methods to
+Determine the Electronic and Ionic Components of the Conductivity in Solid Electrolytes and Mixed
+Conductors, Influence of Impedances to the Transport of Ionic and Atomic Species within the Cell, Self-
+Discharge, Joule Heating to Due to Self-Discharge in Electrochemical Cells.
+Negative Electrodes in Lithium ion Cells: [8 lectures] Elemental Lithium Electrodes, drawbacks, Lithium–
+Carbon Alloys, Metallic Lithium Alloys, Mixed-Conductor Matrix Electrodes, Convertible Reactant
+Electrodes, Electrochemical Behaviour, structural reversibility, Amorphization, Decrepitation, Modification
+of the Micro and Nanostructure of the Electrode, Electrodes for aqueous systems.
+Positive Electrodes in Lithium ion Cells: [8 lectures] Insertion Reaction, Reconstitution Reaction,
+Electrodes, Materials with Layered Structures, Materials with the Spinel Structure, Materials with the
+Olivine Structure, Liquid Positive Electrode Reactants: The Li/SO2 System, The Li/SOCl2 System,
+Electrodes for aqueous systems, Hybrid Ion Cells, The Oxygen Evolution Problem.
+Electrolytes in Lithium ion Cells: [8 lectures] Lithium-Conducting Inorganic Molten Salts,
+Lower Temperature Alkali Halide Molten Salts, Ambient Temperature Organic Solvent Liquid
+Electrolytes/Ionic liquids, Interaction of Organic Solvent Electrolytes with Graphite, Electrolyte Additives,
+Solid Electrolytes, Lithium Ion Conductors: Perovskite and Garnet Structure, Relation Between the Potential
+and the Oxygen Pressure in Lithium Systems, Electrolyte Stability Windows and Their Extension, Two Solid
+Electrolytes in Series, Implications for the Safety of Lithium Cells.
+Laboratory Experiments
+1. Introduction to LIBs, different parts of LIB, different size and shapes, applications
+2. Synthesis of graphite and metal-alloys based negative electrodes for LIB
+3. Synthesis of oxide, phosphate and silicate based positive electrodes for LIB
+4. Fabrication of lithium half cells and full cells
+5. Cycle behaviour, charge/discharge characteristics and performance analysis of LIB
+6. Voltammetry study and analysis of electrochemical behaviour through impedance spectroscopy
+7. Exploration of degradation mechanism of oxide and phosphate-based LIBs
+8. Aging and self-discharge characteristics of oxide and phosphate-based LIB
+9. Short-circuit and thermal runaway failure of oxide and phosphate-based LIB
+10. Thermal imaging and calorific study of parasitic reactions
+11. Battery management system, balancing and development of smart charger for LIBs
+Textbook
+1. Masaki Yoshio M., Brodd R. J. and Kozawa A. (2010) Lithium-Ion Batteries: Science and Technologies,
+Springer
+2. Toll M. (2017) DIY Lithium Batteries: How to Build Your Own Battery Packs, Toll Publishing
+43
+Reference Books
+1. Huggins R. A. (2009) Advanced Batteries: Materials Science Aspects, 1st Edition, Springer
+2. Linden D. and Reddy T. B. (2002) Handbook of Batteries, 3rd Edition, The McGraw-Hill Companies
+Online Course Material
+1. Dr. WALKER W. Q., Short course on lithium-ion batteries: fundamental concepts, heating mechanisms and
+simulation techniques, Nasa Johnson space center, Structural engineering division, Thermal design branch.
+2. Prof. Bazant M., MITopencourseware: Electrochemical Energy Systems, MIT Course Number 10.626 /
+10.426, https://ocw.mit.edu/courses/chemical-engineering/10-626-electrochemical-energy-systems-
+spring-2014/
+3. Prof. Maiti H.S., Advanced ceramics for strategic applications, NPTEL, Metallurgy and Materials Science,
+https://nptel.ac.in/courses/113/105/113105015/
+44
+Title Surface Engineering Number MTL6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide knowledge on the importance of surface engineering in materials protection and design
+2. Introduce various advanced surface engineering techniques available in the industry
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the basics of various advanced surface engineering techniques
+2. Understand the limitations of standard materials and how they can be improved with surface engineering
+3. Identify the surface treatment best suited to a specific application
+Contents
+Fundamentals of surface engineering [10 Lectures]: definition, scope, classification, and general principles, surface
+dependent properties and failures, Surface and surface energy: Structure and types of interfaces. Protection
+from wear and corrosion by surface engineering. Enhancing the performance of thermal protection systems,
+biocompatibility, and other functional properties of materials by surface engineering.
+Surface engineering Techniques [24 Lectures]: Surface engineering by energy beams: Laser assisted microstructural
+modification –Laser assisted compositional modification – surface cladding. Electron beam assisted
+modification and joining. Ion beam assisted microstructure and compositional modification. Surface
+engineering by spray techniques: Principle and scope of applications of Flame spraying, Plasma coating,
+HVOF, cold spray. Characterization of surface microstructure and properties (name of the techniques and brief
+operating principle). Evaporation - Thermal / Electron beam, Sputter deposition of thin films & coatings – DC
+& RF, Sputter deposition of thin films & coatings –Chemical vapor deposition and PECVD, Plasma and ion
+beam assisted surface modification, Surface modification by Ion implantation and Ion beam mixing.
+Characterization of surfaces [8 Lectures]: Measurement of coatings thickness, porosity & adhesion of surface
+coatings, Measurement of residual stress & stability, Surface microscopy, topography and Spectroscopic
+analysis of modified surfaces.
+Textbooks
+1. Davis,J.R, (2001), Surface Engineering for Corrosion and Wear Resistance, ASM International,.
+2. Budinski K., (1990), Surface Engineering for Wear Resistance, Prentice Hall.
+Reference Book
+1. Ernest, R., Friction and Wear of Materials, (1995), John Wiley and Sons, New York.
+2. Surface Engineering, (2001) ASM Metals Handbook, Vol. 5, Ohio
+Self-Learning Material
+1. Kallol, M. and Sandeep. S., Heat Treatment and Surface Hardening – I NPTEL Course Material, Department of
+Mechanical and Industrial Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/113104074/
+2. Kaushik P., Surface Engineering of Nanomaterials, NPTEL Course Material, Department of Mechanical and
+Industrial Engineering, Indian Institute of Technology Kanpur, https://nptel.ac.in/courses/113107075/
+45
+Title Synthesis and Processing of Semiconductors
+and 2D materials
+Number MTL3XX0
+Department Metallurgical & Materials Engineering L-T-P [C] 3-0-0
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce different synthesis and fabrication techniques used for semiconductor device fabrication.
+2. Introduce different synthesis techniques used for 2D materials
+Learning Outcomes
+After completion of the course students will be have a basic understanding of different semiconductor device
+fabrication techniques as well as gain knowledge how to synthesize various 2D materials
+Contents
+General Introduction (1 Lecture)
+Semiconductor processing [17 Lectures]: Silicon Wafer Fabrication Physical vapour deposition methods: e-beam,
+pulsed laser and ion beam evaporation, Glow, Discharge and Plasma, Sputtering–mechanisms and yield, DC
+and
+RF sputtering, Chemical vapour deposition: Sol-gel, Spin Coating, Atomic Layer deposition, CVD, PECVD,
+MOCVD,
+solution processing techniques, (printing, spin coating, chemical bath depositions, etc.). Semiconductor
+Integration with Functional oxides and Challenges in fabrication
+2D Materials Processing [Lectures 13]: Different types of 2D materials, Strategies and challenges of 2D materials
+synthesis: micromechanical exfoliation, ultrasonic exfoliation, hydrothermal method, topochemical
+transformation, chemical vapor deposition, Top Down vs Bottom up, Production of graphene and 2-d
+materials:
+Comparison of production methods, Scotch-tape method (micromechanical cleavage), Chemical vapour
+deposition, Solution-exfoliation 1 – graphene and other 2-d materials, Solution-exfoliation 2 – graphene oxide,
+Decomposition of silicon carbide, Production of graphene nano-ribbons, Synthesis of hexagonal boron nitride,
+and transition metal dichalcogenides, to new and emerging materials such as black phosphorus, silicene, and
+germanene.
+Lithography and Etching [Lectures 6]: Pattern Formation, Optical Lithography, Resists, Wet Chemical Etching,
+Reactive Ion Etching, Ion implantation doping
+Metallization and Polishing [Lectures 2]
+Cleanroom & Contamination [Lectures 3]: Cleanroom standards, Contamination and yield, Environment, safety
+and health
+Textbook
+1. Ohring, M., (2002), The materials science of Thin films, 2nd Edition, Academic Press Ltd.
+2. Chopra, K. L., (1969), Thin Film Phenomena, McGraw-Hill Book Company
+Reference Books
+1. Editor Gogotsi, Y., (2019), 2D Metal Carbides and Nitrides (MXenes): Structure, Properties and Applications,
+Springer
+2. Shinohara, H., Tiwari, A., (2015), Graphene: an introduction to the fundamentals and industrial applications.
+John Wiley & Sons
+Online Course Material
+Parasuraman Swaminathan, Electronic materials, devices and fabrication, NPTEL Course Material,
+Department of Metallurgical and Materials Engineering, IIT Madras,
+https://nptel.ac.in/courses/113/106/113106062/
+46
+Title Biomaterials Engineering Number BSBE 4XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide an insight on the fundamental concepts of biomaterials engineering.
+2. Give an overview of techniques for characterizations of different types of biomaterials for various
+applications.
+Learning Outcomes
+The students will have the ability to:
+1. Analyze the suitability of the material to be used as a biomaterial.
+2. Compare the performance of different biomaterials.
+3. Design a strategy for modification of biomaterials for a specific application.
+Contents
+Fundamental of Biomaterials [14 Lectures]: Introduction to biomaterials, types of biomaterials, processing of
+biomaterials, surface properties and surface modification of biomaterials, physicochemical characterization of
+biomaterials. (by MM department)
+Biological Properties of Biomaterials [14 Lectures]: Concepts of biocompatibility, immune-compatibility,
+hemocompatibility and biodegradability, Bioconjugations, Biomineralization, Biological characterization of
+biomaterials (by BSBE)
+Applications of Biomaterials [14 Lectures]: Biomimetic and stealth biomaterials, types and applications of
+implants, biomaterials for drug delivery systems, biomaterials for tissue engineering, regulatory affairs (by
+BSBE)
+Text Books
+Basu,B., (2017), Biomaterials Science and Tissue Engineering, First edition, Cambridge University Press
+Reference Books
+Shelly, E., Elbert, S, Zhang, G., (2020), Biomaterials Science: An Introduction to Materials in Medicine, Edited by
+William R Wagner, Michael J. Yaszemski, 4th edition, Academic Press Inc.
+Self-Learning Material
+https://nptel.ac.in/courses/113/104/113104009/
+47
+Title Functional Ceramics Number MTL4XX0
+Department Department of Metallurgical and Materials
+Engineering
+L-T-P [C] 3-0-0 [3]
+Offered for BTech/PhD Type PE
+Prerequisite Semiconductor Devices
+Objectives
+The instructor will:
+Provide in-depth knowledge into the electronic, magnetic, and optical properties of ceramic materials systems
+and their properties
+Learning Outcomes
+On successful completion of the course, the students would be:
+1. Know the relationships between ceramic structure (electronic, microstructural, and defect structure) and
+the wide variety of properties they display.
+2. Learn how these variety of phenomena can be exploited in useful applications like sensors, and
+piezoelectric transducers
+3. Access Current day research topics on electronic magnetic and optical materials.
+Contents
+General Introduction [1 Lecture]
+Crystallography and Bonding [6 Lectures]: Structures, Bonding in Ceramics Structure formation rules in Oxides,
+Important structures in Oxides.
+Defects [5 Lecture hours]: Defects in ceramics and defect chemistry, Defects diffusion and equilibrium
+Electrical conductivity [5 Lectures]: Conduction Mechanisms in Ceramics, Resistors, varistors and thermistors
+Dielectrics, ferro- and piezo-electrics [16 Lectures]: Capacitor Materials, Dielectric Breakdown, High and low
+permittivity materials, Microwave and tunable dielectrics, Ferroelectric memories, Piezoelectric materials:
+PZT, BaTiO3, Morphotropic Phase boundary, Electrostriction, Pyroelectric materials: Thermal Imaging, IR
+detectio
+Magnetic Ceramics [3 Lectures]: General Properties, Magnetic ferrites, Magneto crystalline anisotropy,
+Magnetostriction, Applications
+Electro-optical Properties [3 Lectures]: Electro-optic effect, Non-Linear optics, Birefringence, PLZT material and
+structure
+Material processing [3 Lectures]: Thin film and Bulk processing
+Textbook
+1. Electroceramics: Materials, Properties and Applications by A. J. Moulson and J. M. Herbert, Chapman and
+Hall, 2nd Edition, 1990.
+2. Kofstad, Per. "Nonstoichiometry, diffusion, and electrical conductivity in binary metal oxides." (1972).
+Reference Books
+1. Introduction to solid State Physics by Charles Kittel, Wiley Eastern, 5th Edition, 1983
+2. Newnham, R. E. (2012). Structure-property relations (Vol. 2). Springer Science & Business Media
+Online Course Material
+1. Ashish Garg, Electroceramics, NPTEL Course Material, Department of Material Science & Engineering,
+Indian Institute of Technology Kanpur, https://nptel.ac.in/courses/113/104/113104005/
+2. Ashish Garg, Fundamentals and Applications of Dielectric Ceramics, NPTEL Course Material, Department
+of Material Science & Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/113/104/113104090/
+48
+Title Magnetism and Magnetic Materials Number MTL4XX0
+Department L-T-P [C] (3-0-0) [3]
+Offered for B.Tech. (MT) Type Elective
+Prerequisite Basic knowledge on Quantum Mechanics
+Objectives
+The course will provide knowledge of underlying phenomena of magnetism. Emphasis will be on the
+preparation process & characterisation methods of magnetic materials used for Engineering applications
+Learning Outcomes
+The students are expected to have the ability of understanding magnetic phenomena, and metallurgical aspect
+of developing magnetic materials. They will also get an exposure of engineering application of magnetic
+methods and magnetic materials.
+Contents
+Origin of magnetism, Bohr Magnetron, Classification of magnetic materials, Weiss molecular field (4L)
+Magnetism in Metals and Insulators, Exchange Interaction, Magnetic Anisotropy and Magnetostriction, (6L)
+Domain and Domain Walls, Magnetic Hysteresis and Barkhausen Emissions, Techniques for Characterisation
+of Magnetic Materials, Superconductor and Superconducting Magnets, Structure Property Relations (8L),
+Soft Magnetic Materials: Nickel Iron Alloys, Cobalt-Iron alloys, Electrical steel (CRNO, CRGO and
+amorphous), Amorphous & Nanostructured magnetic alloys. (6L)
+Hard Magnetic Materials: Alnico, NdFeB, SmCo (6L)
+Soft & Hard Ferrites, Magnetic Shape Memory and Magnetocaloric Materials (6L),
+Application of Magnetism and Magnetic Materials (2L)
+Text/Reference Book:
+1. Chih-Wen Chen, Magnetism and Metallurgy of Soft magnetic Materials, Dover Publications, INC. New
+York, ISBN 0-486-64997
+2. B.D. Cullity, Introduction to Magnetic Materials, Addison-Wesley publishing company, California,
+London,
+3. D. C. Jiles, Introduction to Magnetism and Magnetic Materials, Chapman & Hill, London, 1991.
+4. (iv) S. Chikazumi, Physics of Ferromagnetism, Oxford University Press 1997, Reprinted in 2002, ISBN: 0-
+19-851776-9
+49
+Title Computational Thermodynamics Number MTL6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 2–0–2 [3]
+Offered for B.Tech (MT) Type Program Elective (PE)
+Prerequisite
+Objectives
+Understanding the correlation between the phase diagram and chemical thermodynamics for alloy design.
+Learning Outcomes
+Ability to construct multicomponent phase diagrams using computational thermodynamic approach.
+Contents
+1. Thermodynamics of Solution [7 Lectures]: Thermochemistry of solutions. Evolution of phase diagrams -
+quasichemical theory, Sub regular solution model.
+2. Calculation of thermodynamic parameters [7 Lectures]: First principle calculation, Semi-empirical-Miedema
+approach. Calorimetric measurement, electrochemical measurement,
+3. Calculation of multicomponent phase diagram [14 Lectures]: Redlitch-kister polynomial, Muggianu and kohler
+extrapolation. Crystallography in thermodynamics, Order and disorder structure, antisite defect and
+vacancies. Compound energy formalism. Modeling of Interstitial and substitutional phases, stoichiometric
+and non-stoichiometric compounds.
+Lab Experiments
+1. Construction of equilibrium and non-equilibrium phase diagram,
+2. Vertical section phase diagram and Property diagram for multi-component alloys,
+3. Scheil and equilibrium solidification simulation,
+4. Liquidus projections and monovariant reactions in ternary phase equilibria,
+5. Creation of user defined thermodynamic database.
+Textbooks
+1. Saunders and Miodownik, (1998), CALPHAD (Calculation of Phase Diagrams): A Comprehensive Guide, 1st
+Edition, Pergamman Press,
+2. Lukas,H., Suzana,G., Fries, B.S., (2007), Computational Thermodynamics: The Calphad Method, Cambridge
+University Press,
+Self-Learning Material
+Porter, D.A., Easterling, K. E., and Sherif, M.Y., (2009), Phase Transformation in Metals and Alloys, 3rd Edition,
+CRC Press
+Online Course Materials
+Murty, B.S., Advanced Metallurgical Thermodynamics, NPTEL Course Material, Department of Metallurgical
+and Materials Engineering, Indian Institute of Technology Madras, https://nptel.ac.in/courses/113106031/.
+50
+Title Mineral Beneficiation Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+The Instructor will:
+Introduce the principles of physical separation methods, simulation, and instrumentation related
+to mineral processing
+Learning Outcomes
+The students are expected to have the ability to:
+Ability to engineer selective mineral processing based on material and environment conditions
+Contents
+Introduction to Mineral Geology [2 lectures]: Geological formation of minerals. Classification and identification of
+minerals
+Introduction to Mineral Beneficiation [4 lectures]: Mineral Beneficiation Plant, Materials handling, Sampling,
+Sizing of ore particles- sieve analysis and testing, particle size distribution
+Comminution and Screening [10 lectures]: Liberalization of dissimilar minerals, Degree of liberalization,
+comminution- fracture, laws of comminution, crushing – Primary and secondary crusher, crushing operation,
+Ginding- Ball milling, Wet and Dry Grinding, Chemical Comminution-leaching, dissolution, Screening- types,
+factors affecting rate of screening, screening efficiency
+Separation and Concentration of ores [14 lectures]: Classification mechanical sorting, Gravity separation or
+concentration- Float and sink, heavy medium separation, Jigging, Flowing film concentration, Froth Floatation-
+floating reagents, types of floatation, Surface properties and selective flotation of ores, floatation for Sulphide
+ores, flocculation, Magnetic and Electrical Separation
+Solid-Liquid Separation [4 lectures]: Settling of solids in fluids, Solid-Liquid separation-Dewatering, Mechanical
+Dewatering of Slurries and Liquid-Liquid processing methods, Filtering
+Applications and Examples [8 lectures]: Mineral beneficiation of Zn, Cu, Fe, Pb ores, Heap leaching of Au,
+Mineral Processing of special materials (from brine and mineral resources), rare earths, vanadium, etc.
+Textbooks
+1. Wills,B.A. and Napier-Munn,T.J., (2006), Mineral Processing Technology, Elsevier Science & Technology
+Books, 7th Edition
+2. Subbarao,D.V., (2011), Mineral Beneficiation: A Concise Basic Course, CRC Press
+Reference Books
+1. Drzymala, J., (2007), Mineral Processing: foundations of theory and practice of minerallurgy, Wroclaw
+University of Technology
+2. German,R.M., (2005), Powder Metallurgy & Particulate Materials Processing, Metal Powder Industry
+Online Course Materials
+Majmuder, A., Introduction to Mineral Processing, NPTEL Course Material, Department of Mining
+Engineering, Indian Institute of Technology Kharagpur, http://nptel.ac.in/courses/105105171/
+51
+Title Kinetics of Metallurgical Processes Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective
+Prerequisite -
+Objectives
+This course aims to cover:
+Various kinetic aspects of metallurgical processes encountered in during metal extraction
+Learning Outcomes
+The students will be able to:
+Identify the rate controlling mechanism for a metallurgical process
+Contents
+Introduction and Kinetics of Homogeneous Reaction [6 lectures]: Scope of metallurgical kinetics, rate processes,
+rate of reaction, Rate equation, molecularity and order of reactions; reaction mechanism, temperature
+dependence of reaction rate-Arrhenius equation and activation energy
+Interpretation of Batch Reaction Data [8 lectures]: Irreversible first order, second order, and third order reaction,
+zero-order reaction, overall order of reaction from half-life, homogeneous catalyzed reactions, irreversible
+reactions in series, General and first order reversible reactions
+Chemically Controlled Reactions [8 lectures]: Reaction steps and rate controlling step, reaction between a solid
+and a fluid, interfacial reaction control-kinetic law, reduction of Hematite by CO or H2, Examples of leaching
+reaction- Ammonia leaching and acid leaching of Chalcopyrite, Chemisorption, Total internal reaction
+Diffusion through product layer [8 lectures]: Reaction of a flat plate and of a spherical solid, Diffusion through
+porous solid, Example: packed bed, leaching of Sulphide minerals
+Fluid Phase mass transfer [12 lectures]: Mass Transfer Across a Boundary Layer, Mass Transfer at Solid–Fluid
+Interface, Dissolution of a Solid in a Liquid, Electrochemical Mechanism in Leaching, Smelting reduction
+process- reduction of FeO in slag, reaction between two fluids-mass transfer across two fluid interface, slag-
+metal reaction, mass-transfer as a rate controlling step
+Laboratory Experiments
+NA
+Textbook
+1. Ray, H.S., Ray, S.K., (2018), Kinetics of Metallurgical Processes, 1st Edition, Springer
+2. Ghosh, A., Ghosh, S., (2014), Textbook of Metallurgical Kinetics, PHI Learning Private Limited
+Reference Books
+1. Levenspiel, O., (2006), Chemical Reaction Engineering, 3rd Edition, John Wiley and Sons.
+2. Wilkinson, D.S., (2000), Mass Transport in Solids and Fluids, Cambridge Univeristy Press
+Online Course Material
+Prof. B. Mandal, Chemical Reaction Engineering-I, NPTEL Course Material, Department of Chemical
+Engineering, Indian Institute of Technology Guwahati, https://nptel.ac.in/courses/103/103/103103153/
+52
+Title Principles of Process Metallurgy Number MT4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+Objectives
+The Instructor will:
+1. Introduce methods for the calculation of mass and energy balance for various metal extraction processes
+2. Expose the students to various process control and transport phenomena for various metal extraction
+processes
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the principles of thermodynamics and transport phenomena to understand and control
+metallurgical processes
+2. Relate the basic phenomena and process output through mass and energy calculations
+Contents
+Metal-slag interactions [6 Lectures]: Thermo-physical properties of metals and slags, slag-metal equilibrium
+calculations, application of slag capacity during metal refining
+Process phenomena [6 Lectures]: bubble formation, foaming, gas-liquid reactions, reactions between liquid
+phases
+Process control in metallurgical processes [6 Lectures]: Iron making, converter steel making, electric arc furnace,
+secondary steel making
+Mass and Energy balance in Iron and Steel Making [8 Lectures]: Materials Balance in Iron making, Blast furnace
+stoichiometry, Enthalpy balance in blast furnace. Material and heat balance in converting. Material and heat
+balance in steel making by L.D converters and open-hearth furnace.
+Mass and energy balance in calcination and roasting [8 Lectures]: Calcination - Principles of calcination, Materials
+and heat balance in calcinations. Roasting - Introduction, Sources of energy, Determination of calorific value
+of gaseous fuel, Amount of air, Materials balance calculation in roasting. Basics of heat balance in roasting.
+Calculation Procedure for Roasting Temperature.
+Mass and energy balance in non-ferrous smelting [8 Lectures] Matte smelting, Industrial copper smelting. Material
+balance and heat balance problems in matte smelting. Reduction smelting, Material balance in zinc and lead
+smelting, Material and heat balance in Imperial Smelting Process.
+Textbooks
+1. Sano N., Lu W., Riboud P., (1997), Advanced Physical Chemistry for Process Metallurgy, Academic Press,
+2. Shamsuddin M., (2016), Physical Chemistry of Metallurgical Processes, John Wiley & Sons.
+3. Alan Fine H, Gordon H. Geiger, (1998), Handbook on Material and Energy Balance Calculations in Metallurgical
+Processes, 2nd Revised Edition, Wiley.
+Self-Learning Materials
+Ray, H.S., and Ghosh, A., (1991), Principles of extractive metallurgy, Wiley Eastern Ltd., New Delhi
+Online Course Materials
+1. Muzumdar, D., and Koria, S.C., Steel Making, NPTEL Course Material, Department of Material Science
+and Engineering, Indian Institute of Technology Kanpur, http://nptel.ac.in/courses/113104013/
+2. Ray, H.S., Non-ferrous Extractive Metallurgy, NPTEL Course Material, Department of Materials and
+Metallurgical Engineering, Indian Institute of Technology Kharagpur,
+https://nptel.ac.in/courses/113/105/113105021/
+53
+Title Hydrometallurgy Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+This course aims to cover:
+1. Thermodynamic and kinetic aspects of leaching as a hydrometallurgical technique of metal extraction
+2. Purification of leach liquors by ion exchange, solvent extraction, adsorption using active carbon, selective
+precipitation operations, and solid-liquid separation techniques.
+3. Several practical leaching processes for nonferrous metal extraction and processing.
+Learning Outcomes
+The students will be able to:
+1. Understand the thermodynamics and kinetics of leaching and how it impacts the design of a
+hydrometallurgical process.
+2. Discuss the concepts and design of separation and purification of leach liquors including solvent
+extraction; ion exchange; precipitation; crystallisation; and membrane treatment.
+3. Explain the concepts and design of metal recovery processes
+Contents
+Introduction and Chemical fundamentals of hydrometallurgy [8 lectures]: Mineral Deposition, lean ore, Aqueous
+Processing and Utilization of Metals, Chemical Potential, Equilibrium, Solubility Product, Relationships
+Amongst K, pK, pKa, and pH
+Speciation and phase diagram [8 lectures]: Speciation (Ion Distribution) Diagrams, Metal-Ligand Speciation
+Diagrams, Phase Stability Diagrams
+Rate processes [14 lectures]: Chemical/Electrochemical/Biochemical Reaction Kinetics, Reaction Kinetics, Mass
+Transport, Combined Mass Transport and Reaction Kinetics, Models for Reactions Involving Particles,
+Crystallization Kinetics
+Metal extraction: [12 lectures]: Separation of dissolved metals, metal recovery processes, metal utilization
+Laboratory Experiments
+NA
+Textbook
+Free,M.L., (2013) Hydrometallurgy: Fundamentals and Applications, 1st Edition, John Wiley & Sons, Inc.,
+Hoboken, New Jersey
+Reference Books
+Havlik, T., (2008) Hydrometallurgy: Principles and Applications, CRC Press Woodhead Publishing
+Online Course Material
+Prof. H.S. Ray, Non-ferrous Extractive Metallurgy, NPTEL Course Material, Metallurgy & Material Science,
+Indian Institute of Technology Kharagpur, https://nptel.ac.in/courses/113105021/
+54
+Title Electrometallurgy Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+The aims to cover
+1. The principles and applications of aqueous electrochemistry in extractive metallurgy.
+2. Analysis of the thermodynamic and electro-chemical kinetic phenomena in aqueous and non-aqueous
+electrowinning and electrorefining of metals.
+Learning Outcomes
+The student should be able to:
+1. Have knowledge and understanding of the existing electrometallurgical processes,
+2. Analyze, conceive and conceptually design novel electrometallurgical processes
+Contents
+Introduction, Definitions, Principles and Concepts [8 lectures]: Electrodes and electrochemical reactions, cell and
+circuit, The Nernst equation and energy producing cells, Electrolysis, Faraday’s law, Electro-crystallization.
+Surface Morphology of Metal Electrodeposits [10 lectures]: Thin Compact Surface Metal Films, Thick Compact
+Metal Electrodeposits, Nucleation rate and deposition overpotential, Deposition from simple/ complex salt
+solutions with/without the presence of adsorbed additives, Disperse (Spongy, Dendritic, Powdered, Granular,
+Whisker) Deposits.
+The Current Distribution in Electrochemical Cells [10 lectures]: Two equal plane parallel electrodes arrangement,
+Ohmic resistance of the cell, The edge effect, Cell voltage-current density dependencies, Determination of the
+current density distribution, Cells with Low Anode Polarisation, Corner Weakness Phenomena in
+Electroforming, Electrodeposition at a periodically changing rate.
+Applications [14 lectures]: Electrowinning (zinc and aluminium), Electrorefining (copper), Optimum conditions
+for electroplating (metals/alloys/composites) from aqueous/non-aqueous/molten salt solutions,
+Electropolishing, Electro-machining, Electrochemical Oxidation of Metals.
+Laboratory Experiments
+NA
+Textbook
+Popov K. I., Djokic S. S. and Grgur B. N. (2002) Fundamental aspects of electrometallurgy, Kluwer academic
+publishers, New York.
+Reference Books
+Free M., Moats M., Houlachi G., Asselin E., Allanore A., Yurko J., Wang S (2012) Electrometallurgy 2012, John
+Wiley & Sons, Inc., Hoboken, New Jersey.
+Online Course Material
+Prof. H.S. Ray, Non-ferrous Extractive Metallurgy, NPTEL Course Material, Metallurgy & Material Science,
+Indian Institute of Technology Kharagpur, https://nptel.ac.in/courses/113105021/
+55
+Title Secondary and Special Steel Making Number MTL6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+Objectives
+The Instructor will:
+Provide knowledge on various secondary steel making process
+Learning Outcomes
+Expose students to advanced methods of making super clean steel
+Contents
+Melt cleanliness and Degassing [14 Lectures]: The concept of cleanliness of steels, non-metallic inclusions,
+dissolved gases. Tramp & residual elements in steels and their effect on steel properties. Transport Phenomena
+during taping of Liquid Steel- Estimation of Gas absorption during tapping. Importance of Slag free tapping.
+Thermodynamic and kinetics of degassing of steel melts. Operation of degassing reactors viz. DH, RH, tank
+degassers etc., Re-melting refining technologies. Vacuum Degassing process.
+Ladle Metallurgy [14 Lectures]: Thermodynamics & Kinetics of Deoxidation. Types & selection of Deoxidizers,
+Metallurgical & Thermodynamic conditions for Good Desulphurization and synthetic slag. Wire Injection
+Techniques for increased efficiency of Deoxidation &Desulphurization. Limitations of primary steel making,
+unit operations and unit processes in ladle metallurgy. Ladle furnaces design and operation, injection
+metallurgy.
+Casting and Special steel making process [14 Lectures]: Ingot casting of steel, Segregation, Ingot Defects.
+Continuous Casting: Heat Transfer and Solidification, bloom, Billet, Slab and Thin strip Caster, primary and
+Secondary Cooling, Process parameters of the caster. Special steel making processes viz. AOD, VOD
+continuous steel making etc. Principles of Electroslag remelting (ESR) & Vacuum Arc Remelting (VAR).
+Advantages over traditional Secondary Steel Making vs Costs involved.
+Text Books
+Ghosh, A., (2000), Secondary Steel Making: Principles & Applications, First edition, CRC Press.
+Reference Books
+1. Ghosh, A., Chatterjee, A., (2012), Iron and Steel Making – Theory & Practice, PHI Leasing Private Ltd.
+2. Mazumdar, D., (2015), A First Course in Iron and Steel Making, Universities Press(India) Pvt. Ltd.
+Self-Learning Material
+Mazumdar. D and Koria S.C., Steel Making, NPTEL Course Material, Department of Metallurgical
+Engineering and Materials Science, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/113104059/

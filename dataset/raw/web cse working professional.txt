@@ -1,0 +1,187 @@
+IIT Jodhpur Home Page
+    A+  A  A-    
+
+
+   हिन्दी  |  Sitemap
+Home
+People
+Academics
+Research
+Achievements
+Students
+Events
+Join Us
+Contact
+IIT Jodhpur
+Computer Science & Engineering
+Home
+Academics
+Programs for Working Professionals
+Programs for Working Professionals
+
+Introduction
+
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines to act with higher levels of intelligence and emulate the human capabilities of sense, comprehend and act. The core problems of artificial intelligence include programming computers for certain traits such as Knowledge, Reasoning, Problem-solving, Perception, Learning and Planning. AI technology development and applications are evolving rapidly with major implications for economies and societies. As the demand for such applications increases, there is also an increasing need for building the future workforce for AI.
+
+From January 2020, the Department of Computer Science and Engineering, IIT Jodhpur has started the Executive M.Tech. in AI program for working professionals. From 2022, this program transcends to its stackable avatar (Certificate, Diploma, M.Tech AI)- in line with the New Education Policy 2020 for working professionals. This program runs as a combination of synchronous and asynchronous teaching. Online lectures are offered on evenings or weekends for the convenience of working professionals. The minimum duration of this mode of M.Tech. program is 3 years, and the credit requirement is the same as the regular M.Tech in AI program at IIT Jodhpur (i.e. 62 credits).
+
+The major goal of this program is to train and enhance the skills of working professionals with strong foundations of Artificial Intelligence (AI) and state-of-the-art AI tools and techniques, and make them more industry-competent. For developing the AI ecosystem, this program will be executed in synergy with other M.Tech programs running in IIT Jodhpur, such as Sensors & IoT, Cyber-Physical Systems, and Advanced Manufacturing and Design.
+
+Objectives
+
+This Executive M. Tech in AI program will offer students with deep knowledge of both fundamental AI technologies, as well as application-oriented AI. A student completing this program will be capable to undertake careers in industry as well as academia. He/She will have the option to explore a variety of domains including Manufacturing, Fintech, Healthcare, Agriculture/Food Processing, Education, Retail/Customer Engagement, Human and Robot interaction/intelligent automation, Smart City, Aid for Differently Abled/Accessibility Technology.
+
+Features of the Program
+
+An initiative to cater to the stackable program ideology of the NEP2020 for working professionals
+Easy stackable option: opportunities to exit or add-on course to graduate to next stage.
+Classes are conducted on the weekends or in the evening of the weekdays in online mode and students attend in a synchronous audio-visual mode.
+The credit requirement per semester is flexible. Students can register for as many courses as they want (satisfying the minimum and maximum credit requirements) every semester
+Program elective and open elective courses may be chosen from a wide variety of courses offered across the departments and schools including Computer Science & Engineering, Electrical Engineering, School of AIDE, Mathematics, Mechanical Engineering
+Industry oriented courses such as ML-Ops and DL-Ops
+Students can interact and ask questions during the lectures.
+Recorded lectures and teaching materials are made available online.
+Course management and discussions will be enabled via widely-used tools such as Google Classroom, Piazza, and Moodle.
+There are mandatory two contact weeks in a semester. Students attend lectures and discussion sessions with instructors, participate in offline evaluations, and experience the IIT environment in person.
+Contact weeks may be organized in remote locations, subject to higher demand.
+Students can do their M. Tech. Projects on state-of-the-art research topics across departments
+Students may participate in projects funded by Government funding agencies and industries.
+Expected Graduate Attributes
+
+After completing this programme, a student will be able to develop an ability to:
+
+Comprehend fundamental concepts and hands-on knowledge of the state-of-the-art AI methodologies.
+Design and Build real-world AI systems for complex planning, decision making and learning, solving application-specific problems, and to reason about them.
+Conceive, Design and Develop Intelligent multi-modal multi-sensory Man-Machine interfaces.
+Design, Develop and Deploy machine learning based applications using structured and unstructured data (e.g., speech, text, images/videos).
+Understand and Assess reliability, dependability and trust-worthiness of AI-based systems.
+Design and develop AI applications for resource constrained environments.
+Adhere to evolving ethics and privacy laws across various domains and territories.
+Plan and manage technical projects.
+Learning Outcomes
+
+Understand the fundamentals of Artificial Intelligence, Machine Learning, Inference Engines, Speech, Vision, Natural Language Understanding, Robotics, and Human Computer Interaction.
+Unify the knowledge of human cognition, AI, Machine Learning and data engineering for designing systems.
+Demonstrate hands-on knowledge of state-of-the-art AI tools for real-world problem-solving.
+Ability to develop real-time and robust AI-based systems with specific software, hardware and data requirements.
+Build solutions to explore fully immersive computer-generated worlds (in VR), and overlay computer graphics onto our view of our immediate environment (AR) along with smart, cognitive functionality.
+Demonstrate advanced skills to comprehend and communicate effectively.
+Carry out projects using intelligent cognitive solutions provided by AI algorithms to get more insights in stakeholder management, risk modeling, intelligent resource scheduling and managing project constraints with intelligent use of data models.
+Program Details (Includes Stackable Options From 2022 onwards)
+
+Course Structure for: Certificate, Diploma and Degree program-categories
+
+Certificate program requires a minimum 6 to 8 credits and 64 hours of contact hours.
+Diploma requires minimum 128 contact hours (around 16-18 credits)
+Certificate and Diploma as part of the stackable MTech AI program
+
+The certificate and diploma can be obtained as an exit option from MTech AI
+The certificate and diploma can also be registered by the student individually. If the student follows the continuation CGPA requirements, he/she can stack up the credits to earn the next higher degree, finally leading to MTech AI as well.
+Program	Name	Courses	Credit Requirement
+Certificate Course	Introduction to AI and ML
+(Minimum 1 semester)	Artificial Intelligence
+Machine Learning
+Optimization
+Total: 8 credits
+Diploma Course	Diploma in AI and ML
+(Minimum 3 semester)	Artificial Intelligence
+Machine Learning
+Optimization
+ML-Ops
+Deep Learning
+2 courses from PE	Total: 18 credits
+MTech	AI	As per approved program document	Total: 62 credits
+Additional certificate and diploma options for students with Machine Learning background.
+
+Program	Name	Courses	Credit Requirement
+Certificate Course	Dependable ML
+(2 semester)	Dependable AI
+Deep Learning
+Advanced ML
+Total: 9 credits
+Diploma Course	Dependable ML
+(2-3 semester)	Optimization
+DL-Ops
+Optimization
+Deep Learning
+Advanced ML
+2 PE courses	Total: 18 credits
+Some Core and Elective Course Options
+
+Core Courses	Elective Courses
+ML-Ops
+Machine Learning
+Deep Learning
+DL-Ops
+Artificial Intelligence
+Dependable AI
+Algorithms for Big Data
+Ethics and Professional Life
+System Engineering and Project Management
+Social Network Analysis
+Principles of Biological Vision
+Advanced Artificial Intelligence
+Advanced Computer Vision
+Autonomous Systems
+Introduction to Blockchain
+Natural Language Understanding
+Cybersecurity
+GPU Programming
+Software and Data Engineering
+Introduction to Augmented Reality and Virtual Reality
+Advanced Biometrics
+Some Interdisciplinary courses (offered by Departments of CSE, EE, Physics and Mathematics, and Schools of Liberal Arts and Management & Entrepreneurship) registered by current Exec.M.Tech AI students
+Psychophysics
+Modern Communication Networks
+Special Drives for Electric Vehicles
+Statistical Models and Regression
+Energy economics and policy
+System Engineering and Project Management
+Quantum Machine Learning
+FAQ, Course Structure & Course Details
+
+ FAQs of Executive M.Tech. AI   (Download file: 64 KB)
+
+ Course Structure of Executive M.Tech. AI   (Download file: 38 KB)
+
+ Details of courses offered by Dept. CSE   (Download file: 908 KB)
+
+Contact Us: Email ID for Working Professionals programs: office_cep [at] iitj.ac.in, Tele.- (0291) 2801191
+
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+IIT Jodhpur Facebook Page
+IIT Jodhpur Twitter Page
+IIT Jodhpur You tube Channel
+IIT Jodhpur Instagram Page
+IIT Jodhpur Linkedin Page
+G20 India 2023
+75 Azadi Ka Amrit Mahotsav
+Prime Minister's Research Fellowship (PMRF)
+Vidya Lakshmi Fulfilling Educational Aspirations
+National Commission for Women (NCW) Helpline
+National Anti-Ragging Monitoring Agency
+india.gov.in National portal of India
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation, IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM.
+Last Updated : 20 Mar 2026 - 01:10 PM
+arrow_downward

@@ -1,0 +1,118 @@
+
+
+ A+ A A-
+
+  हिन्दी  | Sitemap
+* Home 
+* People 
+*  Academics
+    * Undergraduate Programs 
+    * Postgraduate Programs 
+    * Programs for Working Professionals 
+    * Doctoral Programs 
+*  Research
+    * Research Area & Labs 
+    * Projects 
+    * Sponsors & Collaborators 
+    * Compute Resources 
+*  Achievements
+    * Faculty Achievements 
+    * Student Achievements 
+*  Students
+    * ACM Student Chapter IITJ 
+    * Outstanding Student Projects 
+    * Placements 
+    * Alumni 
+    * Teams 
+    * PhD Students 
+*  Events
+    * Webinars 
+    * Students Presentation 
+    * IIT Jodhpur Industry Connect 2022 
+    * Winter School 
+    * Grad Cohort Workshop 
+*  Join Us
+    * Faculty 
+    * Researchers 
+    * Students 
+* Contact 
+
+
+Computer Science & Engineering
+1. Home
+2. Academics
+3. Undergraduate Programs
+Undergraduate Programs
+B.Tech. Computer Science and Engineering (CSE)
+The B.Tech. program in Computer Science and Engineering (CSE) at IIT Jodhpur aims to equip its students with skills to undertake careers that involve identifying and engineering solutions for real-world problems, through innovating upon their core competence in computer science. The curriculum gives due importance to the foundational aspects of computer science, as well as aspires to inculcate in students the foresight and expertise to address transdisciplinary technological questions. Students can choose from a number of elective courses that strive to expand their understanding of emerging concepts and processes across domains such as Theory and Algorithms, Hardware, Systems, Network and Security, Artificial Intelligence, Machine Learning, Speech, Vision, Language, and Social Computing.
+The program also encourages its students to opt from a number of exclusive interdisciplinary specialization tracks, that are envisaged to provide a coherent and sophisticated understanding of underlying subject-areas, to empower them to pursue myriad career paths. Some of these specializations are:
+Visual Computing
+Socio-Digital Reality
+Advanced Algorithms
+Social and Sustainable Computing
+Intelligent Communication and Networking
+VLSI Systems
+The program aspires to produce a well prepared, motivated workforce who would valiantly embark upon careers in research and industry involving innovation, knowledge creation, engineering, and entrepreneurship. All students who have graduated from the department thus far are currently placed in companies of repute or are pursuing higher education in top-tier universities in the country and the rest of the world.
+Detailed curriculum for B.Tech. CSE  (Download file: 633 KB)
+Details of courses offered by Dept. CSE  (Download file: 908 KB)
+Specializations  (Download file: 244 KB)
+Regulations for Undergraduate Programs  (Download file: 536 KB)
+B.Tech. Artificial Intelligence and Data Science (AI&DS)
+Starting 2020, IIT Jodhpur will be offering a unique undergraduate program in Artificial Intelligence and Data Science, that envisions to equip students with the ability to assess societal, health, safety, legal and cultural issues, and - most importantly - identify their consequent responsibilities as engineers of effective solutions for the same.
+The curriculum is interdisciplinary at heart - straddling computer science, mathematics, artificial intelligence, machine learning, data science, and their applications across numerous domains. Besides Artificial Intelligence, Deep Learning, Digital Image Processing, Computer Vision and Video Processing, the program will be training its students in a range of exclusive courses like:
+Biometrics
+Dependable AI
+Resource-constrained AI
+Big Data
+Data Engineering and Data Visualization
+Stream Analytics
+Social Network Analysis
+Human-Machine Interaction
+Augmented and Virtual Reality
+Speech and Natural Language Understanding
+Computational Neuroscience
+The curriculum promises to provide opportunities to its students to explore a number of transdisciplinary specialization areas including visual computing, socio-digital reality, intelligent communications and networking, language technologies, robotics, and AIOT. The program will also allow its students to venture into a one-of-a-kind Management specialization that would focus on AI and Technology, leading to an MBA (BTech + MBA dual degree program) and scope for entrepreneurial pursuits
+Detailed curriculum for B.Tech. AI&DS  (Download file: 511 KB)
+Details of courses offered by Dept. CSE  (Download file: 908 KB)
+Specializations  (Download file: 244 KB)
+Regulations for Undergraduate Programs  (Download file: 536 KB)
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation, IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM.
+Last Updated : 20 Mar 2026 - 01:10 PM
+
+
+arrow_downward
+️

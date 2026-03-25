@@ -1,0 +1,2950 @@
+1
+M. Tech. and M.Tech-PhD
+in
+Civil and Infrastructure Engineering
+with Major in Energy
+2
+Introduction
+With the tremendous focus on energy sources such as solar, wind, hydropower to name
+a few, skills to develop necessary infrastructure for energy generation, transmission
+and distribution from these sources are required. To cater to future needs and
+emerging infrastructure, the M.Tech. and M. Tech-Ph. D. Program on Civil and
+Infrastructure Engineering with a major (specialization) in “Energy” is exclusively
+designed. The program is offered to the students/candidates with diverse engineering
+backgrounds from India and abroad who are interested in learning and applying the
+fundamental and advanced technologies (energy conversion, transmission,
+distribution, storage and conservation) in different areas of energy engineering. The
+program equips students with a unique set of skills desired in multidisciplinary and
+dynamic energy industries. To facilitate prospective graduates with the scope of this
+program, “Career Trajectory” maps for all disciplines are developed. A “Career
+Trajectory” is a framework for understanding the demand of different energy industries
+in terms of skills and their mapping with the courses that are being offered in this
+program across multiple departments. It will assist students in identifying the core
+skills (general, core, and advanced) and courses to build their career in the chosen
+energy industry.
+The program constitutes a unique value-added model that allows students to select
+courses from a) “Specialized Stream Electives" and (b) "M. Tech Electives" buckets to
+build their knowledge in a specialized stream and gain skills they would need to enter
+into the desired energy industry. Specialized courses are designed to tap rapidly
+changing energy market while employing emerging technologies. Furthermore, it
+builds a platform for multidisciplinary research to unravel complex problems associated
+with global energy infrastructure. After successful completion of the program, students
+will be able to continue to a Doctor of Philosophy (Ph.D.) in a number of related areas
+of chosen stream. This program potentially delivers an ability to the graduates to
+change the landscape of our planet through advanced energy generation and
+management practices.
+An outline of the concept behind this program is presented in the following sections.
+Objective of the Program
+IIT Jodhpur Civil and Infrastructure Engineering graduates with a major in Energy will:
+1. Enter the industry as professionals and leaders to implement solutions to diverse
+technical challenges of energy infrastructure.
+2. Pursue innovative and advanced research as scholars and scientists in leading
+industry and academic R&D centers around the world to develop state-of-the-art
+technologies related to future energy infrastructure.
+3. Establish and lead startups in emerging areas of sustainability, resilience,
+management, and effective utilization of various sources of energy.
+4. Frame policies, management regulations and ethical guidelines correlating dynamic
+energy demands, utilization and distribution.
+Graduate attributes
+A successful graduate should be able to:
+1. Understand the relation between different engineering aspects (i.e. electrical,
+mechanical, chemical, etc.) of various energy infrastructures.
+2. Understand the impacts and limitations of different energy resources under various
+conditions.
+3
+3. Understand and relate the engineering, economy, and policy aspects of energy
+utilization.
+4. Design and implement energy-efficient infrastructure related to generation,
+transmission, distribution of energy.
+5. Carry out in-depth multi-faced investigations (e.g. analytical, experimental, and
+numerical) in various infrastructure engineering issues and propose innovative
+solutions.
+6. Design new models, collect relevant data, and perform validation to help in decision
+making, developing and implementing advanced energy infrastructure concepts,
+and solving engineering issues.
+7. Participate and work in interdisciplinary teams, demonstrate knowledge of
+advanced management skills, and implement sustainable practices in infrastructure
+engineering projects.
+Learning outcome
+Upon successful completion of the program, the graduate will have an ability
+1. To apply and demonstrate acquired knowledge of popular (solar, wind, etc.) and
+upcoming (tidal, biomass, fuel cell, hydrogen, etc.) energy technologies and their
+operation in infrastructure engineering practices.
+2. To apply engineering design and management aspects of the complete lifecycle of
+energy: from generation to distribution.
+3. To identify, formulate and apply basics of energy harvesting and storage to mitigate
+challenges related to power fluctuations.
+4. To apply appropriate techniques of modeling and prediction, modern engineering
+and IT tools to complex engineering activities with an understanding of the
+limitations.
+5. To plan, design and execute large scale infrastructure projects on smart cities to
+meet future energy needs.
+6. To compete, lead, and practice a successful professional career in the core areas
+of expertise with specialized knowledge in the interdisciplinary energy
+infrastructure sector.
+Overall Structure (M. Tech. in Civil and Infrastructure Engineering with Major
+in Energy)
+Category Program
+Core
+(PC)
+Specializat
+ion Stream
+Electives
+(SSE)
+M.
+Tech.
+Elective
+(ME)
+M.
+Tech.
+Open
+(MO)
+M.
+Tech.
+Project
+(MP)
+Non-
+Graded
+Courses
+Total
+Graded
+Credits 3 17 17 3 16 4 60
+Semester wise distribution of credits
+Cat
+.
+Course Title L-T-P Credits Cat. Course Title L-T-P Credits
+I Semester II Semester
+PC Program Core 3-0-0 3 SSE Specialization stream -
+5
+3-0-
+0
+3
+SSE Specialization stream -1 3-0-0 3 SSE Specialization stream -
+6
+0-0-
+4
+2
+SSE Specialization stream -2 3-0-0 3 ME Program Elective – 1 3-0-
+0
+3
+4
+SSE Specialization stream -3 3-0-0 3 ME Program Elective – 2 3-0-
+0
+3
+SSE Specialization stream -4 3-0-0 3 ME Program Elective - 3 3-0-
+0
+3
+NG HSN7XX0: Technical
+Communication
+1-0-0 1 NG HSN7XX0: Professional
+Ethics
+1-0-
+0
+1
+Total (Graded + Non-graded) 16 Total (Graded + Non-graded) 15
+III Semester IV Semester
+MP Project-1 0-0-10 5 MP Project-2 0-0-
+22
+11
+ME Program Elective - 4 3-0-0 3 NG OAL7XX0: IP
+Management and
+Exploitation
+1-0-
+0
+1
+ME Program Elective - 5 3-0-0 3
+ME Program Elective - 6 2-0-0 2
+MO Open Elective-1 3-0-0 3
+NG OAN7XX0: Systems
+Engineering and Project
+Management
+1-0-0 1
+Total (Graded+ Non-graded) 17 Total (Graded + Non-graded) 12
+Program Core Course (PC)
+S.No. Course Title L-T-P Credits
+1 Introduction to Sustainable Infrastructure Engineering 3-0-0 3
+List of Specialization Stream Elective (SSE) Courses
+(Student may choose any 17 credits from the list below in addition to the mandatory
+program core)
+S.No. Course Title L-T-P Credits
+1 Solar Energy and Application 3-0-2 4
+2 Wind turbine and Field Design 3-0-2 4
+3 Offshore Tidal Energy Harvesting 3-0-0 3
+4 Offshore Wind Energy Harvesting 3-0-0 3
+5 Energy Storage 3-0-2 4
+6 Power Plant Engineering 3-0-2 4
+7 Smart Grid 3-0-2 4
+8 Biomass Energy Conversion 3-0-2 4
+9 Hydrogen and Methanol Economy 3-0-0 3
+10 Plugin Electric Vehicles 3-0-2 4
+11 Transmission Infrastructure 3-0-0 3
+12 Fuel Cell Technology 3-0-0 3
+13 Electrochemical Conversion and Storage 3-0-0 3
+14 Advanced Waste Water Treatment 3-0-2 4
+15 Selected Topics in Distributed Generations 3-0-0 3
+16 Materials for Electrochemical energy Conversion and Storage 2-0-0 2
+17 Energy Economics and policy 1-0-0 1
+18 Environmental Aspects of Power Plant 1-0-0 1
+19 Hydropower 3-0-0 3
+5
+List of Elective (ME) Courses
+Offering
+Department
+S. No. Course Title L-T-P Credits
+Electrical
+Engineering
+1 Substation Infrastructure 2-0-0 2
+2 Gas Insulated Substations 2-0-0 2
+3 Power System Protection 3-0-0 3
+4 Cyber-Physical Security in Smart Grid 3-0-0 3
+Civil & Infrastructure
+Engineering
+5 Stability of Slopes 3-0-0 3
+6 Rock Mechanics and Rock Engineering 3-0-0 3
+7 Reliability Engineering 3-0-0 3
+8 Structural Dynamics 3-0-0 3
+9 Wind and Earthquake Engineering 3-0-0 3
+10 Offshore Geo-technology 3-0-0 3
+11 Climate Change and Impact 3-0-0 3
+12 Air Pollution and Control 3-0-0 3
+13 Green Building and Sustainable
+Materials
+3-0-0 3
+14 Traffic Flow Theory 3-0-0 3
+15 Traffic System and Management 3-0-0 3
+16 Soil Stabilization and Ground
+Improvement
+3-0-0 3
+17 Foundation Engineering 3-0-0 3
+Mechanical
+Engineering
+18 Advanced Mechanics of Solids 3-0-0 3
+19 Theory of Vibration 3-0-0 3
+20 Remote Sensing and GIS for
+Environmental Management
+3-0-2 4
+21 Solid Waste Management 3-0-0 3
+Chemical
+Engineering
+22 Ocean Thermal Energy Conversion 1-0-0 1
+23 Wave Energy Conversion 1-0-0 1
+24 Process Safety and Hazard 3-0-0 3
+25 Advanced Energy Systems 3-0-0 3
+26 Microfluidic Fuel Cell 1-0-0 1
+Physics 27 Optics for Solar Energy Applications 3-0-0 3
+28 Energy Harvesting 3-0-0 3
+Computer Science
+and Engineering
+29 Artificial Intelligence – I 3-0-0 3
+30 Machine Learning - I 3-0-0 3
+TBD* 31 Selected Topic in Energy Science and
+Engineering
+3-0-0 3
+* Topic and course contents focusing on the emerging areas and energy technologies would be
+designed by the course instructor (or Department)
+6
+Topic Clouds Mapped with Specialization Stream Elective Courses (SSE)
+S.No. Courses Offering Department Topic clouds
+1 Solar Energy
+and Application
+Mechanical
+Engineering
+Solar radiations; Measurement;
+Concentrated Solar Power; Energy
+conversion; Thermal comfort; Passive
+heating and cooling; Daylighting;
+Energy efficiency; Evaporative
+cooling; Zero energy building;
+Building modeling and simulation;
+Solar PV; Grid integration; MPPT
+techniques; Solar panels
+2 Wind Turbine
+and Field
+Design
+Civil & Infrastructure
+Engineering
+Wind Measurement and statistical
+distribution; 2D and 3D
+Aerodynamics; Anatomy of wind
+turbines; Design of rotor blades;
+Horizontal-axis wind turbine;
+Vertical-axis wind turbine;
+Aeroelasticity; Control mechanisms;
+Pitch and stall regulation
+3 Offshore Tidal
+Energy
+Harvesting
+Civil & Infrastructure
+Engineering
+Aerodynamic and hydrodynamic
+loads; Rotor and mooring dynamics;
+Tidal dynamics and ocean currents;
+Tidal energy system design; Control
+and stability of tidal power plants;
+Failure models
+4 Offshore Wind
+Energy
+Harvesting
+Civil & Infrastructure
+Engineering
+Offshore wind; wave environment;
+Fixed and floating offshore platforms;
+Wind load on structures; Coupled &
+uncoupled analysis; Fatigue analysis;
+Offshore wind turbine field design;
+Vessel-fleet optimization; Cost-
+benefit evaluation; Power Ratio
+5 Power Plant
+Engineering
+Mechanical
+Engineering
+Thermal power plant; Nuclear power
+plant; Hydroelectric power plant;
+Solar thermal power plant; Hybrid
+power plant; Plant layout, design and
+Infrastructure; Boilers; Condensers;
+Gas turbine; Wind turbines; Fuel cell;
+Plant load and efficiency; Tidal
+energy; Geothermal energy;
+Generator; Transformer; Energy cost
+6 Energy Storage Electrical
+Engineering +
+Mechanical
+Engineering
+Energy storage; Thermal energy
+storage; Sensible and latent heat
+storage; Electrical energy storage;
+Capacitors and supercapacitors;
+Chemical and Electrochemical energy
+storage; Electrolysis; Batteries;
+Hydrogen storage; Mechanical energy
+storage; Flywheel; Pumped Hydro;
+Compressed air energy storage;
+Storage Applications;
+7 Smart Grid Electrical
+Engineering
+Smart Grid Basics; Energy
+Resources;
+Plug-in Electric Vehicle (PEV);
+Demand-side management;
+Monitoring and Protection
+8 Biomass
+Energy
+Conversion
+Chemical and
+Engineering +
+Bioscience and
+Bioengineering
+Biofuels and bio power; Biomass
+characteristics; Pre-treatment and
+processing; Gasification; Pyrolysis;
+Anaerobic fermentation; Biogas
+7
+production; Bioreactors; Process
+kinetics; Algal biofuels; Microbial fuel
+cell; Hydrogen production; Artificial
+photosynthesis
+9 Hydrogen and
+Methanol
+Economy
+Chemical
+Engineering
+Hydrogen and methanol as fuels;
+Economic, Environmental,
+Sustainability aspects; Production of
+hydrogen and methanol as fuel;
+Challenges and opportunities;
+Infrastructure and logistics of
+Hydrogen and methanol production
+10 Plugin Electric
+Vehicles
+Electrical
+Engineering
+Introduction to EV; Powertrain
+Storage systems; Charging
+Infrastructure; Vehicle-to-X systems;
+Hybrid Electric Vehicle; Vehicle
+Communication; PEV integration
+11 Transmission
+Infrastructure
+Electrical
+Engineering
+Overhead transmission lines;
+Underground cables; Marine cables
+12 Environmental
+Aspects of
+Power Plant
+Civil & Infrastructure
+Engineering
+Types of pollutants; Emission
+standards; Gasification; Combustion;
+Particulate matter control; Flue gas
+desulfurization; Types of ash; ash
+handling; Sustainable practices
+13 Fuel Cell
+Technology
+Chemical
+Engineering
+Basic principle of Fuel cell technology;
+Kinetics of Fuel cell electrodes;
+Charge and mass transport; Modeling
+and characterization of fuel cell;
+Principles of proton exchange
+membrane
+14 Electrochemical
+Conversion and
+Storage
+Chemical
+Engineering
+Introduction to electrochemical
+Conversion and Storage; Introduction
+to battery and Electrochemical
+supercapacitor; Principles of
+electrodialysis; Electrochemical
+mechanism of Hydrogen production
+15 Advanced
+Waste Water
+Treatment
+Chemical
+Engineering
+Introduction to Waste water
+engineering; Principles of
+Conventional Waste Water
+Treatment; Aerobic and Anaerobic
+processes; Mechanism of Advanced
+Treatment; Different unit operations
+for water recycling and reuse
+16 Selected Topics
+in Distributed
+Generations
+Electrical
+Engineering
+Distributed generation introduction;
+Control of distributed generation
+Microgrids; Stability Challenges in
+grid integration; Ancillary services
+17 Hydropower Mechanical
+Engineering
++
+Electrical
+Engineering
++
+Civil & Infrastructure
+Engineering
+Large scale hydropower; Hydropower
+turbines; Tidal power; Hydropower
+generators; Small Hydropower;
+Pumped storage hydropower;
+Hydropower house; Site
+investigation; Design of embankment
+dams; Concrete face rockfill dams;
+Concrete gravity dams; Foundation
+preparation
+18 Materials for
+Electrochemical
+energy
+Conversion and
+Storage
+Metallurgical &
+Materials
+Engineering +
+Physics
+Electrochemical energy storage;
+Conversion devices; Types of
+batteries; Battery capacity and life;
+Materials for batteries; 2D and 3D
+batteries; Principle and types of fuel
+8
+cells; Performance of fuel cells; Types
+of solid oxide fuel cells; Hydrogen
+storage; capacitor and
+supercapacitors; Challenges and
+applications
+19 Energy
+Economics and
+policy
+Humanities & Social
+Sciences
+Energy resources; Energy
+accounting; Demand analysis;
+Demand and load management
+9
+Course Content of Program Core Course (PC)
+Title Introduction to Sustainable
+Infrastructure Engineering
+Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-Th
+[C]
+3-0-0 [3]
+Offered for M.Tech/M. Tech-PhD Type Compulsory
+Prerequisite B.Tech Degree
+Objectives: This course aims at
+1. Presenting elements and components of sustainable infrastructure creation and
+management.
+2. Introducing practices of water management, greenhouse gas reduction, and green
+city planning.
+Learning Outcomes
+The students will acquire-
+1. Fundamentals and principles of sustainable engineering design.
+2. Knowledge of existing frameworks to achieve long-term sustainability.
+3. Methods and techniques for waste water management and greenhouse gas emission
+reduction.
+4. Knowledge on the engineering and architectural aspects overall green city planning.
+Content:
+● Process of sustainable engineering design: key principle of sustainability; Integration
+of architecture and engineering; design drivers for sustainable infrastructure system;
+implementation.
+● Sustainable infrastructure framework: Green building rating system; sustainable
+infrastructure frameworks: pillars of sustainability, scale-density framework, transect,
+built form-ecology framework.
+● Water conservation and supply: water management plans; achieving water balance;
+analyzing water resources; water supply strategies.
+● Integrated water management: integrated stormwater management; urban
+stormwater treatment strategies; constraints and barriers to implementation;
+graywater treatment and reuse; integrating graywater into a water resources master
+plan; blackwater management approaches.
+● Energy and greenhouse gases: reducing demand by design; designing sustainable
+power supplies; addressing climate change and reducing carbon footprint; policy
+measures for increasing energy security and efficiency; design guidelines and
+performance standards.
+● Sustainable site planning, built systems, and material flows: sustainable site planning;
+green streets and transportation network; working with the land; material and waste
+flows.
+● City-scale approach: Case study1 (Guangzhou: city-scale transformation in China);
+Case study 2 (Tianjin: Eco-city master plan); Case-study 3 (PlaNYC: integrated
+stormwater approach); Case study 4 (San Francisco city greening initiative)
+●
+Reference Books
+1. S. Bry Sarté (2010) Sustainable Infrastructure. John Wiles & Sons, Inc. ISBN 978-0-
+470-91293-5.
+Learning Material
+10
+Detailed Course Content of Specialization Stream Courses (SSE)
+Title Biomass Energy Conversion Course BBXX
+Department Bioscience and Bioengineering L-T-P [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite
+Objectives
+The Instructor will:
+1. Illustrate the principles and applications of bio-energy harnessing systems ranging
+from conventional processes to the latest developments in the area.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Have an understanding of the existing and emerging biomass to energy technologies.
+2. Utilize the knowledge of bioenergy systems while integrating bioenergy with other
+renewable energy systems.
+3. Suggest potential solutions for energy needs by incorporating bioenergy technology.
+Contents
+Bioenergy context: Introduction, Biofuels and biopower; automobile and biofuels,
+feedstocks (harvested and residual), Emissions from biofuels [Lecture 6].
+Thermochemical biomass conversion: Chemical composition, Biomass types and
+characteristics, Biomass pre-treatment and processing, Combustion, Gasification, Pyrolysis,
+Catalytic conversion of biomass to liquid biofuels, Life cycle analysis [Lecture 14].
+Biochemical biomass conversion: Anaerobic fermentation technology: Biogas production,
+process microbiology, different types of bioreactors, basic process kinetics, Various types of
+biofuels,1st and 2nd generation biofuels, Algal Biofuels, ASTM standards for biofuels,
+Engineered microbes for biofuel [Lecture 10].
+Bioelectrochemical systems: Introduction to Microbial Fuel cells (MFC), Nernst equation
+and electrochemical potential difference, the redox reactions, calculating and measuring
+potentials, The exoelectrogenic microbes, MFC components, Applications of MFC, Bio
+electrochemical system for Hydrogen production, Artificial photosynthesis [Lecture 12].
+Lab: Biomass acid treatment process and estimation of reducing sugars, performing ethanol
+fermentation and determine ethanol yield and productivity, performing butanol
+fermentation, setting up a biogas production process, Screening cellulose producers from
+natural environments, enzyme activity assays for lignocellulosic waste, performing acid
+catalysed/base catalysed biodiesel production-comparison of process kinetics, determine
+biodiesel yield with sequential base/acid treatment for free fatty acid rich microbial oil,
+Setting up Microbial fuel cells,
+Textbooks
+1. German Solar Energy Society, Ecofys, (2006) Planning and installing bioenergy
+systems: A guide for installers, architects and engineers, Earthscan,
+2. Vertes, A. A., Qureshi, A., Yukawa, H., Blaschek, H.P.,(2010) Biomass to
+Biofuels, Wiley.
+3. H. S. Mukunda, Understanding Clean Energy and Fuels from Biomass, Wiley India
+Pvt. Ltd., 2011.
+Reference Books
+1. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+2. Pelczar, M.J., Chan, E. C. S., Krieg, N.R.,(2001) Microbiology, Tata McGraw - Hill
+Education
+Online course material
+11
+Michelle O'Malley, Fueling Sustainability: Engineering Microbial Systems for Biofuel
+Production, Spring 2011, MIT OpenCourseWare Massachusetts Institute of
+Technology, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+12
+Title Solar Energy and Applications Number MEL7XX0
+Department Mechanical Engineering L-T-P [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite B.Tech Degree
+Objectives
+This course has objectives-
+1. to familiarize students with the potential of solar energy to meet the growing energy
+demands of society in a sustainable way,
+2. to elaborate students, the concepts of solar energy applications in architecture and
+infrastructure, and
+3. to illustrate solar technologies of producing power and cooling/heating in buildings.
+Learning Outcomes
+The students will acquire-
+1. knowledge of various means of solar energy utilization technologies and their
+applications.
+2. ability to model, design and evaluate solar energy systems and their applications from
+the fundamental principles and methods.
+3. practical exposer to various measurement experiments and simulation of applications.
+Content:
+Solar Radiation: Introduction to Solar Radiation, distribution, measurement and data, Sun
+motion, Introduction to Detectors, Radiation on Sloped Surfaces, Principle of conversion of
+solar radiation into heat, Thermal comfort, Introduction to Concentrated Solar Power (CSP)
+Technologies. [Lectures 14]
+Photovoltaics: Photovoltaic (PV) Effect, PV cells, The electrical model of PV cells, effect of
+shading, converters for grid integration of solar PV: DC-DC boost converter and inverter,
+control of boost converter and inverter, MPPT techniques and implementation. Mounting of
+solar panels, design and analysis of solar trees. [Lectures 14]
+Energy Efficient Buildings: Building orientation and design, passive heating and cooling
+concepts, thumb rules, heat transfer in buildings: Thermal modeling of passive concepts,
+Evaporative cooling, Energy efficient windows and daylighting, Earth air tunnel and heat
+exchanger, Zero energy building concept and rating systems, Energy conservation building
+codes, Software for Building Simulation, Automation and Energy Management of Buildings.
+[Lectures 14]
+Laboratory Classes [12-13 Classes]
+Experiments: Measurement of solar radiation, Measurement of-emissivity, reflectivity,
+transmittivity, Performance testing of forced flow & thermosyphon systems, Performance
+testing of- solar air heater, dryer, desalination unit, solar flat plate collector, solar
+concentrators, Testing and characterization solar PV.
+Computational hands-on: Simulation of- Heating and cooling of buildings, Hot water storage
+system, Heat exchangers, Grid integration of Solar PV, etc.
+Reference Books
+1. Solar Engineering of Thermal Processes. John A. Duffie, William A. Beckman. John,
+Fourth Edition, Wiley & Sons, Inc., 2013.
+2. Renewable Energy Resources: Basic Principles and Applications. G. N. Tiwari, M K.
+Ghosal, Narosa Publishing House, New Delhi, 2004.
+3. M.S. Sodha, N.K. Bansal, P.K. Bansal, A. Kumar, and M.A.S.Malik, Solar Passive Building,
+Science and Design, Pergamon Press, 1986.
+4. Masters,G.M., (2004), Renewable and Efficient Electric Power Systems, John Wiley &
+Sons, Inc.
+Learning Material
+4. Solar Energy Technology https://nptel.ac.in/courses/112/105/112105051/
+13
+5. Solar Photovoltaics Fundamentals, Technology And Applications
+https://nptel.ac.in/courses/115/107/115107116/
+14
+Title Wind turbine and field design Number CIE7XX0
+Department Civil Engineering L-T-P [C] 3–0–2 [4]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite
+Objectives
+1. To provide high-level insight into the technical and engineering aspects of wind energy.
+2. To develop understanding of advanced principles of aerodynamics and structural
+mechanics used in design of wind turbine.
+Learning Outcomes
+The students will have understanding of:
+1. Wind turbine dynamic system behavior with integrated components and their control for
+a given application.
+2. Computing performance characteristics of the main components of wind turbine.
+3. Wind turbine blade aerodynamics to predict force components and moments experienced
+by modern wind turbines.
+Contents
+Wind power: Introduction to wind power: Maximum rated power, power coefficient, average
+annual power from a wind turbine, wind speed relationships based on the Beaufort scale, wind
+turbine protection from the wind, total energy from the wind, energy content, geographical
+resource distribution, influence of terrain, measurement methods and statistical analysis.
+(Lectures: 10)
+Aerodynamics: Fluid flow concept, 2-D Aerodynamics, 3-D aerodynamics. (Lectures: 12)
+Turbines: Introduction and Evolution of wind turbines, classification and status and basic
+anatomy of wind turbines, design of turbine rotor blades, HAWTs, VAWTs, Betz and Glaurets
+turbine theories and the BEM method, Horizontal and vertical axis wind turbines (HAWTs and
+VAWTs), blades, choice of materials and adaptation to different climates, aeroelasticity and
+Wind turbine modelling. (Lectures: 10)
+Controls: Control mechanisms, control targets, control strategies (pitch and stall regulation).
+(Lectures: 10)
+Laboratory: Modelling of (a) drivetrain (b) stress generation on wind blades (c) Flow
+Modelling Around a Wind Turbine; (d) neck and welding points stress modelling
+Textbook
+1. J. F. Maxwell, J. G. McGowan, and A. L. Rogers, Wind Energy Explained – Theory,
+Design, and Applications, John Wiley & Sons, 2010, ISBN: 978-0-47001500-1.
+2. Martin O. L. Hansen, Aerodynamics of Wind Turbines, Second edition, Earthscan, UK,
+2008.
+15
+Title Offshore Tidal Energy Harvesting Number CIE7XX0
+Department Civil Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite
+Objectives
+1. Holistic introduction of different aspects of a tidal energy system.
+2. Introduction of design principles and size optimization.
+3. Basics of control and reliability assessment of a tidal system.
+Learning Outcomes
+1. Knowledge of prefeasibility assessment models.
+2. Knowledge of optimization techniques to increase efficiency of a tidal energy system.
+3. Different control system of a tidal current turbine.
+4. Knowledge of different failure models for reliability assessment.
+Content
+Introduction of tidal energy: Principles and components of tidal power plants; Available
+technologies and concepts; Estimation of energy calculation; Tidal dynamics and structures
+of tidal currents. (Lectures: 6)
+Prefeasibility analysis: Analysis of location; Physical boundaries of assessment; Static v/s
+transect field survey; Location assessment: Farm method and Flux method. (Lectures: 6)
+Optimum sizing and modelling of tidal energy system: Modelling of tidal energy conversion
+systems; Numerical solution of tidal energy systems; Modelling of a tidal current turbine;
+Tidal energy facility size. (Lectures: 6)
+Hydrokinetic turbine: Basic principles; emerging designs: Unducted horizontal-axis turbines,
+Ducted horizontal-axis turbines, Unducted cross-flow turbines, Ducted cross-flow turbines,
+Gorlov helical turbine, Vortex-induced-vibration systems, Venturi systems, Oscillating
+hydrofoils, Paddle wheels, Flutter vane, Fan belt; Mooring systems and power transmission.
+(Lectures: 6)
+Control system: Automatic control system; Control strategies of ocean wave conversion
+systems; Reactive power control of tidal turbine; Dynamic control of tidal current turbine;
+Power system stability analysis. (Lectures: 6)
+Reliability assessment: The failure distribution model; Constant failure rate model; Time
+dependent failure model; Assessment of tidal energy system by fault tree analysis.
+(Lectures: 6)
+Advances in tidal energy systems: Tidal energy system scenario: India and World;
+Environmental assessment; Tidal harmonic analysis; Assessment of tidal energy system:
+Optimization technique and Game theory; Economic analysis. (Lectures: 6)
+Textbook
+1. Vikas Khare, Cheshta Khare , Savita Nema, Prashant Baredar (2019). Tidal energy
+systems. Elsevier. ISBN: 978-0-12-814881-5.
+2. S. K. Chakrabarti (2021). Dynamics of floating offshore structures. World Scientific.
+ISBN: 9789814280563
+Other references:
+1. Lago LI, Ponta FL, Chen L (2010) Advances and trends in hydrokinetic turbine
+systems. Energy for Sustainable Development. Volume 14, Issue 4, Pages 287-296.
+https://doi.org/10.1016/j.esd.2010.09.004.
+16
+Title Offshore Wind Energy Harvesting Number CIE7XX0
+Department Civil Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Elective
+Prerequisite
+Objectives
+1. To highlight the complexities of an offshore wind farms and differences with their
+onshore counterpart.
+2. To introduce the principles of an offshore wind farm design.
+3. To introduce principles of management and economics of a wind farm
+Learning Outcomes
+The students will have understanding of:
+1. Aerodynamic, hydrodynamic, and structural loads on offshore wind structures.
+2. Design of fixed and floating platforms for wind turbines.
+3. Principles of designs of a wind firm, its control, and maintenance.
+4. Details of the life-cycle cost and economic feasibility study of an offshore wind farm.
+Contents
+The offshore environment: Atmospheric wind flow and its characteristic in the boundary layer,
+ocean winds, wave theories, wind and wave forces on offshore structures (Lectures: 7)
+Fixed and floating offshore platforms, their analysis, and design: Fixed and floating offshore
+platforms, mooring lines-their dynamic analysis, wind forces on offshore structures, Design
+provisions in API and DNV codes, Fixed and floating offshore wind turbines-their dynamic
+analysis, coupled and uncoupled analysis, Fatigue consideration (Lectures: 8)
+Floating offshore wind turbines (FOWT): OWT drivetrain and gearbox simulation; Dynamic
+behaviour of bearings on offshore wind turbine gearbox: Experimental characterization of
+OWT gearbox in operation. (Lectures: 7)
+Offshore wind turbine field design: Spatiotemporal wind resource assessment; Bathymetry
+and other sea constraints; Strategic planning; Offshore wind farm design; Large eddy
+simulation of wind farm aerodynamics. (Lectures: 7)
+Operation and Maintenance Modelling: Classification of models; State-of-the-art in modelling;
+Decision support tools: vessel-fleet optimization models, cost-benefit evaluation of remote
+inspection. (Lectures: 7)
+Life-cycle cost and economic feasibility of a floating offshore wind farm: Life-cycle cost
+calculation: Economic Map Tools and Restrictions Maps Tools; Life-cycle definition, breakdown
+structure of processes, and calculation of costs; CAPEX and OPEX; Net Present Value (NPV);
+Internal Rate of Return (IRR); Discounted Pay-Back Period (DPBP); Levelized Cost of Energy
+(LCOE); Cost of Power Ratio. (Lectures:7)
+Suggested Textbooks:
+1. Olimpo Anaya-Lara, John O. Tande, Kjetil Uhlen, Karl Merz (2018) Offshore Wind
+Energy Technology. Wiley. ISBN 9781119097785.
+2. Joao Cruz, Mairead Atcheson (2016). Floating offshore wind energy (1st Ed). Springer.
+ISBN 978-3-319-29398-1.
+3. Wiesław Ostachowicz, Malcolm McGugan, Jens-Uwe Schroder-Hinrichs, Marcin Luczak.
+MARE-WINT. New Materials and Reliability in Offshore Wind Turbine Technology.
+Springer Nature. ISBN 978-3-319-39034-9.
+4. Laura Castro-Santos, Vincente Diaz-Casas (2016) Floating Offshore Wind Farms.
+Springer. ISBN 978-3-319-27972-5.
+5. S. K. Chakrabarti (2021). Dynamics of floating offshore structures. World Scientific.
+ISBN: 9789814280563
+17
+Title Energy Storage Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide understanding of various types of energy storage elements, their principle,
+characteristics, and applications
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design suitable energy storage technology as per demand, location, cost and other
+parameters.
+2. Test and characterize various batteries/systems under different operating and
+ambient conditions
+Contents
+Fractal - 1
+Energy Storage Systems: Introduction of energy storage systems, Energy Demand,
+Energy Storage Methods and comparison. (4 Lectures)
+Thermal energy storage systems: Basic Principle, Thermal energy storage methods,
+Sensible heat storage. (5 Lectures)
+Latent heat storage, phase-change materials, operational aspects, Cold thermal energy
+storage, Seasonal thermal energy storage (5 Lectures)
+Fractal - 2
+Mechanical energy storage systems: Introduction, Flywheel energy storage-design and
+components (4 Lectures)
+Pumped hydropower storage (3 Lectures)
+Compressed-air energy storage- Specifications of components, classification. (4 Lectures)
+Applications, Technical characteristics in terms of power rating and discharge time,
+storage duration, energy efficiency, energy density, cycle life, lifetime, capital cost, etc.
+(3 Lectures)
+Fractal - 3
+Electrochemical/chemical energy storage: Introduction, rechargeable batteries and their
+electrochemistry, types of batteries - integration into electrical grids, performance,
+characteristics, off-grid systems - sizing - small scale battery storage systems, recycling
+technologies, battery testing, battery management, regulations and safety aspects of high
+voltage batteries, hydrogen energy storage Hydrogen economy, fuel cell, safety (11
+lectures)
+Electrical energy storage: Superconducting magnetic energy storage systems - principles,
+materials, performance, and characteristics, super capacitors (3 lectures)
+Laboratory Classes [12-13 Classes] The experiments for the course include:
+Measurement of internal resistance, cold-cranking amps, capacity, state of health, charging
+efficiency; Charging and discharging characteristics; Testing of stater-batteries; Self-
+discharge and storage; Effect of temperature on – voltage, capacity, internal resistance, self-
+discharge, life; Centralized, distributed, hybrid cell balancing; Design and simulation of
+charge controllers for battery; Simulation of battery management system; Simulation of
+different models using different software like Siemens Simcenter battery; design studio,
+Matlab.
+Textbook
+1. Cabeza,L.F., (2015), Advances in Thermal Energy Storage Systems: Methods and
+Applications, Woodhead Publishing
+2. Kalaiselvam,S., Parameshwaram R., (2014), Thermal Energy Storage for
+Sustainability-Systems Design, Assessment and Applications, Academic Press
+18
+3. Alami,A.H., (2020), Mechanical Energy Storage for Renewable and Sustainable Energy
+Resources, Springer
+4. Huggins,R.A., (2014), Energy Storage-Fundamentals, Materials and Applications, 2nd
+edition, Springer
+Self Learning Material
+19
+Title Power Plant Engineering Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite B.Tech
+Objectives
+This course is designed-
+1. to introduce different aspects of power plant engineering such as power plant layout,
+operation and safety principles
+2. to provide knowledge of the working principle of conversion of different energy
+resources into electrical power generation.
+Learning Outcomes
+The students will acquire-
+1. ability to select an appropriate type of power plant for given requirements under
+different situations
+2. skills for optimization of energy efficiency of power plants with respect to available
+resources and energy requirements.
+3. ability to analyze the working and layout of power plants and the various components
+comprising the plant.
+Content:
+Introduction to power plant engineering: Sources of energy, National and International status
+on power generation. (Lectures: 2)
+Thermal Power Plant: Plant layout, Thermal power plant equipment, Types of boilers, the
+performance of boilers, supercritical steam generator, the performance of condensers, types
+of steam turbines, draught system. (Lectures: 8)
+Gas Turbine Power Plant: Classification and construction layout, Principles of closed and open
+cycle gas turbines. (Lectures: 4)
+Combined cycle power plants: Load type and calculation, Load variation, Use of internal
+combustion engine plant, Plant layout and design calculation, combined cycle efficiency.
+(Lectures: 5)
+Nuclear power plant: Principles of nuclear energy, Elements of nuclear power plants, Types
+of nuclear fuel, nuclear reactor, Boiling Water Reactor, Pressurised Water Reactor,
+Pressurised Heavy Water Reactor, Fast breeder reactors, Next generation nuclear plant.
+(Lectures: 6)
+Hydroelectric power plant: Plant layout, water turbine, plant operation, water storage and
+flow duration, hydrographs, Low, medium and high head plants, pumped storage plants,
+Penstock, water hammer, surge tanks, gates and valves, power house. (Lectures: 6)
+Site selection: Selection of for power station, load estimation, load duration curve, load factor,
+capacity factor, use factor, diversity factor, demand factor, Effect of variable load on power
+plant, selection of the number and size of units. (Lectures: 4)
+Economics and Environmental Considerations: Capital cost, Cost of energy production,
+Operational cost of power plants, tariffs for electrical energy, Environmental impact, different
+types of pollution, fuel availability. (Lectures: 3)
+Electrical components of power plants: generator, transformer, speed governing systems,
+generator excitation systems, switchyard. (Lectures: 4)
+Laboratory Classes [12-13 Classes]
+Steam Power Plant: Start-up, Operation and maintenance, Shut down of Steam Power Plant,
+Control and monitoring.
+Boilers: Efficiency of a steam generator, Analysis of exhaust gas from boiler, Determination
+of the heat flux density and the overall heat transfer coefficient in boilers.
+Steam Turbine: Demonstration of the function of a steam turbine, Operating Characteristics
+of Steam turbine.
+Cooling tower: Determination of cooling capacity, Operating Characteristics of Cooling tower
+20
+Gas Turbine: Determination of specific fuel consumption, Determination of Shaft power and
+System efficiency.
+Reference Books
+1. M. M. Ei-Wakil, Power Plant Technology, Tata McGraw-Hill.
+2. P. K. Nag, Power Plant Engineering, Tata McGraw-Hill.
+3. F. T. Morse, Power Plant Engineering, D. Van Nostran, New York.
+Learning Material
+1. https://nptel.ac.in/courses/112107291/
+21
+Title Smart Grid Number EE7XX0
+Department Electrical Engineering L-T-P
+[C]
+3–0–2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide concepts and topics that are relevant to smart grid technologies to facilitate
+exploring research opportunities
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the basic concepts of smart grid development and the critical technologies that
+underpin such development, their basic principles, physical constraints, and technological
+potentials
+Contents
+Smart Grid Basics: Evolution of Electric Power Grid and Smart Grid, Objectives, main features
+and challenges of smart grid (5 lectures)
+Energy Resources: Centralized vs. distributed generation (1 lecture); renewable energy:
+solar, wind, hydropower, biomass, geothermal, ocean wave; benefit, costs, and policies of
+renewable energy (5 lectures); renewable sources integration – overcoming intermittence;
+storage systems technology (4 lectures)
+Plug-in Electric Vehicle (PEV): History of EV; PEV challenges and potential solutions (1
+lecture); EV and electric power grid; PEV charging infrastructure, challenges and solutions (4
+lectures); PEV as an energy storage device and an energy source (V2G) (2 lectures)
+Demand-side management: Load profile of the power grid; market pricing (3 lectures); peak
+shaving and valley filling; load forecasting (4 lectures); regulations and policies (3 lectures)
+Monitoring and Protection: Wide-area monitoring system (WAMS), SCADA and PMU (4
+lectures); advanced metering infrastructure (AMI); smart metering (3 lectures);
+communication infrastructure and technologies (3 lectures)
+Laboratory: Experiments related to the following topics will be conducted under laboratory
+component: Characteristics of solar PV, grid integration of renewable energy sources, effect
+of loads on power quality with renewable energy penetration, Inverter-based microgrid,
+virtual inertia in inverter-based sources, demand side management, contribution of energy
+storage systems to enhance power quality, ancillary services, smart metering, performance
+of PMU
+Textbook
+1. Bollean,M.H.J., Hasan,F., (2011), Integration of Distributed Generation in the Power
+Systems, Willey-IEEE India Press
+2. Ehsani,M., Gao,Y., Gay,S.E., Emadi,A., (2005), Modern Electric, Hybrid Electric, and Fuel
+Cell Vehicles: Fundamentals, Theory, and Design, CRC Press
+3. Bansal,R., (2019), Power System Protection in Smart Grid Environment, CRC Press
+Self Learning Material
+1. The Smart Grid: An Introduction,
+http://www.oe.energy.gov/SmartGridIntroduction.htm, Department of Energy, 2008.
+22
+Title Hydrogen and Methanol Economy Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for MTech, MTech-PhD, PhD Type SSE
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide in-depth knowledge about Hydrogen and Methanol production, storage, their
+Utility and infrastructure development.
+2. Impart knowledge about the economic and environmental viewpoint of using Hydrogen
+and Methanol as fuel sources.
+Learning Outcomes
+The students are expected to have:
+1. Proper knowledge about Hydrogen and Methanol production and related issues.
+2. Economic view point of Hydrogen and Methanol as fuel and the related challenges &
+opportunities.
+Contents
+Hydrogen and methanol as fuels: General aspects, Prelude to energy systems, Hydrogen
+and Methanol as energy sources, Future energy supply, Economy and Environment,
+Sustainability (Lectures: 6)
+Hydrogen Production Processes: Properties, production, storage, utilization and safely,
+Infrastructure requirement, Hydrogen as a transportation fuel, Hydrogen based fuel cell.
+(Lectures: 12)
+Methanol Production Processes: Properties, production, storage, transportation and safely,
+Infrastructure Requirement, Methanol as fuel and energy carrier, Methanol as automobile,
+marine and aviation fuel. (Lectures: 14)
+Challenges and opportunities: Indian and global perspectives, Domestic and transportation
+application, Affordable Technology development, Policy. (Lectures: 6)
+Infrastructure and other issues: Storage and transmission infrastructure, Local distribution,
+filling stations and building integrated systems, national and international safety standards,
+socio-economic implications. (Lectures: 6)
+Textbook
+1. G. A. Olah, A. Goeppert, G. K. S. Prakash,(2006), Beyond Oil and Gas: The Methanol
+Economy, Wiley‐VCH, Weinheim, Germany.
+2. Ball M. and Wietschel M.,(2009) The Hydrogen Economy Opportunities and Challenges,
+Cambridge University Press.
+Reference Books
+1. Scipioni, A. Manzardo, J. Ren, (2017) Hydrogen Economy: Supply Chain, Life Cycle
+Analysis and Energy Transition for Sustainability, Academic Press.
+2. M. Bertau, H. Offermanns, L. Plass, F. Schmidt, H. Wernicke,(2014) Methanol: The Basic
+Chemical and Energy Feedstock of the Future, Springer; 2014
+3. Bent Sorensen, 2012, Hydrogen and Fuel Cells: Emerging Technologies and
+Applications, Elsevier, Second Edition.
+23
+Title Plugin Electric Vehicles Number EE7XX0
+Departmen
+t
+Electrical Engineering L-T-P[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisit
+e
+Objectives
+The Instructor will:
+1. Provide understanding of various technologies of plugin electric vehicle and
+hybrid electric vehicle and their role in smart grid operation
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design powertrain circuit topology and appropriate control scheme for electric
+vehicle
+2. Understand and design EV charging infrastructure
+Contents
+Introduction to EV: Recent development trends, types of electric vehicles (2
+lectures)
+Powertrain: Concepts of powertrain sizing in EV and PHEV, starting, braking (6
+lectures)
+Storage systems: Battery types, parameters, battery modeling, battery
+management (5 lectures)
+Charging Infrastructure: Domestic charging infrastructure, public charging
+infrastructure, normal charging station, occasional charging station, fast charging
+station, battery swapping station (5 lectures), types of charging: constant voltage,
+constant current, pulse charging, inductive, conductive charging (3 lectures)
+Vehicle-to-X systems: Vehicle-to-grid, vehicle-to-home (5 lectures), vehicle-to-
+building, vehicle-to-vehicle (3 lectures)
+Hybrid Electric Vehicle: Configuration of HEV (series, parallel, series-parallel &
+complex), power flow control in HEV configurations, control (6 lectures)
+Vehicle Communication: Introduction to in-vehicle communications and controller
+area network (4 lectures)
+PEV integration: Impact on transmission and distribution network (3 lectures)
+Laboratory: Experiments related to the following topics will be conducted under
+laboratory component: SoC estimation, control of electric vehicle drives,
+regenerative braking, powertrain and vehicle dynamics, EV chargers and their
+control, vehicle-to-grid technology, vehicle-to-vehicle technology, EV charging from
+solar PV, performance of aggregator
+Laboratory: Experiments related to the following topics will be conducted under
+laboratory component:
+SoC estimation, control of electric vehicle drives, regenerative braking, powertrain
+and vehicle dynamics, EV chargers and their control, vehicle-to-grid technology,
+vehicle-to-vehicle technology, EV charging from solar PV, performance of
+aggregator, Use of simulation tools (MATLAB, SIEMENS EV related softwares) to
+simulate different subsystems of EV and different scenarios.
+Textbook
+1. Husain,I., (2011), Electric and Hybrid Vehicles Design Fundamentals, 2nd
+Edition, CRC Press
+2. Ehsani,M., Gao,Y., Emadi,A., (2011), Modern Electric, Hybrid Electric, and Fuel
+Cell Vehicles Fundamentals, Theory and Design, 2nd Edition, CRC Press
+3. Larminie,J., Lowry,J., (2003), Electric Vehicle Technology Explained, Wiley
+Self Learning Material
+24
+1. Jain,A.K., Electric Vehicles - Part 1, NPTEL Course Material, Department of
+Electrical Engineering, IIT Delhi,
+https://nptel.ac.in/courses/108/102/108102121/
+2. Kumar,P., Majhi,S., Introduction to Hybrid and Electric Vehicles, NPTEL Course
+Material, Department of Electronics and Communication Engineering, IIT
+Guwahati, https://nptel.ac.in/courses/108/103/108103009/
+25
+Title Energy Economics and
+Policy
+Number HSS7XX0
+Department Humanities and Social Sciences L-T-P-D [C] 1-0-0 [1]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite
+Objectives
+1. To introduce basics of energy economics and demands.
+Learning Outcomes
+1. Knowledge of energy classification, calculation, and audit.
+2. Knowledge of demand analysis and management.
+Contents
+1. Energy as economic resources: classification of energy resources; measurement of
+energy; energy accounting. (Lectures: 7)
+2. Energy demand: basic concepts in economics; descriptive analysis of energy
+demand; decomposition analysis and parametric approach; demand side
+management; load management. (Lectures: 7)
+Text Books
+1. Alessandro Rubino Alessandro Sapio Massimo La Scala Michelle Hallack (2020)
+Handbook of Energy Economics and Policy (1st Ed). Elsevier Academic Press. ISBN:
+9780128147122.
+Online course Material
+1. “Energy Economics and policy” by Prof. Shyamasree Dasgupta on NTPEL.
+https://nptel.ac.in/courses/109/106/109106161/
+26
+Title Materials for Electrochemical Energy
+Conversion and Storage
+Number
+Department Physics and Metallurgical & Materials Engineering L-T-P [C] 2-0-0 [2]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite -
+Objectives
+The Instructor will:
+1. Provide the student with an extended knowledge of the basic principles and recent
+advances in Energy Storage materials and associated technologies for consumer electronics
+to high-power applications.
+2. Provide the students with the role of materials in energy storage technologies.
+Learning Outcomes
+The students are expected to gain knowledge on:
+1. Different modes of energy conversion and storage with respect to scale, cost, energy and
+power density
+2. Structure processing property performance relationship of the energy materials developed
+over time.
+Contents
+Introduction: Overview of electrochemical energy storage and conversion devices, Basic
+terminology, Classification, Applications. (Offered by Physics) (Lectures: 2)
+Batteries: Introduction to Batteries, primary and secondary batteries, Solid-state and liquid
+electrolyte batteries, Lead acid batteries, Nickel Cadmium Batteries, Li-ion and Li-Polymer
+batteries, Intercalation and Conversion Materials, Battery Capacity and Life, Micro-batteries,
+Thin film batteries, Materials for high-energy density 2D and 3D batteries (Offered by Physics)
+(Lectures: 12)
+Fuel cells: Principle and types, performance characteristics and efficiency of fuel cell, Proton
+exchange fuel cells, Solid oxide fuel cells, Types of solid oxide fuel cells: High and intermediate
+temperature, Single chamber solid oxide fuel cells. Polymer electrolyte fuel cells, Acid/alkaline
+fuel cells, phosphoric acid fuel cell, molten carbonate fuel cell, fuel cell stack, hydrogen storage
+(Offered by MT) (Lectures: 10)
+Supercapacitors: Difference between Capacitor and Supercapacitor, Electrolyte and Electrode
+materials, electric double layer capacitors, Challenges and Applications (Offered by MT)
+(Lectures: 4)
+Textbook
+1. Cheong K. Y., Impellizzeri G and Fraga M. A. (2018) Emerging Materials for Energy
+Conversion and Storage, 1st Edition, Elsevier
+Reference Book
+1. Rosen M. A. (2012) Energy Storage, Nova
+Online Course Materials
+1. Prof. Bazant M., MITopencourseware: Electrochemical Energy Systems, MIT Course Number
+10.626 / 10.426, https://ocw.mit.edu/courses/chemical-engineering/10-626-
+electrochemical-energy-systems-spring-2014/
+2. Prof. Pal K., Selection Of Nanomaterials For Energy Harvesting And Storage Application,
+NPTEL Course Material, Mechanical Engineering, Indian Institute of Technology Roorkee,
+https://nptel.ac.in/courses/112/107/112107283/
+27
+Title Hydropower Number MEL7XX0
+Departmen
+t
+Mechanical Engineering, electrical
+Engineering, Civil & Infrastructure
+Engineering
+L-T-P[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisit
+e
+Objectives:
+The Instructor will:
+1. Describe the role of the hydropower and working principles of small- and large-scale
+hydropower plants.
+2. Provide overview of the practical design of hydropower structures including mechanical
+and electrical equipment.
+3. Introduce students to geotechnical, mechanical, and electrical engineering aspects of
+conventional large dams.
+Learning Outcomes:
+The students are expected to have the ability to:
+1. Formulate and analyze technical solutions for design, and operation of hydropower
+plants.
+2. Analyze a technical problems connected to the hydroelectric power industry.
+3. Compare the design of dams, mechanical, electric and electronic equipment.
+4. Implement design details of embankment dam, components of face rockfill dams and
+concrete gravity dam, and basis of dam foundation design.
+Fractal 1 (ME)
+ Introduction: Hydropower resource, potential and market, Hydropower sites, Types of
+hydropower plants. (Lectures: 2)
+ Large hydropower: Run-of-River Hydropower, Dams and Barrages, Dam types
+(Lectures: 3)
+ Hydropower turbines, Classification and working principles, Impulse and reaction
+turbines; Propeller and Kaplan Turbines, Deriaz turbine. (Lectures: 5)
+ Tidal power: Tidal barrage power plant, operation and design, Tidal lagoons, Barrage
+construction techniques, Turbine speed regulation. (Lectures: 4)
+Fractal 2 (EE)
+ Hydropower Generators: Generator poles and rotational speed, orientation, types
+(Lectures: 2)
+ Small Hydropower: Small, mini, and micro hydropower plant, generators for small
+hydro power plants (Lectures: 3)
+ Electronic Control of Hydropower: Phase angle control, relay switched on loads, Mark-
+Space ratio controller (Lectures: 3)
+ Pumped Storage Hydropower: Pumped storage hydropower plant, turbines, motors
+(Lectures: 3)
+ Hydropower House: Classification, equipment, accessories, layout, components, sizing
+(Lectures: 3)
+Fractal 2 (CIE)
+● Site investigation techniques: Geological environments: rocks and soils; Geological,
+geotechnical, and geophysical investigation; Trenching and drilling (Lectures: 2)
+● Design of embankment dams: freeboard; Slope protection; Embankment crest details;
+Dimensioning and tolerances; Conduits through embankments; Flood control
+structures; Seismic stability analysis of embankments; Liquefaction of dam
+embankments and foundations. (Lectures: 4)
+● Concrete face rockfill dams and Concrete gravity dams: Selection of dam types; Rockfill
+zones; Concrete face; Construction aspects; Settlements, and displacements of the face
+slab, and joints; Leakage; Strength and compressibility of rock foundations; Strength
+of concrete in the dam; Strength of the concrete-rock contact; Silt and ice load
+(Lectures: 4)
+28
+● Foundation preparation: General foundation preparation for embankment dams; Cutoff
+foundation for embankment dams; Width and batter slopes; Slope modification;
+Foundation preparation for concrete gravity dams. (Lectures: 4)
+Textbook
+ Breeze,P., (2018), Hydropower, Academic Press
+ Pandey,B., Karki,A., (2017), Hydroelectric Energy, Renewable Energy and the
+Environment, CRC Press
+ Robin Fell, Patrick MacGregor, David Stapledon, Graeme Bell (2005) Geotechnical
+Engineering of Dams. A. A. Balkema publishers. ISBN 04 1536 440 x.
+29
+Title Selected Topics in Distributed Generation Number EE7XX0
+Departmen
+t
+Electrical Engineering L-T-P
+[C]
+3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisit
+e
+Objectives
+The Instructor will:
+1. Provide salient concepts of DG operation and control in both grid connected and
+autonomous modes
+2. Provide exposure to the challenges related to stability, grid integration, and ancillary
+services in distributed generation
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop control schemes for distributed generators to operate in grid connected and
+autonomous mode
+2. Understand various challenges and propose solutions related to stability, grid integration
+and ancillary services in distributed generation
+Contents
+Distributed generation: Introduction, DG types, concept of inertia and frequency response,
+flexibility issues, ramping issues (3 lectures)
+Control of distributed generation: Modelling and control of distributed energy sources such
+as solar PV, wind energy, diesel generator (10 lectures)
+Microgrids: Concept of microgrid, microgrid benefits, typical structures and configurations
+of various microgrids (3 lectures), control of converters in DC and AC microgrids (4
+lectures), active and reactive power control, voltage and frequency control of inverter-
+based sources (3 lectures), virtual synchronous generators (2 lectures)
+Stability: Stability issues with weak grid integration and in microgrid operation (4 lectures)
+Other challenges in grid integration: Power quality requirements, DG support under
+abnormal grid conditions (3 lectures), issues related to islanding and reverse power flow,
+network congestion (5 lectures), and protection (2 lectures)
+Ancillary services: Ancillary services with DGs, control for ancillary services, virtual power
+plants (3 lectures)
+Textbook
+1. Bollean,M.H.J., Hasan,F., (2011), Integration of Distributed Generation in the Power
+Systems, Willey-IEEE India Press
+2. Masters,G.M., (2004), Renewable and Efficient Electric Power Systems, John Wiley &
+Sons, Inc.
+3. Bevrani,H., Francois,B., Ise,T., (2017), Microgrid Dynamics and Control, John Wiley &
+Sons, Inc.
+30
+Title Advanced Waste Water
+Treatment
+Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-2 (4)
+Offered for M.Tech., M.Tech-Ph.D., Ph.D. Type SSE
+Prerequisite None
+Objective
+The instructor will:
+1 Impart comprehensive knowledge of industrial and municipal wastewater.
+1. Discuss mechanism and methodologies for waste water treatment.
+2. Discuss case studies
+Learning Outcomes
+The students are expected to have the:
+1 Comprehensive knowledge of the wastewater treatment.
+1. Knowledge of advanced methodologies such as waste water management, recycle
+and reuse.
+Contents
+Introduction: Waste water engineering: an overview, characterisation of waste water and
+monitoring of industrial and municipal waste water, environmental impacts of waste water
+constituents. (4 lectures)
+Conventional Waste Water Treatment: Existing unit operations and processes, basic
+philosophy of water treatment plants; physio-chemical treatment methods: (i) Screening,
+(ii) conventional filtration (iii) coagulation, (iv) flocculation, (v) floatation (vi) Clari-
+flocculation (vii) sedimentation, (viii) sand filtration, etc. (10 lectures)
+Aerobic and Anaerobic Suspended and Attached Growth Waste Water Treatment Processes:
+Aerated lagoon, activated sludge systems, trickling filter, sequential batch reactor,
+fluidized
+bed bioreactors, Up-flow Anaerobic Sludge Blanket (UASB) and hybrid Up-flow Anaerobic
+Sludge Blanket (UASB) reactors. (8 lectures)
+Advanced Treatment Processes: Membrane Filtration, reverse osmosis, ultrafiltration,
+nanofiltration and electrodialysis; wet air oxidation, adsorption and ion-exchange; Wet-
+land and root-zone treatment of industrial and municipal wastes; Design of sludge drying
+beds, thermal and biological processes for sludge and land fillings. Membrane Reactors,
+New Technologies for Waste Water Disinfection. (12 lectures)
+Water Recycling and Reuse: Different unit operations for water recycling depending on end
+use, recovery of valuables from waste water, zero liquid discharge (ZLD). (8 lectures)
+Waste Water Treatment Design Lab (28 hrs)
+Clarifier; Aerator; Sand filtration system; Municipal waste water system; Grey water
+treatment system; Sewage water treatment system; Industrial waste water systems; Pond
+water treatment.
+Text Book
+1. Burton F.L., Tchobanoglous G., Stensel H.D., 2017, Waste Water Engineering
+Treatment and Reuse, 4thed.,Tata McGraw-Hill.
+2. Arceivala S.J. and Asolekar S.R., 2007, Wastewater Treatment for Pollution Control
+and Reuse, 3rd Ed., Tata McGraw Hill.
+Reference Books
+1. Henze M., van-Loosdrecht M.C.M., Ekama G.A. and Brdjanovic D., 2008, Biological
+Wastewater Treatment: Principles, Modelling and Design, IWA publishing.
+2. Sincero A.P. and Sincero G.A., 1996, Environmental Engineering – A Design
+Approach, Prentice-Hall.
+Online Course Material
+1. Tiwari M K, Wastewater treatment and recycling, NPTEL course material,
+Department of Civil Engineering, IIT Kharagpur,
+https://nptel.ac.in/courses/105105178/
+31
+Title Fuel Cell Technology Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide in-depth knowledge about the fuel cell technology.
+2. Discuss the fundamentals of deferent fuel cells.
+Learning Outcomes
+The students are expected to have:
+1. Comprehensive knowledge about fuel cell technology.
+2. The ability to design different types of cells.
+Contents
+Basics of Cell Technology: Principles of fuel cells, Fuel cells systems and staking,
+applications, performance study, electrochemistry and thermodynamics of fuel cells. [6
+lectures]
+Fuel cell kinetics: electrode kinetics, catalysis in fuel cells, activation energy, reaction
+equilibrium, exchange currents and electrocatalysis, design principles of catalyst-electrode,
+Sabatier principle. [6 lectures]
+Charge and mass transport: resistance and voltage loss, electrical driving force, fuel cell
+electrolytes, diffusive and conductive transport, convective transport. [6 lectures]
+Modelling and characterization: Theory and governing equations, basic fuel cell model, 1D
+model, CFD application in modelling, characterization techniques of fuel cells, physical and
+chemical methods. [6 lectures]
+Proton-exchange membrane (PEM) Fuel Cell: Cell components, material properties and
+processes; membrane layer, current collector and gas delivery, catalyst action, design
+issues, high temperature and reverse operation, degradation and lifetime. [9 lectures]
+Other Fuel cells: Solid Oxide Fuel Cell(SOFC), Phosphoric acid fuel cell (PAFC), Alkaline fuel
+cell (AFC), Solid acid fuel cell (SAFC), Molten-carbonate fuel cell (MCFC), Microbial fuel cell,
+etc., Environmental impact of fuel cells, fuel cell vehicles, building-integrated fuel cells. [9
+lectures]
+Textbook
+1. Andrew L. Dicks, David A. J. Rand, 2018, Fuel Cell Systems Explained, Willey, Third
+Edition.
+2. Ryan O'Hayre, Suk-Won Cha, Whitney Colella, Fritz B. Prinz, 2005, Fuel Cell
+Fundamentals, Willey, Third Edition.
+Reference Books
+1. Bent Sorensen, 2012, Hydrogen and Fuel Cells: Emerging Technologies and
+Applications, Elsevier, Second Edition.
+2. Frano Barbir, 2013, PEM Fuel Cells: Theory and Practice, Elsevier Inc., Second Edition.
+3. Ryan O'Hayre, Suk-Won Cha, Whitney Colella, Fritz B. Prinz, 2009, Fuel Cell
+Fundamentals, Wiley, Second Edition.
+32
+Title Electrochemical Conversion and Storage Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite None
+Objectives
+The Instructor will:
+1. Impart the knowledge of electrochemical engineering, Working principle, materials
+and characterization of electrochemical conversion for energy production.
+2. Introduce the mechanism to store energy.
+Learning Outcomes
+The students are expected to have:
+1. Comprehensive knowledge about electrochemical process.
+2. Advanced knowledge about energy production via electrochemical process and store
+it efficiently.
+Contents
+Introduction: basics of electrochemical Conversions and Storage, devices and Principles,
+over view of fuel cells, Photo-electrochemical conversion and cells. [5 lectures]
+Batteries for energy storage: primary and secondary batteries, limitations of battery
+performance, Lead Acid Battery, Nickel-Metal Hydride (Ni-MH) Rechargeable Batteries,
+Lithium-Ion Rechargeable Batteries, Liquid- Redox Rechargeable Batteries. [10 lectures]
+Electrochemical supercapacitor: introduction to supercapacitor, types and structures,
+Transport Properties, electric double-layer capacitor, physical/elcrochemical processes in
+supercapacitors, diffuse layer, pseudocapacitor. [11 lectures]
+Electrodialysis: introduction to electrodialysis and reverse electrodialysis, control
+parameters, effect of flow structure. [4 lectures]
+Electrochemical Hydrogen Production: Introduction to electrolysis, electrolysers and
+hydrogen production, PEM water electrolysers, electrochemical reforming of alcohol,
+perspectives of hydrogen electroproduction techniques. [12 lectures]
+Textbook
+1. Vladimir S. Bagotsky, Alexander M. Skundin, Yurij M. Volfkovich, 2015, Electrochemical
+Power Sources: Batteries, Fuel Cells, and Supercapacitors, Wiley.
+2. Jiujun Zhang, Lei Zhang, Hansan Liu, Andy Sun, Ru-Shi Liu, 2011, Electrochemical
+Technologies for Energy Storage and Conversion, Wiley-VCH, First Edition.
+3. Allen J. Bard, Larry R. Faulkner, 2001, Electrochemical Methods: Fundamentals and
+Applications, John Wiley & Sons, Second Edition.
+Reference Books
+1. Keith Scott, 2020, Electrochemical Methods for Hydrogen Production, RSC, UK.
+2. Stanley W. Angrist, 1982, Direct Energy Conversion , Allyn and Bacon Inc.
+33
+Title Environmental Aspects of
+Power Plant
+Number CIE7XX0
+Department Civil and Infrastructure
+Engineering
+L-T-P-D [C] 1-0-0 [1]
+Offered for M.Tech, M.Tech.-Ph.D., Ph.D. Type SSE
+Prerequisite
+Objectives
+1. To provide basic knowledge of combustion and conversion technologies.
+2. To make students familiar with emissions, pre- and post-combustion control
+technologies and waste management techniques.
+Learning Outcomes
+The students are expected to achieve proficiency in:
+1. Identifying the issues and appropriately choose the right pollution control techniques
+for gas and particle phase emissions.
+2. Assessing the efficiency of conventional as well as emerging combustion technologies
+targeting pollution reduction.
+Contents
+Introduction: Types of emissions; types of pollutants (SOx, NOx, trace elements and
+other Coal Combustion Products) and their impacts; Emission standards (Lectures: 2)
+Combustion Technologies: Gasification; Types of gasifier; Gasification vs Combustion;
+Fluidized bed combustion (FBC); Concept of Integrated Gasification Combined Cycle
+(ICC); IGCC vs pulverized coal combustion (PCC) (Lectures: 5)
+Pre- and Post-combustion control: Flue gas desulfurization (FGD); NOx and Sox
+treatments (low NOx burners, flue gas recirculation and SCR); Particulate matter control
+systems (Electrostatic precipitators, mechanical collectors, and other devices (particulate
+scrubbers, baghouse filters, fabric filters etc.)) (Lectures: 5)
+Ash handling: Ash (fly ash, bottom ash, pond ash, FBC ash, boiler slag, FGD ash);
+Scrubber slurry; Ash handling and sustainability practices, leaching aspects. (Lectures:
+2)
+Text Books
+1. Fuels and Fuel Technology, F. Peter, A. Wheatan & Co. Ltd., First Edition, 1965.
+2. Fuels and Combustion, S. Sarkar, Orient Longman, Second Edition, 1990.
+3. Hydrogen and Syngas Production and Purification Technologies, Ke Liu, C. Song, and
+V. Subramani, John Wiley & Sons, 2010.
+4. The Chemistry and Technology of Coal, J. G. Speight, CRC Press, 2013.
+Online course Material
+34
+Title Transmission Infrastructure Number EE7XX0
+Departmen
+t
+Electrical Engineering L-T-P
+[C]
+3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisit
+e
+Smart Grid
+Objectives
+The Instructor will:
+1. Provide knowledge related to infrastructure in various modes of power transmission
+such as underground, marine, and overhead.
+2. Provide knowledge related to design, installation, and maintenance of the transmission
+infrastructure.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Select appropriate transmission infrastructure needed for transmission of electric
+power based on various factors.
+2. Design, install, and maintain power transmission infrastructure.
+Contents
+Overhead transmission lines: Overhead line routing, aerial survey, ground survey,
+overhead line foundations, soil investigation, foundation types, foundation design,
+support structures, steel lattice towers, tower testing, overhead line fittings, suspension
+clamps, sag adjusters, bi-metal connectors, conductor loads, lightning, surge diverters,
+insulator arcing horn co-ordination, aerodynamic phenomena, transmission voltage level
+clearances, wooden poles, distribution voltage clearances, overhead line maintenance,
+environmental considerations (18 lectures)
+Underground cables: Types of cable, insulation and conductor materials, air cable
+ampacity, underground cable ampacity, short circuit and its effect, thermal &
+electromechanical stresses, cable termination and joints, pulling the cable, installing
+cable racks, conduits, cable supports, cable tray and trenches, cable testing, steps for
+fault location, fault location methods (12 lectures)
+Marine cables: Introduction, marine survey, cable routing, cable system design
+parameters, cable design parameters, cable accessories, cable installation, cable
+materials & accessories, cable joints and terminations, inspections and testing,
+maintenance and failure investigation (12 lectures)
+Textbook
+1. Kiessling,F., Nefzger,P., Nolasco,J.F., Kaintzyk,U., (2003), Overhead Power Lines
+Planning Design Construction, 4th Edition, Springer
+2. Ganguli,S.K., Kohli,V., (2016), Power Cable Technology, CRC Press
+3. Worzyk,T., (2009), Submarine Power Cables Design, Installation, Repair,
+Environmental Aspects, Springer
+4. Bayliss,C., Hardy,B., (2012), Transmission and Distribution Electrical Engineering,
+4th Edition, Newnes publications
+Self Learning Material
+35
+Detailed Course Content of M. Tech Elective Courses (ME)
+Title Power System Protection Number EE7XX0
+Department Electrical Engineering L-T-P
+[C]
+3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+The Instructor will provide knowledge of:
+1. Various protection schemes and their applications in power industry
+2. Relay coordination, instrument transformers
+3. Numerical protection schemes based on signal processing techniques
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design/propose protection schemes for various power system components based on
+digital signal processing
+2. Design relay coordination systems in distribution and transmission
+Contents
+Overview of Power System Protection: Architecture of protection system, evolution of
+relays, zones of protections, concept of primary and back-up protection (2 lectures)
+Overcurrent Protection: Principles of fuse and overcurrent protection and application to
+feeder and motor protection, relay coordination in distribution system (6 lectures)
+Distance Protection: Principles of distance relaying (2 lectures) and application to
+transmission system protection, relay coordination (5 lectures)
+Differential Protection: Principles of differential protection (2 lectures) and application to
+transformer, bus bar and generator armature winding protection (5 lectures)
+Introduction to Digital Relaying: Sampling, concept of moving window, signal
+conditioning, signal processing (4 lectures)
+Instrument Transformer: Current and voltage transformers in power system protection
+(6 lectures)
+Circuit breakers: Arc initiation and quenching, oil circuit breakers, air blast circuit
+breakers vacuum circuit breakers, SF6 circuit breakers (5 lectures), current chopping,
+reverse recovery voltage (3 lectures)
+Lightning arresters: Principle of operation and types (2 lectures)
+Textbook
+1. Singh, L.P., (2017), Digital Protection: Protective Relaying from Electromechanical to
+Microprocessor, 2nd Edition, New Age International Publications
+2. Ram,B., Vishwakarma,D.N., (2017), Power System Protection and Switchgear, 2nd
+Edition, Tata McGraw Hill Publications.
+3. Phadke,A.G., Thorp,J.S., (2009), Computer relaying for Power System, 2nd Edition,
+John Wiley & Sons Ltd. Publications
+Self Learning Material
+1. Soman,S.A., Power System Protection, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Bombay,
+https://nptel.ac.in/courses/108/101/108101039/
+36
+Title Cyber-Physical Security in Smart Grid Number EE7XX0
+Department Electrical Engineering L-T-P
+[C]
+3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide exposure to the various layers of smart grid architecture and security issues related
+to vital components of smart grid
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand various cyber layers of smart grid and the threats to the physical components,
+and design a secure system
+Contents
+Introduction: Physical components of a grid, communication in smart grid, self-
+monitoring, self-healing, vulnerabilities of smart grid, cyber-physical security (5 lectures)
+Security Architecture of Smart Grids: Security architecture of smart Grid and its layers,
+typical SCADA network levels, conceptual control system with layering, robust and
+resilient control, secure network routing, management of information security, user
+patching (6 lectures)
+Advanced Metering Infrastructure and Security Issues: Smart meters, customer gateway,
+AMI communication network, AMI head-end, AMI security threats, interactions, malicious
+code planted in the system, denial of service, insider attacks, unauthorized access (4
+lectures)
+SCADA System Security: Introduction to SCADA, Security Issues in SCADA, Public
+Information Availability, Platform Vulnerabilities, Network Configuration Vulnerabilities,
+Network Perimeter Vulnerabilities, DNP3 Threats (5 lectures)
+Plug-in Electric Vehicle (PEV) Security Issues: Introduction to PEV Security, Privacy of
+movement, Secure payment, Critical Infrastructure and Physical Security, Communication
+issues in PEVs (4 lectures)
+Smart Grid Domain Security: IEEE standards for smart grid security, IEEE 802.11, IEEE
+802.15.4, IEEE 802.16, Bluetooth and BLE/BT5.0, ZigBee, Z-Wave, Gateway Component,
+FMEA, STAMP, HAZOP, Smart Grid Information Security (SGIS), SGIS Risk Impact Level
+(SGIS-RIL) (6 lectures)
+Blockchain for Smart Grid: Blockchain: Smart contract, applications of blockchain
+technology to energy; Energy trading: Transition towards blockchain-based electricity
+trading market, Internet of Energy (IoE); Distributed Energy Resources: Decentralized
+operation of interdependent power and energy networks based on Blockchain and security,
+Electric vehicles: Blockchain for decentralized optimization of energy sources: EV charging
+coordination via blockchain-based charging power quota trading, Microgrid: microgrid
+monitoring and control using blockchain. (12 lectures)
+Textbook
+1. Hossain,E., Han,Z., Poor,H.V., (2012), Smart Grid Communications and Networking,
+Cambridge University Press
+2. Berger,L.T., Iniewski,K., (2012), Smart Grid Applications, Communications, and Security,
+John Wiley and Sons Publications
+3. Shafie-khan,M., (2020), Blockchain-based Smart Grids, Academic Press
+Self Learning Material
+37
+Title Energy Harvesting Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide the student with an extended knowledge of the basic principles and recent
+advances in Energy harvesting technologies for low-power applications including
+self-powered or autonomous systems.
+2. Provide the students with the role of materials in energy harvesting technologies
+with a focus on miniaturized and microfabricated devices.
+Learning Outcomes
+The students will:
+1. Develop an understanding of basic principle, concept, working mechanism and
+applications of various energy harvesting devices.
+2. Develop an understanding to design new energy harvesting systems.
+Contents
+Micro Photovoltaic Module Energy Harvesting: p-n Junction and Crystalline Si Solar Cells,
+Amorphous Silicon Solar Cell, CIGS and CdTe Solar Cell Development, Polymer Solar Cell,
+Dye-Sensitized Solar Cells (DSSC), Perovskite Solar Cells, Monolithically Integration of
+Solar Cells with IC, Low-Power Micro Photovoltaic Systems, Maximum Power Point
+Tracking (Lectures : 14)
+Mechanical Energy Harvesting: Energy Harvesting from Macro to Micro to Nano,
+Piezoelectric MEMS Energy Harvesters, Nano-Piezoelectric Generator, Piezoelectric
+Cantilever Generator, Piezoelectric Transducers. New-generation Triboelectric
+Nanogenerators. (Lectures: 8)
+Thermal Energy Harvesting: Overview of Nanoscale Heat Conduction and the Seebeck
+Effect, Thermoelectric energy harvesting and Power Generation, Thermoelectric figures
+of merit, Novel nanostructured Thermoelectric materials and devices, Thermal energy
+harvesting using pyroelectric materials, Thermodynamic cycles for Pyroelectric energy
+harvesting, Nanostructured and micro-scale materials and devices. (Lectures: 14)
+Textbook
+1. Briand, D., Yeatman, E., Roundy, S., Micro Energy Harvesting Wiley, 2015.
+2. Shashank, P., Inman, D. J., Energy Harvesting Technologies, Springer, 2009.
+Self-Learning Material
+1. Elvin, N., Erturk, A., Advances in Energy Harvesting Methods, Springer, 2013.
+2. Jaffe, R., and Taylor, W., Physics of Energy, MIT open course,
+https://ocw.mit.edu/courses/physics/8-21-the-physics-of-energy-fall-2009/
+3.
+Preparatory Course Material
+4. Pal, K., Selection of Nanomaterials for Energy harvesting and Energy Storage
+Applications, https://nptel.ac.in/courses/112107283/
+38
+Title Ocean Thermal Energy Conversion Process Number CH7XX0
+Department Chemical Engineering L-T-P [C] 1-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite Thermodynamics
+Objectives
+The Instructor will:
+1. Provide understanding of Ocean Thermal Energy Conversion (OTEC) cycles, hybrid
+OTEC systems.
+Learning Outcomes
+The students are expected to have the:
+1. Proper knowledge about Ocean Thermal Energy Conversion (OTEC) cycles and hybrid
+OTEC technologies.
+2. Ability to understand OTEC process design challenges.
+vi Contents
+Ocean as a Heat Engine: Concepts of ocean thermal energy, Favourable temperature
+difference, OTEC history. (2 lectures)
+OTEC Cycles: Closed OTEC cycles, Open OTEC cycle, Flow diagrams, Comparison of OTEC
+Cycles, Products of OTEC: electricity, desalinated water, cold water for air-conditioning
+etc., Hybrid OTEC systems. (6 lectures)
+OTEC Process Design: System components, Heat exchangers, evaporators, Pumps,
+Turbines, Piping. (6 lectures)
+Textbook
+1. Takahashi, Patrick and Trenka, Andrew, (1996) Ocean Thermal Energy Conversion, Ist
+ed., Wiley.
+Reference Books
+1. Lockerby,R.W., (1981) Ocean Thermal Energy Conversion (OTEC), US Department of
+Energy, United States.
+39
+Title Optics for Solar Energy Applications Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+The students will gain
+1. Knowledge to understand the issues related to optics in solar thermal applications.
+2. Knowledge in designing and analyzing optics for imaging and non-imaging optics.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Show a basic familiarity with the Concentrated Solar Power (CSP) plants.
+2. To design as individual optical concentrators and Optical Field Design.
+Contents
+Basics of Maxwell equation: Review of Electromagnetic theory ( 2 Lectures)
+Wave Optics: Polarization (Brewster Angle) and Fresnel Coefficients, Interference,
+Diffraction and Fermat Principle in Optics (5 Lectures)
+Ray Optics: Optical Momentum, The Eikonal Equation , The Ray Equation, Point Spread
+Function (PSF), Optical Transfer Function (OTF) (6 Lectures)
+Design of Two-Dimensional Concentrators: Thin lens formula, Concentrators for Sources at
+a Finite Distance and Tubular Receivers. (6 Lectures)
+Radiation and Detectors: Black-body Radiation, Radiometry, Photometry, and Radiation
+Heat Transfer, Radiation detectors: Spectrometer, Power meter and Flux meter ( 7
+Lectures)
+Sun-earth geometry: Derivation of incidence angles and tracking algorithms for the
+principal solar tracking modes and Derivation of projected incidence angles for stationary
+concentrators ( 3 Lectures)
+Design of Nonimaging Optics: Imaging Properties of the Design Method Nonimaging
+Applications, Conservation of Étendue, The Winston–Welford Design Method, Tailored Edge
+Ray Concentrators Designed for Maximum, Concentration , Tailored Edge, Ray
+Concentrators Designed for Lower Concentration , Fresnel Primaries and Applications of
+Nonimaging Concentrators. (7 Lectures)
+Applications to Solar Energy Concentration high concentration: Design of Solar thermal
+fields, Design of Heliostat field, Parabolic Trough(PT), Linear Fresnel Reflector (LFR) and
+Design of Compound Parabolic Collectors (CPC), Ray Tracing Technique for Field Design ( 6
+Lectures)
+Textbook
+1. Welford W. T and Winston, R., High Collection Non-Imaging Optics, Academic Press 1989.
+2. Hecht, E., Optics, 4th Ed., Pearson Education 2002.
+Reference book
+1. Born, M and Wolf, E., Principles of Optics, 7th Ed., Cambridge 1999.
+2. Pedrotti, F. L., Pedrotti, L.M and Pedrotti, S. L., Introduction to Optics, 3 rd Ed., Pearson
+2008.
+3. Donald C. O’Shea: Elements of Modern Optical Design. John Wiley & Sons, 1985
+4. Julio Chaves: Introduction to Nonimaging Optics. CRC Press, 2008.
+Self-Learning Material
+Preparatory Course Material
+40
+Title Theory of Vibrations Number MEL7XX0
+Department Civil Engineering L-T-P-Th [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D., Ph.D. Type ME
+Prerequisite Basic knowledge of mechanical
+vibrations
+Objectives
+The Instructor will:
+1. Provide the approach adopted for analyzing the structural dynamic characteristics and
+dynamic response of uniform and non-uniform structural elements, like beams.
+2. The approach is applicable for structural dynamic analysis of any structure.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyze the vibration characteristics of non-uniform beams.
+2. Thorough understanding of approximate methods used in the structural dynamic
+analysis.
+Contents
+Introduction: Discrete and continuous systems, SDOF, Types of Damping, Frequency
+response, Time response, Beating phenomenon, Response to impulse loading, Convolution
+integral, Numerical integration, Newmark-β method, Wilson-θ method [Lectures 9].
+Rayleigh’s Method: Approximate evaluation of natural frequency, improved Rayleigh’s
+method [Lectures 4].
+Stiffness and flexibility influence coefficients, finite element stiffness of beam elements, Static
+condensation [Lectures 5].
+Hamilton’s principle, Lagrange’s equations [Lectures 3].
+Linear conservative natural systems: Symmetric eigenvalue problem, Modal analysis,
+Systems with proportional damping, structural damping (complex stiffness) [Lectures 4].
+Continuous parameter systems: Longitudinal vibration of bars, bending vibration of
+beams, torsion vibration [Lectures 4].
+Differential Eigenvalue Problem: Admissible function, Comparison function, Eigen
+function [Lectures 2].
+Positive definite system, self adjoint property [Lectures 2].
+Natural modes of vibration: Mode shapes and natural frequencies [Lectures 2].
+Approximate methods: Transfer Matrix method, Rayleigh’s quotient, Rayleigh-Ritz method,
+Galerkin method [Lectures 5].
+Response to excitation: Mode summation, Mode acceleration [Lectures 2].
+Reference Books
+1. Meirovitch, L., Principles and Techniques of Vibrations, 3rd Edition, Prentice Hall
+2. Meirovitch, L., Analytical Methods in Vibration Analysis, Macmillan
+3. Clough, R.W., and Penzien, J., Dynamics of Structures, McGraw Hill
+Online course Material
+https://nptel.ac.in/courses/105101006/
+41
+Title Offshore Geo-technology Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3–0–0 [3]
+Offered for B.Tech., M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+1. To familiarize students with the dynamics of offshore environment.
+2. To introduce methods of soil and site investigation.
+3. To introduce designs, types, and analyses of piled foundation, shallow foundation, and
+anchoring systems.
+4. To introduce specific consideration of soil structure interaction of on-bottom and pipelines
+and risers.
+5. To provide overview of geo-hazards.
+Learning outcomes:
+1. Detailed knowledge of geophysical, geotechnical investigation, laboratory test and use
+of centrifuge modelling.
+2. Understanding of soil response under static and dynamic loads.
+3. Knowledge of the analysis and design of shallow foundation, piled foundation, anchoring
+system and on-bottom pipelines and risers.
+4. Understanding of marine slope failure and slides.
+Contents:
+Offshore environment: Marine geology, Plate tectonics, Continental self, Marine-
+sediments, Geotechnical characteristics, Ocean wind and waves, currents, wave theories,
+hydrodynamic forces (Lectures 7).
+Offshore site and soil investigation: Geophysical and Geotechnical investigations; Soil
+classifications and tests- undrained tri-axial compression test, undrained strength; cyclic
+loading test, failure under cyclic loading, Centrifuge modelling [Lectures 7].
+Offshore foundations: Shallow and deep foundations and their applications, Design of
+offshore foundations as per API and DNV codes, Pile drivability and dynamic monitoring,
+Capacity of driven piles, Installation piled and shallow foundations in fine grained and
+permeable sediments, Stability of shallow foundations, Dynamic analysis of vertical and
+inclined pile foundations, Impedance function of piles and frequency domain analysis
+[lectures 10].
+Anchoring systems: Buoyant platforms and mooring systems, Mooring line analysis and
+forces on anchors, Types of anchors and their design; API and DNV code provisions for
+anchor design, Dynamic effects on anchor and uplift of anchors, Dynamically penetrating
+anchors [Lectures 7].
+Pipeline and riser geotechnics: Geotechnical inputs to pipeline design; Design issues and
+code provisions; Soil structure interaction for on-bottom pipelines and risers, Secondary
+stabilization [Lecture 6]
+Offshore geo-hazard: Types of marine geo-hazard and their identification, Submarine
+slope failures and slides, probabilistic hazard analysis [Lectures 5].
+Text Books:
+1. Mark Randolph, Susan Gourvenec (2011). Offshore Geotechnical Engineering. Spon
+Press (Taylor & Francis), ISBN13: 978-0-415-47744-4(hbk).
+2. Paolo Boccotti (2000). Wave Mechanics for Ocean Engineering (1st Ed), Elsevier
+Science. ISBN: 9780080543727 (eBook)
+42
+Title Rock Mechanics and Rock
+Engineering
+Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+1. To understand fundamentals of stress-train behavior of isotropic and anisotropic
+rocks under different conditions
+2. To understand limits of rock strength and analysis of rock failure conditions
+3. To understand the influence anisotropy under at different scales
+4. Introduction of use of rock mechanics in tunneling, mining engineering, and reservoir
+geomechanics
+Learning outcomes
+1. Knowledge of geological and engineering classification of rocks.
+2. Detailed knowledge of failure criteria and influence of ambient conditions
+3. Knowledge of laboratory- and field-based stress measurement techniques
+4. Understanding of isotropic and anisotropic rock deformation
+5. Knowledge of tunneling in isotropic and anisotropic rocks
+6. Knowledge of natural and artificial support system in underground excavations
+7. Knowledge of wellbore stability and hydraulic fracturing
+Contents
+Classification and index properties of rocks: Geological classification of rocks; Index
+properties of rocks; Porosity; Density; Hydraulic conductivity and permeability; Strength;
+Slaking and durability; Sonic velocity; Classification of rock masses [Lectures 4].
+Rock strength and failure criteria: Modes of failure; Laboratory strength tests; Stress-
+strain behaviors in compression; Application of complete stress-strain curve; The Mohr-
+Coulomb failure criterion; Hoek-Brown failure criterion; Effect of size, water, and anisotropy
+on strength [Lectures 6].
+Initial stresses in rocks and their measurement: Estimating the initial stresses;
+Techniques for measurement of in-situ stresses; Determination of SHmin from leak-off tests;
+Wellbore failure and the magnitude of SHmax; Drilling-induced tensile fracture and magnitude
+of SHmax; Estimation of rock strength from breakouts [Lectures 5].
+Planes of weakness in rocks: Joint orientation; Joint roughness; Relationship between
+displacement and strength; Effect of water pressure [Lectures 5].
+Deformability of rocks: Elastic and non-elastic behavior; Measurement of deformability
+properties by static tests; Measurement of deformability properties by dynamic
+measurement; Fractured rock; Influence of time on rock deformation [Lectures 6].
+Rock mechanics for tunneling: Opening in competent rocks; Horizontally layered rocks;
+Rock with inclined layers; Plastic behavior around tunnels; Time dependent behavior of
+tunnels [Lectures 5].
+Rock mechanics for mining engineering: Natural support: Pillar design approach, Pillar
+strength equation, Model of pillar failure, Pillar stabilization; Artificial support: Rock support
+interaction analysis, Classification, Primary reinforcement, Secondary support system; Rock
+blasting process, control, and optimization [Lectures 5].
+Rock mechanics for hydrocarbon reservoir: Tectonic stress field; Pore pressure
+measurement; Mechanical properties and stress data from laboratory analysis and field
+data; Concepts of critically stressed crust; Basics of hydraulic fracturing; Wellbore stability
+[Lectures 6].
+Text Books
+43
+1. Richard E. Goodman (1989) Introduction to Rock Mechanics (2nd Ed). Wiley. ISBN-
+10: 0471812005.
+2. Mark D. Zoback. (2007) Reservoir Geomechncs. Cambridge University Press. ISBN-
+978-0-521-77069-9.
+3. Debasis Deb, Abhiram Kumar Verma (2016) Fundamentals and Applications of Rock
+Mechanics. PHI Learning Pvt. Ltd. ISBN-978-81-203-5182-0.
+Online course Material
+1. V. B. Maji. Rock Mechanics – Web course. https://nptel.ac.in/courses/105106055/
+44
+Title Stability of slopes Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives:
+1. To understand the influence of geology, rockmass properties, and hydrology on the
+stability of slopes.
+2. To present basic types of analytical and numerical methods of slope stability analysis.
+3. To introduce methods and instruments of slope monitoring and stabilization.
+4. To enable planning and design of preventive measures, and redesign of failed slopes.
+Learning outcomes:
+1. Knowledge of data collection from field-work, aerial photography, geophysics, and
+geological map.
+2. Knowledge of kinematic analysis of slopes using geological data and stereographic
+projection.
+3. Knowledge of kinetic analysis of slopes and influence of critical geometrical and
+hydrological parameters.
+4. Knowledge of available methods of slope stabilization by reinforcements and rock
+removal.
+5. Knowledge of instrumental facilities to monitor slope movement and subsequent
+classification.
+Course content:
+Structural geology for slope analysis: Geological structures; Orientation of
+discontinuities; Introduction to geological maps; Identification of modes of slope instability
+[Lecture: 4]
+Site investigation and geological data collection: Site reconnaissance; Geological
+mapping; Spacing, persistence, and roughness of discontinuities; Probabilistic analysis of
+structural geology; Drilling and logging. [Lecture: 4]
+Rock strength properties: Scale effect and rock strength; Shear strength of discontinuities;
+Laboratory testing of discontinuities; Hoek-Brown strength criterion for fractured rock mass;
+Rock durability and compressive strength [Lecture: 4]
+Plane failure: Conditions of plane failure; Influence of groundwater on stability; Critical
+tension crack: identification and influence; Influence of critical slide plane inclination; Analysis
+of failure on a rough plane; Reinforcement of a slope; Seismic analysis of slopes [Lecture: 5]
+Wedge failure: Conditions of wedge failure; Wedge analysis including cohesion, friction, and
+water pressure; Wedge stability chart for friction; Compression wedge analysis [Lecture: 5]
+Circular failure: Conditions of circular failure; Methods of analysis; Derivation and use of
+circular failure charts; Location of critical slide surface and tension crack; Bishop’s and Janbu’s
+method of failure analysis. [Lecture: 6]
+Toppling failure: Types of toppling failure; Kinematic analysis of block toppling failure; Limit
+equilibrium analysis of toppling [Lecture: 5]
+Stabilization of slopes: Stablization programs: Rock slope Inventory, Hazard rating
+analysis; Stabilization by rock reinforcements; Stabilization by rock removal; Measures
+against rock fall [Lecture: 5]
+Movement monitoring: Types of slope movement: Initial response, Regressive and
+progressive movements, Long-term creep; Surface monitoring methods; Data interpretation
+[Lecture: 4]
+Suggested Textbooks:
+1. Duncan C Wyllie, Christopher W. Mah (2005) Rock Slope Engineering, 4th Ed, Spon
+Press (Taylor & Francis Group), ISBN 0–415–28001–X (pbk).
+2. Robin Chowdhury, Phil Flentje, Gautam Bhattacharya (2010) Geotechnical Slope
+Analysis. CRC Press (Taylor & Francis Group), ISBN: 978-0-415-46974-6 (Hbk).
+45
+Title Wind and Earthquake Engineering Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B.Tech, M.Tech, M.Tech.-Ph.D., Ph.D. Type ME
+Prerequisite
+Objectives
+1. To acquaint the students with the fundamental knowledge of wind and earthquake
+engineering to pursue higher level courses/research on the wind and earthquake
+engineering
+2. To provide the requisite information on the above two subjects to the students to work
+in design offices.
+3. To impart the back ground materials for pursuing some courses offered in the fields of
+specialization (cores).
+Learning Outcomes
+1. Enable the students to apply the knowledge gained in solving practical problems.
+2. Enable the students to analyze the collected wind and earthquake data for providing
+systematic inputs to be used in practice.
+3. To make the students capable of using the knowledge gained for wind and earthquake
+hazard mapping.
+Contents
+Atmospheric wind circulation, its mechanism, types of wind, wind measurements, wind
+characteristic, different ways to express wind energy, inputs required for the analysis of
+structures, aero dynamic and aero-elastic effects, aero elastic instabilities-flutter, galloping,
+torsional divergence, dynamics in the wind codes [lectures 20].
+Inside of the earth and tectonic plate movement, major tectonic plates, fault lines, tectonic
+theory of the occurrence of the earthquake, earthquake hazards, earthquake input for
+structural analysis, concept of the response spectrum, deterministic seismic analysis of
+structures, salient features of earthquake code [lectures 20].
+Text Books
+1. Ghosh S K and Fanella D A, Seismic and Wind Design of Concrete Buildings,
+International Code Council-New York (2004).
+2. Taranath B S, Wind and Earthquake Resistant Buildings: Structural Analysis and
+Design, Marcel Dekker, New York (2004).
+Others:
+1. Datta T K, Seismic Analysis of Structures, John Wiley & Sons, New York (2010).
+2. IS 1893-Part-I, Criteria for Earthquake Resistant Design of Structures: General
+Provisions and Buildings, Bureau of Indian Standards, New Delhi (2016).
+46
+Title Process safety and Hazards Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+Objective
+The Instructor will:
+1. Provide comprehensive knowledge of safety regulations and their practices,
+chemical plant hazards and their control, risk assessment and management
+principles and techniques and accident analysis.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Identify and distinguish typical sources of risk and hazard in a process plant,
+undertake hazard and operability (HAZOP) study.
+Contents
+Safety in Industries: Concepts and definition, storage of dangerous materials, Plant
+layout Safety systems, Occupational Safety and Health Administration (OSHA) incidence
+rate, Fatal accident rate (FAR), Measures to take during accidents, Toxicology (10
+lectures)
+Industrial Hygiene: Government regulations, Industrial hygiene and safety aspects
+related to toxicity, noise, pressure, temperature, vibrations, radiation etc, Evaluation
+Methods, Evaluating workers Exposures to dusts, noise. (8 lectures)
+Selection Mechanism: Technology and process selection, Scale of disaster, Fire
+triangle Ignition, Confined and unconfined explosion, Vapors cloud explosions, Boiling
+liquid expanding vapor explosion (BLEVE), Dust explosion, shock wave, Flammability
+characteristics of liquids and vapors, Minimum oxygen concentration (MOC) and
+Inerting. (8 lectures)
+Handling Chemicals and toxicity: Control of toxic chemicals, Storage and handling
+of flammable and toxic chemical, Runway reactions, Relief system risk and hazards
+management, Design to prevent Fires and Explosions, Miscellaneous Design for
+preventing Fires and Explosion. (8 lectures)
+Hazards Identification: checklists, Surveys, Hazard and Operability Studies (HAZOP),
+Safety reviews. Risk Assessment, Hazard models and risk data. Tackling disasters, plan
+for emergency. Risk management routines, Emergency shutdown systems, Role of
+computers in safety, Prevention of hazard human element, Technology and process
+selection. (8 lectures)
+Text Books
+1. Daniel A. Crowl and Joseph F. Louvar, 1990, Chemical Process Safety:
+Fundamentals with applications, Prentice Hall, Inc.
+2. Lee, F.P., 1983, Loss prevention in the process Industries, Volume 1 and 2
+Butterworth.
+3. Hoboken, N. J., 2000, Guidelines for Chemical Process Quantitative Risk Analysis,
+Wiley-Interscience.
+Reference Books
+1. R. W. King and J. Magid, Industrial Hazards and Safety Handbook, Butterworth,
+1982.
+2. G. L. Wells, Safety in Process Plant Design, John Wiley and Sons Inc., 1980.
+3. Fawcett, H.H. and W.S. Wood, Safety and Accident Prevention in Chemical
+Operations, 2nd Edition, Wiley-Interscience, New York, 1982.
+47
+Title Advanced Energy Systems Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide comprehensive knowledge about conventional and several advanced energy
+production technology.
+Learning Outcomes
+The students are expected to have:
+1. Good knowledge about different energy production systems.
+Contents
+● Introduction: Latest topics on energy, Energy fuels for power generation,
+conventional power generation technology. [6 lectures]
+● Emerging clean energy systems: Integrated Gasification combined cycle (IGCC),
+Pressurized fluidised bed combustion (PFBC, AFBC). [6 lectures]
+● Heavy fuel based power generation. [3 lectures]
+● Advanced combustion systems. [4 lectures]
+● Understanding Natural gas cycles. [4 lectures]
+● Energy conservation in power plants. [4 lectures]
+● Geological CO2 sequestering. [3 lectures]
+● Natural gas cycles. [4 lectures]
+● Materials-based Solutions to advanced Energy systems: role of advanced material,
+general devices and process approaches, key materials for advanced energy
+systems, structural material. [8 lectures]
+Textbook
+1. Khartekenko, N., Khartekenko, V., 2010, Advanced Energy Systems, Taylor &
+Francies, Second Edition.
+Reference Books
+1. Colin Tong, 2019, Introduction to Materials for Advanced Energy Systems, Springer.
+2. I. Dincer and C. Zamfirescu, 2011, Sustainable Energy Systems and Applications,
+Springer.
+48
+Title Microfluidic Fuel Cells Number CH7XX0
+Department Chemical Engineering L-T-P [C] 1-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide in-depth knowledge about the fundamentals of microfluidics devices as fuel
+cells.
+Learning Outcomes
+The students are expected to have:
+1. Detailed understanding of Microfluidic fuel cell.
+Contents
+Microfluidic cells: Introduction, concept, classification, and challenges, categories,
+Thermodynamic and kinetic of microfluidic fuel cells, electrochemical principles and
+transport. [7 lectures]
+Designs: Microfabrication techniques, 2D, 3D electrodes in microfluidic fuel cells,
+performance evolution. [3 lectures]
+Microfluidics devises: co-laminar streaming, fuel cells with biocatalysts, gas diffusion
+electrodes, microfluidics redox batteries, cell arrays and Stacks. [4 lectures]
+Textbook
+1. Erik Kjeang, 2014, Microfluidic Fuel Cells and Batteries, Springer.
+Reference Books
+Research Articles from different journals.
+49
+Title Air Pollution and Control Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+1. To gain understanding of basic concept of air pollution, its sources and effects on human
+health and climate.
+2. To introduce concepts of aerosol dynamics used in ambient sampling, designing
+measurement technologies and air quality modeling.
+3. To develop understanding of the concepts and strategies for control of particulate matter
+and gas-phase pollutants.
+4. To provide knowledge of current state of the atmosphere and introduce fundamentals of
+pollutant transport and dispersion, and modeling.
+Learning Outcomes
+The students are expected to achieve proficiency in:
+1. Developing a broad overview of local-to-global scale pollution issues and their specific
+impact on human health and environment.
+2. Solving problems related to dispersion and air quality modeling
+3. Understanding the source level air pollution issues and identify the right control
+techniques/measures to meet the desired standard levels.
+4. Computing the performance of various unit operations and processes used in the air
+treatment.
+Contents
+Introduction to air pollution: Historical events [Meuse River Valley 1930, Donora
+Pennsylvania 1948, London Smog 1952, Bhopal Gas Tragedy 1984, and related Concepts],
+Scales of air pollution, Sources and classification [CAPs and HAPs] of air pollutants, Air quality
+and standards, Emission Inventory, The Earth’s atmosphere: Structure and Composition, and
+energy balance [Lectures 6].
+Aerosol Physics: Fundamentals: Source, Size and Size distribution, Gas and Particle motion:
+Brownian motion, Diffusion, Inertia, External force field, Aerosol dynamics: coagulation,
+condensation, nucleation, particle measurements and Sampling techniques [Lectures 10].
+Emissions Control devices: Removal of particles from gas stream: Settling chambers,
+Cyclone separators, electrostatic precipitation, filtration, wet collectors, collection efficiency;
+Removal of gases from effluents stream: Absorption by liquids, adsorption on solids,
+Examples: SO2 and NOx removal [Lectures 8].
+Meteorology: Atmospheric meteorology, Wind velocity profile and Wind rose, turbulence,
+inversion layer and mixing depth and Atmospheric Stability [Lectures 6].
+Dispersion of air pollutants and Air Quality modeling: Dispersion models, Gaussian
+dispersion model: assumptions, dispersion parameters and effective stack height, plume rise
+and plume behavior, Receptor models [Lectures 6].
+Effects of Air Pollution on Climate and Human health: Tropospheric Ozone chemistry,
+Photochemical Smog, Acid Rain, Visibility, Indoor Air Pollution, Dose Response and Health
+effects [Lectures 6].
+Text Books
+1. Atmospheric Chemistry and Physics- From Air Pollution to Climate Change, J. H. Seinfeld
+and S. N. Pandis, John Wiley and Sons, Inc., Third Edition, 2013.
+2. Aerosol Technology-Properties, Behavior and Measurement of Airborne Particles, W. C.
+Hinds, John Wiley and Sons, Inc., Second Edition, 1998.
+3. Introduction to Air Pollution Science, R. F. Phalen and R. N. Phalen, Jones & Bartlett
+Learning, LLC, Burlington, MA, 2013.
+4. Aerosol Measurement: Principles, Techniques and Applications, edited by K. Willeke, P.
+Baron, Van Nostrand Reinhold, 1993.
+Online course Material
+https://nptel.ac.in/courses/105104099/
+50
+Title Solid Waste Management Number MEL7XX0
+Department Mechanical Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+1. To enable understanding of life cycle of waste generation to disposal or sustainable re-
+use
+2. To inculcate basic steps of solid waste management
+3. To enable selection of best possible location specific solid waste management options
+Learning outcomes
+1. Conceptually design waste conversion/treatment processes
+2. Able to assess the environmental and the economic impact of specific types of solid waste
+generated and its reuse
+3. Enabled to develop innovative and smarter solutions of solid waste management at rural
+and urban environs
+Contents
+Solid waste type and Classification, Quantity, Types of Waste Stream and its life cycle
+Waste Generation- Industrial, Municipal and Agriculture, 4R strategies and Social costs
+[Lectures 4].
+Collection and Transport: Collection Components, their Reliability, Scavengers, Automated
+Waste Collection, Design for Larger Transfer Operations, Automated Control, Inventory and
+Monitoring [Lectures 5].
+Separation and Processing Techniques: Separation and Screening Equipment,
+Automated Sorters, Solid Waste Processing, Recovering, E-Waste, Size Reduction,
+Incineration and pyrolysis [Lectures 6].
+Options for Disposal, Selection Criteria, Sanitary Landfill, Properties of Gases from
+Landfills, Hazards and Air Pollution, , Leachate Control and Management [Lectures 5].
+Composting: Benefits of Composting, Biological Processes Involved in Composting Chemical
+Processes, Physical Processes, Thermodynamics of Compositing, Gasifying, Refuse-derived
+fuel [Lectures 8].
+Microbiology: Biological decomposition, Microbiology of composting, Municipal solid waste
+Pathogens, enteric microbes in landfills and leachate, Pure culture, Mixed culture screening
+tests [Lectures 6].
+Reuse and Recycle: Reuse, Increased Product Lifetime, Material Life Cycle Studies,
+Recycling, New Materials-Self Destructing/Organic, MSW Handling Rules, Public Aptitude, and
+Legislation [Lectures 6].
+Text Books
+1. George Tchobanoglous, Hilary Theisen, Samuel Vigil, Integrated Solid Waste
+Management: Engineering Principles and Management Issues, McGraw-Hill Series in
+Water Resources and Environmental Engineering, ISBN-10: 0070632375, ISBN-13:
+978-0070632370
+2. Kanti L. Shah, Basics of Solid and Hazardous Waste Management Technology, Prentice
+Hall, ISBN-10: 0139603786, ISBN-13: 978-0139603785
+3. Ni-Bin Chang, Ana Pires, Sustainable Solid Waste Management: A Systems
+Engineering Approach, Wiley-IEEE Press; 1 edition (March 16, 2015), ISBN-10:
+1118456912, ISBN-13: 978-1118456910
+References Books
+1. Edward A. McBean, Frank A. Rovers, Grahame J. Farquhar, Solid Waste Landfill
+Engineering and Design, Prentice Hall; ISBN-10: 0130791873, ISBN-13: 978-
+0130791870
+2. Christian Ludwig, Stefanie Hellweg, Municipal Solid Waste Management , Springer
+2003, London, ISBN 978-3-642-62898-6.
+3. Roger Tim Haug, Composting Engineering: Principles and Practice, Ann Arbor Science,
+MI, ISBN-0-250-40347-1
+51
+Online Resources
+T V Ramachandra Municipal Soild Waste Management, IISc Bangalore
+https://nptel.ac.in/courses/120108005/
+Solid and Hazardous Waste Management,IITM, https://nptel.ac.in/courses/105106056/
+52
+Title Remote Sensing and GIS for
+Environment Management
+Number MEL7XX0
+Department Mechanical Engineering L-T-P-D [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+1. To introduce you to the basic principles of observing the Earth’s geography and concepts
+of remote sensing
+2. To explore its applications specific to the environment and natural resource management.
+Learning Outcomes
+1. Identify and obtain appropriate satellite imagery for a land surface based resource
+management, service infrastructure and real world application
+2. Demonstrate proficiency in the common ( open source: QGIS/ Google Earth Engine,
+ERDAS Imagine, ENVI) and advanced (ARCGIS, Ecognition, QT modeler) remote sensing
+software packages
+3. Conduct basic to intermediate remote sensing analyses (atmospheric and geographic
+corrections, spectral transformations and enhancements, classification, modelling and
+change detection)
+Contents
+In-situ field observation; data collection; Photographic and Remote Sensing data
+collection, Spectral spatial and temporal aspects, analog and digital processing introduction
+and sensing economics [Lectures 4]
+Electromagnetics: conduction, convection and radiation; radiation and its models,
+[Lectures 6].
+Aerial Photography- Camera, photography filtration-films, planning field missions
+[Lectures 4]
+Photogrammetry : Aerial photography, stereoscopy and its principles, image digitization,
+aero-triangulation, extracting spot elevation, contours and DEMs using soft copy
+photography, Ortho-imagery and Area Measurement [Lectures 6]
+Multispectral Imagery: discrete detectors and scanning mirrors, Landsat: multi-spectral
+scanner, thematic mapper, Enhanced Thematic Mapper plus (Landsat 7), , GOES-,AVHRR
+Radiometer, Aircraft Multispectral Scanners [Lectures 8]
+Thermal Infrared Remote Sensing: Thermal infrared radiation properties, laws (Stefan-
+bolzmann, Wein’s, Kirchoff’s)[ Lectures 2]
+Microwave Remote Sensing: RADAR, SAR remote sensing, Radar interferometry, LIDAR
+Passive Microwave Remote Sensing- Radiometers. [Lectures 3]
+Visual image Interpretation: The aerial/regional perspective, 3D depth perspective
+[Lectures 5]
+Digital Image Interpretation and Analysis: Preprocessing of Images, Image
+Enhancement, Contrast and basics of spatial feature manipulation. [Lectures 5]
+Note: Labs will have hands-on use of the latest Google Earth Engine (GEE), QGIS, ERDAS
+IMAGINE, and ArcGIS software. It will also look into application of remote sensing imagery
+in soil and water analysis, overlaying data retrieved from different subject areas of
+engineering, lidar imagery and other GIS data.
+List of Experiments on Surveying Based Laboratory:
+1. To assess the distance between two inaccessible points in a specific area using a
+compass as well as plotting the area using closed traverse (prismatic compass).
+2. To solve two-point, and three-point problems using plane table survey.
+3. To understand differential levelling, vertical/cross sectional plotting and contouring
+using automatic levellers.
+4. To survey a nearby plot bounded by any polygon using a theodolite and also to
+perform trigonometric levelling to find the characteristics of a nearby building.
+53
+5. To plot a known area using GPS measurements and assess the accuracy of the
+measurement
+6. Using total station to combine electromagnetic distance measurement and electronic
+theodolite to understand the ramp in the institute and their geometrical features with
+high accuracy.
+List of Experiments in GIS Laboratory:
+1. To create a map of any area using vector data models using available ground data.
+2. To perform geo-referencing when coordinate values are not given.
+3. To study terrain data such as slope, aspect, and hill shade. How to use these for
+representation of different social/service as well as frequency of different aspects
+concerning demographic data.
+4. To create a stream network or perform stream order generation or delineate
+watersheds created by a water body using DEM files.
+5. To perform site suitability analysis for a service building (example hospital) near to
+a agricultural and inhabited land near an arid village at the edge of an oasis near
+Jodhpur.
+6. Basic experiments on image sharpening and image resolution using ARC GIS/ ERDAS
+IMAGINE processing tool.
+Text Books
+1. John R. Jenkins, Remote Sensing of the Environment: An Earth Prespective
+2. Lillesand, T.M., Kiefer, R.W. & Chipman, J.W. 2008. Remote Sensing and Image
+Interpretation, 6th Edition, John Wiley and Sons.
+Reference Books
+1. Floyd F. Sabins, Remote Sensing: Principles and Applications (3rd edition), Publisher :
+Waveland Press, Edition : 3rd, Print ISBN : 9781577665076, 1577665074, eText ISBN :
+9781478618171.0
+2. Gopi, S., Sathikumar, R., and Madhu, N., Advanced Surveying: Total Station, GIS and
+Remote Sensing, Pearson, 2007, Dorling Kindersley (India).ISBN 978-81-3017-0067-9.
+3. Barrett, E.C. & Curtis, L.F. 2007. Introduction to Environmental Remote Sensing,
+Routledge Publisher.
+54
+Title Climate Change and Impact Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+1. To gain understanding of scientific foundation and key concepts of atmospheric
+science, climate data collection and impacts of GHGs.
+2. To develop scientific basis of our understanding of climate system and climate change,
+and associated uncertainties.
+3. To provide knowledge on the impacts of climate change on natural world in the current
+scenario and coming centuries.
+Learning Outcomes
+The students are expected to achieve proficiency in:
+1. Understanding present climate system in the context of Earth’s history, reconstructing
+climate evolution and relevant scientific uncertainties.
+2. Developing basics of climate change science with key concepts of climate, weather,
+energy balance and GHG effect.
+3. Understanding energy flows within Earth-Atmosphere system.
+4. Explaining the large-scale atmospheric circulations with underlying fluid mechanics
+principles and role of oceans in climate variability.
+5. Developing scientific understanding of climate forcing, sensitivity and feedback systems.
+6. Understanding the basics of energy balance models and fundamental equations of Global
+Circulation Models for simulating and estimating past and future climate systems.
+7. Understanding the potential impacts of climate change and future climate change
+projections.
+Contents
+Introduction to Climate and Climate Change: Evolution of Earth’s climate: history,
+Instrumental and paleoclimatic record, Climate Change: Definition, Components of climate
+system, Global energy balance, GHGs and Greenhouse effect [Lectures 5].
+Radiative Energy Transfer: Radiation laws, Radiation Processes, Absorption and
+Scattering by Gases and Particles, Solar Zenith Angle and Aerosol Optical Depth, Radiative
+Transfer Equation [Lectures 5].
+Convection and Atmospheric Circulation: Dry and moist convection, Atmospheric
+convection and types, Scales of motion, Energy and Momentum Transport [Lectures 7].
+Oceanic Circulation: Physical characteristics of ocean, Energy transport mechanism: Wind
+driven circulation theories, and thermohaline circulation [Lectures 4].
+Climate sensitivity and feedback mechanisms: Equilibrium Climate sensitivity,
+Transient Climate Response, Feedback: Concept, Fast and slow feedback
+mechanisms/Processes, Climate sensitivity estimates [Lectures 5].
+Climate Variability: Buffering atmospheric temperature changes, Atmosphere-ocean
+coupling: El Nino and Southern Oscillations [Lectures 3].
+Climate modeling: One layer energy balance model, 1D EBM, Global Circulation Model,
+difference between Weather forecast models and GCMs [Lectures 8].
+Climate Change Impacts and future projections: Sea level rise, Ecosystem and
+biodiversity, Shifting water resources, Agricultural impacts, severe weather impacts and
+Human health; Impact assessment of GHGs on global temperature, rainfall and drought
+patterns, atmospheric circulation. [Lectures 5].
+Text Books
+1. Atmospheric Chemistry and Physics- From Air Pollution to Climate Change, J. H. Seinfeld
+and S. N. Pandis, John Wiley and Sons, Inc., Third Edition, 2013.
+2. Fundamentals of Atmospheric modeling, Marck Jacobson, Cambridge University Press,
+Second Edition, 2005.
+3. Air Pollution and Global Warming: History, Science and Solutions, Mark Jacobson,
+Cambridge University Press, Second Edition, 2012.
+4. Atmosphere, Ocean, and Climate Dynamics, John Marshall ad R. Alan Plumb, Elsevier
+Academic Press, 2008.
+Online course Material
+55
+https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/course/
+https://nptel.ac.in/courses/119106008/
+56
+Title Green building and Sustainable Materials Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives: Objectives of this course are:
+1. To introduce elements of green building construction and use of sustainable
+materials.
+2. To familiarize students with different national and international green performance
+ratings.
+3. To teach students methods of carbon footprint reduction and increase in energy
+efficiency of a building.
+Learning Outcomes: A graduate of this course will have a thorough idea of:
+1. National and international green building assessment system and requirements.
+2. Green building design elements and use of sustainable materials.
+3. Techniques to reduce the carbon footprint of a green building.
+4. Management of hydrological cycle, treatment of waste, and maintainance of indoor
+air quality.
+5. Green building economics, business plan, and management.
+Contents
+Introduction to green building: Rationale for high-performance green building; green
+building progress and obstacles; trends in high-performance green building; the green
+building movement. (Lectures: 3)
+Ecological design: design vs ecological design; contemporary ecological design; future
+ecological design; thermodynamics: limits on recycling and the dissipation of materials
+(Lectures: 3)
+Green building assessment: US green building assessment system; international green
+building assessment system; performance assessment. (Lectures: 3)
+LEED building rating system: history of LEED; structure of the LEED suite of building
+assessment systems; LEED credentials; the LEED process; LEED categories. (Lectures:
+3)
+The Green Globes building assessment system: the Green Globes process; Green Globes
+verification and certification; structure of the ANSI/GBI 01-2010 standard; the Green
+Globes professional and Green Globes Assessor. (Lectures: 3)
+Green building design process: conventional vs green building delivery systems;
+executing the green building project; the integrated design progress; role of Charrette
+in the design process; green building documentation requirements. (Lectures: 3)
+Sustainable site and landscape: land and landscape approaches for green buildings;
+sustainable landscapes; enhancing ecosystems; stormwater management; low-impact
+development; heat island mitigation; light trespass and pollution reduction; sustainable
+site initiative. (Lectures: 3)
+Energy and carbon footprint reduction: building energy issues; high-performance
+building energy design strategy; passive design strategy; building envelope; internal
+load reduction; active mechanical system; water-heating system; electrical power
+systems; innovative energy optimization strategies; renewable energy systems; fuel
+cells; smart buildings and energy management systems; ozone-depleting chemicals in
+HVAC&R systems; reducing carbon footprint of the built environment. (Lectures: 4)
+Built environment hydrological cycle: global water resource depletion; hydrological cycle
+terminology; high-performance building hydrological cycle strategy; designing the high-
+performance building hydrological cycle; water budget rules of thumb; sustainable
+stormwater management; landscaping water efficiency. (Lectures: 4)
+Closing materials loops: distinguishing between green building products and green
+building materials; LCA of building materials and products; environmental product
+declaration; materials and product certification systems; emerging construction
+materials and products; design for deconstruction. (Lectures: 4)
+Indoor environmental quality: IEQ issues; design; main components of integrated IEQ
+design; emission from building materials; economic benefits of good indoor
+environmental quality. (Lectures: 3)
+57
+Construction operations and commissioning: site protection planning; indoor air quality
+during construction; construction materials management; construction and demolition
+waste management. (Lectures: 3)
+Green building economics: the business case for high-performance green building; the
+economics of green building; quantifying green building benefits. (Lectures: 3)
+Text Books
+1. Charles J. Kibert (2013). Sustainable Construction. John Wiley & Sons. ISBN 978-1-
+118-33013-5
+2. J. Newman and Ban Sang Choo (2003) Advanced Concrete Technology-Constituent
+Materials (1st Ed), Elsevier. ISBN 9780080489988.
+3. S. Kubba (2010) LEED Practices, Certification, and Accreditation Hand book (1st Ed)
+Elsevier. ISBN 9780080958590.
+Additional materials:
+1. Ministry of Power, Energy Conservation Building Code 2018, Revised Version, Bureau
+of Energy Efficiency, 2018,
+2. Indian Building Congress, Practical Handbook on Energy Conservation in Buildings, 1
+st ed. Nabhi Publication, 2008.
+3. TERI-Griha’s Green Design practices (www.teriin.org/bcsd/griha/griha.htm)
+4. Sartori, I., and Hestnes, A. G. “Energy use in the life cycle of conventional and low-
+energy buildings: A review article”, Energy and Buildings., 20, 249-257.2007
+5. Green Building Basics, California Integrated Waste Management Board
+(www.ciwmb.ca.gov/GREENBUILDING/Basics.htm#What)
+6. Catarina Thormark. “A low energy building in a life cycle—its embodied energy,
+energy need for operation and recycling potential”, Building and Environment., 37,
+429-435.2001.
+Online course Material
+“NOC:Energy Efficiency, Acoustics and daylighting in Building” by Prof. B. Bhattacharjee on
+NTPEL. https://nptel.ac.in/courses/105/102/105102175/
+58
+Title Traffic Flow Theory Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives: The course will introduce students to:
+1. Fundamentals of traffic flow
+2. Analysis of traffic flow
+3. Traffic flow modelling approaches
+Learning Outcomes: At the end of the course, the student should be able to:
+1. Differentiate and analyse traffic flow parameters at micro-macro levels
+2. Analyse congestion propagation in traffic flow
+3. Understand the state-of-the-art traffic flow modelling
+4. Perform traffic flow modelling and analysis using field data
+Contents
+Introduction to Traffic Flow theory [No. of lectures – 6]: Macroscopic parameters – Space
+mean speed, Density, and Flow; Microscopic parameters – Time mean speed, Time
+headway, Space headway, occupancy; Relation between microscopic and macroscopic
+parameters; Fundamental traffic flow equation
+Macroscopic models of Traffic flow [No. of lectures -10]: Empirical and theoretical
+models, Continuity equations, Solution to linear and non-linear partial differential
+equations, Two fluid model
+Microscopic Models of Traffic flow [No. of lectures-10]: Car following models, Response
+Stimulus model, Psychophysical model, stability, Advanced car following models
+Propagation of disturbance [No. of lectures – 6]: Non-linear traffic waves and
+acceleration of stream, Shockwave theory and applications
+Analysis of traffic flow [No. of lectures-10]: Accumulation diagrams, Incidents,
+Probabilistic analysis of traffic flow, Gap acceptance theory, Queuing theory and
+applications.
+Text Books
+1. Ni, D. Traffic flow Theory. BH, Elsevier, MA, USA.
+2. Adolf D. May. Traffic flow fundamentals. Copyright: Prentice Hall, Inc
+3. Nicholas J Garber and Lester A Hoel. Traffic and Highway Engineering. Copyright:
+Brooks/Cole-Wadsworth Group\Thomson learning
+4. Fred. L. Mannering, Walter P. Kilareski, and Scott S. Washburn. Principles of
+Highway Engineering and Traffic Analysis. Copyright: John Wiley and Sons, Inc.
+5. C. Jotin Khisty and B. Kent Lall. Transportation Engineering. Copyright; Pearson
+Education, Inc.
+Additional references:
+1. Kadiyali. L. R. (2016).Traffic Engineering and Transport Planning. Khanna
+Publishers
+2. Chakroborty, P., Animesh Das (2017). Principles of Transportation Engineering.
+Second Edition, PHI Learning Private Limited
+3. Saxena S. C. (2014). Textbook of Highway and Traffic engineering. CBS
+4. Samuel Morgan (2016) Traffic Engineering and Transport Planning. Williford Pr.
+5. Jaume Barceló. (2010) Fundamentals of Traffic Simulation. Springer.
+6. Roess, R.P., Prassas E. S., McShane W. R. (2010) Traffic Engineering. Pearson
+59
+Title Traffic System and Management Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives: The course will introduce students to:
+1. Traffic system characteristics
+2. Traffic control system
+3. Traffic studies and basic analysis
+4. Intelligent Transportation System (ITS)
+Learning Outcomes: At the end of the course, the student should be able to:
+1. Understand in-depth the data collection methods and analysis of various traffic flow
+parameters
+2. Design traffic control systems
+3. Have adequate exposure to various traffic management measures
+4. Understand the fundamentals and applications of ITS
+Contents
+Traffic Systems Characteristics [No. of lectures- 6]: User, Vehicle and Traffic
+characteristics
+Traffic Studies and Basic Analysis [No. of lectures-10]: Speed, journey time, and delay
+studies, Volume and occupancy studies, Origin-destination Studies, Parking studies,
+Accident Studies. Capacity and Level of Service (LOS) analysis
+Traffic Control System [No. of lectures -12]: Road markings – Principles of road
+markings, carriageway markings and object markings; Traffic signs – Importance of
+traffic signs, Types of traffic signs; Intersection control, Signal design- Illustration of
+signals, fixed time signals, signal design using IRC method and HCM method
+Traffic Management [No.of lectures-8]: Strategies and techniques, Traffic calming,
+congestion studies and road pricing.
+Intelligent Transportation system [No. of lectures – 6]: User services and architecture,
+standards and evaluation, Public Transport and bus priority, Artificial intelligence in
+advanced traffic and ITS
+Text Books
+1. Nicholas J Garber and Lester A Hoel. Traffic and Highway Engineering. Copyright:
+Brooks/Cole-Wadsworth Group\Thomson learning
+2. Fred. L. Mannering, Walter P. Kilareski, and Scott S. Washburn. Principles of Highway
+Engineering and Traffic Analysis. Copyright: John Wiley and Sons, Inc.
+3. C. Jotin Khisty and B. Kent Lall. Transportation Engineering. Copyright; Pearson
+Education, Inc.
+4. https://coeut.iitm.ac.in/ITS_synthesis.pdf
+5. Sussman, J. Perspectives on Intelligent Transportation Systems (ITS). New York, NY:
+Springer, 2005
+Additional references:
+1. Kadiyali. L. R. (2016).Traffic Engineering and Transport Planning. Khanna Publishers
+2. Chakroborty, P., Animesh Das (2017). Principles of Transportation Engineering.
+Second Edition, PHI Learning Private Limited
+3. Roess, R.P., Prassas E. S., McShane W. R. (2010) Traffic Engineering. Pearson
+60
+Title Soil Stabilization and Ground Improvement Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives: This course will introduce:
+1. Scopes of soil stabilization and ground improvement in various geotechnical
+projects.
+2. Different conventional and advanced method of ground improvement and their
+applications.
+3. Role of ground water and soil types on the stability of soil covers and grounds.
+Learning Outcomes: A graduate of this course will have a thorough knowledge of:
+1. Behaviour of soils under different environmental conditions and their compaction
+behavior.
+2. Role and planning of drainage to enhance stability of grounds.
+3. Different mechanical, chemical, and cmenting stabilization techniques regularly
+used in stabilization programs.
+4. Use of geosynthetics and influence of their properties on ground improvement.
+5. Elements of grouting and injection to increase soil stabilization.
+Contents
+ Formation and development of ground: Formation of rock, soil, and soil profile; Soil
+distribution in India; alteration of ground after formation; reclaimed soil; ground
+improvement potential (Lectures: 3)
+ Compaction: compaction mechanics; field procedure; surface compaction; selection
+of field compaction procedures; compaction quality control. (Lectures: 3)
+ Drainage methods: seepage; filter requirements; groundwater; methods of
+dewatering systems; design steps for dewatering systems; drains. (Lectures: 5)
+ Precompression and vertical drains: compressibility of soils and consolidation; pre-
+loading and surface fills; vertical drains; granular piles; dynamic consolidation;
+consolidation by electro-osmosis. (Lectures: 5)
+ Vibration methods: vibro-compression; vibro-displacement compression. (Lectures:
+5)
+ Grouting and injection: aspects of grouting; grouting procedure; applications.
+(Lectures: 5)
+ Mechanical, cementing, and chemical stabilization: requirements of soil stabilization;
+mechanical stabilization; Portland cement stabilization; bituminous stabilization;
+chemical stabilization; construction methods. (Lectures: 4)
+ Geosynthetics: geosynthetic types; properties of geosynthetics; applications of
+geosynthetics (Lectures: 5)
+ Contemporary soil improvement techniques: soil reinforcement; soil nailing; thermal
+methods; backfill materials for retaining walls; improving rock stability and quality.
+(Lectures: 5)
+ Case histories of ground improvement: traditional ground improvements adopted in
+weak soils in India and abroad; codal suggestions. (Lectures: 2)
+Text Books
+1. Hausmann, M.R. (1990). Engineering Principles of Ground Modification, McGraw-Hill
+International Editions. ISBN: 9780070272798.
+2. Dr. Purushottama Raj (2005). Ground Improvement Techniques. Laxmi
+Publications. ISBN: 9788170088370.
+3. Bowles J.E. (1997). Foundation Analysis and Design (5th Ed). Tata McGraw-Hill
+International Edition. ISBN 0-07-912247-7.
+Online course Material
+1. Ground Improvement Techniques by Dr. G.L. Sivakumar Babu on NTPEL.
+https://nptel.ac.in/courses/105/108/105108075/
+61
+Title Foundation Engineering Number CIE7XX0
+Department Civil and Infrastructure
+Engineering
+L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD,
+Ph.D
+Type ME
+Prerequisite
+Objectives: this course aims at :
+1. Introducing basic principles and methods of foundation design and constructions.
+2. Introducing different ambient conditions that influence the stability of a foundation
+in short and long-term.
+3. Introducing methods of stable foundations in earthquake prone areas.
+Learning Outcomes: Students will have the ability to
+1. Analyze the properties of soil and rock to design appropriate foundations.
+2. Analytical knowledge of short-term and long-term consolidation behavior of
+foundations.
+3. Device methods to protect new and historical foundations against decay and
+collapse.
+4. Design earthquake resistant foundation in different soils and rocks.
+5. Apply international and national codes to study soil behavior and design
+foundations.
+Contents
+ Shallow and deep foundation: selection of foundation type; shallow foundations; deep
+foundation. (Lectures: 3)
+ Bearing capacity of foundations: Bearing capacity of shallow foundations; bearing
+capacity of deep foundations; lateral load capacity of deep foundations (Lectures: 3)
+ Settlement of foundations: Collapsible soil; settlement of cohecionless soil; other
+common causes of settlement; foundation on rock; allowable settlement. (Lectures:
+3)
+ Consolidation: laboratory consolidation test; immediate settlement; primary
+consolidation; rate of primary consolidation; secondary compression; consolidation
+of soil beneath shallow foundation; consolidation of soil beneath deep foundation;
+settlement of unsaturated cohesive soil. (Lectures: 3)
+ Foundation of expansive soil: expansion potential; basic expansive soil principles;
+prediction of foundation movement; foundation design for expansive soil; flatwork;
+expansive rock. (Lectures: 3)
+ Retaining walls: simple retaining wall without wall friction; simple retaining wall with
+friction; design and construction of retaining walls; restrained retaining walls;
+mechanically stabilized earth retaining walls; sheet pile walls; temporary retaining
+walls; moisture migration through basement walls. (Lectures: 4)
+ Foundation deterioration and cracking: timber decay; sulfate attack on concrete;
+frost; historic structures; shrinkage cracking; moisture migration through slab-on-
+grade foundations. (Lectures: 4)
+ Geotechnical earthquake engineering: seismological concepts; ground motion
+parameters; dynamic soil behavior; ground response analysis; liquefaction; slope
+stability. (Lectures: 4)
+ Seismic strengthening/retrofitting methods for foundations: earthquake structural
+damage; foundation settlement; retaining walls; foundation alternatives to mitigate
+earthquake effects. (Lectures: 4)
+ Grading and other soil improvement methods: grading; compaction; soil
+improvement methods. (Lectures: 4)
+ Foundation excavation, underpinning, and field load tests: foundation excavation and
+construction; field load tests; foundation underpinning; observational method.
+(Lectures: 4)
+62
+ Subsurface investigation and instrumentations: traditional in-situ investigations;
+advanced geophysical tests; field instrumentations. (Lectures: 3)
+ International building codes for foundations: general regulations for footing and
+foundations; foundation adjacent to slopes; retaining walls. (Lectures: 3)
+Text Books
+1. Bowles JE (1997) Foundation Analysis and Design (5th Ed). Tata-McGraw Hill
+International Edition. ISBN 0-07-912247-7.
+2. Robert W. day (2010). Foundation Engineering Handbook (2nd Ed). McGraw-Hill
+Professional. ISBN 978-0-07-174010-4.
+3. Budhu. M (2012). Soil Mechanics and Foundations (3 rd Ed). John Wiley and Sons.
+ISBN: 978-0-470-55684-9.
+4. Robert W. day (2010). Foundation Engineering Handbook (2 nd Ed). McGraw-Hill
+Professional. ISBN 978-0-07-174010-4.Manjriker
+Additional references:
+Foundation Engineering (2018) by Prof. Kousik Deb on NPTEL.
+https://nptel.ac.in/courses/105105176/
+63
+Title Reliability Engineering Number CIE7XX0
+Department Civil and Infrastructure
+Engineering
+L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD,
+Ph.D
+Type ME
+Prerequisite Nil
+Objectives: This course aims at:
+1. Introducing basic principles of statistics, uncertainty and reliability analysis.
+2. Enhancing engineering knowledge and specialist techniques to prevent/reduce the
+likelihood of failures of structures.
+3. Introduction of different methods of reliability analysis in Civil Engineering.
+Learning Outcomes: Students will have the ability to:
+1. Analyze the statistical moments of input random variables and the output
+performance function.
+2. Determine the probability of failure, reliability index and safety factors of limit state
+functions.
+3. Analytical knowledge of different levels of reliability used for structures.
+4. Perform reliability based design on different limit states.
+5. Apply finite element based reliability analysis to structural components and
+systems.
+Contents:
+ Introduction to Reliability Engineering: Concepts of structural safety, limit state and
+reliability; types of uncertainty; reliability analysis and its importance. (Lectures: 2)
+ Basics of statistics and probability: Basic statistics; theory of probability; probability
+distribution function; hypothesis testing. (Lectures: 3)
+ Resistance parameters and distributions: Statistics of material properties and
+strength; dimensional variations; allowable stresses. (Lectures: 3)
+ Simulation based study of structural safety: Monte Carlo method; Latin hypercube
+sampling; advanced sampling techniques. (Lectures: 3)
+ Level 2 reliability methods: Basic variables and failure surface; first order second
+moment method. (Lectures: 3)
+ Gradient based methods: first and second order methods; independent, correlated,
+normal and non-normal random variables based limit states. (Lectures: 5)
+ Response surface based methods: Conventional response surface method; advanced
+response surface methods with examples. (Lectures: 4)
+ Reliability based design: Stochastic models of loads; determination of partial safety
+factors; code calibration; safety checking format. (Lectures: 4)
+ Reliability of structural systems: System reliability – series and parallel; bounds on
+system reliability; modelling of structural systems. (Lectures: 3)
+ Advanced reliability methods: Importance sampling method; subset simulation
+method; stochastic response surface method. (Lectures: 3)
+ Brief on advanced topics: Fatigue reliability estimation; S-N curve approach; time-
+dependent reliability. (Lectures: 3)
+ Design optimization: Introduction to the concept of design optimization; examples
+on solving reliability based design optimization problems. (Lectures: 3)
+ Application of reliability analysis and design: applications to steel, concrete, offshore
+structures etc. to determine probability of failure and safe design. (Lectures: 3)
+Text Books:
+1. P. Thoft-Christensen and M.J. Baker (1982) Structural Reliability: Theory and its
+Applications, Springer-Verlag Berlin, Heidelberg. ISBN 978-3-642-68699-3.
+64
+2. A.H.S. Ang and W. H. Tang (1984) Probability Concepts in Engineering Planning and
+Design Vol. II Decision, Risk and Reliability, John Wiley and Sons, New York. ISBN
+978-0-471-03201-4
+3. P. Thoft-Christensen and Y. Murotsu (1986) Applications of Structural Systems
+Reliability Theory, Springer Verlag Berlin, Heidelberg. ISBN 978-3-642-82766-2.
+4. O. Ditlevsen and H.O. Madsen (1996) Structural Reliability Methods, John Wiley &
+Sons Ltd, Chichester. ISBN 978-0-471-96086-7.
+5. S.-K. Choi, R.V. Grandhi and R.A. Canfield (2007) Reliability-based Structural Design,
+Springer-Verlag, London. ISBN 978-1-84628-444-1.
+6. R. Ranganathan (2011) Structural Reliability Analysis and Design (3rd Ed), Jaico
+Publishing House, Mumbai. ISBN 81-7224-851-2.
+7. R.E. Melchers and A.T. Beck (2018) Structural Reliability Analysis and Prediction (3rd
+Ed), John Wiley and Sons Ltd, Hoboken, NJ. ISBN 978-1-119-26599-3.
+Additional References:
+1. Reliability Engineering (2009) by Prof. G.L. Sivakumar Babu on NPTEL.
+https://nptel.ac.in/courses/105/108/105108128/
+2. Structural Reliability (2014) by Dr. Arunasis Chakraborty on NPTEL.
+https://nptel.ac.in/courses/105/103/105103140/
+3. Risk and Reliability of Offshore Structures (2016) by Prof. Srinivasan Chandrasekaran
+on NPTEL. https://nptel.ac.in/courses/114/106/114106041/
+65
+Title Structural Dynamics Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite Nil
+Objectives: This course aims at:
+1. Introducing the behaviour of structures (especially framed building) to various
+dynamic loads, viz. earthquake, machine vibration etc.
+2. Fundamental understanding to analyze structures subjected to dynamic excitation
+and computing quantities like displacements, forces, stresses etc.
+3. Analytical and numerical methods as well as procedures in a way that emphasize
+physical insight.
+4. Problem solving ability for dynamic response in Civil Engineering design.
+Learning Outcomes: Students will have the ability to:
+1. Establish dynamic equilibrium and equation of motion for structural systems.
+2. Analyze the dynamic response and stress generation in single and multi degree of
+freedom systems for different types of loading.
+3. Implement the basis for the classical energy formulations in dynamical systems.
+4. Model structural damping and solve problems in frequency as well as time domain.
+5. Solve the eigenvalue problems and gain knowledge on its useful properties.
+6. Device methods to protect new and existing structures against seismic collapse.
+7. Apply the structural dynamics theory to real-world problems like seismic analysis
+and design of structures.
+Contents:
+ Basics of structural dynamics: Introduction to dynamic loading and response; types
+of analysis - static and dynamic loads; degrees of freedom; lumped mass; types of
+mass-spring-damper system; formulation of equation of motion for structural
+dynamics using direct equilibration, principle of virtual displacement and Hamilton’s
+principle. (Lectures: 4)
+ Free vibration of single degree of freedom (SDOF) system: Undamped free vibration
+and its solution; natural period and frequency; energy in free vibration; damped free
+vibration; types of damping; concept of logarithmic decrement. (Lectures: 4)
+ Forced vibration of SDOF system: Undamped forced vibration and its solution;
+amplitude and phase angle; dynamic amplification factor; damped forced vibration.
+(Lectures: 3)
+ Force transmission and vibration measurement: Resonant frequency and half power
+band width; force transmission and isolation; design of vibration measuring
+instruments. (Lectures: 3)
+ Response to harmonic and periodic motions: Response of SDOF systems to harmonic
+loads and periodic excitations; Fourier series representation. (Lectures: 4)
+ Response to arbitrary motions: Response of SDOF systems to unit impulse excitation,
+arbitrary force (solution using Duhamel's integral), step and ramp forces, rectangular
+pulse and half sinusoidal waves. (Lectures: 4)
+ Numerical methods of solution: Determining the dynamics response using methods
+such as time stepping methods, central difference method and Newmark's method.
+(Lectures: 4)
+ Response spectrum: Concept of response spectrum; uses of response spectrum;
+complex frequency transfer function; development of tripartite plot; base shear and
+bending moment; response of structure in frequency domain. (Lectures: 4)
+ Multi-degree of freedom (MDOF) systems: Equation of motion for MDOF system;
+solution of equation, matrix properties; natural frequencies and mode shapes; static
+condensation; modal orthogonality; mode superposition analysis of MDOF system;
+approximate method for finding natural frequency. (Lectures: 5)
+66
+ Earthquake response of MDOF systems: Time history analysis; response spectrum
+analysis. (Lectures: 2)
+ Dynamic response of continuous systems: Vibration of continuous systems; axial
+vibration of prismatic bar; flexural vibration of beams; shear and bending behaviour;
+generalized SDOF. (Lectures: 3)
+ Applications: Introduction to finite element method; formation of element stiffness,
+mass and force matrices; examples for seismic analysis and response. (Lectures: 2)
+Text Books:
+1. J.M. Biggs (1964) Introduction to Structural Dynamics, McGraw Hill, NY. ISBN 07-
+005255-7.
+2. R.W. Clough and J. Penzien (1993) Dynamics of Structures (2nd Ed), McGraw Hill Inc
+Editor. ISBN 0-07-011392-0.
+3. A.K. Chopra (2017) Dynamics of Structures Theory and Application to Earthquake
+Engineering (5th Ed), Prentice Hall, NJ. ISBN 978-0-134-55512-6.
+4. A.K. Jain (2017) Dynamics of Structures with MATLAB® Applications, Pearson
+Education, Chennai, India. ISBN 978-9-332-55855-7
+5. M. Paz and Y.H. Kim (2019) Structural Dynamics Theory and Computation (6th Ed),
+Springer Nature, Switzerland. ISBN 978-3-319-94742-6.
+Additional References:
+1. Structural Dynamics (2012) by Dr. Pradipta Banerji on NPTEL.
+https://nptel.ac.in/courses/105/101/105101006/
+2. Structural Dynamics (2016) by Prof. Ramancharala Pradeep Kumar on NPTEL.
+https://nptel.ac.in/courses/105/106/105106151/
+3. Structural Dynamics for Civil Engineers - SDOF Systems (2019) by Prof. Riya
+Catherine George on NPTEL. https://nptel.ac.in/courses/105/104/105104189/
+67
+Title Advanced Mechanics of Solids Number MEL7XX0
+Department Mechanical Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+1. Enable students to learn advanced concepts of stress analysis
+2. Apply concepts to analysis of mechanical systems such as rotating disks, thick
+cylinders etc.
+Learning Outcomes
+1. Develop Ability to solve advanced stress analysis problems using analytical and
+numerical methods
+2. Ability to formulate and solve 3D problems in stress analysis
+Contents
+1. Introduction to Cartesian tensors, Stress: Normal and shear stress, Equilibrium
+equations (force and moment), Symmetry of shear tensor, Equilibrium at boundary
+(Cauchy Equation). 2-D problems Plane stress, Stress transformation, Principal
+stresses, maximum shear stress, Mohr’s circle (7 Lectures)
+2. Displacements and strains, Green’s strain, Compatibility condition, Plane strain
+Problems, Strain transformation, Strain gage and rosette (5 Lectures)
+3. Structural Approximations: Physical and mathematical. Structural elements-bars,
+beams, plates, membrane, shear panel, shells (1 Lectures)
+4. Mechanical behavior of Engineering Materials, Effect of Temperature, Anisotropic,
+Isotropic, Orthotropic materials, Failure Criteria (Distortion strain energy, Octahedral
+shear stress) Maximum normal stress, Maximum Shear stress (Tresca), Maximum
+distortion energy (von-Mises and Hencky) (4 Lectures)
+5. Theory of Elasticity, Plane Stress Problem with Stress formulation in 2-D, Plane Strain
+Problem with Stress Formulation in 2-D, Airy’s stress function, stress, strain and
+equilibrium in polar coordinates, Displacement formulation with plane stress, St.
+Venant’s Principle (4 Lectures)
+6. Bending and extension of beams, stress-resultants, Equilibrium equations in terms
+of deformation with transverse and axial load (3 Lectures)
+7. Torsion of slender bodies (beams), Prandtl stress function formulation, Membrane
+analogy, Closed form beam torsion analytical solution, Warping function formulation,
+Thin Walled open sections, Torsion constants for rolled and extruded beams, Thin
+walled closed sections, Shear flow (8 Lectures)
+8. Beam shearing stresses due to shear forces, Shear Centre (3 Lectures)
+9. Euler Buckling (3 Lectures)
+10. Principle of virtual-work (4 Lectures)
+Text Books
+1. Srinath, L.S. (2009), Advanced Solid Mechanics, Tata McGraw-Hill
+2. Timoshenko, S.P., and Goodier, J.N. (1980), Theory of Elasticity, Tata McGraw- Hill
+3. Sadd, M. H. (2006), Elasticity: Theory, Applications and Numerics, Academic Press
+Online course Material
+1. http://nptel.ac.in/courses/105106049/
+68
+Title Substation Infrastructure Number EE7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide exposure to layout of various components of substation and design its
+infrastructure.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop the layout of a substation and design the substation infrastructure
+Contents
+Substation Layout: Substation design considerations, layouts - various bus
+configurations and space requirements (5 lectures)
+Auxiliary Power: Battery and charger configurations, battery capacity, battery sizing
+calculations, AC power supplies, auxiliary transformation connections, earthing
+transformer (5 lectures)
+Current and Voltage Transformers: Types, design and construction constructions, (4
+lectures)
+Insulators: Insulator materials, types, design consideration, testing (4 lectures)
+Earthing and Bonding: Touch and step voltage, earthing materials, earth resistance,
+earth potential rise, protective multiple earthing (5 lectures)
+Switchgear: Introduction, switches, disconnectors, contactors, introduction to operating
+mechanism and arc quenching (5 lectures)
+Textbook
+1. Bayliss,C., Hardy,B., (2012), Transmission and Distribution Electrical Engineering, 4th
+Edition, Newnes publications
+2. Rao,S., (1992), Electrical Substation Engineering and Practice Engineering & Practice
+EHV-AC, HVDC AND SF6-GIS, 3rd Edition, Khanna publications
+69
+Title Gas Insulated Substation Number EE7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M. Tech, M. Tech-Ph.D, Ph.D Type ME
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide exposure to of gas insulated substations (GIS), its design, testing, and
+diagnostics methods
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and test a gas insulated substation
+Contents
+Introduction: Features, economics, arrangement, and components of gas insulated
+substations, comparison with air insulated substations (4 lectures)
+Introduction to SF6: physical, chemical, and electrical properties, handling,
+specifications for GIS applications (3 lectures)
+Design of GIS: Ratings of components, estimation of electric stress, design aspects of
+GIS components, insulation design, insulation coordination, grounding systems (6
+lectures)
+Testing: GIS testing, on-site tests, condition monitoring and diagnostic methods (4
+lectures)
+Problems and Diagnostics: Particles and their effects, SF6 gas decomposition,
+characteristics of imperfections in insulation, insulation diagnostics methods, partial
+discharge in GIS and its detection (8 lectures)
+Fast transient phenomena: Origin, characteristics, and effects of very fast transient
+overvoltages (3 lectures)
+Textbook
+1. Naidu,M.S., (2008), Gas Insulated Substations, I.K. International Publishing House
+Pvt Ltd
+2. Koch,H., (2014), GIS Gas Insulated Substations, IEEE Press and John Wiley & Sons
+Ltd
+70
+Title Machine Learning-1 Number CS 7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+Objectives: The Instructor will:
+1. Provide motivation and understanding of the need and importance of Machine
+Learning in today’s world.
+2. Provide details about various algorithms in Machine Learning
+Learning Outcomes: The students are expected to have the ability to:
+1. Develop a sense of Machine Learning in the modern context, and independently
+work on problems relating to Machine Learning.
+2. Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+Contents
+Fractal 1
+ Introduction: Motivation, Different types of learning, Linear regression, Logistic
+regression (2 lectures)
+ Gradient Descent: Introduction, Stochastic Gradient Descent, Subgradients,
+Stochastic
+ Gradient Descent for risk minimization (2 lectures)
+ Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality,
+Kernel trick, Implementing Soft SVM with Kernels (4 lectures)
+ Decision Trees: Decision Tree algorithms, Random forests (2 lectures)
+ Nearest Neighbour: k-nearest neighbour, Curse of dimensionality (1 lecture)
+ Neural Networks: Feedforward neural networks, Expressive power of neural
+networks, SGD and Backpropagation (3 lectures)
+Fractal 2
+ Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral
+clustering (2 lectures)
+ Dimensionality reduction: Principal Component Analysis, Random projections,
+Compressed sensing (2 lectures)
+ Generative Models: Maximum likelihood estimator, Naive Bayes, Linear Discriminant
+Analysis,
+ Latent variables and Expectation-maximization algorithm, Bayesian learning (4
+lectures)
+ Feature Selection and Generation: Feature selection, Feature transformations,
+Feature learning (3 lectures)
+ Model selection and validation: Validation for model selection, k-fold cross-
+validation,
+ Training-Validation-Testing split, Regularized loss minimization (3 lectures)
+Fractal 3
+ Statistical Learning Framework: PAC learning, Agnostic PAC learning,
+ Bias-complexity tradeoff, No free lunch theorem, VC dimension, Structural risk
+minimization, Adaboost (7 lectures)
+ Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+Textbook
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From
+Theory to Algorithms, Cambridge University Press.
+Reference books:
+71
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill.
+Self-Learning Materials
+1. Department of Computer Science, Stanford University,
+https://see.stanford.edu/Course/CS229
+72
+Title Artificial Intelligence – 1 Number CS 7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite
+Objectives: The Instructor will:
+1. Cover various paradigms that come under the broad umbrella of AI, with some of
+them being covered in depth
+Learning Outcomes: The students are expected to have the ability to:
+1. Develop an understanding of where and how AI can be used
+Contents
+ Introduction (1 lecture)
+ Propositional logic (8 lectures)
+ Search: Uninformed strategies (BFS, DFS, Dijkstra), Informed strategies (A*
+search, heuristic functions, hill-climbing), Adversarial search (Minimax algorithm,
+Alpha-beta pruning) (10 lectures)
+ Predicate logic: Knowledge representation, Resolution (6 lectures)
+ Rule-based systems: Natural language parsing, Context free grammar (3 lectures)
+ Constraint satisfaction problems (4 lectures)
+ Planning: State space search, Planning Graphs, Partial order planning (4 lectures)
+ Uncertain Reasoning: Probabilistic reasoning, Bayesian Networks, Dempster-
+Shafer theory,
+ Fuzzy logic (6 lectures)
+Textbook
+1. Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd
+Edition, Prentice Hall.
+Reference books:
+1. Research literature
+Self-Learning Materials
+1. Department of Computer Science, University of California, Berkeley,
+http://www.youtube.com/playlist?list=PLD52D2B739E4D1C5F
+2. NPTEL: Artificial Intelligence, https://nptel.ac.in/courses/106105077/
+73
+Title Wave Energy Conversion Number
+Department Chemical Engineering L-T-P-D [C] 1-0-0 [1]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type ME
+Prerequisite
+Objectives: this course aims at:
+1. Introducing elements of wave energy, wave energy converters (WECs), conversion
+systems, its economics, and future potential.
+Learning Outcomes: Students will have the ability to
+1. Understand the geographical distribution of wave energy potential.
+2. Classify wave energy conversion process, and choose different near-shore to offshore
+conversion devices.
+3. Understand principles of different components of power conversion systems.
+4. Develop cost & performance analysis of shoreline, near-shore, and offshore systems.
+5. Understand positive and negative impacts of such systems and methods to minimize
+them.
+Contents
+ Ocean waves Wave and Wave Energy: Origin and description of waves; Wave
+climatology and resource distribution; Wave energy resource assessment and
+development; Wave power activities across the globe.
+ Wave energy conversion system and power transfer systems: Conversion
+technology; conversion development; Mechanical interface; energy storage; Electric
+power conversion; Transmission to grid
+ Economics: Cost of wave energy; capital, operating, and generating cost; economics
+of wave-powered desalination.
+ Environmental and socioeconomics implications: Benefits; Impacts; Impact
+assessment; Other considerations.
+Text Book
+1. Bhattacharyya R, McCormick ME (2003). Wave Energy Conversion. Volume 6. Elsevier
+Ocean Engineering Book Series. Elsevier. ISBN: 0 08 044212 9
+Reference Books
+1. Arthur Pecher, Jens Peter Kofoed, (2017) Handbook of Ocean wave Energy, Springer
+2. T.W. Thorpe, (1999) A Brief Review of Wave Energy, UK Department of Trade and
+Industry, ETSU-R120, 25 May 99
+Online Material:
+1. https://nptel.ac.in/content/storage2/courses/108108078/pdf/chap8/teach_slides08.pdf

@@ -1,0 +1,3323 @@
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+A Proposal
+For
+M. Tech. And Dual Degree (M.Tech. and
+Ph.D.) in Cyber Physical Systems
+Program Structure
+M.Tech.&M.Tech.-Ph.D. Dual Degree Programs in
+Cyber Physical Systems
+Introduction
+Beginning in the first decade of 21st century and continuing today, computational and
+communication resources, tightly integrated with physical systems, shaping the new capabilities for
+the modern systems. The use of computational resources to achieve different capabilities is in
+existence for several decades. However, many modern systems have high degree of complexities
+and also the scale of these systems is large and/or has distributed nature. For example traffic
+control system in a city requires modelling of traffic flows in different areas and optimizing different
+performance objectives by appropriately taking routing decisions, and decisions about actuating
+different signals for smooth traffic flow; this is a large scale distributed system. There are several
+other domains where CPS examples can be seen e.g. Healthcare, Robotics, Automotive, Power
+Grid, Avionics and Transportation. Such system necessitates a deeper understanding of system
+behaviour and also provides feedback to augment system design to achieve overall objectives from
+the system. Emergence of ubiquitous computing and communication has open enormous
+opportunities to provide new capabilities to systems e.g. robotics assisted remote surgery. Many
+(small) systems can work in collaborative/cooperative manner to achieve a larger overall objective.
+The examples can be seen in robotics and modern warfare where collaboration/cooperation
+achieves larger objectives. The communication capability also provides a possibility of distributed
+learning for systems.Hybrid system modelling is one of the possible approaches to model CPS.
+Hybrid system approach allows inclusion of both continuous time and discrete time states
+(variables) in the model.
+The seamless integration of cyber system with physical system also poses several challenges
+towards system security against possible system attacks. With modelling of physical system, it is
+necessary to model different possible attacks and to provide adequate security at hardware and
+software to ensure overall system security in all scenarios. The cyber component includes hardware
+and associated software. The design of cyber component also requires software level abstraction to
+have system level model of cyber component. This also allows designing a very high reliability
+system as the model allows a predictable behaviour. Conventionally software is developed without
+formal models and largely depends on programmers‟ experience and knowledge; however,
+requirement of safety, reliability in CPS demand higher level of abstractions at software level as
+well. This allows the system remains correct and secure by design.
+Objective of the Programme
+The program aims to produce competent engineerswho can design engineered systems that are
+built from seamless integration of physical system and cyber systems. The program will enable
+engineers with required competency to design software-hardware architecture. The program also
+imparts knowledge of several tools for modelling physical systems and tools for designing cyber
+components. The program will produce professionals who can design predictable and secure Cyber
+Physical Systems (CPS).
+Expected Graduate Attributes (M.Tech)
+1. Ability to understand modern approaches to Model CPS.
+2. Appreciation of cross disciplinary interaction of cyber and Physical systems.
+3. Capability to design cyber components to meet the overall specifications of a unified system.
+4. Adequate design knowledge to ensure system remains correct by design.
+5. Ability to use knowledge from machine learning, control theory to achieve overall objectives
+of a given CPSs.
+6. High quality technical communication skills.
+7. Appreciation and adherence to norms of professional ethics.
+8. Ability to plan and manage technical projects.
+Learning outcome:
+1. Ability to analyse overall specifications of CPS and translate it to the different sub-
+systems design requirements.
+2. Adequate competency to model overall CPS using Hybrid system and other approaches
+and validate the model.
+3. Capability toco-design hardware-software architecture in distributed environment.
+4. Knowledge of Machine Learning algorithms and Distributed Control algorithms.
+5. Methods to embedded security in overall design of CPS.
+6. Ability to understand applications like smart grid, mobile networks and different systems
+of smart city.
+7. Critical thinking and scientific problem solving.
+8. Skill to communicate scientific ideas and /or application systems.
+9. Acquire basic project management skills
+Topics Cloud for the CPS program
+ Modelling of CPS system from Hybrid system‟s perspectives
+ Distributed computing; FoG and Cloud computing
+ Embedded System design (Using programmable system-on-chip approach)
+ Real time operating system
+ Communication protocols
+ Networked and distributed Control system
+ Algorithms of Machine Learning
+ Digital Signal Processing
+Proposed Program’s Structure Overall Structure
+Category Program
+Core (MC)
+Program
+Elective (ME)
+Open
+Elective
+(MO)
+Project
+(MP)
+Total
+Graded
+Credits
+Total
+Graded +
+Nongraded
+Credits
+Credits 18 18 06 16 58 62
+Semester wise distribution of credits
+Cat
+.
+Course Title L-T-P Credi
+ts
+Cat
+.
+Course Title L-
+T-P
+Credi
+ts
+I Semester II Semester
+MC Introduction to Cyber
+Physical Systems
+3-0-0 3 MC Security in CPS 2-0-
+0
+2
+MC Cyber Physical System
+Modelling and Simulation
+Laboratory
+0-0-2 1 MC Data Communication and
+Networking
+3-0-
+0
+3
+MC Advanced Control System 3-0-
+0
+3
+MC Introduction to Modelling
+(Fractal offered by Dept. Of
+Mathematics)
+1-0-0 1 MC Embedded System Design 3-0-
+0
+3
+MC Simulation of Dynamical
+Systems
+1-0-0 1 ME Program Elective-3 3-0-
+0
+3
+ME Program Elective-1 3-0-0 3 MC Embedded System Design
+Laboratory
+0-0-
+2
+1
+ME Program Elective-2 3-0-0 3
+MO Open Elective-1 3-0-0 3
+NG Technical Communication 1-0-0 1 NG Innovation and IP
+Management
+1-0-
+0
+1
+Total(Graded+Non-graded) 16 Total(Graded+Non-graded) 16
+III Semester IV Semester
+MP Project-1 6 MP Project-2 10
+ME Program Elective-4 3-0-0 3 MO Open Elective- 2 3-0-
+0
+3
+ME Program Elective-5 3-0-0 3 NG Professional Ethics 1-0-
+0
+1
+ME Program Elective-6 3-0-0 3
+NG Systems Engineering and
+Project Management
+1-0-
+0
+1
+Total(Graded+Non-graded) 16 Total(Graded+Non-graded) 14
+List of Program Electives
+Course Title L-T-P Credit
+s
+Department offers
+the course
+Computer Vision 3-0-0 3 CSE
+Advanced Digital Signal Processing 3-0-0 3 EE
+Vehicular Ad-Hoc
+Networks(VANETs)
+3-0-0 3 CSE
+Edge & Fog Computing 3-0-0 3 CSE
+Robotics : Fractal 1 Robot Modelling 1-0-2 2 ME
+Robotics : Fractal 2 Control 1-0-0 1 ME
+Robotics : Fractal 3 Motion
+Planning and Programming
+1-0-0 1 ME
+Machine Learning I 3-0-0 3 CSE
+Digital and Systems-on-Chips
+Design
+3-0-0 3 EE
+Introduction to Virtual Reality 3-0-0 3 CSE
+Smart Grid 3-0-0 3 EE
+Adaptive Signal processing 3-0-0 3 EE
+Computer Architecture 3-0-0 3 CSE
+Digital Twin 3-0-0 3 EE
+Machine Leaning II 3-0-0 3 CSE
+Artificial Intelligence I 3-0-0 3 CSE
+Artificial Intelligence II 3-0-0 3 CSE
+Smart Manufacturing 1-0-2 2 ME
+Resource Constrained AI 3-0-0 3 CSE
+Real Time Communications 3-0-0 3 EE
+Industry 4.0 Applications in
+Manufacturing Systems
+1-0-0 1 ME
+Optimization 1-0-0 1 Mathematics
+The department may add new electives from time to time.
+Title Introduction to Cyber Physical Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical Systems Type Core
+Prerequisite Differential Equations, Basics of Microprocessors
+Objectives
+The Instructor will:
+1. introduce modeling of CPS
+2. introduce ability to analyze and simulate CPS systems
+Learning Outcomes
+The students are expected to have the ability to:
+1. apply modeling and associated tools for Hybrid system
+2. to analyze CPS by with holistic models of cyber and physical components.
+Contents
+Motivation and examples of CPS e.g. Energy, Medical and Transportation cyber physical
+systems; Key design drivers and quality attributes of CPS. Attributes of high confidence CPS; (8
+hours)
+Continuous systemsmodeling; Discrete time system modeling; Finite state machine; Extended
+state machines; Hybrid system modeling; Classes of Hybrid Systems. (17 Hours)
+Analysis and Verification:
+Basic concepts of embedded systems; Embedded Processors; Input-outputs; Invariants and
+Temporal Logic; Linear Temporal Logic; Equivalence and Refinement; Development of models
+from specifications; Rechability analysis and Model Checking (17 Hours)
+Text Books
+1. R. Rajkumar, D. de. Niz and M. Klein, (2017), Cyber Physical Systems, Addision-Wesely.
+2. E.A.Lee and S A Shesia, (2018),Embedded system Design: A Cyber-Physical Approach,
+Second Edition, MIT Press.
+3. A.Platzer, (2017),Logical Foundations of Cyber Physical Systems, Springer.
+PreparatoryCourse Material
+Basics of Differential equations and basics of Microprocessors from any standard textbook.
+Title Embedded System Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical Systems Type Core
+Prerequisite Basics of Microprocessors
+Objectives
+The instructor will:
+1. introduce concepts of different architectures and programming languages of embedded
+processors.
+2. introduce design of embedded systems.
+Learning Outcomes
+The students are expected to have the ability to:
+1. program and to design embedded system using 32-bit embedded processors based on
+system specifications.
+2. use different IDE and debugging tools.
+Contents
+Review of Embedded Computing; embedded system design process; CPS and embedded
+Computing (3 Hours)
+Architecture of ARM Cortex M3 and Cortex A series processors; Memory system mechanism;
+Cache; Memory management units and address translation; Performance assessment of
+embedded processor; Introduction to Embedded Multicore Architecture
+(16 Hours)
+Programming of Embedded processors using assembly and C; models for program --data flow
+graphs; Assembly language programming of ARM Cortex M3; Hardware software co-design;
+(13 Hours)
+Processes and real time operating systems; Multi-rate system; real time scheduling algorithms
+e.g. RMA,EDF and their variants; Energy efficient scheduling algorithms; Examples of design of
+embedded systems. (8 Hours)
+Text Books
+1. JoshephYiu, (2013), The definitive Guide to ARM Cortex M3 and M4 Processors, 3rd Edition,
+Elsevier.
+2. Marilyn Wolf, (2014), High Performance embedded Computing: Applications in Cyber
+Physical Systems and Mobile Computing, 2nd Edition, Elsevier.
+Self Learning Material
+1. Prof. Santanu Chaudhary,Introduction to Embedded Computing, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Delhi,
+https://nptel.ac.in/courses/108102045/#
+Preparatory Course Material
+1. Marilyn Wolf, Computers as Components: Principles of Embedded Computing System
+Design, Third Edition, Elsevier 2012.
+Title Advanced Control Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical Systems Type Core
+Prerequisite Differential equations and Basics of Control system
+desirable
+Objectives
+The Instructor will:
+1. introduce Multi-Agent based Modeling control algorithms
+2. introduce robust controller for distributed systems
+Learning Outcomes
+The students are expected to have the ability to:
+1. evaluate different controllers for a given distributed system.
+2. use different tools to design robust controllers
+Contents
+Review of state space analysis and feedback control design; Problem of estimation and
+observer design; Cooperative control motivation and examples. (7 Hours)
+Distributed Control: Sources of uncertainty and robust control; Concepts of Sliding Mode
+control and its applications to Robust control design for distributed systems; Robust observer
+design. (14 Hours)
+Design behaviour of swarms Consensus problem and distributed flocking behaviour; Stability
+analysis of flocking motion; (8 Hours)
+Event Triggered Control: Introduction to event based sampling; stability with event based
+sampling; event based multi agent systems; consensus with event triggered control (7 Hours)
+Control of Cyber physical systems: Control of CPS with logic specifications, symbolic models for
+nonlinear system and extension to large classes of systems. (6 Hours)
+Textbooks
+1. Jeff Shamma, Cooperative Control of Distributed Multi-agent Systems, Wiley, 2008
+2. Edwards, Christopher, and Sarah Spurgeon, Sliding mode control: theory and applications,
+CRC Press, 1998.
+Other references:
+1. Tabuada, Paulo. "Event-triggered real-time scheduling of stabilizing control
+tasks." IEEE Transactions on Automatic Control 52.9 (2007): 1680-1685.
+PreparatoryCourse Material
+Basics of Control System from Norman Nice, 2007.
+Title Simulation of Dynamical Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Cyber Physical System Type Core
+Prerequisite Basics of ODE
+Objectives
+The Instructor will:
+1. Introduce different techniques to simulate different class of systems.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Use different tools for simulating systems using right set of simulation parameters
+Contents
+Simulation as problem solving tool; Basic principles of numeric integration; Euler integration;
+difference equation simulation (3 hours)
+Runge–Kutta Algorithms; stability domains of Runge–Kutta Algorithms; extrapolation
+technique; solver for Differential Algebraic Equations; (4 hours)
+Random variables; probability distribution; poison process; Markov process; Markov chain,
+Bayesian statistics; simulated annealing; Monte-Carlo simulation (7 hours)
+Textbooks
+1. François E. Cellier and Ernesto Kofman (2006), Continuous Systems Simulation,
+Springer 2006
+2. Sheldon M. Ross (2013), Simulation, Academic Press, 5th Edition.
+Title Cyber Physical System Modelling Laboratory Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.TechCyber Physical System Type Core
+Prerequisite ODE
+Objectives
+The Instructor will:
+1. Introduce techniques to model/simulate different Cyber Physical Systems
+2. Introduce techniques to verify different CPS models
+Learning Outcomes
+The students are expected to have the ability to:
+1. Use different tools for Modelling/Simulation and verifications.
+Contents
+Modelling experiments in continuous, discrete and hybrid system; Verification of model using
+different techniques; Sensitivity analysis of Models; Sensitivity analysis of Hybrid Models;
+Scheduling in embedded system
+Title Embedded System Design Laboratory Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech.Cyber Physical System Type Core
+Prerequisite Basics of Processors
+Objectives
+The Instructor will:
+1. Design experimentations to ensure students get practical exposure for embedded system
+design tools.
+2. Introduce students overall design process of embedded systems using Integrated
+Development Environment (IDE).
+Learning Outcomes
+The students are expected to have the ability to:
+1. 1. Use assembly and high level languages to program 32-bit processors
+2. Design interfacing circuits for embedded processors
+Contents
+Programming Cortex M3 processors using assembly and C language; Interfacing the processors
+with LCD, Seven Segment; DC Motor; Key board etc.; use of serial communication with
+processors; Interfacing sensors through ADC
+Title Smart Grid Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical System Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Concepts and topics that are relevant to smart grid technologies to facilitate exploring
+research opportunities.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand main concepts of smart grid development and the critical technologies that
+underpin such development, their basic principles, physical constraints, and technological
+potentials
+Contents
+Smart Grid Basics: Evolution of Electric Power Grid and Smart Grid, Objectives, main features
+and challenges of smart grid (5 Hours)
+Energy resources : centralized vs. distributed generation; renewable energy: solar, wind,
+hydropower,biomass, geothermal, ocean wave; benefit, costs, and policies of renewable
+energy; renewable sourcesintegration – overcoming intermittence; storage systems technology
+(10 Hours)
+Plug-in Electric Vehicle(PEV): history of EV; PEV challenges and potential solutions; EV and
+electric power grid; PEV charging infrastructure, challenges and solutions; PEV as an energy
+storage device and an energy source (V2G). (9 Hours)
+Demand-side management: load profile of the power grid; market pricing; peak shaving and
+valley filling; load forecasting; regulations and policies. (9 Hours)
+Monitoring and Protection: wide-area monitoring system (WAMS), SCADA and PMU; advanced
+metering infrastructure (AMI); smart metering; communication infrastructure and technologies
+(9 Hours)
+Textbooks
+1. J. Duncan Glover, Mulukutla S. Sarma, and Thomas J. Overbye, (2008),Power System
+Analysis and Design, 4th Ed.,Stamford, CT: Cengage Learning,.
+2. Jan Machowski, JanuszBialek, and James R. Bumby, (2008),Power Systems Dynamics,
+Stability and Control, 2nd Ed.New York, New York: John Wiley.
+3. B. Droste-Franke, et al.,(2012), Balancing Renewable Electricity – energy storage, demand
+side management, and network extension from an interdisciplinary perspective. Heidelberg,
+Germany: Springer.
+4. T. Ackermann, Ed.,(2005),Wind Power in Power Systems. New York, New York: Wiley.
+Title Security in Cyber Physical Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. Cyber Physical System Type Core
+Prerequisite Basics of Control system is desirable
+Objectives
+The Instructor will:
+1. Introduce mathematical framework for Cyber Physical System attacks
+2. Introduce centralized and decentralized techniques of attack detection
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyze the system for possible security vulnerability.
+2. Design attack resilient system.
+Contents
+Review of graph theory based models; some examples from infrastructure system modelling;
+Descriptor system; Unified modelling of CPS attack; case of undetectable attacks; (7 Hours)
+Graph theoretic characterization of attacks and its limitations; Centralized and distributed
+monitors; examples from power system, water distribution networks etc. (7 Hours)
+Security issues of Industrial Control Systems; Integrity attacks on SCADA systems; Model
+based technique to detect integrity attacks on sensors; threat model and its effect on control
+scheme; countermeasure for detecting such attacks; watermarking scheme; (7 Hours)
+Design of observers under sensor and actuator attacks; design of observer for distributed
+environment under different attacks; applications of swarms of UAVs; Control design with
+denial service attack; case studies (6 Hours)
+References
+1. F. Pasqualetti, F. Dörfler and F. Bullo, "Attack Detection and Identification in Cyber-Physical
+Systems," in IEEE Transactions on Automatic Control, vol. 58, no. 11, pp. 2715-2729, Nov.
+2013.
+2. H. Fawzi, P. Tabuada and S. Diggavi, "Secure Estimation and Control for Cyber-Physical
+Systems Under Adversarial Attacks," in IEEE Transactions on Automatic Control, vol. 59, no.
+6, pp. 1454-1467, June 2014.
+3. Yilin Mo, Rohan Chabukswar and Bruno Sinopoli“Detecting Integrity Attacks on SCADA
+Systems” in IEEE Transactions on Control System Technology, Vol. 22, No. 4, 2014
+4. F. Pasqualetti, F. Dörfler and F. Bullo “Control Theoretic methods for Cyber Physical
+Security”, in IEEE Control System Magazine, pp. 110-127, Feb. 2015
+PreparatoryCourse Material
+Basics of Control System from Norman Nice, 2007.
+Proposal
+For
+M. Tech. in Sensors and Internet of Things
+(SIoT)
+Program Structure for first four semesters
+Introduction
+Last few decades had seen extensive growth in the electronic systems to make the life of
+humans smoother and easier with time. With enormous features available in various systems, a
+new era of engineering, Internet of Things (IoT), has gained interest. IoT is a network of connected
+things and people, which collects and communicates data from environment around them. To be
+able to do so, Sensors are the key components to communicate with surroundings. Applications of
+Sensors and Internet of Things (SIoT) include smart agriculture, transportation, environment
+monitoring, healthcare, and smart wearable. The M.Tech. Program in sIoT is especially designed for
+young innovators to provide them a breadth as well as depth for designing systems for the current
+era of sIoT. M.Tech.+Ph.D. Dual Degree program will have same course work as M.Tech. sIoT for
+first two years. However, Dual Degree program is specially designed to encourage talented and
+motivated B.Tech./M.Sc. students to undertake direct Ph.D. study in the area of sIoT.
+Objective
+To produce skilled graduates with exposure to current era of SIoT and deeper understanding
+of the subject components. The graduates will eventually be contributing to variety of domains
+including smart agriculture, transportation, environment monitoring, healthcare, and smart
+wearable.
+Program’s Scope
+The objective is to develop broad IoT systems and this program will be offered with four Primary
+verticals.
+ Sensors and Sensing Technologies
+ Circuits and Systems
+ Communication and Networking
+ Embedded systems
+The program will offer deeper theoretical learning through various verticals by theory and
+laboratory courses. Hands on experiments and projects will be offered to enhance the learning. For
+Dual Degree Ph.D., ~2 additional years will be dedicated towards research contributions.
+Graduate attributes
+ Ability to follow multidisciplinary approach for design and implementation of systems,
+involving various domains of Engineering, Sciences, and Humanities.
+ Skills to design and develop various sensors and related interfacing circuitry for IoT
+ Ability to develop design, simulation, and implementation schemes based on the knowledge
+acquired from coursework.
+ Skills to implement IoT sensor platforms for applications in the area of environment, health,
+agriculture, and other novel applications.
+ Skills to undertake high quality academic and industrial research in Sensors and IoT
+Learning outcomes
+ Strong understanding of fundamentals of Sensing and Sensor Devices
+ Ability of designing Digital and Analog interface circuits used for SIoT
+ Capability of interfacing Sensors for IoT applications
+ Development and use of emerging Sensors for IoT Technology
+ Understanding of fundamentals of wireless communications to design Sensor Nodes
+ Implementation of IoT platforms using embedded systems
+ Understanding of uses and risks related to IoT devices
+Program’s Structure
+Overall Structure
+Category M.Tech
+Compulsory
+(MC)
+M. Tech Elective
+(ME)
+M. Tech Open
+(MO)
+M. Tech
+Project (MP)
+Total
+Credits 19 17 6 16 58
+Semester wise distribution of credits
+Cat
+.
+Course Title L-T-P Cr. Cat
+.
+Course Title L-T-P Cr.
+I Semester II Semester
+MC Sensors and
+Measurement
+3-0-0 3 MC Data communication and
+Networking
+3-0-
+0
+3
+MC Microsystems Fabrication
+Technology
+3-0-0 3 MC Digital and Systems-on-
+Chip Design
+3-0-
+0
+3
+MC Analog and Interfacing
+Circuits
+3-0-0 3 MC VLSI Design Lab 0-0-
+2
+1
+MC Introduction to Internet
+of Things
+1-0-0 1 ME Program Elective-2 3-0-
+0
+3
+MC Sensors and IoT Lab 0-0-2 1 ME Program Elective-3 3-0-
+0
+3
+ME Program Elective-1 3-0-0 3 ME Program Elective-4 3-0-
+0
+3
+NG Technical Communication 1-0-0 1 NG Innovation and IP
+Management
+1-0-
+0
+1
+Total (Graded + Non-graded) 15 Total (Graded + Non-graded) 17
+Winter Term
+MC Winter Internship 1
+Total 1
+III Semester IV Semester
+MP Project-1 5 MP Project-2 11
+ME Program Elective-5 3-0-0 3 MO Open Elective-2 3-0-
+0
+3
+ME Program Elective-6 2-0-0 2 NG Professional Ethics 1-0-
+0
+1
+MO Open Elective-1 3-0-0 3
+NG Systems Engineering and
+Project Management
+1-0-0 1
+Total (Graded+ Non-graded) 14 Total (Graded+ Non-graded)l 15
+Winter Internship is designed for hands-on-exposure in micro-fabrication
+technology for sensors and actuators
+List of Program Electives
+Course Title L-T-
+P
+Cre
+dits
+Course Title L-T-P Cre
+dits
+First/Third Semester Third Semester
+Flexible and Printed Electronics 3-0-0 3 Advanced Digital Signal
+Processing
+3-0-0 3
+Digital VLSI Design 3-0-0 3 Neuromorphic Computing and
+Design
+3-0-0 3
+Wireless Communication 3-0-0 3 Fog and Edge Computing 3-0-0 3
+Antenna Engineering 3-0-0 3 Vehicular Ad Hoc Networks 3-0-0 3
+Machine Learning 1 3-0-0 3
+Selected Topics in Sensors &
+IoT I
+1-0-0 1
+Second Semester Fourth Semester
+Image Sensor Design and
+Applications
+3-0-0 3 Resource Constrained AI 3-0-0 3
+RF IC Design 3-0-0 3 Microfluidics Technology 3-0-0 3
+Embedded Systems Design 3-0-0 3 Selected Topics in Sensors &
+IoT II
+2-0-0 2
+Active Filter Design 3-0-0 3 Selected Topics in Sensors &
+IoT III
+3-0-0 3
+Millimeter-wave Technology 3-0-0 3
+Nano Sensors 3-0-0 3
+Open electives: These can be taken from the existing program electives or any other course of
+same level from the institute
+Course Title Sensors and Measurements Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Semiconductor Devices
+Objective
+The Instructor will:
+1. Introduce the students to sensors, as transducers from physical parameters to signals
+2. Explain the sensing principles for displacement, force, pressure, acceleration,
+temperature, optical radiation, nuclear radiation
+3. Explain the sensor range, sensitivity, accuracy, repeatability, noise
+Learning Outcomes
+Students are expected to have the ability to
+1. Understand fundamental principles of sensing technology,
+2. Design various sensors and implementation
+3. Understand Nondestructive characterization methods
+Contents
+EEL7XX1: Sensor characteristics [1-0-0]
+(Fractal 1)Definitions, terminology, classification, Static vs dynamic properties of transducers,
+Transfer functions, Ideal and realistic transducer models, Resolution, linearization, dynamic
+range, detection threshold, Selectivity & sensitivity, Calibration, Errors of the experimental
+measurements, Noise: electronics, environmental & internal (14 lectures)
+EEL7XX2: Physical Principle of Sensing [1-0-0]
+(Fractal 2)Capacitance, Magnetism, Induction, Resistance, Piezoelectric effect, Pyroelectric effect,
+Hall effect, Thermoelectric effect, Temperature and thermal properties of materials and heat
+transfer, Optics, Fiber optics and waveguides (14 lectures)
+EEL7XX3: Sensor Interface and Applications [1-0-0]
+(Fractal 3)Input characteristics of interface circuits, Amplifiers, Light to voltage converters,
+Capacitance to voltage converters, Bridge Circuits, Excitation circuits. Case Studies:Inertial
+Sensors (Accelerometer & gyroscope), Healthcare Sensors (Glucometer, ECG & MRI), Smart
+building Sensors (Smoke & occupancy sensors) (14 lectures)
+Text Books
+1. Jacob Fraden, (2010), Handbook of Modern Sensors, 5th Edition, Springer.
+2. J. W. Gardner, (1996), Microsensors, Principles and Applications, 1st Edition, Wiley.
+3. S. M. Sze, (1994), Semiconductor Sensors, 1st Edition, Wiley.
+Course Title Analog and Interfacing
+Circuits
+Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital and Analog Electronics
+Objectives
+The Instructor will:
+1. Familiarize students with the concepts of Analog IC Design and give them a
+comprehensive overview of various amplifiers.
+2. Familiarize the students with different building blocks of a mixed signal interface circuit
+design essential for sensors and IoT.
+Learning Outcomes
+Students are expected to have the ability to:
+1. Understand fundamental principles of CMOS Analog IC Design and interfacing of analog
+signals with the digital signal processing circuits.
+2. Apply the circuit design fundamentals for IoT applications.
+3. Work on design tools like Cadence/Mentor Graphics
+Contents
+EEL7XX1: Fundamentals of Analog Circuits and Design [1-0-0]
+(Fractal 1)Introduction toAnalog VLSI and design issues in CMOS technologies, MOS models,
+SPICE Models, Single stage amplifiers, Biasing circuits, Voltage and Current reference
+circuits, Feedback analysis, Multistage amplifiers, Mismatch and noise analysis, Differential
+amplifiers, Oscillators (14 Lectures)
+EEL7XX2: Readout Electronics [1-0-0]
+(Fractal 2)Switch capacitor circuits: Principles and applications in filter design; switches and
+related design issues, variable gain amplifier, low noise and high speed amplifier topologies.
+Analog to digital converters:Types of ADCs, static and dynamic characteristics; track and
+hold, and sample and hold circuits; comparators; detail design analysis for successive
+approximation register (SAR) ADCs, discrete-time and continuous time sigma-delta ADCs(14
+Lectures)
+EEL7XX3: Digital to Analog Converters Design [1-0-0]
+(Fractal 3)Digital to Analog Converters:Voltage-based DACs; charge-based DACs; current-
+based DACs – binary and thermometer currents. Phase-locked loop: Basics; PLL dynamics;
+voltage controlled oscillator, frequency synthesis. Applications: Wearable Biomedical IoT
+nodes (14 Lectures)
+Text Books
+1. Razavi, B., (2016),Design of Analog CMOS Integrated Circuits, 2nd Edition, McGraw-Hill
+Education.
+2. R. Jacob Baker, H.W.Li, and D.E. Boyce, (2009), – CMOS Circuit Design ,Layout and
+Simulation, 2nd Edition, Prentice-Hall of India
+3. David A. Johns, Ken Martin, (2013), “Analog Integrated Circuit Design”, 2nd Edition, John
+Wiley and Sons.
+Self Learning material
+1. Shanthi Pavan, VLSI Data Conversion Circuits, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/117106034/
+2. Nagendra Krishnapura, Analog Integrated Circuit Design, Department of Electrical
+Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/117106030/
+Preparatory Course Material
+1. P. E. Allen, D. R. Holberg (2013), CMOS Analog Circuit Design, 3rd Edition, Oxford
+University Press.
+2. R. Gregorian, G. C. Temes, (2008), “Analog MOS Integrated Circuits for Signal
+Processing”, John Wiley and Sons.
+Course Title Microsystems Fabrication
+Technology
+Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Semiconductor Devices
+Objectives
+The Instructor will:
+1. Introduce to the students the essentials of micro-electronics fabrication technology required for
+the realization of integrated circuits and transducers & actuators.
+2. Introduce the basic concepts of MEMS design, fabrication process integration and advanced
+micro-machining techniques for high aspect ratio MEMS structures.
+Learning Outcomes
+Students will have the capability to :
+1. Understand the unit fabrication processes for ICs and MEMS
+2. Design and fabricate MEMS based sensors and actuators
+Contents
+Unit processes in fabrication of ICs and MEMS: Clean room practices, Crystal growth techniques,
+wafer preparation and shaping, chemical cleaning, thermal oxidation, diffusion, ion implantation,
+photolithography, Thin film deposition, Etching (18 lectures)
+Unit processes specific to MEMS: Surface and bulk micro-machining, DRIE, LIGA, and packaging
+(12 lectures)
+Case studies of MEMS: Basic concepts of Beam/diaphragm mechanics, electrostatic actuation and
+fabrication, „process design‟ for selected MEMS based sensors and actuators such as Comb drives,
+touch sensor, pressure sensor, RF MEMS Switches, Electric / Magnetic Field sensor etc.
+(12 lectures )
+Text books:
+1. Tai-Ran Hsu, (2017), MEMS & Microsystems Design and Manufacture, Indian Edition, Tata
+McGraw-Hill
+2. M. Bao, (2005), Analysis and Design Principles of MEMS Devices, 1st Edition, Elsevier
+3. J. D. Plummer, M. D. Deal, and P. B. Griffin (2009), Silicon VLSI technology: Fundamentals,
+practice, and modelling, 1st Edition, Prentice Hall
+Self learning material
+1. Marc J. Madou, (2011), Fundamentals of Microfabrication and Nanotechnology: The Science
+of Miniaturization, 3rd Edition, CRC Press.
+2. M. Sze, (2003),VLSI Technology, 2nd edition McGraw Hill Education.
+Preparatory course material
+1. Sensors and Actuators (Elsevier)
+2. J. Micromechanics and Micro engineering (IOP)
+Title Introduction to Internet of Things Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M. Tech. 1st year Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide overview of applications of IoT and relevant technologies
+Learning Outcomes
+The students are expected to have the ability to:
+1. Identify and integrate different components required for IoT applications
+Contents
+Introduction to IoT: Sensing, Actuation, Basics of IoT Networking (2 Lectures)
+IoT Architecture, Communication Protocols for IoT (2 Lectures)
+Sensor Networks: Wireless Sensor Network, Sensor nodes (2 Lectures)
+Machine to machine Communication: Introduction, Node types and M2M Applications,
+Integration of Sensors and Actuators for Implementation of IoT (4 Lectures)
+Introduction to Cloud, Fog, and Edge Computing, Smart cities and Smart homes, Industrial IoT
+(4 Lectures)
+Textbook
+1. Kamal, R., (2017), Internet of Things - Architecture and Design Principles, 1st Edition,
+Mcgraw Hill.
+Preparatory Course Material
+1. Misra, S., Introduction to Internet of Things, NPTEL Course Material, Department of
+Computer Science and Engineering, Indian Institute of Technology Kharagpur,
+https://nptel.ac.in/courses/106105166/
+Title Data Communication and Networking Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Prerequisite Fundamentals of Wireless Communications
+Objectives
+The Instructor will:
+1. Expose the students to distinguishing features of wireless networks
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and optimize wireless network architectures.
+2. Implement security techniques for wireless networks.
+Contents
+Fundamentals: Layered architecture overview, data communication techniques,
+motivations for cross-layer protocol design, motivations for performance analysis,
+forward error correction and re-transmission performances (7 Lectures)
+Network layer and topology design: Markov and semi-Markov processes, Little‟s
+theorem, M/M/m/k, M/G/1 systems, priority queueing, network of queues, network
+traffic behavior, routing algorithms and analysis, distributed networks, design
+constraints, bounded latency networks, optimization, cognitive networks (10 Lectures)
+Network Management:Power management, time synchronization, localization, energy-
+efficient protocols for sensor networks (7 Lectures)
+Mechanisms to improve performance: Self-Organizing Network, Software-Defined
+Networking (7 Lectures)
+Transport and Application Layers: congestion control and quality of service, scheduling,
+multimedia, key aspects and design issues (7 Lectures)
+Reliability and security: Security requirement and attacks, Encryption techniques,
+reliable and secure communication protocols (4 Lectures)
+Textbook
+1. Dargie, W., and Poellabauer, C., (2010), Fundamentals
+ofWireless Sensor Networks: Theory and Practice, Wiley
+2. Stallings, W., (2007), Data and Computer Communications, 8th Edition, Pearson
+3. Bertsekas, D. P. and Gallager, R. G., (1992), Data Networks, 2nd Edition, Prentice
+Hall
+Self-Learning Material
+1. Mishra, S., Wireless Adhoc and Sensors Networks, NPTEL Course Material,
+Department of Electrical and Electronics Communication Engineering, Indian
+Institute of Technology Kharagpur, https://nptel.ac.in/courses/106105160/
+2. Zou, Y., Zhu, J., Wang, X., and Hanzo, L., "A Survey on Wireless Security: Technical
+Challenges, Recent Advances, and Future Trends," in Proceedings of the IEEE, vol.
+104, no. 9, pp. 1727-1765, Sept. 2016.
+3. W. Xia, Y. Wen, C. H. Foh, D. Niyato and H. Xie, "A Survey on Software-Defined
+Networking," in IEEE Communications Surveys & Tutorials, vol. 17, no. 1, pp. 27-51,
+Firstquarter 2015.
+Preparatory Course Material
+1. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering & Computer Science, Massachusetts Institute of Technology,
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-452-
+principles-of-wireless-communications-spring-2006/index.htm
+Course Title Digital and Systems-on-Chip
+Design
+Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital Logic and Design
+Objectives
+The Instructor will:
+1. Make the students analyze the functional and nonfunctional performance of the
+system early in the design process to support design decisions.
+2. Make the students appreciate issues in system-on-a-chip design associated with co-
+design, such as intellectual property, reuse, and verification.
+3. Explain the hardware, software, and interface synthesis.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyze hardware/software tradeoffs, algorithms, and architectures to optimize the
+system based on requirements and implementation constraints.
+2. Understand issues in interface design.
+3. Use co-simulation to validate system functionality.
+Contents
+Digital Design using Verilog and VHDL: Introduction to ASIC design, combinational and
+sequential circuit design process, Finite state machines, Modelling styles, RTL models,
+Memory models. Programmable logic devices and FPGAs: PALs, PLDs, FPGA programming
+concepts and techniques, design synthesis using FPGA kits (14 lectures)
+System-level and SoC design methodologies and tools; HW/SW co-design: analysis,
+partitioning, real-time scheduling, hardware acceleration; Virtual platform models, co-
+simulation and FPGAs for prototyping of HW/SW systems; Transaction-Level Modeling (TLM),
+Electronic System-Level (ESL) languages: SystemC; High-Level Synthesis (HLS): allocation,
+scheduling, binding, resource sharing, pipelining; SoC and IP integration, verification and
+test. ARM-based System-on-Chip Design. (28 lectures)
+Text Books
+1. Unsalan, C., Tar, B., (2017), Digital System Design with FPGA Implementation Using
+Verilog and VHDL, McGraw-Hill
+2. D. Black, J. Donovan, (2010),SystemC: From the Ground Up, 2nd Edition, Springer.
+3. D. Gajski, S. Abdi, A. Gerstlauer, G. Schirner, (2009), Embedded System Design:
+Modeling, Synthesis, Verification, Springer
+Preparatory Course material
+1. Nelson, V.P., Carroll, B.D., Nagle, H.T., Irwin, J.D., (2020), Digital Logic Circuit
+Analysis and Design, 2nd Edition, Pearson
+2. G. De Micheli, (2017), Synthesis and Optimization of Digital Circuits, McGraw-Hill.
+Title Flexible and Printed Electronics Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M.Tech., Ph.D Type Elective
+Prerequisite Understanding of Electronic Materials and
+Devices
+Objectives
+The Instructor will:
+1. Explainfundamentalsof thin-film electronic materials and devices for flexible
+electronics.
+2. Teach the concepts for heterogeneous integration of thin-film devices on flexible
+platforms.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Identify the advantages, drawbacks, performances, complementarity and
+uniqueness of large area manufacturing vs. silicon technology
+2. Integrate the operation principles, architectures and processing of main devices and
+systems fabricated for flexible electronics
+3. Predict systems integration issues and propose methods for integration and
+encapsulation of printed devices and systems
+Contents
+Introduction to Flexible and Printed Electronics: Evolution of Flexible Electronics, review
+of cutting edge research on electronics that can be flexible, plastic, stretchable,
+conformable or printed. Electronic materials, components and systems, applications for
+IoT (2 Lectures)
+Materials, Processing, and Manufacturing: Various semiconductors, dielectric, and
+conducting materials, Organic semiconductors, from chemical bonds to bands, Charge
+injection and transport, Examples of printable functional materials , Thin-film Deposition
+and Processing Methods for Flexible Devices, Solution-based Patterning Processes; Ink-
+jet printing, gravure and other processes, surface energy effects, multilayer patterning
+(12 Lectures)
+FlexibleThin-Film Transistors and Circuits: Thin-Film Transistor; Device structure and
+performance, Electrical characteristics, parameter extraction, characterization methods
+for rigid and flexible devices, electrical stability, printed transistors; organic/polymer,
+metal-oxide, electrolyte gated, Case studies; submicrometer OTFTs and gravure printed
+OTFTs, From transistors to circuits, circuits on flexible and non- silicon substrates,
+Contacts and Interfaces to Organic and Inorganic Electronic Devices: Schottky contacts,
+defects, carrier recombination, effect of applied mechanical strain(14 Lectures)
+Other Flexible Devices and System Integration: Organic Light Emitting Diodes, Organic
+Solar Cells, thin flexible OLED displays, OLED lighting, smart wallpaper, sensors, logic,
+and memory, RFID tags, Latest applications of printed electronics, Encapsulation, Roll
+to roll printing processes, Integration Issues, and Designs for Future (14 Lectures)
+Textbook
+1. G. Nisato, D. Lupo, S. Ganz (Editors) (2016), Organic and Printed Electronics:
+Fundamentals and Applications, CRC Press
+2. Large Area and Flexible Electronics, Mario Caironi & Yong-Young Noh (Editors
+(2015), WILEY-VCH
+3. Wong, William S., and Alberto Salleo, (Eds.) (2009) Flexible electronics: materials
+and applications. Vol. 11. Springer
+Self Learning Material
+1. Recent Journal Papers form Flexible and Printed Electronics, IOP, and Organic
+Electronics, Elsevier
+Title Antenna Engineering Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Electromagnetic Theory, Microwave Engineering
+Objectives
+The Instructor will:
+1. Introduce the various concept of antenna design.
+2. familiarize the students with the application of different type of antennas
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design low profile antennas and high gain antenna arrays for practical applications
+2. Utilize simulation software e.g. HFSS, CST etc. for designing Antenna systems and test RF
+and microwave antennas
+Contents
+Introduction to Antennas: Radiation mechanism, Current distribution on a thin wire antenna,
+Review of Antenna Parameters; Friis Transmission formulae, Radar Range equation (7
+Lectures)
+Radiation Integrals and Auxiliary Potential Function Vector potential for electric current source
+and magnetic current source, inhomogeneous vector potential wave equation, duality theorem,
+reciprocity theorem (3 Lectures)
+Design of Dipole Antenna Design of Infinitesimal dipole, small dipole, half-wavelength dipole (4
+Lectures)
+Microstrip antenna Rectangular patch antenna, feeding methods, transmission line model,
+cavity model, Circular Patch Antenna (4 Lectures)
+Low-profile Antenna Application: Mobile handset antenna- helical wire and variants; electrically
+small antenna; power factor, quality factor and bandwidth; radiation efficiency and realized
+gain; PIFA;; On-chip antenna; SAR measurement and miniaturization; GPS and Bluetooth
+antenna; medical application- antennas for medical imaging; heating; sensing; Automobile
+antennas- MAST antenna; Window glass antenna; Panel Antenna; (10 Lectures)
+Design of Antenna Arrays Analysis of Two element array, N-element linear array (uniform and
+nonuniform amplitude excitation: Binomial, Dolph-Tschebyscheff, Taylor distribution), planar
+array, Phased Array (5 Lectures)
+Aperture Antenna Field equivalence principle, Radiation equation, Rectangular aperture,
+circular aperture, Babinet‟s principle, Sectoral horn antenna, Pyramidal Horn antenna (6
+Lectures)
+Antenna Measurement Antenna Ranges, Radiation Pattern measurement, Gain measurement
+(absolute gain method, gain comparison method), Directivity measurement (3 Lectures)
+Textbook
+1. Balanis C. A., Antenna Theory, Analysis and Design, 4th edition, Wiley Press, 2016
+2. Krauss J. D., Antennas and Wave Propagation, 4th edition, Tata McGraw-Hill Education,
+2006
+3. Elliott R. S., Antenna Theory and Design, Wiley Press, 2006
+Self Learning Material
+1. Vedio Lecture: Antenna Engineering, Dr. Anthony Ferraro, Penn State Univ., USA,
+http://www.engr.psu.edu/cde/courses/ee438/index.htm
+Preparatory Course Material
+1. NPTEL Lectures: Microwave Theory and Techniques, (Dr. Girish Kumar, IIT Bombay)
+https://nptel.ac.in/courses/108101112/
+Title Digital VLSI Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M.Tech., Ph.D. Type Elective
+Prerequisite Digital Electronics, Knowledge of MOS device physics
+Objectives
+The Instructor will:
+• Introduce the basics of digital circuit design methods.
+• Explain the necessary concepts for digital VLSI design according to design rules decided
+by various technologies.
+Learning Outcomes
+The students are expected to have the ability to:
+ Design and optimize digital circuits with different quality metrics: cost, speed, power
+dissipation, and reliability.
+ Learn about the major building blocks of digital systems
+Contents
+• Introduction:Review of VLSI, Historical Perspective, Issues in Digital IC design, Quality
+metrics. (2 Lectures)
+• Manufacturing: CMOS technology, Layout design & design rules, IC Packaging, future
+trends in process technology. (2 Lectures)
+• Devices and Interconnects: MOS devices, MOS transistor models, Technology Scaling,
+Effect of Process variations, Interconnect and wire models. (4 Lectures)
+• CMOS Circuits: CMOS Inverter, Static and Dynamic Behaviour, Propagation delay, noise
+margins, and power dissipation, Impact of technology scaling, logical efforts. (7
+Lectures)
+• Designing combinational logic gates: Static CMOS design, Ratioed Logic, Pseudo NMOS,
+Pass Transistors Logic, Dynamic CMOS design, speed and power dissipation, choosing a
+logic style (7 lectures).
+• Design of sequential logic circuits: Static Latches and Registers, Dynamic Latches and
+Registers, Alternative Register styles, pipelining, choosing a clock strategy. (3 Lectures)
+• Timing Issues in Digital Circuits:Timing classification, Synchronous Design,
+Synchronous timing basics, Skew and Jitter, clock distribution techniques (5 Lectures).
+• Designing Arithmetic Blocks: Data paths in Digital Processor Architecture, Adder,
+Multiplier, Shifter, power and speed tradeoff. (3 Lectures).
+• Designing Memories and Array Structures:Memory Classification, Memory Architecture
+and Building Blocks, Memory core, Read only Memory, Read-write Memories, Memory
+peripheral circuitry, Decoders, Sense Amplifiers, Buffers, reliability, power dissipation,
+future trends validation and test (7 Lectures).
+• Implementation strategies for digital ICs, Design Verification, Validation and Test,
+Introduction to HDL.(2 Lectures)
+Textbook
+1. Jan M. Rabaey, Anantha Chandrakasan, and Borivoje Nikolic, (2016), Digital integrated
+Circuits, A design perspective, 2nd Edition, 2nd Edition, Pearson.
+2. Neil H.E. Weste, David Money Harris, (2010), CMOS VLSI Design: A Circuits and
+Systems Perspective, 4th Edition, Pearson.
+3. Sung-Mo-Kang, Yusuf Leblebici, (2016), CMOS Digital Integrated Circuits Analysis &
+Design, 4th Edition, Mc-Graw Hill.
+Self Learning Material
+1. Jan M. Rabaey, Anantha Chandrakasan, and Borivoje Nikolic, online Video
+lectureshttp://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee241_s01/Lectures/
+Title Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M.Tech., Ph.D. Type Elective
+Prerequisite Fundamentals of Communications
+Objectives
+The Instructor will:
+1. Provide students an understanding of the concepts related to communication overwireless
+fading channel.
+2. Expose students to concepts and techniques for exploiting fading and applicationof these
+concepts in multiuser communication systems context.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand concepts related to deep fade, diversity techniques and channelcapacity for
+point-to-point wireless communications systems.
+2. Analyze multi-user networks and understanding of techniques likeopportunistic
+communication, multiuser diversity, superposition coding and successiveinterference
+cancellation.
+3. Analyze and design wireless ad-hoc networks with special emphasis on energyconstrained
+networks
+Contents
+Wireless Channels: Modelling of wireless channels; space, time and frequency
+channelcoherence; input/output channel models for single and multi-antenna systems (7
+lectures)
+Diversity: Digital modulation and its performance in fading; inter-symbol interference;
+realizingdiversity: time diversity, frequency diversity, antenna diversity; code design for
+wirelesschannels (14 lectures)
+Wireless Channel Capacity: Capacity of the Gaussian channels; capacity of fading channels (7
+lectures)
+Multiuser system design: Multiple access and random access techniques; multiuser channel
+capacity (7 lectures)
+Ad hoc wireless network: design principles, protocol layers, network capacity limits,
+andenergy-constrained networks. (7 lectures)
+Textbook
+1. Tse, D. and Viswanath, P., (2005), Fundamentals of wireless communication, Cambridge
+University Press.
+2. Goldsmith, A., (2005), Wireless Communications, Cambridge University Press.
+3. Simon, M. K. and Alouini, M. S., (2004), Digital communication over fading channels, John
+Wiley and Sons.
+Self-Learning Material
+1. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering & Computer Science, Massachusetts Institute of Technology,
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-452-principles-
+of-wireless-communications-spring-2006/index.htm
+PreparatoryCourse Material
+1. Jagannatham, A. K., Principles of Communication II, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology
+Kanpur,https://nptel.ac.in/courses/108104098/
+2. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT OpenCourseWare,
+Electrical Engineering & Computer Science, Massachusetts Institute of Technology,
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-450-principles-of-
+digital-communications-i-fall-2006/
+Title Image Sensor Design and Applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. IV, M. Tech, Ph.D. Type Elective
+Prerequisite Analog electronics
+Objectives
+The Instructor will:
+1. Introduce the design and analysis of CMOS image sensors.
+2. Explain the readout electronics behind the camera.
+3. Provide the knowledge of performance measures and tradeoffs involved in the
+camera design.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and develop CMOS image sensor including the sensing mechanism and signal
+chain of the camera.
+2. Implement different techniques required for high dynamic range camera, high frame
+rate, low noise camera, time of flight 3D cameras etc.
+Contents
+Introduction to photodetectors:Photodiode and photogate, photocurrent, dark current,
+quantum efficiency, spectral response and photo-conversion principles (5 Lectures).
+Introduction to Charge coupled devices and CMOS image sensors: Operation,
+performance metrics, noise and its types, spatial resolution and modulation transfer
+function. Concept of exposure triangle including aperture, shutter speed and ISO, color
+filters, Bayer pattern, Shutters and its types, motion blur, hard and soft reset,
+Introduction to imaging optics (8 Lectures).
+Readout electronics and image sensor characterization:Readout and its types, design
+tradeoffs and challenges, analysis of the signal path behind the camera, variable gain
+amplifiers, double sampling circuits, ADCs, reference circuits including BGR and LDO,
+clock generation circuits including PLL and delay elements, floor planning, placement
+and routing, image sensor characterization. Introduction to wire bonding, packaging,
+lens and color filters for product level design (15 Lectures).
+Emerging trends:High speed cameras, high dynamic range cameras, 3D cameras for
+background light subtraction and depth estimation. Concepts of Polarization imaging,
+low light imaging, machine vision, backside illumination, stacked technology, target
+tracking (10 Lectures).
+Color Processing: Color demosaicing, color correction and white balance (2 Lectures).
+Applications:Smart city, health care, autonomous vehicles, sports, motion detection,
+surveillance (2 Lectures).
+Textbook
+1. Jun Ohta, (2007), Smart CMOS Image sensors and Applications, CRC press.
+Self Learning Material
+1. O. Yadid Pecht and R. E. Cummings (2004), CMOS imagers: From Photo
+transduction to Image processing, Springer.
+2. Image sensors blog http://image-sensors-world.blogspot.com/
+Preparatory Course Material
+1. El Gamal, Abbas, and Helmy Eltoukhy (2005) "CMOS image sensors." IEEE Circuits
+and Devices Magazine vol. 21, no. 3, pages 6-20.
+2. Fossum, Eric R. (1997) "CMOS image sensors: Electronic camera-on-a-chip." IEEE
+transactions on electron devices vol. 44. no. 10, pages 1689-1698.
+Title Radio Frequency Integrated Circuit Design Number EEL7XX0
+Department Electrical Engineering L-T-P
+[C]
+3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Students Type Elective
+Prerequisite Analog electronics, Communication
+engineering, Microwave engineering.
+bjectives
+1. To introduce the students with the integrated circuit designing at radio frequencies.
+2. Introduction of various circuits and building blocks for communication applications.
+Learning Outcomes
+1. Understanding the design of integrated circuits at high frequencies.
+2. Practical implementation of various circuits required to build a transceiver system.
+3. Learning about the design of various active components like mixers, LNAs, power
+amplifiers at RF and microwave frequencies.
+Contents
+Communication System Overview: Modulation, Mobile Systems, Multiple Access
+Techniques, Wireless Standards. (3 lectures)
+Noise: Noise spectrum, effect of transfer function on noise, noise in a circuit, device
+noise. (4 lectures)
+Transceiver Architectures: Heterodyne Receivers, Direct-Conversion Receivers,
+Image Reject and Low IF Receivers, Transmitter Architectures. (4 lectures)
+Concepts of RF Design: Wave Guides and Transmission Lines, coupled lines, S-
+Parameters, Smith Chart, single and double stub impedance matching, Two-port gain
+and stability analysis. (10 lectures)
+Amplifier Design: Concepts of nonlinearity, time variance and IIP3, model of MOS
+transistors and BJT at high frequencies, wideband amplifiers, constant gain amplifier,
+constant noise figure amplifier, power amplifiers, combining networks. (8 lectures)
+Oscillators and Voltage Controlled Oscillators: Basic topologies VCO and definition
+of phase noise. Noise-power trade-off, quadrature and single-sideband generators. (5
+lectures)
+Mixers: Mixer Noise figure, port to port feed-through, single-balanced and double
+balanced mixers. (4 lectures)
+Introduction to Phase-Locked Loops: Type I and Type II PLL‟s, PLL Non-idealities.
+(4 lectures)
+Textbooks
+1. T. H. Lee, the Design of CMOS Radio-Frequency Integrated Circuits. Cambridge, UK:
+Cambridge University Press, 1997.
+2. B. Razavi, RF Microelectronics, 2nd Edition, Pearson Education, 2014.
+3. G. Gonzalez, Microwave Transistor Amplifiers: Analysis and Design, 2nd edition,
+Pearson, Aug-1996.
+Self Learning Materials
+1. RF Integrated Circuits, NPTEL, Dr. S. Chatterjee, IIT Delhi,
+http://nptel.ac.in/courses/117102012/#
+2. High Speed Communication Circuits, MIT, https://ocw.mit.edu/courses/electrical-
+engineering-and-computer-science/6-776-high-speed-communication-circuits-
+spring-2005/lecture-notes/
+Preparatory Course Materials
+1. B. P. Lathi, Z. Ding, Modern Digital and Analog Communications Systems, 4th
+edition, Oxford university press, July-2017.
+2. D. M. Pozar, Microwave Engineering, 4th edition, New York, NY, USA: Wiley, 2011.
+Title VLSI Design Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M. Tech. 1st year Type Compulsory
+Prerequisite
+Objective
+1. To introduce students with the designing of combinational and sequential circuits.
+2. To familiarize students with the designing of various building blocks related to
+analog design.
+3. To familiarize students with the process design kits and tools like Cadence/Mentor
+Graphics.
+4. To aware the students with pre-layout and post-layout simulations.
+Learning Outcomes
+1. Students will be able to understand the design issues and challenges involved in
+practical design.
+2. Knowledge of design tools like Cadence and process design kits.
+3. Students will be able to perform different analysis (DC, AC, transient etc.) and
+design steps involved in tape-out.
+Contents
+• Experiments related to digital design
+ Design of static logic gates with passive and active load, plot voltage
+transfer characteristics and calculate noise margin.
+ Design and layout of switches including pass transistor and transmission
+gates.
+ Combinational circuit design with placement and routing considerations.
+ Implementation of different functions with dynamic and domino logic
+style.
+ Sequential logic design, clock issues and timing constraints.
+• Experiments related to analog design
+ Design of common source, common gate and common drain amplifier for
+given specifications.
+ Design problems related to wide swing, high gain, high bandwidth, low
+power and low noise differential amplifier.
+ Design of a differential amplifier with current-mirror/active load.
+ Design of a high speed, low power voltage mode and current mode
+comparators.
+ Design and perform DC, AC, noise, transient analysis of a two-stage op-
+amp.
+Title Sensors and IoT Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M. Tech. 1st year Type Compulsory
+Prerequisite
+Objective
+1. To introduce students with sensors fabrication
+2. To familiarize students with measurement instruments like Spectrum and Vector Network
+Analyzer
+3. To introduce students with various kits and components required for IoT applications
+Learning Outcomes
+1. Familiarization with sensor fabrication process and characterization
+2. Handling high frequency measurement instruments
+3. Implementation of various circuits required to build a transceiver
+Contents
+The lab course will be dependent on the various core and elective components of the program.
+There will be a scope for modifying the contents depending on the recent developments in
+technology. Experiments from some of the following topics will be part of this lab.
+• Implementation of Signal Conditioning Circuits
+• Implementation of IoT components using Hardware/Software
+• Sensor interfacing using off-the-shelf components
+• Sensor Design, Fabrication and Characterization (Part of this in winter internship)
+• RF components characterization; Antennas and RF amplifiers
+• Implementation of real time examples of IoT using Embedded Systems
+• Selected experiments from Communication Systems
+• Recent topics of interest
+Title Nano Sensors Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV year), M.Tech, and Ph.D. Type Elective
+Prerequisite
+Objective
+The Instructor will:
+1. Make the students understand the importance of nanoscale materials for sensing
+applications.
+2. Explain the approaches used for characterizing sensors based nanomaterials.
+3. Teach the approaches used for tailoring nanomaterials for a specific sensing application.
+Learning Outcomes
+Students are expected to learn
+1. Identify the most appropriate Nanosensors for scientific applications.
+2. Understand the underlying sensing phenomena used in nanosensors;
+3. Reliably process, evaluate and interpret the information presented by nanosensors;
+Contents
+Nanomaterials and Properties: Nanoscale physics for quantum dot, nanowire and quantum
+wells; Properties of nanomaterials; nanomechanical oscillators, nano(bio)electronics, nanoscale
+heat transfer; fluids at nanoscale (8 lectures)
+Nanoscale Characterization: Examination of nanoscale characterization approaches
+including imaging, scattering, and spectroscopic techniques and their physical operating
+mechanisms. Microscopy (optical and electron: SEM, TEM); scattering & diffraction;
+spectroscopies (EDX, SIMS, Mass spec, Raman, XPS, XAS); scanning probe microscopes (SPM,
+AFM); particle size analysis (8 lectures)
+Nanofabrication:Basic engineering principles of nanofabrication. Topics include: photo-,
+electron beam and nanoimprint lithography, block of copolymers and self-assembled
+monolayers, colloidal assembly, biological nanofabrication (8 lectures)
+Nanosensors: Nanosensors based on metal nanoparticles, semi-conductor nanowires and
+nanocrystals and carbon nanotubes etc. (10 lectures)
+Case Studies of Nanosensors: Optical, mechanical and chemical sensors based on
+nanomaterials, Hybrid nanomaterial-based sensors, Quantum wells based IR sensors (8
+lectures)
+Text Books
+1. Mindy Adams, (2016) Engineered Nanomaterials: Modeling, Methodologies and
+Applications, Wellford Press
+2. John Hutchison, Angus Kirkland, (2007) Nano characterisation, RSC
+3. Roger George Jackson, (2004) Novel Sensors and Sensing, CRC Press
+Preparatory Course Material
+Research articles such as ACS Nano Letters, ACS Sensors, ACS Nano, Sensors &
+actuators B etc.
+Title Active Filter Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and Ph.D. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide theoretical and practical aspects of active filter design
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design analog filters using active components.
+2. Design customized filter for specific applications using approximation theory
+Contents
+Review of Network Theorems including Reciprocity and Tellegen‟s theorem, scattering
+parameters, properties of lossless passive networks. (4 Lectures)
+Butterworth approximation; Chebyshev approximation; synthesis of Butterworthand
+Chebyshev filters; odd versus even order filters; sensitivity of lossless LC ladder
+filtersFrequency transformations; inverse Chebyshev and ellipticapproximations; synthesis of
+inverse Chebyshev and elliptic filters; Darlington synthesis; signal flow graphs of ladder filters.
+(20 Lectures)
+Opamp-RC implementation; Gm-C implementation; switched-capacitorimplementation;
+minimum required performance of active components.Tuning offilters; transmission line based
+filters: using high-Z low-Z technique, usingKuroda's identities; bi-quad based design
+approaches and drawbacks; Tow-Thomas biquad, Sallen-Key biquad. (18 Lectures)
+Textbook
+1. Schaumann, R., Xiao, H., Valkenburg, M.V., (2009), “Design of Analog Filters 2nd Edition”,
+2nd Edition, Oxford University Press
+2. Tsividis, Y.P., Voorman, J.O., (1993), “Integrated Continuous-Time Filters: Principles”,
+Design, and Applications, IEEE
+Preparatory Course Material
+1. Pavan, S., Active Filter Design, Department of Electrical Engineering, Indian Institute of
+Technology Madras, http://www.ee.iitm.ac.in/videolectures/doku.php?id=ee534:start
+Title Millimeter-wave Technology Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Students Type Elective
+Prerequisite Electromagnetic theory, Microwave engineering
+Objectives
+The Instructor will:
+1. Introduce the students with the phenomenon and circuit characteristics at mm-wave
+frequency ranges.
+2. Introduce various guiding structures, antennas, and switches at mm-wave frequencies
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the design problems and challenges at mm-wave frequencies
+2. design various mm-wave guiding structures, passive and active circuits
+Contents
+Introduction to millimeter-wave technology: mm-wave frequency bands, atmospheric
+losses, application of mm-waves, Propagation and path losses, Friis equation, link budget and
+power budget calculation. (4 lectures)
+Novel Guiding structures for mmwave circuits: losses in planar circuits (conductor loss,
+leakage loss, dielectric loss, surface waves), Air filled waveguides, dielectric guides, NRD
+guide, substrate integrated waveguides (SIW), Substrate Integrated NRD (SINRD), Gap
+Waveguide, dielectric image line, planar air filled waveguide, Waveguide and planar
+resonators, Dielectric resonators, loaded, unloaded, and external Q-factors, SPST and SPDT
+switches. (8 lectures)
+Beam-forming network: Introduction to mmwave circuits: hybrid coupler, crossover, phase
+shifter, butler matrix, nolen matrix, Rotman lens. (5 lectures)
+Millimeter wave antennas: Problem with traditional antennas, horn antenna, dielectric rod
+antenna, Leaky wave antenna, waveguide slot array, chain antenna array, on chip antennas,
+monopulse radar network, transmitarray, reflectarray, millimeterwave over the air (OTA)
+measurement testing: Total Radiated Power (TRP), Total Isotropic Sensitivity (TIS), Effective
+Isotropic Radiated Power (EIRP), Effective Isotropic Sensitivity (EIS). (10 lectures)
+Packaging and interconnects: Challenges in packaging, design of interconnects at mm-
+wave frequencies, bondwire interconnections, ball-grid array. (3 lectures)
+Millimeterwave Active circuits: mmwave CMOS circuits: LNA,Oscillator, VCO, Power
+Amplifier, Frequency Synthesizer, SoC for mmwave RADAR, FinFET (10 Lectures)
+Case Studies: mmwave transciever for 5G, industrial radar sensor (2 lectures)
+Textbook
+1. KoulS.K., (1997), Millimeter Wave and Optical Dielectric Integrated Guides and Circuits,
+Wiley-Blackwell
+2. Courtney D. Liu, B. Gaucher, U. Pfeiffer, and J. Grzyb, (2009), Advanced millimeter wave
+technologies, Wiley.
+3. Hueber, G., & Niknejad, A. (Eds.). (2019). Millimeter-Wave Circuits for 5G and Radar (The
+Cambridge RF and Microwave Engineering Series). Cambridge: Cambridge University Press.
+Self Learning Material
+1. Mandal M. K., Millimeter-wave technology, NPTEL course material, Department of
+Electronics and Electrical Communication Engineering, IIT Kharagpur,
+https://nptel.ac.in/courses/117105139/
+2. TI Training & Vedios, (2017), mmWave RADAR in ADAS Applications,
+https://training.ti.com/mmwave-radar-adas-applications
+PreparatoryCourse Material
+1. D. M. Pozar, (2011), Microwave Engineering, 4th Ed. New York, NY, USA: Wiley
+Title Selected Topics In Sensors and IoT I Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of sensors
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of sensors and IoT
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of sensors and IoT to specific areas of
+research
+Contents
+The topic clouds for the course include some contemporary topics in sensors and IoT (but not
+restricted to) like Nanosensors, MEMS/NEMS sensors, biosensors modeling and design,
+industrial IoT. The topics may be further updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics In Sensors and IoT II Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of sensors
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of sensors and IoT
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of sensors and IoT to specific areas of
+research
+Contents
+The topic clouds for the course include some contemporary topics in sensors and IoT (but not
+restricted to) like Nanosensors, MEMS/NEMS sensors, biosensors modeling and design,
+industrial IoT. The topics may be further updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics In Sensors and IoT III Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of sensors
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of sensors and IoT
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of sensors and IoT to specific areas of
+research
+Contents
+The topic clouds for the course include some contemporary topics in sensors and IoT (but not
+restricted to) like Nanosensors, MEMS/NEMS sensors, biosensors modeling and design,
+industrial IoT. The topics may be further updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+M. Tech. – Ph. D. Dual Degree
+in
+Communications and Signal Processing
+Introduction
+During the past few years, there has been an exponential growth in the usage of internet. The fast
+development of economy and society requires modern and high-performance communications
+systems that can cater for massive deployment of Internet of Things, while still offering acceptable
+levels of energy consumption, equipment cost and network deployment and operation cost. It
+needs to support a wide variety of applications and services requiring increased spectral efficiency,
+higher data rates, low latency and high reliability. Communications and Signal processing is one of
+the key technologies to meet the growing connectivity requirements for new use cases (e.g. for
+ultra-low latency or high reliability cases) and new applications for the industry, opening up new
+revenue streams also for operators. The M. Tech.-Ph. D. Dual Degree programme in
+Communications and Signal Processing prepares students for an advanced engineering career by
+in-depth understanding of modern communication networks on all layers and their associated
+signal processing methods. The program provides students an opportunity to learn the
+specialization in depth by updating and renewing their technical knowledge in a rapidly changing
+telecommunication industry.
+Objective of the Program
+Graduates from the program will have in-depth knowledge and critical awareness of theoretical and
+practical solutions to problems at the forefront of communications and the processing of signals.
+They would be ready for careers in fields such as development, research, operations and
+management of next-generation telecommunication networks and information processing systems.
+Graduate attributes
+ The graduates of this program will have strong fundamentals in modern communications
+technology and signal processing methods.
+ Understanding of cutting-edge research on future generations of wireless communication.
+ Analytical and experimental skills required to design and implement next-generation
+communication systems for various applications like Internet-of-Things, smart health, Smart
+City, Intelligent Transportation Systems
+ Ability to do critical and creative thinking, and to conduct independent and original research
+and scholarship
+ Ability to apply existing skills and knowledge to identify and formulate new problems,
+produce new ideas, approaches or actions
+ Ability to teach and express ideas in both written and oral formats
+Learning outcome
+• Ability to statistically characterize and evaluate the performance of communication systems.
+• Ability to apply the different methods for signal detection and estimation to real world
+engineering problems and advanced research
+• Develop understanding of cutting-edge research on future generations of wireless
+communication.
+• Analyze multi-user networks and understanding of techniques like opportunistic
+communication, multiuser diversity, superposition coding and successive interference
+cancellation
+• Implement end-to-end wireless communication systems with various MIMO technologies like
+maximal ratio combining, OFDM, interleaving/de-interleaving, and Alamouti codes
+• Ability to
+• Master a specific set of methods appropriate to their dissertation, with the depth needed to
+produce methodologically rigorous research.
+• Carry out research work demonstrating scientific problem solving and generate IPR
+Program’s Structure
+Overall Structure (M. Tech. Degree Requirements for Communications and Signal Processing)
+Category M. Tech.
+Compulsory (MC)
+M. Tech. Elective (ME) M. Tech. Open
+(MO)
+M. Tech.
+Project
+(MP)
+Total Graded
+Credits 17 17 6 16 56
+Semester wise distribution of credits
+Cat. Course Title L-T-P Credits Cat. Course Title L-T-P Credits
+I Semester II Semester
+MC Statistical Signal Analysis 3-0-0 3 MC Data Communication and
+Networking
+3-0-0 3
+MC Wireless Communications 3-0-0 3 MC MIMO Wireless Communications 3-0-0 3
+MC Advanced Digital Signal Processing 3-0-0 3 ME Program Elective-2 3-0-0 3
+MC Digital Signal Processing Lab 0-0-2 1 ME Program Elective-3 3-0-0 3
+MC Communications Engineering Lab 0-0-2 1 ME Program Elective Lab 1-0-2 2
+ME Program Elective-1 3-0-0 3 NG Innovation and IP Management 1-0-0 1
+NG Technical Communication 1-0-0 1
+Total (Graded + Non-graded) 15 Total (Graded + Non-graded) 15
+III Semester IV Semester
+MP Project-1 0-0-10 5 MP Project-2 0-0-22 11
+ME Program Elective-4 3-0-0 3 MO Open Elective-2 3-0-0 3
+ME Program Elective-5 3-0-0 3 NG Professional Ethics 1-0-0 1
+MO Open Elective-1 3-0-0 3
+NG Systems Engineering and Project
+Management
+1-0-0 1
+Total (Graded+ Non-graded) 15 Total (Graded + Non-graded) 15
+Topic Clouds
+Semester I
+Statistical Signal
+Analysis
+Wireless
+Communications
+Advanced Digital
+Signal Processing
+Digital Signal
+Processing Lab
+Communications
+Engineering Lab
+ Random Processes
+ Stationarity and
+Ergodicity
+ Random parameter
+estimation
+ Non-random
+parameter
+estimation
+ Multiple parameter
+estimation
+ Fading channel
+models
+ Error performance
+in AWGN and fading
+channels
+ Diversity
+Techniques
+ Capacity of fading
+channels
+ Multiuser systems-
+multiple and
+random access
+techniques
+ Multiuser diversity
+ Ad-Hoc Networks
+ Review of Fourier
+Analysis
+ Short time Fourier
+Transform
+ Resolution
+concepts
+ Wavelet
+Transform
+ Multi rate
+systems
+ Finite word length
+effects
+ Digital signal
+processor
+architecture
+ Interface hardware
+and software
+systems
+ Comparative study
+of microprocessor,
+ASIC and DSP
+ Implementation of
+ADC, convolution,
+FIR, IIR, FFT and
+spectral estimation
+techniques
+ Introduction to
+instruments like
+vector signal
+analyzer, spectrum
+analyzer
+ Implementation of
+end-to-end
+communication
+systems
+ Implementation of
+Equalizers
+ Implementation of
+Alamouti codes
+Semester II
+MIMO Wireless Communications Data Communication and Networking
+ MIMO channel models
+ Receiver architectures
+ Diversity multiplexing gain tradeoff
+ Space-time code design
+ Multiuser MIMO
+ Massive MIMO
+ Fundamentals of Data Communication
+ Network layer and topology design
+ Network Management
+ Mechanisms to improve performance
+ Transport and Application Layers
+ Reliability and security
+Complete List of Program Electives
+Course Title L-T-P Credits Course Title L-T-P Credits
+Coding Theory 3-0-0 3 Free Space Optical Communications 3-0-0 3
+Antenna Engineering 3-0-0 3 GNSS Signal Processing 3-0-0 3
+Advanced Digital Communication 3-0-0 3 Backhaul Networks for Wireless
+Systems
+3-0-0 3
+Network Information Theory 3-0-0 3 Selected Topics in Communication I 1-0-0 1
+Statistical Decision Theory 2-0-0 2 Selected Topics in Communication II 2-0-0 2
+Multi-rate Digital Signal Processing 2-0-0 2 Selected Topics in Communication III 3-0-0 3
+Digital Image Processing and
+Applications
+3-0-0 3 Neuromorphic computing and design 3-0-0 3
+Digital Video Processing 3-0-0 3 Machine Learning 2 3-0-0 3
+RF IC Design 3-0-0 3 Real Time Communications 3-0-0 3
+Adaptive Signal Processing 3-0-0 3 Millimeter Wave Technology (SM) 3-0-0 3
+Optical Fiber Communications 3-0-0 3 Digital Image and Video Processing Lab 1-0-2 2
+Image sensor Design and Application 3-0-0 3 RF IC Design Lab 1-0-2 2
+Applied Optimization for Wireless
+Communication
+3-0-0 3 Network Information Theory 3-0-0 3
+Machine Learning for Communications 3-0-0 3 Graph Theory 3-0-0 3
+Machine Learning 1 3-0-0 3 Matrix Computations 1-0-0 1
+Optimization 1-0-0 1 Wavelets 3-0-0 3
+Physical Layer Security 3-0-0 3 Computational Imaging 3-0-0 3
+Compressive Sensing 3-0-0 3 Speech and Audio Processing 3-0-0 3
+Bio-Image Computing 3-0-0 3 Selected Topics in Signal Processing II 2-0-0 2
+Selected Topics in Signal Processing I 1-0-0 1 Data Compression 3-0-0 3
+Selected Topics in Signal Processing III 3-0-0 3 Machine Learning for Communication
+Lab
+1-0-2 2
+Multimedia Communications 3-0-0 3
+Note: Machine Learning 1 and 2, Bio-Image Computing, and Neuromorphic computing and design
+will be offered by CSE, while Graph Theory, Matrix Computations, and Optimization will be offered
+by Mathematics Department. The course contents are available in the respective booklets.
+Advisory for Program Electives
+Course Title L-T-P Credits Course Title L-T-P Credits
+Program Elective -1 Program Elective Lab
+Coding Theory 3-0-0 3 Digital image and Video Processing Lab 1-0-2 2
+Antenna Engineering 3-0-0 3 RF IC Design Lab 1-0-2 2
+Machine Learning 1 3-0-0 3 Machine Learning for Communication
+Lab
+1-0-2 2
+Advanced Digital Communication 3-0-0 3
+Selected Topics in Communication I 1-0-0 1
+Selected Topics in Communication II 2-0-0 2
+Selected Topics in Communication III 3-0-0 3 Program Elective -4,5
+Matrix Computations 1-0-0 1 Free Space Optical Communications 3-0-0 3
+Optimization 1-0-0 1 GNSS Signal Processing 3-0-0 3
+Millimeter Wave Technology 3-0-0 3
+Program Elective -2,3 Selected Topics in Communication I 1-0-0 1
+Statistical Decision Theory 2-0-0 2 Selected Topics in Communication II 2-0-0 2
+Optimal Filtering 3-0-0 3 Selected Topics in Communication III 3-0-0 3
+Digital Video Processing 3-0-0 3 Neuromorphic computing and design 3-0-0 3
+Digital Image Processing and
+Applications
+3-0-0 3 Machine Learning for Communications 3-0-0 3
+Selected Topics in Communication I 1-0-0 1 Real Time Communications 3-0-0 3
+Selected Topics in Communication II 2-0-0 2 Backhaul Networks for Wireless
+Systems
+3-0-0 3
+Selected Topics in Communication III 3-0-0 3 Computational Imaging 3-0-0 3
+Multi-rate Digital Signal Processing 2-0-0 2 Wavelets 3-0-0 3
+RF IC Design 3-0-0 3 Speech and Audio Signal Processing 3-0-0 3
+Graph Theory 3-0-0 3 Selected Topics in Signal Processing I 1-0-0 1
+Adaptive Signal Processing 3-0-0 3 Selected Topics in Signal Processing II 2-0-0 2
+Optical Fiber Communications 3-0-0 3 Selected Topics in Signal Processing III 3-0-0 3
+Image sensor Design and Application 3-0-0 3
+Applied Optimization for Wireless
+Communication
+3-0-0 3
+Data Compression 3-0-0 3
+Machine Learning 2 3-0-0 3
+Network Information Theory 3-0-0 3
+Physical Layer Security 3-0-0 3
+Compressive Sensing 3-0-0 3
+Bio-Image Computing 3-0-0 3
+Selected Topics in Signal Processing I 1-0-0 1
+Selected Topics in Signal Processing II 2-0-0 2
+Selected Topics in Signal Processing III 3-0-0 3
+Detailed Course Contents
+Title Statistical Signal Analysis Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Knowledge of Probability Theory and Fundamentals of
+Communications
+Objectives
+The Instructor will:
+1. Provide background to understand different types of random processes
+2. Introduce the different methods of parameter estimation
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of random processes for statistical characterization of communication
+systems
+2. Apply the different methods for signal estimation to real world engineering problems and
+advanced research
+Contents
+(fractal 1) EEL7XX1 Characterization of Random processes: stationarity, mean,
+correlation, and covariance functions, WSS random process, autocorrelation and cross-
+correlation functions, transmission of a random process through a linear filter, power spectral
+density, white random process, Gaussian process, Poisson process (14 Lectures)
+(fractal 2) EEL7XX2 Estimation Theory:Random parameter estimation: risk function, MMSE
+estimators, MAP estimators (6 Lectures)
+Non-random parameter estimation: CRLB for non-random parameters, ML estimation rule,
+asymptotic properties of ML estimates, linear minimum variance estimation, condition for
+statistical efficiency (8 Lectures)
+(fractal 3) EEL7XX3Multiple Parameter Estimation: estimation procedure, measures of
+error, properties and bounds on estimation errors for random and non-random parameters
+(14 Lectures)
+Textbook
+1. Papoulis, A. and Pillai, U. S., (2002), Probability, Random Variables, and Stochastic
+Processes, 4th Edition, Tata Mc-Graw Hill
+2. Van Trees, H. L., (2003), Detection, Estimation and Modulation Theory: Part-1, 2nd Edition,
+John Wiley
+3. Kay, S.M., (1998), Fundamentals of Statistical Signal Processing: Vol. 1 Estimation Theory,
+1st Edition, Prentice Hall
+Self-Learning Material
+1. Sinha, R., Signal Detection and Estimation Theory, NPTEL Course Material, Department of
+Electrical and Electronics Engineering, Indian Institute of Technology Guwahati,
+https://nptel.ac.in/courses/117103018/
+Preparatory Course Material
+1. Thangraj, A., Probability Foundations for Electrical Engineers, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/117103018/
+Title Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Fundamentals of Communications
+Objectives
+The Instructor will:
+1. Provide students an understanding of the concepts related to communication over wireless
+fading channel.
+2. Expose students to concepts and techniques for exploiting fading and application of these
+concepts in multiuser communication systems context.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand concepts related to deep fade, diversity techniques and channel capacity for
+point-to-point wireless communications systems.
+2. Analyze multi-user networks and understanding of techniques like opportunistic
+communication, multiuser diversity, superposition coding and successive interference
+cancellation.
+3. Analyze and design wireless ad-hoc networks with special emphasis on energy constrained
+networks
+Contents
+Wireless Channels: Modelling of wireless channels; space, time and frequency channel
+coherence; input/output channel models for single and multi-antenna systems (7 lectures)
+Diversity: Digital modulation and its performance in fading; inter-symbol interference; realizing
+diversity: time diversity, frequency diversity, antenna diversity; code design for wireless
+channels (14 lectures)
+Wireless Channel Capacity: Capacity of the Gaussian channels; capacity of fading channels (7
+lectures)
+Multiuser system design: Multiple access and random access techniques; multiuser channel
+capacity (7 lectures)
+Ad hoc wireless network: design principles, protocol layers, network capacity limits, and
+energy-constrained networks. (7 lectures)
+Textbook
+1. Tse, D. and Viswanath, P., (2005), Fundamentals of wireless communication, Cambridge
+University Press.
+2. Goldsmith, A., (2005), Wireless Communications, Cambridge University Press.
+3. Simon, M. K. and Alouini, M. S., (2004), Digital communication over fading channels, John
+Wiley and Sons.
+Self-Learning Material
+1. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering & Computer Science, Massachusetts Institute of Technology,
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-452-principles-
+of-wireless-communications-spring-2006/index.htm
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Communication II, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/108104098/
+2. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT OpenCourseWare,
+Electrical Engineering & Computer Science, Massachusetts Institute of Technology,
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-450-principles-of-
+digital-communications-i-fall-2006/
+Title Advanced Digital Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Tech., Ph.D. Type Core
+Prerequisite Signals and Systems
+Objectives
+The Instructor will:
+1. Provide students an understanding of analysis and synthesis of algorithms and systems that
+process discrete time signals, with emphasis on realization and implementation
+Learning Outcomes
+The students are expected to have the ability to:
+1. Interpret and process discrete/digital signal and systems
+2. Analyze and provide solutions to practical implementation issues of DSP systems
+Contents
+Review of Fourier analysis Discrete time systems, DTFT, Z-transform, Analysis of LSI systems,
+DFT and FFT (9 lectures)
+Time-frequency representation; frequency scale and resolution; uncertainty principle, short-
+time Fourier transform (5 lectures)
+Multi-resolution concept and analysis, Wavelet transforms (CWT, DWT) (4 lectures)
+Families of wavelets: Orthogonal and bi orthogonal wavelets Daubechies‟ family of orthogonal
+wavelets, elements of multi-rate systems and two band filter bank design for dyadic wavelets
+(10 lectures)
+Multirate systems: sampling rate conversion, implementation of Multirate systems, filter design
+for Multirate systems, two channel filter banks and multi-channel filter banks. (5 lectures)
+Finite wordlength effects: Number representation, statistical analysis of quantization error,
+quantization of Fixed-point and Floating point numbers, A/D and D/A conversion, A/D
+conversion noise analysis, quantization of filter coefficients, Effects of finite wordlength on
+digital filters. (6 lectures)
+Applications of ADSP (3 lectures)
+Textbook
+1. Proakis, J. G. and Manolakis,D.G., (2007), Digital Signal Processing, 4th Edition, Prentice
+Hall
+2. Mitra, S. K., (2008), Digital Signal Processing, 3nd Edition, McGraw Hill
+3. Manolakis,D.G., and Ingle, V., (2011), Applied Digital Signal Processing, 1st Edition,
+Cambridge University Press
+Self-Learning Material
+1. Basu, T. K., Digital Signal Processing, NPTEL Course Material, Department of Electrical
+Engineering, Indian Institute of Technology Kharagpur,
+https://nptel.ac.in/courses/108105055/
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material, Department
+of Electrical Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/108104100/
+Title Digital Signal Processing Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. - Ph.D. Dual Degree (Comm. Engg.) Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Help design and implement a DSP system using DSP kits.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Implement algorithms on DSP kits.
+2. Make choice of specific DSP architecture for given application.
+Contents
+An introduction to Digital Signal Processors and the associated interface hardware and
+software systems
+Basic exercises in programming Digital Signal Processors, signal generation, processing
+and file I/O
+The Joint “systems – algorithms – architectures” perspective as a holistic approach in
+Signal Processing applications
+Comparative studies between general purpose microprocessors/computing devices and
+specialized application specific integrated circuits (ASICs) and digital signal
+processors.
+Study and implementation of Analog to Digital Conversion, sampling and
+reconstruction, simple Discrete Time Systems, Finite Impulse Response Filters, and
+Infinite Impulse Response Filters.
+Fast Fourier Transforms and Spectral Estimation – Algorithms, Implementation.
+Realization and implementation of computationally efficient Digital Signal Processing
+structures like the lattice structure, ladder structure.
+Textbook
+1. Venkataramani, B., and Bhaskar, M., (2011), Digital Signal Processors: Architecture,
+Programming and Applications, 2nd Edition, Tata McGraw Hill
+2. Proakis, J. G., and Manolakis, D. G., (1997), Digital Signal Processing – Principles,
+Algorithms and Applications, 3rd Edition, Prentice Hall of India
+3. Udayashankara, V., (2010), Real Time Digital Signal Processing, Fundamentals,
+Algorithms and Implementation Using TMS Processor, Prentice Hall India
+Self-Learning Material
+1. Manuals for DSP Kits and MATLAB literature on Mathworks website
+Preparatory Course Material
+Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/108104100/
+Title Communications Engineering Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Fundamentals of Communications
+Objectives
+The Instructor will:
+1. Familiarize students with the baseband generation software tools and the
+measurement instruments.
+2. Expose students to end-to-end implementation of wireless communication systems.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design, test and evaluate communication systems.
+2. Implement end-to-end wireless communication systems with various MIMO
+technologies like maximal ratio combining, OFDM, interleaving/de-interleaving, and
+Alamouti codes.
+Contents
+An introduction to measurement equipment like Signal Analyzer, AFG, Oscilloscope.
+Study and implementation of end-to-end single antenna communication system with -
+Continuous Wave Carrier, I-Q modulation with coherent and non-coherent signaling,
+BPSK modulation with channel coding techniques.
+Implementation and demonstration of effect of channel fading in wireless
+communication systems
+Study and implementation of various MIMO receiver architectures, diversity techniques
+(Time (Linear Block Codes with interleaving/de-interleaving), frequency (coded OFDM)
+and antenna diversity (Alamouti code).
+Textbook
+1. Tse, D. and Viswanath, P., (2005), Fundamentals of wireless communication,
+Cambridge University Press.
+2. Goldsmith, A., (2005), Wireless Communications, Cambridge University Press.
+3. Simon, M. K. and Alouini, M. S., (2004), Digital communication over fading
+channels, John Wiley and Sons.
+Self-Learning Material
+1. User manual for Signal Analyzer, AFG, and Oscilloscope.
+Preparatory Course Material
+1. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT
+OpenCourseWare, Electrical Engineering & Computer Science, Massachusetts Institute
+of Technology, https://ocw.mit.edu/courses/electrical-engineering-and-computer-
+science/6-450-principles-of-digital-communications-i-fall-2006/
+Title Data Communication and Networking Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (IV Year), M. Tech., PhD. Type Compulsory
+Prerequisite Fundamentals of Wireless Communications
+Objectives
+The Instructor will:
+1. Expose the students to distinguishing features of wireless networks
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and optimize wireless network architectures.
+2. Implement security techniques for wireless networks.
+Contents
+Fundamentals: Layered architecture overview, data communication techniques,
+motivations for cross-layer protocol design, motivations for performance analysis,
+forward error correction and re-transmission performances (7 Lectures)
+Network layer and topology design: Markov and semi-Markov processes, Little‟s
+theorem, M/M/m/k, M/G/1 systems, priority queueing, network of queues, network
+traffic behavior, routing algorithms and analysis, distributed networks, design
+constraints, bounded latency networks, optimization, cognitive networks (10 Lectures)
+Network Management:Power management, time synchronization, localization, energy-
+efficient protocols for sensor networks (7 Lectures)
+Mechanisms to improve performance: Self-Organizing Network, Software-Defined
+Networking (7 Lectures)
+Transport and Application Layers: congestion control and quality of service, scheduling,
+multimedia, key aspects and design issues (7 Lectures)
+Reliability and security: Security requirement and attacks, Encryption techniques,
+reliable and secure communication protocols (4 Lectures)
+Textbook
+1. Dargie, W., and Poellabauer, C., (2010), Fundamentals ofWireless Sensor Networks:
+Theory and Practice, Wiley
+2. Stallings, W., (2007), Data and Computer Communications, 8th Edition, Pearson
+3. Bertsekas, D. P. and Gallager, R. G., (1992), Data Networks, 2nd Edition, Prentice
+Hall
+Self-Learning Material
+4. Mishra, S., Wireless Adhoc and Sensors Networks, NPTEL Course Material,
+Department of Electrical and Electronics Communication Engineering, Indian
+Institute of Technology Kharagpur, https://nptel.ac.in/courses/106105160/
+5. Zou, Y., Zhu, J., Wang, X., and Hanzo, L., "A Survey on Wireless Security: Technical
+Challenges, Recent Advances, and Future Trends," in Proceedings of the IEEE, vol.
+104, no. 9, pp. 1727-1765, Sept. 2016.
+6. W. Xia, Y. Wen, C. H. Foh, D. Niyato and H. Xie, "A Survey on Software-Defined
+Networking," in IEEE Communications Surveys & Tutorials, vol. 17, no. 1, pp. 27-51,
+First quarter 2015.
+Preparatory Course Material
+2. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering & Computer Science, Massachusetts Institute of Technology,
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-452-
+principles-of-wireless-communications-spring-2006/index.htm
+Title MIMO Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Wireless Communications
+Objectives
+The Instructor will:
+1. Provide exposure to the fundamental concepts and techniques of multiple-input
+multiple-output (MIMO) communications over wireless communication channels.
+2. Expose students to the massive MIMO theory that gives rise to improved reliability
+and increased data rates.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the concepts and mathematical tools related to MIMO architecture like
+V-BLAST, D-BLAST, beamforming and diversity multiplexing gain tradeoff.
+2. Analyze, design, and simulate MIMO communication systems with a special
+emphasis on space-time codes and signaling techniques for massive MIMO.
+Contents
+Channel Modeling and Spatial Multiplexing: Multiplexing Capability of Deterministic
+MIMO Channels, Physical Modeling of MIMO Channels, Modeling of MIMO Fading
+Channels (7 Lectures)
+Capacity and Multiplexing Architectures: The V-BLAST Architecture, Fast Fading MIMO
+Channel, Receiver Architectures, Slow Fading MIMO Channel, D-BLAST: An Outage-
+Optimal Architecture (7 Lectures)
+Diversity-Multiplexing Tradeoff and Space-Time Codes: Diversity-Multiplexing Tradeoff,
+Space-time Code Design for Optimal Diversity-Multiplexing Tradeoff (7 Lectures)
+MIMO Multiuser Communication: Uplink with Multiple Receive Antennas, MIMO Uplink,
+Downlink with Multiple Transmit Antennas, MIMO Downlink, Multiple Antennas in
+Cellular Networks: A System View (9 Lectures)
+Massive MIMO networks: Large MIMO systems- Channel hardening and favorable
+propagation, channel estimation, precoding in large MIMO systems (12 Lectures)
+Textbook
+1. Tse, D. and Viswanath, P., (2005), Fundamentals of wireless communication,
+Cambridge University Press.
+2. Chockalingam A. and Rajan B. S., (2014), Large MIMO Systems, Cambridge
+University Press.
+3. Biglieri E., Calderbank R., Constantinides A., Paulraj A. and Poor H. V., (2007),
+MIMO Wireless Communications, Cambridge University Press.
+Self-Learning Material
+1. Zheng K., Zhao L., Mei J., Shao B., Xiang W. and Hanzo L., "Survey of Large-Scale
+MIMO Systems," in IEEE Communications Surveys & Tutorials, vol. 17, no. 3, pp.
+1738-1760, 2015.
+2. Wu Y., Xiao C., Ding Z., Gao X. and Jin S., "A Survey on MIMO Transmission With
+Finite Input Signals: Technical Challenges, Advances, and Future Trends," in
+Proceedings of the IEEE, vol. 106, no. 10, pp. 1779-1833, Oct. 2018.
+Details of Elective Courses
+Title Coding Theory Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and Fundamentals of
+Communications
+Objectives
+The Instructor will:
+1. Provide an introduction to different types of channel codes.
+2. Familiarize students with the fundamentals of error detection and correction.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design channel codes for error detection and correction.
+2. Analyze and compare the performance of uncoded and coded communication systems.
+Contents
+Introduction: Review of information theory, motivation for channel coding(3 Lectures)
+Introduction to Linear Algebra: Introduction to finite fields, field arithmetic, vector spaces(4
+Lectures)
+Linear Block Codes: Properties of LBCs, some specific LBCs (Repetition codes, Hamming codes,
+LDPC codes), soft decision decoding of LBCs, Hard decision decoding of LBCs, Bounds on
+minimum distance of LBCs(7 Lectures)
+Cyclic Codes: Definition and properties, polynomial representation, encoding and decoding of
+cyclic codes, burst error correction (7 Lectures)
+BCH and RS codes: Introduction to BCH Codes: Generator Polynomials, Multiple Error
+Correcting BCH Codes, Decoding of BCH Codes, Introduction to RS codes, Decoding RS
+codes(7 Lectures)
+Convolutional Codes: Structure of convolutional codes, decoding of convolutional codes,
+distance bounds for convolutional codes, punctured convolutional codes(7 Lectures)
+Trellis coded modulation: Introduction to TCM, Ungerboeck‟s TCM design rules, TCM decoder,
+performance evaluation of TCM schemes(7 Lectures)
+Textbook
+1. Lin, S. and Costello, D. J., (2004), Error Control Coding, 2nd Edition, Prentice Hall
+2. Proakis, J. G. and Salehi, M., (2007), Digital Communications, 5th Edition, McGraw-Hill
+3. Bose, R., (2017), Information Theory, Coding and Cryptography, 3rd Edition, McGraw-Hill
+Self-Learning Material
+1. Thangraj, A., Coding Theory, NPTEL Course Material, Department of Electrical Engineering,
+Indian Institute of Technology Madras, https://nptel.ac.in/courses/117106031/
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Communication II, Department of Electrical Engineering,
+Indian Institute of Technology Kanpur, https://nptel.ac.in/courses/108104098/
+Title
+Antenna Engineering Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Electromagnetic Theory
+Objectives
+The Instructor will:
+1. Introduce the various concept of antenna design.
+2. familiarize the students with the application of different type of antennas
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design low profile antennas and high gain antenna arrays for practical applications
+2. Utilize simulation software for designing Antenna systems and test RF and
+microwave antennas
+Contents
+Introduction to Antennas: Radiation mechanism, Current distribution on a thin wire
+antenna, Review of Antenna Parameters; Friis Transmission formulae, Radar Range
+equation (7 Lectures)
+Radiation Integrals and Auxiliary Potential Function Vector potential for electric current
+source and magnetic current source, inhomogeneous vector potential wave equation,
+duality theorem, reciprocity theorem (3 Lectures)
+Design of Dipole Antenna Design of Infinitesimal dipole, small dipole, half-wavelength
+dipole (4 Lectures)
+Microstrip antenna Rectangular patch antenna, feeding methods, transmission line
+model, cavity model, Circular Patch Antenna (4 Lectures)
+Low-profile Antenna Application: Mobile handset antenna- helical wire and variants;
+electrically small antenna; power factor, quality factor and bandwidth; radiation
+efficiency and realized gain; PIFA; On-chip antenna; SAR measurement and
+miniaturization; GPS and Bluetooth antenna; medical application- antennas for medical
+imaging; heating; sensing; Automobile antennas- MAST antenna; Window glass
+antenna; Panel Antenna; (10 Lectures)
+Design of Antenna Arrays Analysis of Two element array, N-element linear array
+(uniform and nonuniform amplitude excitation: Binomial, Dolph-Tschebyscheff, Taylor
+distribution), planar array, Phased Array (5 Lectures)
+Aperture Antenna Field equivalence principle, Radiation equation, Rectangular aperture,
+circular aperture, Babinet‟s principle, Sectoral horn antenna, Pyramidal Horn antenna
+(6 Lectures)
+Antenna Measurement Antenna Ranges, Radiation Pattern measurement, Gain
+measurement (absolute gain method, gain comparison method), Directivity
+measurement (3 Lectures)
+Textbook
+1. Balanis C. A., (2016), Antenna Theory, Analysis and Design, 4th edition, Wiley
+Press
+2. Krauss J. D., (2006), Antennas and Wave Propagation, 4th edition, TMH Education
+3. Elliott R. S., (2006), Antenna Theory and Design, Wiley Press
+Self-Learning Material
+1. Kumar, G., Antennas, NPTEL Course Material, Department of Electrical Engineering,
+Indian Institute of Technology Bombay,
+https://onlinecourses.nptel.ac.in/noc17_ee03/preview
+2.Ferraro, A., Antenna Engineering, Video Lectures, Penn State Univ., USA,
+http://www.engr.psu.edu/cde/courses/ee438/index.htm
+Preparatory Course Material
+1. Kumar, P., Electromagnetic Theory, NPTEL Course Material, Department of Electrical
+Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/108104087/
+2. Kumar, G., Microwave Theory and Techniques, Department of Electrical
+Engineering, Indian Institute of Technology Bombay,
+https://nptel.ac.in/courses/108101112/
+Title Advanced Digital Communication Number EEL5XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and
+Fundaments of Communications
+Objectives
+The Instructor will:
+1. Provide strong theoretical foundation of digital communication modulation schemes
+and performance evaluation.
+2. Familiarize students with the fundamentals of communication through band limited
+channels and synchronization.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design receivers for optimum performance.
+2. Analyze communication systems for their bit error performance.
+Contents
+Introduction: Complex baseband representation of signals, Gram-Schmidt
+orthogonalization procedure, M-ary orthogonal signals, bi-orthogonal signals,
+simplex signal waveforms(4 Lectures)
+Digital Modulation Schemes: Memoryless modulation schemes, signaling schemes with
+memory, power spectral density of digitally modulated signals(10 Lectures)
+Optimum receivers for AWGN channels: Coherent and non-coherent demodulation:
+Matched filter, Correlator demodulator, square-law, and envelope detection;
+Detector: Optimum rule for ML and MAP detection Performance: Bit-error-rate,
+symbol error rate for coherent and non-coherent schemes(14 Lectures)
+Carrier and Symbol Synchronization: carrier recovery and symbol synchronization in
+demodulation, carrier phase estimation, symbol timing estimation(4 Lectures)
+Digital Communication through Band Limited channels: signal design through band
+limited channels, Optimum receiver for channel with ISI and AWGN, Linear
+equalization, Decision -feedback equalization(10 Lectures)
+Textbook
+1. Proakis, J. G. and Salehi, M., (2007), Digital Communications, 5th Edition, McGraw-
+Hill
+2. Madhow, U., (2008), Fundamentals of Digital Communication, 1st Edition, Cambridge
+University Press
+3. Barry, J. R., Lee, E. A., and Messerschmitt, D. G., (2004), Digital Communications,
+3rd Edition, Springer
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Communication II, Department of Electrical
+Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/108104098/
+Title Statistical Decision Theory Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and
+Fundamentals of Communications
+Objectives
+The Instructor will:
+1. Provide background to understand the fundamental aspects of decision making and
+hypothesis testing that are essential for communication receiver design
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the different methods for signal detection to real world engineering problems
+and advanced research
+2. Garner useful insights into performance evaluation of communication systems
+Contents
+Introduction: structure of detection theory problems (1 Lecture)
+Simple Binary Hypothesis Testing: decision criteria, Maximum Likelihood criterion,
+Neyman-Pearson criterion, Bayes risk, probability of error and min-max criterion,
+receiver operating characteristics, composite hypothesis testing (6 Lectures)
+M-ary Hypotheses or Multiple Decision Theory: multiple decisions, Bayes risk,
+probability of error, general Gaussian problem, performance bounds and
+approximations (14 Lectures)
+Detection of Continuous Time Signals: detection of signals in additive white Gaussian
+noise, detection in colored noise, signals with unwanted parameters (random phase,
+random amplitude and phase) (7 Lectures)
+Textbook
+1. Van Trees, H. L., (2003), Detection, Estimation and Modulation Theory: Part-1, 2nd
+Edition, John Wiley
+2. Kay, S.M., (1998), Fundamentals of Statistical Signal Processing: Vol. 2 Detection
+Theory, 1st Edition, Prentice Hall
+Self-Learning Material
+1. Sinha, R., Signal Detection and Estimation Theory, NPTEL Course Material,
+Department of Electrical and Electronics Engineering, Indian Institute of Technology
+Guwahati, https://nptel.ac.in/courses/117103018/
+Preparatory Course Material
+1. Thangraj, A., Probability Foundations for Electrical Engineers, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/117103018/
+Title Optimal Filtering Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and
+Fundamentals of Communications
+Objectives
+The Instructor will:
+1. Help students understand the relationship between optimal filtering, linear
+estimation, and Wiener/Kalman filtering
+Learning Outcomes
+The students are expected to have the ability to:
+1. Derive and manipulate the time discrete and time continuous Wiener and Kalman
+filter equations and compute the Wiener and Kalman filter for a given estimation
+problem.
+2. Design optimal filters in the case of non-Gaussian noise or non-linear models.
+Contents
+Weiner Theory for scalar processes: continuous time Weiner smoothing, solution to
+Weiner Hopf equation, discrete time Weiner Hopf technique, recursive Weiner filtering,
+time-invariant state space models, recursive estimation given state-space models (14
+Lectures)
+Kalman Filter: Derivation of the Kalman filter, Filter properties, Steady-state Kalman
+filter, Prediction and smoothing, Kalman filter recursions, recursion for predicted and
+filtered state estimators (14 Lectures)
+Nonlinear Filtering: The extended Kalman filter, The Levenberg-Marquardt
+measurement update, Applications in navigation and signal processing (14 Lectures)
+Textbook
+1. Kamen and Su, J. K., (1999), Introduction to Optimal Estimation, Springer Verlag
+2. Kailath, T., Sayed, A., and Hassibi, B., (2000), Linear Estimation, Prentice Hall
+Title Digital video processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+Objectives
+The Instructor will:
+1. introduce foundations of image and video signal processing and highlight similarities
+and differences between the two
+2. Expose student to importance of motion in videos and its estimation, and use it for
+applications such as video compression, object tracking/recognition
+Learning Outcomes
+The students are expected to have the ability to:
+1. meaningfully exploit the concept of spatio-temporal information in visual signals to
+develop applications in the broad area of multimedia signal processing
+Contents
+Motion analysis in video signals:Concepts of 2D motion, optical flow, block-based and
+pel-recursive methods for motion estimation, regularization techniques (8 lectures)
+Recent trends in video technologies:
+Stereo and multiview videos:introduction to depth perception and disparity estimation,
+view
+Synthesis, stereo and multiview display (14 lectures)
+HDR and Wide Color Gamut (WCG) videos: capture via exposure fusion, single HDR
+cameras,
+HDR display modeling, Standard-gamut versus wide color gamut, ITU-T BT.709 and
+BT.2020
+(10 lectures)
+HDR-HFR-UHD-WCG: dependencies from human visual system perspective, issue of
+viewing
+distance (6 lectures)
+360-degree videos: introduction to 360-degree (omni directional) video capture and
+display,
+challenges in applying traditional 2D video processing techniques (4 lectures)
+Textbook
+1. Tekalp,M., (2015), Digital Video Processing, 2nd Edition, Prentice Hall
+Self Learning Material
+1. Katsaggelos, A.K., Fundamentals of Image and Video Processing, Coursera,
+Northwestern University, https://www.coursera.org/learn/digital
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/108104100/
+Title Optical Fiber Communications Number EEL6XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech., Ph.D. Type Elective
+Prerequisite EM Theory
+Objectives
+The Instructor will:
+1. Provide the fundamental principles and the practices followed in the area of optical
+communications.
+2. Enable the appreciation of the global connectivity achieved via optical fiber
+technology.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and implement an end-to-end fiber optic communication link using
+commercially available LASERs, LEDs and Photodetectors.
+Contents
+(Fractal 1)Optical Fiber Waveguide: EEL6XX1 [1-0-0]Introduction to :Vector
+Nature of Light, Optical Fiber – Single and Multimode, Step index and Graded Index
+Fibers, Ray and Wave picture of propagation, Cut-off, mode field diameter, group
+delay, Gaussian field approximation. (8 Lectures)
+Transmission Characteristics: The consequences of attenuation and dispersion in Optical
+Fibers: Material, Waveguide, Polarization, Intermodal and Intramodal Dispersion,
+Group velocity Dispersion, Dispersion modified single mode fibers. Fiber Fabrication
+Methods. (6 Lectures)
+(Fractal 2)Optical Sources and receivers:EEL6XX2 [1-0-0] LASERS: Population
+inversion and feedback, Spontaneous and Stimulated emission, Injection LASERS,
+Gain and Index Guided LASERS, VSCELS, LASER Characteristics and Driver Circuits,
+Fiber Coupling. LED: Structure, Characteristics and Driver Circuits. (7 Lectures)
+Optical Receivers: Photo-detectors – PN, P-I-N, Avalanche Photodiodes,
+Phototransistors, Responsivity, Quantum Efficiency, Noise, Optical Receiver
+structures: Low, high and transimpedance front end, Low noise Preamplifiers. (7
+Lectures)
+(Fractal 3)Optical Fiber Link Design: EEL6XX3 [1-0-0]Fiber joints, connectors,
+couplers and isolators, Splicing operation, System Planning considerations, quantum
+limit, SNR, BER calculation, Rise time budgeting, Power budgeting, Choice of
+components, Principles of Coherent and Incoherent Optical communication systems.
+(8 Lectures)
+Introduction to Nonlinear effects: Impact of SPM, XPM, FWM on communication
+systems, Raman and Brillioun Scattering and solition based communication. (4
+Lectures)
+Miscellaneous: EDFA, Raman amplifier, and WDM and SDM systems. (2 Lectures)
+Textbooks
+1. J. M. Senior, Optical Fiber Communications: Principles and Practice, Prentice
+Hall, 3rd Edition, 2010.
+2. G. Keiser, Fibre Optic Communication McGraw-Hill, 5th Edition. 2013.
+3. G. Agrawal, Fiber optic Communication Systems, John Wiley and sons, 4th
+Edition 2010.
+Self Learning Material
+1. NPTEL Lectures on Advanced Optical Communication by Prof. R.K. Shevgaonkar,
+IIT Bombay(https://nptel.ac.in/courses/117101002/)
+2. The RP Photonics Encyclopedia (https://www.rp-
+photonics.com/encyclopedia.html)
+Preparatory Course Material
+1. (Fractal 1) Some concepts from “M.O. Sadiku and S.V. Kulkarni, Principles of
+Electromagnetics”, Oxford University Press, 6th edition, 2015.
+2. (Fractal 2) Some Concepts from “Jacob Millman et.al., Integrated Electronics”,
+McGraw Hill Education, 2nd Edition, 2017.
+3. (Fractal 3) Some concepts from “B.P. Lathi and Z. Ding, Modern Digital and
+Analog Communication Systems”, Oxford University Press, 4th Edition, 2011
+Title Digital image processing and applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+Objectives
+The Instructor will:
+1. introduce basic concepts in image signal capture and display
+2. provide an in-depth coverage of few recent applications of digital image processing
+Learning Outcomes
+The students are expected to have the ability to:
+1. implement end-to-end systems that can capture, process and render a digital image in a
+desired fashion
+Contents
+Introduction:basic concepts of image signal capture, relation of pixels to physical luminance (3
+lectures)
+Display modeling: concept of dynamic range, color correction, modeling of a conventional
+display, modeling of modern Led-backlit displays, applications (6 lectures)
+Image processing and Machine Learning:similarities and differences between traditional and
+ML based models, augmenting traditional image processing with ML (6 lectures)
+Sparse models for image processing: dictionary learning, modeling of natural image patches,
+applications of sparse modeling (denoising, inpainting, super resolution) (7 lectures)
+Image inpainting: use-case scenarios, analytical methods (PDE, SVD, dictionary learning etc.)
+for inpainting, exemplar-based inpainting, content-aware filling in Adobe Photoshop CS5,
+semantic inpainting using machine learning (10 lectures)
+Image saliency: bottom-up and top-down mechanisms, saliency due to color and texture,
+automatic saliency prediction using traditional and ML based approaches, applications of
+saliency (6 lectures)
+Perceptual image processing: masking, contrast sensitivity, angular frequency and viewing
+Distance (4 lectures)
+Textbook
+1. Gonzalez, R.C. and Woods, R.E., (2018), Digital Image Processing, 4th Edition, Prentice Hall
+Self Learning Material
+1. Katsaggelos, A.K., Fundamentals of Image and Video Processing, Coursera, Northwestern
+University, https://www.coursera.org/learn/digital
+Preparatory Course Material
+1. Rao, R. V., Advanced Matrix Theory and Linear Algebra For Engineers, NPTEL Course
+Material, Centre for Electronics Design and Technology, Indian Institute of Science,
+Bangalore, https://nptel.ac.in/courses/111108066/
+Title Multirate Digital Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Digital Signal Processing
+Objectives
+The Instructor will:
+1. Provide the concept of multirate signal processing and demonstrate the ability to
+solve the problems in sample rate conversion, filter banks and Transmultiplexers
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the basic concepts of multirate systems; understanding of decimation,
+interpolation and filterbanks
+2. Understand the realizations for upsampling and downsampling of signals using
+polyphaser decomposition
+3. design the filter banks based on the techniques discussed in the class
+Contents
+Review of Digital Filters, Multirate Systems (3 Lectures)
+Interconnection of Multirate DSP blocks, Multiplexer and demultiplexer functionality (4
+Lectures)
+Application of Multirate DSP: DFT- based filterbanks, Transmultiplexer, Filterbank
+Interpretation of Spectral Analysis using DFT, Two channel maximally decimated filter
+banks (6 Lectures)
+Introduction to OFDM (5 lectures)
+Multicarrier modulation, Block transceivers with redundancy, Zero-padding, cyclic prefx,
+OFDM, extensions of OFDM including Filterbank Multicarrier (FBMC) (6 lectures)
+Application of Multirate DSP: Delta Sigma A/D conversion (4 lectures)
+Textbook
+1. Vaidyanathan, P. P., (2008), Multirate Systems and Filter Banks, Pearson Education
+2. Harris, F. J., (2007), Multirate Signal Processing for Communication Systems, 1st
+Edition, Pearson Education
+Self-Learning Material
+1. Kovilpillai D., Multirate Digital Signal Processing, NPTEL Course Material, Department
+of Electrical Engineering, Indian Institute of Technology Chennai,
+https://nptel.ac.in/courses/108106136/
+Preparatory Course Material
+1. Dutta, S. C. R., Digital Signal Processing, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Delhi,
+https://nptel.ac.in/courses/117102060/
+Title Network Information Theory Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Elective
+Prerequisite Wireless Communications
+Objectives
+The Instructor will:
+1. Provide fundamental concepts in multi-user and network information theory with
+applications in communications
+2. Expose students to the fundamentals of the multiple access channel, broadcast
+channel, channels with state, interference channel, relay channel, network coding
+and MIMO multiuser channels.
+Learning Outcomes
+The students are expected to have the ability to:
+1. the core ideas of network information theory, including key multi-user coding
+techniques, proof ideas and performance analysis in modern communications
+networks
+Contents
+Review of basic information theory concepts: entropy, mutual information (3 lectures)
+Multiple access channel: capacity, successive interference cancellation (4 lectures)
+Gaussian Degraded Broadcast Channels: Discrete Memoryless Broadcast Channel,
+Simple Bounds on the Capacity Region, Superposition Coding Inner Bound, Degraded
+DM-BC, Gaussian Broadcast Channel (7 lectures)
+Channels with state: DMC with state, Compound Channel, Arbitrarily Varying Channel,
+Channels with Random State, Causal State Information Available at the Encoder, Non-
+causal State Information Available at the Encoder, dirty-paper coding (7 lectures)
+Interference channel: Discrete Memoryless Interference Channel, Simple Coding
+Schemes, Strong Interference, Gaussian Interference Channel, Han-Kobayashi Inner
+Bound, Capacity Region of the Gaussian IC within Half a Bit (7 lectures)
+Relay channel: Cut-set Upper Bound on the Capacity, Direct-Transmission Lower
+Bound, Decode–Forward Lower Bound, Gaussian Relay Channel, Compress–Forward
+Lower Bound, Receiver Frequency Division Gaussian Relay Channel, Look-ahead Relay
+Channels (7 lectures)
+Multicast and interference networks: network coding, noisy network coding,
+interference alignment. (7 lectures)
+Textbook
+1. Gamal A. E. and Kim Y. H., (2012), Network Information Theory, Cambridge
+University Press.
+2. Kramer G., (2008), Topics in multi-user information theory, now Publishers Inc.
+3. Cover T. and Thomas J., (2006), Element of Information Theory, Wiley-Interscience.
+Self-Learning Material
+1. Avestimehr A. S., Diggavi S.N. and Tse D. N. C., "Wireless Network Information
+Flow: A Deterministic Approach," IEEE Transactions on Information Theory, Vol. 57,
+No. 4, pp.1872-1905, 2011.
+2. Dimakis A. G., Godfrey P. B., Wu Y., Wainwright M. J. and Ramchandran K.,
+"Network Coding for Distributed Storage Systems," IEEE Transactions on
+Information Theory, Vol. 56, No. 9, pp. 4539 - 4551, 2010.
+Title Radio Frequency Integrated Circuit Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Type Elective
+Prerequisite Analog electronics, Fundamentals of
+Communication engineering and EM Theory
+Objectives
+The Instructor will:
+1. Introduce students to the integrated circuit designing at radio frequencies.
+2. Introduce various circuits and building blocks for communication applications.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the design of integrated circuits at high frequencies.
+2. Practically implement various circuits required to build a transceiver system.
+3. Learn about the design of various active components like mixers, LNAs, power
+amplifiers at RF and microwave frequencies.
+Contents
+Communication System Overview:Modulation, Mobile Systems, Multiple Access
+Techniques, Wireless Standards. (2 lectures)
+Noise:Noise spectrum, device noise, noise in a circuit, effect of noise on transfer
+function. (4 lectures)
+Transceiver Architectures:Heterodyne Receivers, Direct-Conversion Receivers, Image
+Reject and Low IF Receivers, Transmitter Architectures. (4 lectures)
+Concepts of RF Design:Wave Guides and Transmission Lines, coupled lines, S-
+Parameters, Smith Chart, single and double stub impedance matching, Two-port gain
+and stability analysis. (10 lectures)
+Amplifier Design:Concepts of nonlinearity, time variance and IIP3, model of MOS
+transistors and BJT at high frequencies, wideband amplifiers, constant gain amplifier,
+constant noise figure amplifier, low noise amplifier, power amplifiers, combining
+networks. (9 lectures)
+Oscillators and Voltage Controlled Oscillators: Basic topologies VCO and definition of
+phase noise. Noise-power trade-off, quadrature and single-sideband generators. (5
+lectures)
+Mixers: Mixer Noise figure, port to port feed-through, single-balanced and double
+balanced mixers. (4 lectures)
+Introduction to Phase-Locked Loops:Type I and Type II PLL‟s, PLL Non-idealities. (4
+lectures)
+Textbook
+1. Lee, T. H., (1997), The Design of CMOS Radio-Frequency Integrated Circuits,
+Cambridge, UK: Cambridge University Press
+2. Razavi, B., (2014), RF Microelectronics, 2nd Edition, Pearson Education
+3. Gonzalez, G., (1996), Microwave Transistor Amplifiers: Analysis and Design, 2nd
+edition, Pearson
+Self-Learning Materials
+1. Chatterjee, S., RF Integrated Circuits, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Delhi, IIT Delhi,
+http://nptel.ac.in/courses/117102012/#
+2. High Speed Communication Circuits, MIT, https://ocw.mit.edu/courses/electrical-
+engineering-and-computer-science/6-776-high-speed-communication-circuits-
+spring-2005/lecture-notes/
+Preparatory Course Materials
+1. Lathi, B. P., and Ding, Z., (2017), Modern Digital and Analog Communications
+Systems, 4th edition, Oxford university press
+2. Pozar, D. M., (2011), Microwave Engineering, 4th edition, New York, NY, USA: Wiley
+Title Adaptive Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech., Ph.D Type Elective
+Prerequisite Digital Signal Processing
+Objectives
+The Instructor will:
+1. Provide students an understanding of fundamental issues related to adjustment of weights
+of processing filters based on requirement and signal characteristics.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design various optimal filters such as Least Squares filters and its variants.
+2. Apply the adaptive filtering techniques in various application areas such as speech, image,
+and video processing.
+Contents
+Introduction: Applications of Adaptive Signal Processing (1 Lecture)
+Review of linear and non-linear estimation theory: Properties of estimators, estimators of
+mean and variance, least square estimation, loss function, weighted least squares (6 lectures)
+Signal modelling, Optimal filtering, Adaptive filtering as an extension of the optimal least mean
+square error case Adaptive algorithms: Linear non-parametric signal models, parametric pole-
+zero signal models, optimum signal estimation, linear mean square error estimation, optimum
+FIR and IIR response filters, derivation of LMS algorithm, convergence of weight vector,
+recursive least square adaptive filters, RLS algorithm (15 lectures)
+Adaptive equalization and echo cancellation: structures and adaptive algorithms, double talk
+detection, Howling suppression, stereophonic acoustic echo cancellation (5 lectures)
+Adaptive lattice filters: Forward and backward linear prediction, derivation of lattice structure,
+lattice joint process estimator, autoregressive modeling, gradient adaptive lattice, RLS
+adaptive lattice, RLS lattice recursions (10 lectures)
+Application to image processing, video processing, and communications (spread spectrum
+techniques) (5 lectures)
+Textbook
+1. Haykin, S., (1986), Adaptive filter theory, Prentice Hall
+2. Widrow, B. and Stearns, S. D., (1984), Adaptive Signal Processing, Prentice Hall
+Self-Learning Material
+1. Chakraborty M., Adaptive Signal Processing, NPTEL Course Material, Department of
+Electrical and Electronics Engineering, Indian Institute of Technology Kharagpur,
+https://nptel.ac.in/courses/117105075/
+Preparatory Course Material
+1. Dutta Roy, S. C., Digital Signal Processing, NPTEL Course Material, Department of Electrical
+Engineering, Indian Institute of Technology Delhi, https://nptel.ac.in/courses/117102060/
+Title Image sensor Design and Applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech IV year, M. Tech, Ph. D. Type Elective
+Prerequisite Analog electronics
+Objectives
+The Instructor will:
+1. Introduce the design and analysis of CMOS image sensors.
+2. Explain the readout electronics behind the camera.
+3. Provide the knowledge of performance measures and tradeoffs involved in the camera
+design.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and develop CMOS image sensor including the sensing mechanism and signal chain
+of the camera.
+2. Implement different techniques required for high dynamic range camera, high frame rate,
+low noise camera, time of flight 3D cameras etc.
+Contents
+Introduction to photodetectors:Photodiode and photogate, photocurrent, dark current,
+quantum efficiency, spectral response and photo-conversion principles (5 Lectures).
+Introduction to Charge coupled devices and CMOS image sensors: Operation, performance
+metrics, noise and its types, spatial resolution and modulation transfer function. Concept of
+exposure triangle including aperture, shutter speed and ISO, color filters, Bayer pattern,
+Shutters and its types, motion blur, hard and soft reset, Introduction to imaging optics (8
+Lectures).
+Readout electronics and image sensor characterization:Readout and its types, design tradeoffs
+and challenges, analysis of the signal path behind the camera, variable gain amplifiers, double
+sampling circuits, ADCs, reference and clock generation circuits, floor planning, placement and
+routing, image sensor characterization (15 Lectures).
+Emerging trends:High speed cameras, high dynamic range cameras, 3D cameras for
+background light subtraction and depth estimation. Concepts of Polarization imaging, low light
+imaging, machine vision, backside illumination, stacked technology, target tracking (10
+Lectures).
+Color Processing: Color demosaicing, color correction and white balance (2 Lectures).
+Applications:Smart city, health care, autonomous vehicles, sports, motion detection,
+surveillance (2 Lectures).
+Textbook
+1. Ohta, J., (2007), Smart CMOS Image sensors and Applications, CRC press.
+Self-Learning Material
+1. O. Y. Pecht, and Cummings, R. E., (2004), CMOS imagers: From Photo transduction to
+Image processing.
+2. Albert J.P. Theuwissen, Harvest imaging, https://harvestimaging.com/
+3. Albert J.P. Theuwissen, Image sensors blog http://image-sensors-world.blogspot.com/
+Preparatory Course Material
+1. IEEE Journal of Solid State circuits
+Title Digital image and video processing lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 1–0–2 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+Objectives
+The Instructor will:
+1. introduce student to importance of motion in videos and motion estimation
+techniques
+2. discuss applications such as display modeling, video compression, and visual
+attention modeling
+Learning Outcomes
+The students are expected to have the ability to:
+1. implement models for that affect visual signal display and perception
+2. meaningfully exploit the concept of spatio-temporal information in videos to develop
+applications in the broad area of multimedia signal processing
+Contents
+Introduction:basic concepts of visual signal capture (both images and videos), relation
+of pixels to physical luminance (1 lecture)
+Display modeling: concept of dynamic range, color correction, modeling of a
+conventional display (gamma correction, Weber law), HDR display model (3
+lectures)
+Motion estimation in video signals:Concepts of 2D motion, and introduction to
+techniques such as optical flow, block-based and pel-recursive methods (2 lectures)
+Video compression: introduction to video coding standards (MPEG, H.26x), and their
+implementation (4 lectures)
+Depth Image based Rendering: view synthesis and modeling, aspects of perceptual
+quality (2 lectures)
+Visual saliency modeling: introduction to visual attention in both 2D and omnidirectional
+(360-degree) content and basic models (2 lectures)
+Lab experiments: for each topic students will implement the corresponding models and
+examine the performance through standard metrics (~14 lab experiments)
+Textbook
+1. Tekalp,M., (2015), Digital Video Processing, 2nd Edition, Prentice Hall
+2. Bovik, A., (2009), The Essential Guide to Video Processing, 1st Edition, Academic
+Press
+3. Woods,J.W., (2006), Multidimensional Signal, Image and Video Processing and
+Coding, 2nd Edition, Academic Press
+4. Wang, Yao, (2003), Video Processing and Communications, 2nd Edition, Prentice Hall
+Self-Learning Material
+1. Gupta, S., Digital Video Signal Processing, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/117104020/
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/108104100/
+Title Radio Frequency Integrated Circuit Design
+Lab
+Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 1–0–2[2]
+Offered for B.Tech. (IV Year) , M.Tech and PhD Type Elective
+Prerequisite Analog Electronics, EM Theory
+Objectives
+The Instructor will:
+1. Introduce the students to RF integrated circuit design and measurements.
+2. Introduce the students to various circuits required for communication applications.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design RF circuits using softwares like ADS, HFSS.
+2. Design of integrated circuits at RF-Microwave frequencies.
+3. Implement various circuits required to build a transceiver.
+Contents
+1. Introduction to ADS and HFSS RF simulators.
+2. Calibration Network Analyzers (SOLT and TRL) / Use of Spectrum Analyzer/Tools
+and Tips for RF PCB design.
+3. Characterization of passive components at RF-Microwave frequencies.
+4. Design and Measurement of power combining/dividing networks.
+5. Measurement of RF Amplifier.
+6. Distortion Measurements.
+7. Noise Measurements.
+8. Phase Noise Measurement.
+9. Measurement of Mixers.
+10. Load/Source Pull Measurement for large signal characterization.
+Textbook
+1. Lee, T. H., (1997), The Design of CMOS Radio-Frequency Integrated Circuits,
+Cambridge, UK: Cambridge University Press
+2. Razavi, B., (2014), RF Microelectronics, 2nd Edition, Pearson Education
+3. Niknejad, A. M., (2007), Electromagnetics for High-Speed Analog and Digital
+Communication Circuits, Cambridge University Press
+Self-Learning Material
+1. High Speed Communication Circuits, MIT, https://ocw.mit.edu/courses/electrical-
+engineering-and-computer-science/6-776-high-speed-communication-circuits-
+spring-2005/lecture-notes/
+2. Aniruddhan, S., RF Integrated Circuits, Department of Electrical Engineering, Indian
+Institute of Technology Madras,
+http://www.ee.iitm.ac.in/videolectures/doku.php?id=ee6240_2013:start
+Preparatory Course Material
+1. Pozar, D. M., (2011), Microwave Engineering, 4th Edition, New York, NY, USA: Wiley
+Title Machine Learning for Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fundamentals of communication systems,
+machine learning 1
+Objectives
+The Instructor will:
+1. Introduce the area of machine learning in the context of communications
+2. Discuss scenarios in the domain of communications where machine learning can be
+a viable alternative to traditional approaches
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply machine learning techniques (supervised/unsupervised classification and
+regression) for specific problems in the domain of communications
+Contents
+Review of machine learning techniques as applicable in the area of communications (3
+lectures)
+Why and when machine learning can be useful in communication? (2 lectures)
+Overview of machine learning in communications (2 lectures)
+Machine learning for physical layer design: Adaptive modulation and coding (AMC),
+classical AMC, AMC using support vector machines, k-nearest neighbors, reinforcement
+learning (5 lectures)
+Channel prediction: prediction of wireless channel features via neural networks, channel
+prediction using Recurrent neural networks (3 lectures)
+Video communication: introduction to video coding standards (MPEG, H.26x), discussion
+of traditional algorithms (motion compensation, linear prediction etc.), modern
+approaches for video compression using machine learning (8 lectures)
+Machine learning for mobile network design: network state prediction, traffic prediction
+and interference management, small cell clustering in Hetnet, user grouping/clustering
+in D2D, HetNets for offloading, modeling spatio-temporal correlations in geographical
+mobile traffic measurements using CNNs/RNNs (10 lectures)
+User mobility analysis: modeling spatial dependencies in sequential data (3 lectures)
+Learning based automatic modulation recognition in cognitive radios (2 lectures)
+Possible limitations of machine learning methods in communication systems (3 lectures)
+Textbook
+1. Bishop, C. M., (2007), Pattern Recognition and Machine Learning, Springer
+2. MacKay, D.J.C., (2005), Information Theory, Inference, and Learning Algorithms,
+Cambridge University Press
+Self-Learning Material
+Machine Learning For Communications Emerging Technologies Initiative, IEEE
+https://mlc.committees.comsoc.org/research-library/
+Title Machine Learning for Communication lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 1–0–2 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Machine learning 1
+Objectives
+The Instructor will
+1. Introduce students to scenarios in which machine learning methods can be applied
+2. Provide students problems in the domain of communications and signal processing
+where machine learning can be a viable alternative to traditional approaches
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply machine learning techniques (supervised/unsupervised classification and
+regression) for specific problems in the domain of communications and signal
+processing
+Contents
+Why and when machine learning can be useful in communication and signal processing?
+(1 lecture)
+User mobility analysis: modeling spatial dependencies in sequential data (2 lectures)
+Visual communication systems: application of machine learning for video compression
+(2 lectures)
+Machine learning for video quality prediction (3 lectures)
+Learning based automatic modulation recognition in cognitive radios (2 lectures)
+Smart wireless network management using machine learning (2 lectures)
+Possible limitations of machine learning methods in communication systems (2 lectures)
+Textbook
+1. Bishop, C. M., (2007), Pattern Recognition and Machine Learning, Springer
+2. MacKay, D.J.C., (2005), Information Theory, Inference, and Learning Algorithms,
+Cambridge University Press
+Self Learning Material
+Machine Learning For Communications Emerging Technologies Initiative, IEEE
+https://mlc.committees.comsoc.org/research-library/
+Title GNSS Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech., Ph. D. Type Elective
+Prerequisite Fundamentals of Communications and Signals
+and Systems
+Objectives
+The Instructor will:
+1. Describe and analyze the signal processing of a GNSS receiver, including signal
+acquisition, tracking and navigation.
+2. Expose students to the main vulnerabilities and limitations of GNSS technology,
+including interference sources such as jamming, unintentional interferences,
+spoofing and ionospheric scintillation.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the basic principles and signal processing tools that are used in satellite-
+based navigation for signal acquisition and computation of positioning solutions.
+2. Analyze the state of the art signal acquisition methods and countermeasures
+strategies for interference and spoofing. Interpret anti-jamming techniques in the
+context of robust signal processing theory.
+Contents
+Course introduction: positioning is everywhere; GNSS is a key technology; main GNSS
+components; GNSS limitations; review of mathematical tools. (3 lectures)
+Fundamentals of satellite-based navigation: historical remarks on navigation;
+positioning concepts; system segments; space segment; ground segment; user
+segment. (4 lectures)
+GNSS signals in space: overview of the main signal characteristics: GPS, Galileo,
+GLONASS, Beidou, IRNSS; focus on IRNSS SPS and RS signal; BPSK vs BOC
+modulations. (3 lectures)
+GNSS channel model: propagation delay; Doppler effect; multipath and non-line-of-
+sight; ionospheric and tropospheric delays. (4 lectures)
+GNSS receiver: antenna and RF front-end; signal sampling; signal acquisition as a
+detection problem; signal tracking as a filtering problem; observables‟ computation. (7
+lectures)
+Navigation solution: Code-based positioning; Code and carrier-based positioning; least
+squares solution; weighted least squares solution; Kalman filtering solution; basic
+schemes for GNSS/inertial hybridization. (7 lectures)
+Vulnerabilities of GNSS: intentional interferences and jammers; unintentional
+interferences; spoofing attacks; ionospheric scintillation; detection and mitigation
+techniques. (7 lectures)
+Indoor positioning: basic measurements; positioning approaches: model-based versus
+model-free methods; hybridization and data fusion; main technologies. (7 lectures)
+Textbook
+1. Betz J. W., (2015), Engineering Satellite-Based Navigation and Timing: Global
+Navigation Satellite Systems, Signals, and Receivers, Wiley-IEEE Press.
+2. Kaplan E. and Hegarty C. J., (2017), Understanding GPS/GNSS: Principles and
+Applications, Artech House.
+3. Misra P. and Enge P., (2011), Global Positioning System: Signals, Measurements,
+and Performance, Ganga-Jamuna Press.
+Preparatory Course Material
+1. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT
+OpenCourseWare, Electrical Engineering & Computer Science, Massachusetts Institute
+of Technology, https://ocw.mit.edu/courses/electrical-engineering-and-computer-
+science/6-450-principles-of-digital-communications-i-fall-2006/
+Title Free Space Optical Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech IV Year, M.Tech. and Ph.D Type Elective
+Prerequisite Fundamentals of probability, wireless and optical
+communications
+Objectives
+The Instructor will:
+1. Give a comprehensive introduction of the fundamentals of Free Space Optical (FSO)
+communications.
+2. Help students understand the techniques to improve the performance of FSO
+communication systems.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Ability to analyze FSO system performance under various channel impairments.
+2. Ability to design and simulate efficient FSO links by utilizing the knowledge of
+mitigation techniques which could be used advanced research.
+Contents
+Fundamentals of Free Space Optical (FSO) communication systems: Motivation,
+advantages, limitations, applications (3 Lectures)
+FSO components: FSO transmitter and receiver structures, optical sources, optical
+amplifiers, photodetectors, photodetection techniques (4 Lectures)
+FSO channel and noise modeling: Different losses in FSO systems, atmospheric
+turbulence models, pointing errors, noise sources, background radiation (7 Lectures)
+Modulation schemes: Subcarrier intensity modulation, on-off keying, M-ary pulse
+position modulation (M-PPM), differential PPM, differential amplitude pulse-position
+modulation digital pulse interval modulation (6 Lectures)
+Performance analysis of FSO systems: BER evaluation of different modulation schemes
+under atmospheric turbulence and pointing errors, information theoretic limits of
+FSO systems, asymptotic behavior (8 Lectures)
+Mitigation techniques for improved FSO performance: Aperture averaging, diversity
+techniques and MIMO FSO, adaptive optics techniques (10 Lectures)
+Miscellaneous: Physical layer security in FSO (4 Lectures)
+Textbook
+1. Ghassemlooy, Z., Popoola, W., and Rajbhandari, S., (2019), Optical Wireless
+Communications: System and Channel Modelling with MATLAB®, 2nd Edition, CRC
+Press
+2. Djordjevic, I. B., (2018), Advanced Optical and Wireless Communications Systems,
+1st Edition, Springer
+3. Majumdar, A. K., (2015), Advanced Free Space Optics- A System Approach, 1st
+Edition, Springer
+Preparatory Course Material
+1. Kumar, P. K., Optical Communications, Department of Electrical Engineering, Indian
+Institute of Technology Kanpur, https://nptel.ac.in/courses/117104127/
+Title Real Time Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce QoS and design criteria for real time communication for wired and
+wireless networks.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design protocols and links for real time communication over wired and wireless
+networks.
+Contents
+Introduction: Type of network, Quality of Service, Traffic Categorization (4 Lectures)
+Real-Time Communication in Wired Networks: RTC in LAN, Soft and Hard read time
+communication, RTC over internet, Routing, resource reservation, traffic shaping and
+policing, scheduling, Real-Time Communication Via Ethernet in Industrial Automation
+Environments (14 Lectures)
+Real-Time Communication in Packet-Switched Networks: Real-Time Scheduling Theory,
+Traffic Characterization, Connection-Level Processing, Per-Packet Processing,
+Scheduler-based Methods, Application-level Characteristics, Connection-level Issues (7
+Lectures)
+Real-Time Communication over Unreliable Wireless Links: A necessary and sufficient
+condition for feasibility, Utility maximization, broadcasting real-time flows with network
+coding and xor coding (7 Lectures)
+Real-time communication protocols: Token-ring networks, Broadcast networks, Other
+networks, Real-time support in the higher layers, Blink protocol for Real-Time
+Communication for Wireless Cyber-Physical Systems (10 Lectures)
+Self-Learning Material
+1. Mall R., Real-time Systems, NPTEL Course Material, Computer Science and
+Engineering, Indian Institute of Technology Kharagpur,
+https://nptel.ac.in/courses/106105086/6
+2. Decotignie J.-D., Ethernet Based Real-Time and Industrial Communications, Proc. of
+the IEEE, vol. 93, issue 6, pp. 1102-17, 2005.
+3. Hou I. and Kumar P. R., "Real-time communication over unreliable wireless links: a
+theory and its applications," in IEEE Wireless Communications, vol. 19, no. 1, pp.
+48-59, 2012.
+4. Hanssen F., & Jansen P.G., (2003), Real-time communication protocols: an
+overview.
+Title Backhaul Networks for Wireless
+Systems
+Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce the communication backhaul networks for future wireless systems.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand concepts such as caching, mmWave backhauling, channel aggregation and
+perform analysis and optimization of backhaul technologies.
+Contents
+Introduction: Backhaul networks- Wired solutions, Wireless solutions; The Communication Haul
+Challenge, Evolution of Backhaul networks - LTE mobile backhaul, Multi-RAT and multi-operator
+backhaul, LTE-A backhaul, Future RAN and backhaul evolution (3 lectures)
+Spectral coexistence for next generation wireless backhaul networks: Research trends in wireless
+backhaul, Hybrid satellite-terrestrial backhaul, Case studies, Future recommendations (4 lectures)
+Control data separation and its implications on backhaul networks: RAN design in legacy
+standards, 5G RAN with control/data separation, Main challenge for backhaul networks (7
+lectures)
+Backhaul relaxation through caching: Background on content caching, Caching in 5G wireless
+systems, Energy efficiency and caching in 5G systems (5 lectures)
+Backhauling 5G Small Cells with Massive
+‐MIMO
+‐Enabled mmWave Communication: mmWave
+Communication, mmWave Backhauling, Research Challenges for Backhauling in 5G Networks,
+Massive‐MIMO‐based mmWave Backhauling System (12 lectures)
+Analysis and Optimization for Heterogeneous Backhaul Technologies: Backhaul Model, Backhaul
+Packet Delay Analysis, Backhaul Deployment Cost Analysis, Backhaul‐aware BS Association Policy
+(5 lectures)
+Multiband and Multichannel Aggregation for High
+‐speed Wireless Backhaul: Challenges and
+Solutions, Multiband and Multichannel Aggregation, Spectrally Efficient Channel Aggregation,
+Practical System Examples (6 lectures)
+Textbook
+1. Saidul Huq K. M. and Rodriguez J., (2016), Backhauling / Fronthauling for Future Wireless
+Systems, Wiley-Blackwell.
+2. Imran M. A., Zaidi S. A. R., and Shakir M. Z., Access, (2017), Fronthaul and Backhaul Networks
+for 5G & Beyond, IET Press.
+Self-Learning Material
+1. IEEE Best Readings in Backhaul and Fronthaul: Communications, Networking, and Signal
+Processing https://www.comsoc.org/publications/best-readings/backhaul-and-fronthaul-
+communications-networking-and-signal-processing
+2.ETSI 5G WirelessBackhaul/X-Haul,
+https://www.etsi.org/deliver/etsi_gr/mWT/001_099/012/01.01.01_60/gr_mWT012v010101p.
+pdf
+Title Applied Optimization for Wireless
+Communication
+Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+Prerequisite Basic knowledge of - Calculus, Probability,
+Matrices
+Objectives
+The Instructor will:
+1. Expose students to the fundamental tools and techniques in modern optimization.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply Convex Optimization techniques to various aspects of wireless communication
+systems.
+Contents
+Introduction to properties of Vectors, Norms, Positive Semi-Definite, matrices, Gaussian
+Random Vectors (6 Lectures)
+Introduction to Convex Optimization, Convex sets, Hyperplanes Half-spaces etc.
+Application: Power constraints in Wireless Systems (6 Lectures)
+Convex Concave Functions, Examples, Conditions for Convexity. Application:
+Beamforming in Wireless Systems, Multi-User Wireless, Cognitive Radio Systems (6
+Lectures)
+Convex Optimization problems, Linear Program, Application: Power allocation in Multi-
+cell cooperative OFDM
+QCQP, SOCP Problems, Application: Channel shortening for Wireless Equalization,
+Robust Beamforming in Wireless Systems (8 Lectures)
+Duality Principle and KKT Framework for Optimization. Application: Water-filling power
+allocation, Optimization for MIMO Systems, OFDM Systems and MIMO-OFDM systems (7
+Lectures)
+Optimization for signal estimation, LS, WLS, Regularization. Application: Wireless
+channel estimation (2 Lectures)
+Application: Cooperative Communication, Optimal Power Allocation for cooperative,
+Communication (2 Lectures)
+Application: Radar for target detection, Array Processing, MUSIC, MIMO-Radar Schemes
+for Enhanced Target Detection (2 Lectures)
+Application: Autonomous self-organization in dynamic wireless networks (3 Lectures)
+Textbook
+1. Boyd S. P. and Vandenberghe L., (2004), Convex Optimization, Cambridge
+University Press.
+Self-Learning Material
+1. Jagannatham A., Applied Optimization for Wireless, Machine Learning, Big Data,
+NPTEL Course Material, Department of Electrical Engineering, Indian Institute of
+Technology Kanpur, https://nptel.ac.in/noc/individual_course.php?id=noc18-ee31
+2. Llorca J., Milner S. D. and Davis C. C., "A convex optimization method for
+autonomous self-organization in dynamic wireless networks," MILCOM 2008 - 2008
+IEEE Military Communications Conference, San Diego, CA, pp. 1-8, 2008.
+Title Millimeter-wave Technology Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Type Elective
+Prerequisite Electromagnetic theory
+Objectives
+The Instructor will:
+1. Introduce the students with the phenomenon and circuit characteristics at mm-wave
+frequency ranges.
+2. Familiarize students with various guiding structures, antennas, and switches at mm-
+wave frequencies.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the design problems and challenges at mm-wave frequencies.
+2. Have the knowledge about the various mm-wave guiding structures, switches, and
+antennas.
+Contents
+Introduction to millimeter-wave technology:mm-wave frequency bands, atmospheric
+losses, application of mm-waves, Propagation and path losses, Friis equation, link
+budget and power budget calculation. (4 lectures)
+Novel Guiding structures for mmwave circuits: losses in planar circuits (conductor loss,
+leakage loss, dielectric loss, surface waves), Air filled waveguides, dielectric guides,
+NRD guide, substrate integrated waveguides (SIW), Substrate Integrated NRD (SINRD),
+Gap Waveguide, dielectric image line, planar air filled waveguide, Waveguide and planar
+resonators, Dielectric resonators, loaded, unloaded, and external Q-factors, SPST and
+SPDT switches. (8 lectures)
+Beam-forming network:Introduction to mmwave circuits: hybrid coupler, crossover,
+phase shifter, butler matrix, nolen matrix, Rotman lens. (5 lectures)
+Millimeter wave antennas:Problem with traditional antennas, horn antenna, dielectric
+rod antenna, Leaky wave antenna, waveguide slot array, chain antenna array, on chip
+antennas, monopulse radar network, transmitarray, reflectarray, millimeterwave over
+the air (OTA) measurement testing: Total Radiated Power (TRP), Total Isotropic
+Sensitivity (TIS), Effective Isotropic Radiated Power (EIRP), Effective Isotropic
+Sensitivity (EIS). (10 lectures)
+Packaging and interconnects:Challenges in packaging, design of interconnects at mm-
+wave frequencies, bondwire interconnections, ball-grid array. (3 lectures)
+Millimeterwave Active circuits:mmwave CMOS circuits: LNA,Oscillator, VCO, Power
+Amplifier, Frequency Synthesizer, SoC for mmwave RADAR, FinFET (10 Lectures)
+Case Studies: mmwave transciever for 5G, industrial radar sensor (2 lectures)
+Textbook
+1. Koul, S.K., (1997), Millimeter Wave and Optical Dielectric Integrated Guides and
+Circuits, Wiley-Blackwell
+2. Liu, D., Gaucher, B., Pfeiffer, U., and Grzyb, J., (2009), Advanced millimeter wave
+technologies, Wiley
+3. Hueber, G., and Niknejad, A. (Eds.). (2019), Millimeter-Wave Circuits for 5G and
+Radar (The Cambridge RF and Microwave Engineering Series), Cambridge:
+Cambridge University Press.
+Self-Learning Material
+1. Mandal, M. K., Millimeter-wave technology, NPTEL Course Material, Indian Institute
+of Technology Kharagpur, https://nptel.ac.in/courses/117105139/
+Preparatory Course Material
+1. Pozar, D. M., (2011), Microwave Engineering, 4th ed. New York, NY, USA: Wiley
+Title Selected Topics in Communication I Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of Wireless Communications
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of communications
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of communications to specific
+areas of research
+Contents
+The topic clouds for the course include some contemporary topics in communications
+(but not restricted to) mm-Wave wireless communications, wireless networks, quantum
+information processing, molecular communications. The topics may be further updated
+according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Communication II Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of Wireless Communications
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of communications
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of communications to specific
+areas of research
+Contents
+The topic clouds for the course include some contemporary topics in communications
+(but not restricted to) mm-Wave wireless communications, wireless networks, quantum
+information processing, molecular communications. The topics may be further updated
+according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Communication III Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of Wireless Communications
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of communications
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of communications to specific
+areas of research
+Contents
+The topic clouds for the course include some contemporary topics in communications
+(but not restricted to) mm-Wave wireless communications, wireless networks, quantum
+information processing, molecular communications. The topics may be further updated
+according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Physical Layer Security Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (IV Year), M. Tech., Ph. D. Type Elective
+Prerequisite Fundamentals of Information Theory
+Objectives
+The Instructor will:
+1. Familiarize the students with the fundamental concepts of information theoretic
+security such as perfect secrecy, wiretap channels, secrecy capacity etc.
+2. Help students understand the proofs of fundamental theorems in information
+theoretic secrecy
+Learning Outcomes
+The students are expected to have the ability to:
+1. Acquire the current state of research on physical layer security
+2. Apply the physical layer security techniques learnt to formulate a problem for
+research and solve them in a comprehensive manner
+Contents
+Fundamentals of Physical Layer Security: Information-theoretic secrecy, secret
+communication over noisy channels, Secret-key generation from noisy channels
+Coding for secrecy: Coding for wiretap channels, Polar wiretap codes, LDPC codes for
+the Gaussian wiretap channel
+Physical Layer Security Techniques: Cooperative jamming, MIMO signal processing
+algorithms for enhanced physical layer security, secrecy through intentional
+uncertainty, secure modulation schemes, secure
+Applications to Contemporary Communication Systems: secure waveforms for 5G,
+security of massive MIMO and mm-Wave cellular systems, security in IoT and massive
+machine type communications: issues and challenges
+Textbook
+1. Bloch, M. and Barros, J., (2011), Physical-Layer Security: From Information Theory
+to Security Engineering, 1st Edition, Cambridge University Press.
+2. Zhou, X., Song, L., and Zhang, Y., (2013), Physical Layer Security in Wireless
+Communications, 1st Edition, CRC Press.
+3. Duong, T. Q., Zhou, X., and Poor, H. V., (2016), Trusted Communications with
+Physical Layer Security for 5G and Beyond, 1st Edition, IET.
+Self Learning Material
+1. Liu, R. and Trappe, W., (2010), Securing Wireless Communications at the Physical
+Layer, 1st Edition, Springer.
+Title Computational imaging Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Basics of signals and systems
+Objectives
+The Instructor will:
+1. Introduce computational techniques and aspects of image capture, processing and
+rendering
+Learning Outcomes
+The students are expected to have the ability to:
+1. Implement end-to-end imaging systems that can capture and process visual data in
+a desired manner
+Contents
+Introduction and digital photography pipeline (3 lectures)
+Pinholes and lenses, Photographic optics and exposure, High dynamic range imaging,
+tonemapping and bilateral filtering (7 lectures)
+Gradient-domain image processing, Focal stacks and lightfields (6 lectures)
+Deconvolution, Camera models and calibration (6 lectures)
+Two-view geometry, Radiometry and reflectance, Photometric stereo, Light transport
+matrices
+(6 lectures)
+Computational light transport, Stereo and structured light (6 lectures)
+Time-of-flight imaging, Non-line-of-sight imaging, Fourier optics (8 lectures)
+Textbook
+1. Szeliski, R., (2010), Computer vision: Algorithms and Applications, 1st Edition,
+Springer
+2. Lukac, R., (2010), Computational Photography: Applications and Methods, 1st
+Edition, CRC Press
+Self Learning Material
+1. Gkioulekas, I., Computational Photography, Fall 2019, Department of Computer
+Science, Carnegie Melon University, http://graphics.cs.cmu.edu/courses/15-463/
+Title Multimedia Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+Objectives
+The Instructor will:
+1. introduce concepts in multimedia communication systems with focus on technology
+specific standards
+Learning Outcomes
+The students are expected to have the ability to:
+1. Implement and improve upon recent standards in multimedia communication
+Contents
+Introduction to multimedia signals:capture, storage and representation of image, video
+and audio signals. Analog-to-digital conversion, sampling and aliasing, brief
+discussion on graphics and text content (4 lectures)
+Multimedia compression: the need for compression and brief history of standards (3
+lectures)
+MPEG 7 and MPEG 21: evolution from MPEG 1,2 and MPEG 4, multimedia content
+management and description standards, applications and implementations (5
+lectures)
+Introduction and Evolution of video coding standards: the need for continuous
+improvements in standards (2 lectures)
+H.264/MPEG-4 AVC: intra and inter frames, mode decision, I, P, B frames, prediction,
+motion Compensation (6 lectures)
+HEVC/H.265: the need for H.265, concept of coding tree units (CTU), adaptive
+macroblock sizes, directional modes, scalability to higher resolutions (5 lectures)
+Scalable video coding: SVC (annex G ext. of H.264/MPEG-4 AVC) and SHVC (scalable
+ext. of HEVC) (5 lectures)
+HDR and WCG coding: backward compatilbity with single and dual layer, display
+adaptation (5 lectures)
+Multiview and adaptive coding: MVC Extension of H.264/AVC, introduction to MPEG-
+DASH (3 lectures)
+Future standards: Versatile video coding (VVC) or H.266, 360-video specific standard,
+perceptual video compression, deep learning to enhance compression performance (4
+lectures)
+Textbook
+Self Learning Material
+1. Motion Pictures Experts Group (MPEG), ISO/IEC JTC 1/SC 29/WG 11,
+https://mpeg.chiariglione.org/
+Preparatory Course Material
+1. Katsaggelos, A.K., Fundamentals of Image and Video Processing, Coursera,
+Northwestern University, https://www.coursera.org/learn/digital
+2. Wiegand, T., Sullivan, G.J., Bjontegaard, G., Luthra, A., Overview of the H.264/AVC
+video coding standard, IEEE, 2003
+Title Speech and Audio Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech, M.Tech. -Ph.D. Dual Degree (Comm.
+Engg.)
+Type Elective
+Prerequisite Digital Signal Processing
+Objectives
+The Instructor will:
+1. Introduce the theory of signal processing applications on speech, to give information
+about human speech production and perception, voice production mechanism, and
+human perception systems.
+2. Provide an understanding of time frequency analysis of speech, Linear Prediction,
+speech analysis/synthesis.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyze digital signals, e.g., audio signals, in the time or frequency domain
+2. Implement widely-used algorithms for speech analysis and speech processing in the
+frequency or time domain.
+Contents
+Introduction to the properties of speech and audio signal processing (2 Lectures)
+Basic Methods of audio signal processing:Frequency analysis methods, Auto correlation
+Function(ACF), Power Spectral Density(PSD), Measurement of room impulse response
+and reverberation times (8 Lectures)
+Methods for codebook processing: Principle, Training of codebooks, Efficient codebook
+search(8 Lectures)
+Audio coding: Prediction coding, line spectral frequencies(LSF), code excited linear
+prediction(CELP) (8 lectures)
+Speaker detection based on MFCC combined with LDA and PCA, Speech recognition,
+Acoustic Classification Methods: Bayes Methods, HMM, GMM (12 Lectures)
+Music Signal Processing, e.g. beat detection. (4 Lectures)
+Textbook
+1. Rabiner, L. and Schafer, R., (2011), Theory and Applications of Speech Processing,
+Pearson.
+2. Rabiner, L. and Schafer, R., (2007), Introduction to Digital speech Processing,
+Publishers Inc.
+3. Gold, B., and Morgan, N., (2011), Speech and Audio Signal Processing, John Wiley.
+Self-Learning Material:
+1. Hegde, R. M., Signal Processing Techniques for Speech Recognition, NPTEL
+Course Material, Department of Electronics & Communication Engineering,
+Indian Institute of Technology Kanpur, https://nptel.ac.in/syllabus/117104023/
+2. http://www.infocobuild.com/education/audio-video-
+courses/electronics/elec9344-audio-processing-unsw.html
+Preparatory Course Material
+1. Dutta Roy S. C., Digital Signal Processing, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Delhi,
+https://nptel.ac.in/courses/117102060/
+Title Wavelets Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. -Ph.D. Dual Degree (Comm. Engg.) Type Elective
+Prerequisite Digital Signal Processing
+Objectives
+The Instructor Will:
+1. Introduce the idea of wavelets, and the related notions of time-frequency analysis, of time-
+scale analysis, and to describe the manner in which technical developments related to wavelets
+have led to numerous applications
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the relationship between wavelets and multiresolution systems
+2. Apply the wavelets for different real time application
+Contents
+Introduction to Multiresolution Analysis (MRA), Vector spaces, Haar scaling function, Haar
+wavelet (8 Lectures)
+Two-band perfect reconstruction filter bank, Conditions for perfect reconstruction in a general
+two-band perfect reconstruction filter bank (8 Lectures)
+Daubechies family of filter banks (6 Lectures)
+Time-bandwidth product and its properties, Uncertainty principle of signal processing, Short-
+time Fourier transform (STFT), Continuous wavelet transform (CWT), Admissibility condition for
+wavelets (12 Lectures)
+Axioms of MRA, Proof of Theorem of MRA (5 Lectures)
+5/3 filter bank used in JPEG 2000 (3 Lecture)
+Textbook
+1. Y. T. Chan, (1993), Wavelet Basics, Kluwer Publishers, Boston.
+2. Gerald Kaiser, (1992), A Friendly Guide to Wavelets, Birkhouser, New York.
+3. Daubechies, I., (1993), Ten Lectures on Wavelets, Society for Industrial and Applied
+mathematics.
+Self-Learning Material:
+1. Gadre V. M., Adv. Digital Signal Processing- Multirate and Wavelets, Department of Electrical
+Engineering, Indian Institute of Technology Bombay,
+http://nptel.iitm.ac.in/courses/117101001
+Preparatory Course Material
+1. Dutta Roy S. C., Digital Signal Processing, NPTEL Course Material, Department of Electrical
+Engineering, Indian Institute of Technology Delhi, https://nptel.ac.in/courses/117102060/
+
+Title Compressive Sensing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+Prerequisite Signals and Systems, Random Signal Analysis
+Objectives
+The Instructor will:
+1. Introduce development of compressed sensing and matrix completion, focusing on
+the design and analysis of algorithms to recover data from its compressed and/or
+incomplete measurements.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Use signal processing techniques to solve undetermined linear systems.
+Contents
+Sparse representation: Sparse representation in over-complete basis, Uniqueness and
+uncertainty principles, l0 minimization and l1 minimization (7 Lectures)
+Model selection in linear regression: Prediction risk, l0-penalized regression and Lasso,
+Risk inflation, Minimax risk for sparse vectors (7 Lectures)
+Lasso algorithms and extensions: Proximal gradient methods, Nesterov accelerated
+methods, Group lasso and elastic net (7 Lectures)
+Compressed sensing and sparse recovery: Restricted isometry property (RIP), A RIPless
+theory, Golfing scheme, Phase transition and convex geometry (7 Lectures)
+Low-rank matrix recovery: Spectral method, Nuclear norm minimization (4 Lectures)
+Super-resolution and spectral estimation: Model mismatch issue in compressed sensing,
+Matrix pencil approach, Atomic norm minimization, Connection to low-rank matrix
+completion (10 Lectures)
+Textbook
+1.Hastie T., Tibshirani R. and Wainwright M., (2015), Statistical learning with sparsity:
+the Lasso and generalizations, CRC.
+2. Foucart S. and Rauhut H., (2013), A mathematical introduction to compressive
+sensing, Springer.
+Self-Learning Material
+1. Compressive Sensing resources, Rice University, http://dsp.rice.edu/cs/
+Title Selected Topics in Signal Processing I Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of signal
+processing
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of signal processing to specific
+areas of research
+Contents
+The topics may be further updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Signal Processing II Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of signal
+processing
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of signal processing to specific
+areas of research
+Contents
+The topics may be further updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Signal Processing III Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of signal
+processing
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics in the field of signal processing to specific
+areas of research
+Contents
+The topics may be further updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Data Compression Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., and Ph.D Type Elective
+Prerequisite Elementary knowledge of Information Theory
+Objectives
+The Instructor will:
+1. Introduce basic principles of data compression methods
+2. Familiarize students with the advances in data compression methods
+Learning Outcomes
+The students are expected to have the ability to:
+1. Implement some of the existing compression methods
+2. Contribute in developing application-specific such methods
+Contents
+Basic Techniques:Run length coding, sampling and quantization, some statistical
+methods such Huffman, Arithmetic, Golomb, and QM Coder(4 lectures)
+Dictionary Methods:String compression, Lemple and ziv methods and some of their
+variants. Zip and Gzip (4 Lectures)
+Image and Video Coding:Concept of spatial and temporal redundancies, Predictive and
+transform based methods for Lossless and Lossy Image compression, Lossless Medical
+Image compression standards, Some still image compression standards such JPEG
+Baseline, JPEG-LS, JPEG 2000, Video Coding, Block matching and computational issues,
+MPEGs, Compression standards for 3D TV (18 Lectures)
+Audio Compression: Human Auditory system, A-Law and mu-Law companding, Adaptive
+DPCM and computational issues, Delta modulation, Audio and Speech compression,
+MPEG-1 audio coding (14 Lectures)
+Case studies: Current needs in Image, video, and text compression (2 Lectures)
+Textbook
+1. Khalid, S., (2006), Introduction to Data Compression, Elsevier
+2. Solomon, D., (2007), Data Compression, The complete Reference, Springer
+Self-Learning Material
+1. Sengupta, S., Digital Voice and Picture Communication, NPTEL Course Material,
+Department of Electrical and Electronics Communication Engineering, Indian
+Institute of Technology Kharagpur, https://nptel.ac.in/courses/117105081/
+Preparatory Material
+1. Lathi, B. P., Ding, Z., Gupta, H. M., Modern Digital And Analog Communication
+Systems, Chapter 12 Introduction to Information Theory: Fourth Edition, Oxford
+University Press

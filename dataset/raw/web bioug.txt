@@ -1,0 +1,179 @@
+IIT Jodhpur Home Page
+    A+  A  A-    
+
+
+   हिन्दी  |  Sitemap
+Home
+People
+Recruitment
+Research
+Academic Programs
+Laboratories
+Contact
+IIT Jodhpur
+Bioscience & Bioengineering
+Home
+Academic Programs
+Undergraduate Program
+Undergraduate Program
+
+B. Tech in Bioengineering
+
+Duration: 4 years
+
+ 
+
+Introduction
+
+ 
+
+Every life form, beginning from microscopic bacteria to multicellular organisms, can be considered as a system that has been perfected over millennia by Evolution. Beginning from thermodynamically efficient cellular processes to the molecular motors driving the bacterial flagella, each product of evolution is an optimized engineering design that can be translated into real-life applications across disciplines. Today’s interdisciplinary biology is well complemented by engineering domains including electronics, computer science, mechanics, and materials engineering.  Computational biology, for example, permits solving biology problems using statistical, artificial intelligence and machine learning approaches. Extensive use of computational biology is essential in data-driven approaches including Genomics, Proteomics, Transcriptomics, and Metabolomics. This amalgamation of biology and computer science has transformed the landscape of the infectious and non-infectious diseases research allowing the development of new diagnostic and therapeutic modalities. Today’s disease diagnosis is much more specific and sensitive, thanks to biosensors, which have far-reaching applications not only in healthcare but also in the environment, energy, and agriculture. Some applications include in-situ biosensors for human biochemical parameters, environmental contaminants, soil moisture, soil physicochemical parameters, etc. Advances in Biology have not only permitted the early diagnosis of disease but have also contributed abundantly to therapeutic interventions. It is now possible to intervene in diseases taking a multi-pronged approach, including the development of new drugs; production of recombinant therapeutics; development of implantable sensors, control systems; and editing genetic defects. Similarly, synthetic biology and genome editing tools have enabled the development of industrially important organisms for biofuel production as well as environmental remediation. Together, these technologies have significantly contributed to extending the healthy lifespan of the human race and have shown promise towards food, water, and energy security. In other words, bioengineering as a discipline has evolved to a great extent in last couple of decades and now demands a different intellectual outlook and scientific understanding for its further study.  Therefore, an undergraduate academic program in Bioengineering should reflect this rapid evolution of the discipline, underlying scientific and technological advancements and interdisciplinary cross-talk so as to capture the mind of the next generation.
+
+The Indian Institute of Technology Jodhpur is committed to achieving excellence in shaping the young minds of tomorrow with a unique blend of teaching techniques and hands-on research-based learning. The Institute works towards the holistic development of students allowing them to be able to assume leadership positions in Industry, Academia, and Entrepreneurial ventures. The Department of Bioscience & Bioengineering is committed to this goal and has developed academic programs that are interdisciplinary in nature and include a substantial component of courses from other science and engineering Departments. The Department aspires to produce Graduates, who can develop solutions to tackle local and global problems related to healthcare, energy, environment, water, and food.
+
+ 
+
+Objectives of the program
+
+ 
+
+The B. Tech. program in Bioengineering at IIT Jodhpur aims to equip our graduates with in-depth knowledge and hands-on training in areas that will be relevant for the next decade. The curriculum attempts to deliver theoretical and practical content that will be needed to address societal needs that will challenge our Graduates globally as well as locally. This includes an unconventional and highly interdisciplinary approach towards problem-solving.
+
+The key objectives of this program are:
+
+(i) To provide a strong foundational understanding of the concepts in biology, engineering, mathematics, and allied sciences, enabling students to approach bioengineering problems through interdisciplinary lenses.
+
+(ii) To stimulate the development of disruptive technologies and futuristic research in the domains of healthcare, energy, and the environment.
+
+ 
+
+Expected graduate attributes
+
+ 
+
+Graduates of the B. Tech program in Bioengineering will:
+
+(i) be able to choose, design, develop and implement engineering solutions to solve technical problems in bioscience and bioengineering using trans-disciplinary knowledge and skill set.
+
+(ii) be able to think out-of-the-box to solve critical challenges and be able to innovate novel technologies for affordable healthcare, clean energy, sustainable agriculture, and a safe environment.
+
+(iii) be able to work effectively as a member and leader in a multi-disciplinary team.
+
+(iv) have the requisite skills and knowledge to be bio-entrepreneurs.
+
+(v) be able to effectively communicate biological/ bioengineering problems and solutions within the professional sphere and with the society at large.
+
+(vi) be committed to high ethical standards in professional and social practices.
+
+ 
+
+Learning outcomes
+
+ 
+
+Graduates of the B. Tech program in Bioengineering will:
+
+(i) Will have a comprehensive understanding of the essential concepts of bioscience and bioengineering encompassing cell and molecular biology, physiology, immunology, microbiology, genetics, genetic engineering, multi-omics, computational and systems biology.
+
+(ii) Will gain trans-disciplinary knowledge and skillsets pertaining to biosensors, bioimaging, biomedical device development, biomaterials engineering, and drug discovery.
+
+(iii) Will be able to design, develop, and implement technological solutions related to affordable healthcare, clean energy, sustainable agriculture, and a safe environment adopting a trans-disciplinary approach.
+
+(iv) Will gain a strong understanding of the fundamentals of basic science, engineering, designing, computing and will get hands-on training on cutting edge technologies.
+
+(v) Will be able to apply the knowledge of artificial intelligence and machine learning in solving complex biological problems.
+
+(vi) Will learn to think critically to solve complex problems pertaining to bioscience and bioengineering.
+
+(vii) Will develop communication skills (verbal and written) to communicate effectively in the professional and social sphere.
+
+(viii) Will be committed to high ethical standards.
+
+(ix) Will gain the knowledge and skills required to be an innovator-entrepreneur.
+
+ 
+
+New skillsets targeted
+
+ 
+
+ Ability to:
+
+(i) design and develop AI-based technologies in healthcare, environment, and agriculture.
+
+(ii) analyze the spatial complexity of living systems using imaging and image processing.
+
+(iii) analyze and solve complex problems in the diverse fields of bioscience and bioengineering using omics and systems biology.
+
+(iv) integrate multidisciplinary technologies for the development of lab-on-chip devices, biosensors, and other smart devices.
+
+(v) integrate omics data to quantitative structure-activity relationship for drug discovery and development
+
+(vi) design and develop smart biomaterials using micro- and nano-scale technologies
+
+(vii) design novel strategies for tissue engineering application
+
+(viii) design new therapeutic molecules in silico.
+
+ 
+
+B.Tech in Bioengineering with Specialization
+
+Duration: 4 years
+
+ 
+
+The students will have the opportunity to choose the specializations while pursuing their regular B. Tech degree. The department is presently offering two specializations (listed below). The department specializations are designed to enable students to cater to the emerging industrial and societal challenges in various domains of Bioengineering. 
+
+Therapeutic Engineering and Drug Discovery
+Microbial Systems Engineering
+ 
+
+Biology ug program1 Biology ug program2
+ Biology ug program3
+
+ 
+
+Topic clouds
+
+ 
+
+View the list of topic clouds and mapping of the topic with the courses.   (Download file: 135 KB)
+
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+IIT Jodhpur Facebook Page
+IIT Jodhpur Twitter Page
+IIT Jodhpur You tube Channel
+IIT Jodhpur Instagram Page
+IIT Jodhpur Linkedin Page
+G20 India 2023
+75 Azadi Ka Amrit Mahotsav
+Prime Minister's Research Fellowship (PMRF)
+Vidya Lakshmi Fulfilling Educational Aspirations
+National Commission for Women (NCW) Helpline
+National Anti-Ragging Monitoring Agency
+india.gov.in National portal of India
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation, IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM.
+Last Updated : 10 Mar 2026 - 05:27 PM
+arrow_downward️

@@ -1,0 +1,2084 @@
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+M.Tech. (AI)
+and
+Dual degree M.Tech. (AI) + PhD
+Programs
+offered by the
+Department of Computer Science and
+Engineering
+July 2019
+M.Tech in Artificial Intelligence (AI)
+Introduction:
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines to act with
+higher levels of intelligence and emulate the human capabilities of sense, comprehend and act. The
+core problems of artificial intelligence include programming computers for certain traits such as
+Knowledge, Reasoning, Problem-solving, Perception, Learning and Planning. AI technology
+development and applications are evolving rapidly with major implications for economies and
+societies. As the demand for such applications increases, there is also an increasing need for
+building the future workforce for AI. For developing the AI ecosystem, this program will be
+executed in synergy with other M.Tech programs running in IIT Jodhpur, such as Sensors & IoT,
+Cyber-Physical Systems, and Advanced Manufacturing and Design.
+Objectives:
+This M.Tech in AI programme will offer students with deep knowledge of both fundamental AI
+technologies, as well as application-oriented AI. A student completing this program will be capable
+to undertake careers in industry as well as academia. He/She will have the option to explore a
+variety of domains including Manufacturing, Fintech, Healthcare, Agriculture/Food Processing,
+Education, Retail/Customer Engagement, Human and Robot interaction/intelligent automation,
+Smart City , Aid for Differently Abled/Accessibility Technology.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Comprehend fundamental concepts and hands-on knowledge of the state-of-the-art AI
+methodologies.
+2. Design and Build real-world AI systems for complex planning, decision making and learning,
+solving application-specific problems, and to reason about them.
+3. Conceive, Design and Develop Intelligent multi-modal multi-sensory Man-Machine
+interfaces.
+4. Design, Develop and Deploy machine learning based applications using structured and
+unstructured data (e.g., speech, text, images/videos).
+5. Understand and Assess reliability, dependability and trust-worthiness of AI-based systems.
+6. Design and develop AI applications for resource constrained environments.
+7. Adhere to evolving ethics and privacy laws across various domains and territories.
+8. Plan and manage technical projects.
+Learning Outcome:
+1. Understand the fundamentals of Artificial Intelligence, Machine Learning, Inference Engines,
+Speech, Vision, Natural Language Understanding, Robotics, and Human Computer
+Interaction.
+2. Unify the knowledge of human cognition, AI, Machine Learning and data engineering for
+designing systems.
+3. Demonstrate hands-on knowledge of state-of-the-art AI tools for real-world problem-
+solving.
+4. Ability to develop real-time and robust AI-based systems with specific software, hardware
+and data requirements.
+5. Build solutions to explore fully immersive computer-generated worlds (in VR), and overlay
+computer graphics onto our view of our immediate environment (AR) along with smart,
+cognitive functionality.
+6. Demonstrate advanced skills to comprehend and communicate effectively.
+7. Carry out projects using intelligent cognitive solutions provided by AI algorithms to get
+more insights in stakeholder management, risk modeling, intelligent resource scheduling
+and managing project constraints with intelligent use of data models.
+Course Structure for
+M.Tech. (AI) Program and Dual degree M.Tech. (AI) + PhD
+Cat Code Course Title L-T-
+P
+Cr Cat Code Course Title L-T-
+P
+Cr
+I Semester II Semester
+MC MAL7xx0 Statistics I
+Matrix Computation
+Optimization
+1-0-
+0
+1-0-
+0
+1-0-
+0
+3 MC CSL8xx0 Artificial Intelligence II 3-0-
+0
+3
+MC CSL7xx0 Artificial Intelligence I 3-0-
+0
+3 MC CSL8xx0 Machine Learning II 3-0-
+0
+3
+MC CSL7xx0 Machine Learning I 3-0-
+0
+3 MC CSL8xx0 Real Time Autonomous
+Systems
+2-0-
+0
+2
+MC CSP7xx0 Data Structures and
+Practices
+0-0-
+2
+1 ME xxxxx Program Elective 3 3-0-
+0
+3
+ME xxxxx Program Elective 1 3-0-
+0
+3 MO xxxxx Open Elective 1 3-0-
+0
+3
+ME xxxxx Program Elective 2 3-0-
+0
+3 NG xxxxx Innovation and IP
+Management
+1-0-
+0
+1
+xxxxx Technical
+Communication
+1-0-
+0
+1
+Total Credits: 17 Total Credits: 15
+*Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+III Semester IV Semester
+MP CSDxx
+0
+Major Project – Part 1 0-0-
+10
+5 MP CSDxx
+0
+Major Project – Part 2 0-0-
+22
+1
+1
+ME xxxxx Program Elective 4 3-0-0 3 ME xxxxx Program Elective 6 3-0-0 3
+ME xxxxx Program Elective 5 3-0-0 3 NG xxxxx Professional Ethics 1-0-0 1
+MO xxxxx Open Elective - 2 3-0-0 3
+NG xxxxx System Engineering
+and Project
+Management
+1-0-0 1
+Total Credits: 15 Total Credits: 15
+Credit Distribution
+1 Program Core 18 credits
+2 Program Electives 18 credits
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-graded 4 credits
+Total 62 credits
+Program Electives for M.Tech. (AI) and
+Dual Degree M.Tech. (AI)+Ph.D. Program
+Courses offered by Department of Computer Science and Engineering
+ Advanced Computer Graphics
+ Algorithms for Big Data
+ AI for Finance
+ Bio-image computing
+ Blockchain
+ Computer Graphics
+ Computer Vision
+ Computational Optimization
+ Computer Architecture
+ Data Visualization
+ Dependable AI
+ Digital Image Analysis
+ Edge and Fog Computing
+ Embedded Systems
+ GPU Programming
+ Graph Theory and Applications
+ Human Machine Interface
+ Information Retrieval and Web Mining
+ Introduction to Augmented Reality and Virtual Reality
+ Machine Learning with Big Data
+ Natural Language Processing
+ Neuromorphic Computing and Design
+ Ad hoc Wireless Networks
+ Selected Topics in Artificial Intelligence - I
+ Selected Topics in Artificial Intelligence - II
+ Selected Topics in Artificial Intelligence - III
+ Selected Topics in Computer Science - I
+ Selected Topics in Computer Science - II
+ Selected Topics in Computer Science - III
+ Social Network Analysis
+ Software and Data Engineering
+ Security and its Applications
+ Speech processing
+ Stream Analytics
+ Vehicular Ad-hoc Networks (VANETs)
+Courses offered by Department of Electrical Engineering
+ Adaptive Signal Processing
+ Advanced Control System
+ Advanced Digital Communication
+ Advanced Signal Processing
+ Analog and Interfacing Circuits
+ Antenna Engineering
+ Applied Optimization for Wireless Communication
+ Backhaul Networks for Wireless Systems
+ Coding Theory
+ Compressive Sensing
+ Computational Imaging
+ Cyber Physical System Modelling Laboratory
+ Data Compression
+ Digital image and Video Processing Lab
+ Digital Image Processing and Applications
+ Digital Signal Processing
+ Digital Video Processing
+ Digital VLSI Design
+ Embedded System Design
+ Embedded System Design Lab
+ Flexible and Printed Electronics
+ Free Space Optical Communications
+ GNSS Signal Processing
+ Image Sensor Design and Applications
+ Introduction to Cyber-Physical Systems
+ Machine Learning for Communication
+ Mathematical Modelling and Simulation
+ Microfluidics Technology
+ Microsystems Fabrication Technology
+ Millimeter Wave Technology
+ Multi-rate Digital Signal Processing
+ Nanosensors
+ Network Information Theory
+ Neuromorphic computing and design
+ Optical Fiber Communications
+ Optimal Filtering
+ Physical Layer Security
+ Principles of Data and System Security
+ Real Time Communications
+ Resource Constrained AI
+ RF IC Design
+ RF IC Design Lab
+ Selected Topics in Communication I
+ Selected Topics in Communication I
+ Selected Topics in Communication II
+ Selected Topics in Communication III
+ Selected Topics in Sensors & IoT I
+ Selected Topics in Sensors & IoT II
+ Selected Topics in Sensors & IoT III
+ Selected Topics in Signal Processing I
+ Selected Topics in Signal Processing II
+ Selected Topics in Signal Processing III
+ Sensors and IoT Lab
+ Sensors and Measurement
+ Smart Grid
+ Speech and Audio Signal Processing
+ Statistical Decision Theory
+ Systems-on-Chips Design
+ VLSI Design Lab
+ Wavelets
+ Wireless Communication
+ Wireless Networks
+Courses offered by Department of Mechanical Engineering
+ Robotics
+Courses offered by Department of Bioscience and Bioengineering
+ Bioinformatics
+ Computational Biology
+Courses offered by Department of Mathematics
+ Financial Engineering
+ Computational finance
+ Computational Game Theory
+ Advanced topics in computational PDE
+ Dynamical Systems
+ Stochastic Processes
+ Representation of Finite Groups
+Courses offered by Department of Physics
+ Quantum Computing
+ Quantum Information Processing
+ Quantum Cryptography and Coding
+Courses offered by IDRP Digital Humanities
+ Digital Humanities
+Title Data structures and practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. Type Compulsory
+Prerequisite Computer Programming
+Objectives
+The Instructor will:
+1. Explain various data structures and provide details to implement and use them in
+different algorithms
+Learning Outcomes
+The students are expected to have the ability to:
+1. Write, debug and rectify the programs using different data structures
+2. Expertise in transforming coding skills into algorithm design and implementation
+Contents
+Laboratory Experiments
+Exercises based on
+Abstract Data Types: Arrays, link-list/list, hash tables, dictionaries, structures, stack,
+queues(4labs)
+Data Structures: Heap, Sets, Sparse matrix, Binary Search Tree, B-Tree/ B+ Tree, Graph
+(4labs)
+Algorithm implementation: Quick or Merge sort, Breadth or Depth first search or Dijkstra’s
+Shortest Path First algorithm, Dynamic programing (6labs)
+Textbook
+1. Weiss, M. A. (2007), Data Structures and Algorithm Analysis in C++, Addison-Wesley.
+2. Lipschutz, S. (2017), Data Structures with C, McGraw Hill Education.
+3. Cormen, T. H., Leiserson, C. E., Rivest, R. L. and Stein, C., (2009), Introduction to
+Algorithms, MIT Press.
+Online Course Material
+1. Department of Computer Science and Engineering, IIT
+Delhi, http://www.nptelvideos.in/2012/11/data-structures-and-algorithms.html
+Title Artificial Intelligence I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+Objectives
+The Instructor will:
+1. Cover various paradigms that come under the broad umbrella of AI.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop an understanding of where and how AI can be used.
+Contents
+Introduction (1 lecture)
+Propositional logic (8 lectures)
+Search: Uninformed strategies (BFS, DFS, Dijkstra), Informed strategies (A* search, heuristic
+functions, hill-climbing), Adversarial search (Minimax algorithm, Alpha-beta pruning) (10
+lectures)
+Predicate logic: Knowledge representation, Resolution (6 lectures)
+Rule-based systems: Natural language parsing, Context free grammar (3 lectures)
+Constraint satisfaction problems (4 lectures)
+Planning: State space search, Planning Graphs, Partial order planning (4 lectures)
+Uncertain Reasoning: Probabilistic reasoning, Bayesian Networks, Dempster-Shafer theory,
+Fuzzy logic (6 lectures)
+Textbook
+1.Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd Edition,
+Prentice Hall
+Reference Books
+1. Research literature
+Self Learning Material
+1. Department of Computer Science, University of California, Berkeley,
+http://www.youtube.com/playlist?list=PLD52D2B739E4D1C5F
+2. NPTEL: Artificial Intelligence, https://nptel.ac.in/courses/106105077/
+Title Artificial Intelligence II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Artificial Intelligence-1
+Objectives
+The Instructor will:
+1. Cover modern paradigms of AI that go beyond traditional learning.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop an understanding of modern concepts in AI and where they can be used.
+2. Design, implement and apply novel AI techniques based on emerging real-world
+requirements.
+Contents
+CSL8XX1: Artificial Intelligence: Probabilistic Reasoning and Knowledge
+Representation 1-0-0[1]
+Probabilistic Reasoning over time: Hidden Markov Models, Kalman Filters, Dynamic
+Bayesian Networks (7 lectures)
+Knowledge Representation: Ontological engineering, Semantic Networks, Description Logics
+(7 lectures)
+CSL8XX1: Artificial Intelligence: Making Decisions 1-0-0[1]
+Making decisions: Utility theory, utility functions, decision networks, sequential
+decision problems, Partially Observable MDPs, Game Theory (14 lectures)
+CSL8XX1: Artificial Intelligence: Reinforcement Learning 1-0-0[1]
+Reinforcement Learning: Passive RL, Active RL, Generalization in RL, Policy
+Search, Deep Reinforcement Learning (14 lectures)
+Textbook
+1.Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd Edition,
+Prentice Hall
+Reference Books
+1. Yang, Q. (1997), Intelligent Planning: A decomposition and abstraction based approach,
+Springer Verlag, Berlin Heidelberg.
+Title Machine Learning I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide motivation and understanding of the need and importance of Machine Learning
+in today’s world
+2. Provide details about various algorithms in Machine Learning
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop a sense of Machine Learning in the modern context, and independently work
+on problems relating to Machine Learning
+2. Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+Contents
+CSL7XX1: Machine Learning I: Supervised Learning 1-0-0[1]
+Introduction: Motivation, Different types of learning, Linear regression, Logistic regression (2
+lectures)
+Gradient Descent: Introduction, Stochastic Gradient Descent, Subgradients, Stochastic
+Gradient Descent for risk minimization (2 lectures)
+Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick,
+Implementing Soft SVM with Kernels (4 lectures)
+Decision Trees: Decision Tree algorithms, Random forests (2 lectures)
+Neural Networks: Feedforward neural networks, Expressive power of neural networks, SGD
+and Backpropagation (3 lectures)
+Model selection and validation: Validation for model selection, k-fold cross-validation, Training-
+Validation-Testing split, Regularized loss minimization (1 lectures)
+CSL7XX2: Machine Learning I: Unsupervised Learning and Generative Models 1-0-
+0[1]
+Nearest Neighbour: k-nearest neighbour, Curse of dimensionality (1 lecture)
+Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral clustering (3
+lectures)
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed
+sensing (2 lectures)
+Generative Models: Maximum likelihood estimator, Naive Bayes, Linear Discriminant Analysis,
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning
+(3 lectures)
+CSL7XX3: Machine Learning I: Computational Learning Theory and Deep Neural
+Networks 1-0-0[1]
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff,
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+Textbook
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From
+Theory to Algorithms, Cambridge University Press
+Reference Books
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Self Learning Material
+1. Department of Computer Science, Stanford University,
+https://see.stanford.edu/Course/CS229
+Title Machine Learning II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Machine Learning-1
+Objectives
+The Instructor will:
+1. Provide technical details about various recent algorithms and software platforms related
+to Machine Learning with specific focus on Deep Learning.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design and program efficient algorithms related to recent machine learning techniques,
+train models, conduct experiments, and develop real-world ML-based applications and
+products
+Contents
+CSL7XX1: Machine Learning II: Introduction to Deep Learning 1-0-0[1]
+Model Search: Optimization, Regularization, AutoML (4 lectures)
+Deep Networks: Attention layers, Gated CNNs, Graph Neural Networks (8 lectures)
+Applications: Neural language models (2 lectures)
+CSL7XX2: Machine Learning II: Representation Learning & Structured Models 1-0-
+0[1]
+Representation Learning: Unsupervised pre-training, transfer learning and domain adaptation,
+distributed representation, discovering underlying causes (7 lectures)
+Structured models: learning about dependencies, inference and approximate inference,
+sampling and Monte Carlo Methods, Importance Sampling, Gibbs Sampling, Partition Function,
+MAP inference and Sparse Coding, Variational Inference (7 lectures)
+CSL7XX3: Machine Learning II: Deep Generative Models 1-0-0[1]
+Deep Generative Models: Deep Belief Networks, Variational Autoencoder, Generative
+Adversarial Network (GAN), Deep Convolutional GAN, Autoencoder GANs, iGAN, pix2pix,
+CycleGAN, Conditional GANs, StackGAN (14 lectures)
+Laboratory Experiments
+Overview of Deep Learning platforms such Tensorflow and PyTorch.
+Textbook
+1.Goodfellow,I., Bengio.,Y., and Courville,A., (2016), Deep Learning, The MIT Press
+Reference Books
+1. Charniak, E. (2019), Introduction to deep learning, The MIT Press.
+Self Learning Material
+1. https://www.deeplearningbook.org/
+Title Real Time Autonomous Systems Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for Type Compulsory
+Prerequisite Machine Learning I, Artificial Intelligence I
+Objectives
+The Instructor will:
+1. Providean understanding about autonomous/ semi autonomous systems like autonomous
+cars and drones.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand and use the methodologies to design, model and implementation of
+autonomous systems for real time applications.
+Contents
+Introduction to Agents, Agent Architectures: Subsumption Architecture, Situated Automata,
+Hybrid Architecture(4)
+Real time System Implementation (3)
+Mobile agents – locomotion (wheeled, legged, aerial), sensors and mechanisms. (3)
+Robot localisation & SLAM (4)
+Planning and Navigation (6)
+Case Study: Autonomous car – learning to drive; human centered autonomous vehicle. (8)
+Laboratory Experiments
+Textbook
+1. Seigwart, R. and Nourbakhsh, I.R. Introduction to Autonomous Mobile Robots, 2nd edition,
+MIT Press 2011
+2. Giorgio C. Buttazzo, Hard Real-Time Computing Systems: Predictable Scheduling Algorithms
+and Applications,” Springer US, Year: 2011
+3. Stuart J. Russell and Peter Norwig, Artificial Intelligence: A Modern Approach, 3rd edition,
+Pearson Press
+4. Markus Maurer et al. eds. Autonomous Driving, Springer Link (open access)
+5. Gerhard Weiss ed., Multiagent System, Second Edition, MIT Press, 2013
+Reference Books
+1. Tzafestas, S. G. (Ed.). (2012). Advances in intelligent autonomous systems (Vol. 18).
+Springer Science & Business Media.
+2. Ge, S. S. (2006). Autonomous mobile robots: sensing, control, decision making and
+applications. CRC press.
+1. 3. Mhamed Itmi, Alain Cardon(2016), New Autonomous Systems, Wiley-ISTE.
+2.
+3. 4. De Gyurky, S. M., & Tarbell, M. A. (2013). The Autonomous System: A Foundational
+Synthesis of the Sciences of the Mind. John Wiley & Sons.
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+M.Tech. (CSE)
+and
+Dual degree M.Tech. (CSE) + PhD
+Programs
+offered by the
+Department of Computer Science and
+Engineering
+July 2019
+M.Tech and M.Tech-Ph.D dual degree programs
+in Computer Science and Engineering
+Introduction:
+Traditionally Computer Science and Engineering (CSE) teaching were focusing on two major areas,
+i.e., theories and systems (database, computer hardware, and operating systems). With the advent
+of the era of Cloud Computing, Edge Computing, AI and Big Data, the discipline is being
+transformed by incorporation of new emerging technologies. It is becoming an instrumental tool in
+solving major problems faced by modern society such as energy, natural disasters, pollution, and
+water. Through this newly revamped M.Tech and M.Tech-Ph.D dual degree programs in CSE, IIT
+Jodhpur is making a conscious effort to divulge from the traditional path and planning to reposition
+itself to become a leading institute in this new genre of Computer Science education.
+Objectives:
+This M.Tech and M.Tech-Ph.D dual degree programs in CSE will offer students with deep knowledge
+of core and applied computer science. Through this programme, a student will learn niche subject
+areas which are of paramount importance in the modern big data era, such as Computer Systems
+and Security. This programme is aiming at imparting the necessary breadth and depth to the
+students for pursuing careers in academics as well as in industry. This programme is aiming at
+extending undergraduate computing skills with up-to-date and in-depth expertise in specialized
+areas of Computer Systems and Security.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Understand fundamental concepts and hands-on knowledge of emerging fields in Computer
+Science.
+2. Conceive, Design and Develop state-of-the-art scalable parallel and distributed systems
+3. Solve Big data problems through the knowledge of advanced data structures, distributed
+algorithmic design, analysis, and applications.
+4. Design and develop network protocols for Wireless, Sensor, Mobile, and Vehicular networks.
+5. Ideate, Implement and Integrate cryptographic, fault tolerant algorithms for large scale
+distributed systems
+6. Understand state-of-the-art hardware platforms for running compute intensive distributed
+algorithms
+7. Ability to understand and apply evolving ethics and privacy laws across various domains and
+territories.
+8. Plan and manage technical projects
+Learning Outcome:
+1. Understand the fundamentals of algorithmic complexity, advanced computer architecture,
+advanced network, and security protocols.
+2. Apply appropriate design principles, framework and protocols to develop dependable
+systems.
+3. Demonstrate hands-on knowledge of cutting edge simulation, synthesizing, programming
+tools.
+4. Ability to design and develop system architecture for mobile, cloud, fog, and edge
+computing.
+5. Demonstrate hands-on knowledge of virtualization, data center design and management,
+and software defined networking.
+6. Skills to comprehend and communicate effectively.
+7. Apply appropriate project and business management principles and tools for real-world
+problems.
+Course Structure for the
+M.Tech. (CSE) Programand
+Dual Degree M.Tech. (CSE)+Ph.D. Program
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+I Semester II Semester
+MC MAL7xx0 Statistics I
+Matrix Computation
+Optimization
+1-0-0
+1-0-0
+1-0-0
+3 MC CSL7xx0 Computer Architecture 3-0-0 3
+MC CSL7xx0 Algorithms for Big
+Data
+2-0-0 2 MC CSL7xx0 Software and Data
+Engineering
+3-0-0 3
+MC CSL7xx0 Machine Learning I 3-0-0 3 MC CSL7xx0 Security and its applications 3-0-0 3
+MC CSP7xx0 Data Structures and
+Practices
+0-0-2 1 ME xxxxx Program Elective 3 3-0-0 3
+ME xxxxx Program Elective 1 3-0-0 3 MO xxxxx Open Elective 1 3-0-0 3
+ME xxxxx Program Elective 2 3-0-0 3 NG xxxxx Innovation and IP
+Management
+1-0-0 1
+NG xxxxx Technical
+Communication
+1-0-0 1
+Total Credits: 16 Total Credits: 16
+*Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+III Semester IV Semester
+MP CSD7xx
+0
+Major Project – Part 1 0-0-10 5 MP CSD8x
+x0
+Major Project – Part 2 0-0-22 11
+ME xxxxx Program Elective 4 3-0-0 3 ME xxxxx Program Elective 6 3-0-0 3
+ME xxxxx Program Elective 5 3-0-0 3 NG xxxxx Professional Ethics 1-0-0 1
+MO xxxxx Open Elective - 2 3-0-0 3
+NG xxxxx System Engineering
+and Project
+Management
+1-0-0 1
+Total Credits: 15 Total Credits: 15
+Credit Distribution
+1 Program Core 18 credits
+2 Program Electives 18 credits
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-graded 4 credits
+Total 62 credits
+Program Electives for M.Tech. (CSE) and
+Dual Degree M.Tech. (CSE)+Ph.D. Program
+Courses offered by Department of Computer Science and Engineering
+ Advanced Computer Graphics
+ AI for Finance
+ Artificial Intelligence I
+ Artificial Intelligence II
+ Bio-image computing
+ Blockchain
+ Computer Graphics
+ Computer Vision
+ Computational Optimization
+ Data Visualization
+ Dependable AI
+ Digital Image Analysis
+ Edge and Fog Computing
+ Embedded Systems
+ GPU Programming
+ Graph Theory and Applications
+ Human Machine Interface
+ Information Retrieval and Web Mining
+ Introduction to Augmented Reality and Virtual Reality
+ Machine Learning II
+ Machine Learning with Big Data
+ Natural Language Processing
+ Neuromorphic Computing and Design
+ Real time Autonomous Systems
+ Ad hoc Wireless Networks
+ Selected Topics in Artificial Intelligence - I
+ Selected Topics in Artificial Intelligence - II
+ Selected Topics in Artificial Intelligence - III
+ Selected Topics in Computer Science - I
+ Selected Topics in Computer Science - II
+ Selected Topics in Computer Science - III
+ Social Network Analysis
+ Speech processing
+ Stream Analytics
+ Vehicular Ad-hoc Networks (VANETs)
+Courses offered by Department of Electrical Engineering
+ Adaptive Signal Processing
+ Advanced Control System
+ Advanced Digital Communication
+ Advanced Signal Processing
+ Analog and Interfacing Circuits
+ Antenna Engineering
+ Applied Optimization for Wireless Communication
+ Backhaul Networks for Wireless Systems
+ Coding Theory
+ Compressive Sensing
+ Computational Imaging
+ Cyber Physical System Modelling Laboratory
+ Data Compression
+ Digital image and Video Processing Lab
+ Digital Image Processing and Applications
+ Digital Signal Processing
+ Digital Video Processing
+ Digital VLSI Design
+ Embedded System Design
+ Embedded System Design Lab
+ Flexible and Printed Electronics
+ Free Space Optical Communications
+ GNSS Signal Processing
+ Image Sensor Design and Applications
+ Introduction to Cyber-Physical Systems
+ Machine Learning for Communication
+ Mathematical Modelling and Simulation
+ Microfluidics Technology
+ Microsystems Fabrication Technology
+ Millimeter Wave Technology
+ Multi-rate Digital Signal Processing
+ Nanosensors
+ Network Information Theory
+ Neuromorphic computing and design
+ Optical Fiber Communications
+ Optimal Filtering
+ Physical Layer Security
+ Principles of Data and System Security
+ Real Time Communications
+ Resource Constrained AI
+ RF IC Design
+ RF IC Design Lab
+ Selected Topics in Communication I
+ Selected Topics in Communication I
+ Selected Topics in Communication II
+ Selected Topics in Communication III
+ Selected Topics in Sensors & IoT I
+ Selected Topics in Sensors & IoT II
+ Selected Topics in Sensors & IoT III
+ Selected Topics in Signal Processing I
+ Selected Topics in Signal Processing II
+ Selected Topics in Signal Processing III
+ Sensors and IoT Lab
+ Sensors and Measurement
+ Smart Grid
+ Speech and Audio Signal Processing
+ Statistical Decision Theory
+ Systems-on-Chips Design
+ VLSI Design Lab
+ Wavelets
+ Wireless Communication
+ Wireless Networks
+Courses offered by Department of Mechanical Engineering
+ Robotics
+Courses offered by Department of Bioscience and Bioengineering
+ Bioinformatics
+ Computational Biology
+Courses offered by Department of Mathematics
+ Financial Engineering
+ Computational finance
+ Computational Game Theory
+ Advanced topics in computational PDE
+ Dynamical Systems
+ Stochastic Processes
+ Representation of Finite Groups
+Courses offered by Department of Physics
+ Quantum Computing
+ Quantum Information Processing
+ Quantum Cryptography and Coding
+Courses offered by IDRP Digital Humanities
+ Digital Humanities
+Title Algorithms for Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+Objectives
+The Instructor will:
+1. Introduce some algorithmic techniques developed for handling large amounts of data.
+2. Emphasize on both theoretical as well as practical aspects of such algorithms.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyze existing algorithms as well as design novel algorithms pertaining to big data.
+Contents
+Sketching and Streaming: Extremely small-space data structures(4 lectures)
+Numerical linear algebra: Algorithms for big matrices, Regression, Low-rank approximation,
+Matrix completion (8 lectures)
+Compressed Sensing: Sparse signals, Linear measurements, Signal recovery (8 lectures)
+External memory and cache-obliviousness: Minimizing I/O for large datasets, Algorithms and
+data structures such as B-trees, Buffer trees, Multiway mergesort (8 lectures)
+Reference Books
+Markovsky I, (2014), Low Rank Approximation: Algorithms, Implementation, Applications,
+Springer
+Eldar Y C., Kutyniok G. (2012), Compressed Sensing: Theory and Applications, Cambridge
+University Press.
+Self Learning Material
+1. Department of Computer Science, Harvard University, Algorithms for Big Data
+Title Data structures and practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. (CSE) 1st Year Type Compulsory
+Prerequisite Computer Programming
+Objectives
+The Instructor will:
+1. Explain various data structures and provide details to implement and use them in
+different algorithms
+Learning Outcomes
+The students are expected to have the ability to:
+1. Write, debug and rectify the programs using different data structures
+2. Expertise in transforming coding skills into algorithm design and implementation
+Contents
+Laboratory Experiments
+Exercises based on
+Abstract Data Types: Arrays, link-list/list, hash tables, dictionaries, structures, stack, queues
+(4 labs)
+Data Structures: Heap, Sets, Sparse matrix, Binary Search Tree, B-Tree/ B+ Tree, Graph (4
+labs)
+Algorithm implementation: Quick or Merge sort, Breadth or Depth first search or Dijkstra’s
+Shortest Path First algorithm, Dynamic programing (6 labs)
+Textbook
+1.Weiss, M. A. (2007), Data Structures and Algorithm Analysis in C++, Addison-Wesley.
+2. Lipschutz, S. (2017), Data Structures with C, McGraw Hill Education.
+3.Cormen, T. H., Leiserson, C. E., Rivest, R. L. and Stein, C., (2009), Introduction to
+Algorithms, MIT Press
+Online Course Material
+1. Department of Computer Science and Engineering, IIT
+Delhi, http://www.nptelvideos.in/2012/11/data-structures-and-algorithms.html
+Title Software and Data Engineering Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. Discuss techniques to manage a large amount of data
+2. Provide mechanisms to design and develop data-intensive computing systems
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design complex end-to-end data pipeline for data processing
+2. Critically identify and use the tools for data handling and management
+3. Use modern software technologies to design and develop data analytical systems
+Contents
+CSL7XX0Cloud Computing and Virtualization 1-0-0 [1]
+Basics of complex software design: Concept of modular software, microservices,
+communication, 4+1 architectural views and patterns (5 lectures)
+Cloud Computing: Architecture of cluster computing, design of data centers, open data center
+platforms, fault-tolerant system design (5 lectures)
+Virtualization: Type-1 and Type-2 virtualization, virtual machine, containers, dockers (4
+lectures)
+CSL7XX0Data Management 1-0-0 [1]
+Data Management: Structured data, relational database management, unstructured data,
+semi-structured data, Nosql database management (mongodb), column database, graph
+database, XML, JSON, HDFS, Handling drift in data, sensor data reliability at software and
+algorithmic level, sensor data analysis techniques (14 lectures)
+CSL7XX0Data Intensive Processing Systems 1-0-0 [1]
+Data Intensive Processing Systems: Architecture of large scale data processing systems,
+Hadoop, Apache Spark, Storm, parallel data processing concepts such as map-reduce, directed
+acyclic graph, resilient distributed datasets, dynamic resource allocation, partial & shared
+computation, storage architecture (14 lectures)
+Textbook
+1. Bass L., Clements P., Kazman R., (2012), Software Architecture in Practice, 3rd edition,
+Addison-Wesley Professional
+2. Martin K., (2017), Designing Data-Intensive Applications: The Big Ideas Behind Reliable,
+Scalable, and Maintainable Systems, 1st Edition,O'Reilly Media
+Self Learning Material
+1. Tylor,R.N., Medvidovic,N. and Dashofy,E.M., (2014), Software Architecture Foundation:
+Theory and Practice, Wiley
+Preparatory Course Material
+1. IEEE Transactions on Knowledge and Data Engineering
+2. International Conference on Data Engineering
+Title Computer Architecture Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Compulsory
+Prerequisite Computer Organization
+Objectives
+The Instructor will:
+1. Provide background to understand various components of a modern computer system,
+its interconnections, and performance issue
+Learning Outcomes
+The students are expected to have the ability to:
+1. Explain the working principles of various components of modern computer systems
+2. Compare between systems using benchmark data
+3. Write, execute and debug parallel programs on GPU
+Contents
+CSL7XX0Multi System Architecture 1-0-0 [1]
+Introduction: Defining Computer Architecture, Flynn’s Classification of Computers, Metrics for
+Performance Measurement. (4 lectures)
+Memory Hierarchy: Introduction, Advanced Optimizations of Cache Performance, Memory
+Technology and Optimizations, Virtual Memory and Virtual Machines, The Design of Memory
+Hierarchies, Introduction to Pin Instrumentation and Cache grind, Case Study: Intel Core i7
+(10 lectures)
+CSL7XX0Multicore Processing 1-0-0 [1]
+Instruction-Level Parallelism: Instruction-level Parallelism: Concepts and
+Challenges, Basic Compiler Techniques for Exposing ILP, Reducing Branch Costs with
+Advanced Branch Prediction, Dynamic Scheduling, Superscalar, Limitations of ILP, Case
+Study: Dynamic Scheduling in Intel Core i7. (9 lectures)
+Multicore Processor: Introduction, CPU Interconnections, Network on Chip (NoC), Routing
+Protocols, Quality of Service on NoC. (5 lectures)
+CSL7XX0Fundamentals of Parallel Programming 1-0-0 [1]
+Data Level Parallelism: Introduction, Vector Architecture, SIMD Instruction Set Extensions for
+Multimedia, Graphics Processing Units, GPU Memory Hierarchy, Detecting and Enhancing
+Loop- Level Parallelism, CUDA Programming, Case Study: Nvidia Maxwell. (14 lectures)
+Textbook
+1. 1. Hennessy,J.L. and Patterson,D.A., (2012), Computer Architecture: A Quantitative
+Approach, 5th Edition, Morgan Kauffmann Publishers
+2. 2. Shen,J.P. and Lipasti,M.H., (2005), Modern Processor Design: Fundamentals of Superscalar
+Processors, McGraw-Hill Publishers
+Self-Learning Material
+1. 1. CUDA: https://developer.nvidia.com/cuda-zone
+3. 2. OpenMP: https://www.openmp.org/
+Preparatory Course Material
+1. Department of Computer Science and Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/106106134/
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+Objectives
+The Instructor will:
+1. Provide motivation and understanding of the need and importance of Machine Learning
+in today’s world
+2. Provide details about various algorithms in Machine Learning
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop a sense of Machine Learning in the modern context, and independently work
+on problems relating to Machine Learning
+2. Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+Contents
+CSL7XX1: Introduction to Machine Learning: Supervised Learning 1-0-0[1]
+Introduction: Motivation, Different types of learning, Linear regression, Logistic regression (2
+lectures)
+Gradient Descent: Introduction, Stochastic Gradient Descent, Subgradients, Stochastic
+Gradient Descent for risk minimization (2 lectures)
+Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick,
+Implementing Soft SVM with Kernels (4 lectures)
+Decision Trees: Decision Tree algorithms, Random forests (2 lectures)
+Neural Networks: Feedforward neural networks, Expressive power of neural networks, SGD
+and Backpropagation (3 lectures)
+Model selection and validation: Validation for model selection, k-fold cross-validation, Training-
+Validation-Testing split, Regularized loss minimization (1 lectures)
+CSL7XX2: Introduction to Machine Learning: Unsupervised Learning and Generative
+Models 1-0-0[1]
+Nearest Neighbour: k-nearest neighbour, Curse of dimensionality (1 lecture)
+Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral clustering (3
+lectures)
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed
+sensing (2 lectures)
+Generative Models: Maximum likelihood estimator, Naive Bayes, Linear Discriminant Analysis,
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning
+(3 lectures)
+CSL7XX3: Introduction to Machine Learning: Computational Learning Theory and
+Deep Learning 1-0-0[1]
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff,
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+Textbook
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From
+Theory to Algorithms, Cambridge University Press
+Reference Books
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Self Learning Material
+1. Department of Computer Science, Stanford University,
+https://see.stanford.edu/Course/CS229
+Title Security and Its Application Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Networks
+Objectives
+The Instructor will:
+1. Provide the fundamental principles of access control models and techniques, authentication
+and secure system design
+2. Introduce a strong understanding of different cryptographic protocols and techniques and be
+able to use them
+3. Provide methods for authentication, access control, intrusion detection and prevention
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand cryptography and network security concepts and application
+2. Identify and investigate network security threat
+3. Analyze and design network security protocols
+Contents
+CSL7xx1Introduction to Cryptography 1-0-0 [1]
+Shannon’s Approach to Cryptography: Measures of security, Perfect secrecy, Definition of
+entropy, One-time pad (3 lectures)
+Symmetric Key Cryptography: The notion of a symmetric key cryptography, The Data Encryption
+Standard (DES) and differential cryptanalysis, The Advanced Encryption Standard (AES) (4
+lectures)
+Cryptographic Hash Functions: Definition of hash functions and properties, Unkeyed hash
+functions, Keyed hash functions, Message Authentication Codes (MAC), The Random Oracle
+Model (ROM) (4 lectures)
+Authentication: Definition of authentication, A simple authentication protocol and possible
+attacks, Strong password protocols, BM Encrypted Key Exchange (EKE), Key Distribution Centers
+(KDC), Certification authorities and certificate revocation, KDC based authentication protocols (3
+lectures)
+CSL7xx2 Network Security 1-0-0 [1]
+Public Key Cryptosystems: Fundamentals of Public-key Cryptography, Background on number
+theory, The RSA public key cryptosystem, The ElGamal public key cryptosystem and discrete
+logs Digital Signatures: An RSA based signature scheme, The ElGamal based signature
+scheme,The Schnorr signature scheme, The Digital Signature Algorithm (DSA) (6 lectures)
+Key Distribution and Key Agreement Protocols: Key Predistribution: Diffie-Hellman key
+Exchange, The MTI key Exchange (4 lectures)
+Network Security: TCP/IP threats, The IPSEC protocol, The SSL and TLS protocols, Firewalls and
+Virtual Private Networks (VPNs), Electronic mail security, Worms, DDoS attacks, BGB and
+security considerations (4 lectures)
+CSL7xx3 Cyber-physical security and Blockchain 1-0-0 [1]
+(fractal 3) Cyber-physical security: IoT security, sensor actuator network security (4
+lectures) Block Chain: Introduction to Blockchain, Blockchain Architecture and Design,
+Consensus (Byzantine Fault, Proof of Work, Poof of Stake,), Permissioned
+Blockchains, Components of blockchain (10 lectures)
+Laboratory Experiments
+Programming exercises using Exata and AVISPA Tools
+Textbook
+1.Stallings, W. (2017). Cryptography and network security, 7/E. Pearson Education India
+2. Douglas R. Stinson, Maura B. Paterson (2018). Cryptography: theory and practice. 4/E
+Chapman and Hall/CRC
+Reference Books
+1. Mao, W. (2004). Modern cryptography: theory and practice. Pearson Education India
+2. Pfleeger, C. P., & Pfleeger, S. L. (2018). Security in computing. 5/E, Prentice Hall
+Professional Technical Reference
+3. Goldreich, O. (2009). Foundations of cryptography: volume 2, basic applications. Cambridge
+university press
+4. Forouzan, B. A. (2015). Cryptography & network security. 3/E, McGraw-Hill, Inc.
+Self Learning Material
+1. Network and Computer Security - MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-
+computer-security-spring-2014/
+2. Cryptography I, Coursera, Stanford University, https://www.coursera.org/learn/crypto
+Course Contents for the new Elective courses
+offered by the
+Department of Computer Science and Engineering
+ Stream Analytics
+ Machine Learning with Big Data
+ Algorithms for Big Data
+ Computer Vision
+ Digital Image Analysis
+ Edge and Fog Computing
+ Natural Language Processing
+ GPU Programming
+ Data Visualization
+ Introduction to Augmented Reality and Virtual Reality
+ Advanced Computer Graphics
+ Embedded Systems
+ Bio-image computing
+ Neuromorphic Computing and Design
+ Dependable AI
+ Resource Constrained AI
+ Ad hoc Wireless Networks
+ Vehicular Ad-hoc Networks (VANETs)
+ Selected Topics in Computer Science - I
+ Selected Topics in Computer Science - II
+ Selected Topics in Computer Science - III
+ Selected Topics in Artificial Intelligence - I
+ Selected Topics in Artificial Intelligence - II
+ Selected Topics in Artificial Intelligence - III
+ Graph Theory and Applications
+ Social Network Analysis
+ Blockchain
+ Computational Optimization
+Title Stream Analytics Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. 3rd and 4th Year, M.Tech. 1st and 2nd Year Type Elective
+Prerequisite Machine Learning-1
+Objectives
+The Instructor will:
+1. Provide background on some of the important models, algorithms, and applications
+related to stream data
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand and apply the practical and algorithmic aspects related to various topics of
+data streams
+Contents
+Introduction: Stream and mining algorithms (2 lectures)
+Clustering massive data streams: Micro-clustering based stream mining, Clustering evolving
+data streams, Online Micro-cluster maintenance, High-dimensional projected stream clustering,
+Classification of data streams using micro-clustering, On-demand stream classification,
+Applications of micro-clustering (7 lectures)
+Classification methods in data streams: Ensemble based classification, Very fast decision trees,
+On demand classification, Online Information Network, LWClass algorithm, ANNCAD algorithm,
+ALLOP algorithm (5 lectures)
+Distributed mining of data streams: Outlier and anomaly detection, Clustering, Frequent item-
+set mining, Classification, Summarization, Mining distributed data streams in resource
+constrained environments (5 lectures)
+Change diagnosis algorithms in evolving data streams: Velocity density method, Use of
+clustering for characterizing stream evolution (5 lectures)
+Multi-dimensional analysis of data streams using stream cubes: Architecture for on-line
+analysis of data streams, Stream data cube computation, Performance study (4 lectures)
+Indexing and querying data streams (3 lectures)
+Dimensionality reduction and forecasting on streams: Principal Component Analysis, Auto-
+regressive models and recursive least squares, MUSCLE, Tracking correlations and hidden
+variables (6 lectures)
+Distributed data stream mining: Local algorithm, Bayesian network learning (5 lectures)
+Textbook
+1.Aggarwal,C.C., (2007), Data Streams: Models and Algorithms, 1st Edition, Kluwar
+Academic Publishers
+Reference Books
+1. Research literature
+Self Learning Material
+1. http://charuaggarwal.net/streambook.pdf
+Title Machine Learning with Big Data Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. 4th Year, M.Tech. 2nd Year, Ph.D. 2nd Year Type Elective
+Prerequisite Artificial Intelligence-1 and Machine Learning-1
+Objectives
+The Instructor will:
+1. Provide an understanding of the role of big data in the real-world scenarios
+2. Provide technical details about various algorithms and software/hardware tools/platforms
+related to big data
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop an understanding of big data in the modern context, and independently work on
+problems relating to big-data
+2. Design and program efficient algorithms for big data from the perspective of a project
+Contents
+Introduction: What is big data, Unreasonable effectiveness of data (1 lecture)
+Streaming algorithms: Streaming Naive Bayes, Stream and sort (2 lectures)
+Platforms for learning from big data
+MapReduce, New Software Stack, Large Scale File System Organization (5)
+Nearest Neighbour Search, Jaccardi Similarity of Sets, Similarity of Documents, Locality
+Sensitive Hashing, The Stream Data Model (4)
+Randomized methods: Clustering, Hashing, Sketching, Scalable stochastic gradient descent (3
+lectures)
+Frequent Itemsets: The Market Basket Model, A-Priori Algorithm, Handling larger datasets in
+Main Memory, Limited-Pass Algorithms, Counting Frequent Items in a Stream (6)
+Parameter Servers: Introduction, Abstraction, Parameter Cache Synchronization, Asynchronous
+execution, Model Parallel Examples (3 lectures)
+Graph-based methods:Link Analysis
+Page Rank, Topic Sensitive Page Rank, Approaches to Page Rank iteration, Link Spam,
+Semi-supervised learning, Scalable link analysis, Models for Recommendation Systems, Social
+Networks as Graphs(9 lectures)
+Large-scale Machine Learning with CPUs and GPUs (3 lectures)
+Textbook
+1.Leskovec,J., Rajaraman,A., Ullman,J., (2014), Mining of Massive Datasets, 2nd Edition,
+Cambridge University Press
+2. Bekkerman,R., Bilenko,M., Langford,J., (2011), Scaling Up Machine Learning, Cambridge
+University Press
+Reference Books
+1. Research literature
+Self Learning Material
+1. Department of Machine Learning, Carnegie Mellon University,
+Machine Learning with Large Datasets Course
+2. Department of Computer Science, University of California, Berkeley,
+Scalable Machine Learning
+3. ETH Zurich, Data Mining: Machine Learning from Large Datasets
+Title Computer Vision Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. 4th Year, M.Tech. 1st and 2nd Year, Ph.D. 2nd
+Year
+Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide insights into fundamental concepts and algorithms behind some of the remarkable
+success of Computer Vision
+2. Impart working expertise by means of programming assignments and a project
+Learning Outcomes
+The students are expected to have the ability to:
+1. Learn and appreciate the usage and implications of various Computer Vision techniques
+in real-world scenarios
+2. Design and implement basic applications of Computer Vision
+Contents
+Introduction: The Three R’s - Recognition, Reconstruction, Reorganization (1 lecture)
+Perspective: Static Perspective, Transformations, Dynamic perspective (5 lectures)
+Fundamentals of Image formation and processing: Radiometry of image formation, Basic
+image processing, Biological visual processing (5 lectures)
+Recognition: Object recognition case study - identifying digits with multiple approaches, Visual
+grouping, Convolutional Neural Network (ConvNet) based approaches to visual recognition of
+objects and scenes, Deformable Parts Model (DPM), Attributes, pose and actions (8 lectures)
+Analysis: Binocular Stereopsis, Markov Random Fields in Computer Vision, Solving for stereo
+correspondence, Optical flow, Review of differential geometry (12 lectures)
+Detection and Segmentation: Contour detection, Bottom-up segmentation, Gestalt grouping
+heuristics, Semantic segmentation - instance segmentation and pixel classification, Pose and
+keypoint estimation (5 lectures)
+Image understanding: Scene understanding from RGBD images, 3D perception from a single
+image, Face recognition (6 lectures)
+Textbook
+1.Hartley,R. Zisserman,A., (2004), Multiple View Geometry in Computer Vision, 2nd Edition,
+Cambridge University Press
+2. Szeliski,R., (2010), Computer Vision: Algorithms and Applications, Springer-Verlag
+London
+Reference Books
+1. Research literature
+Title Digital Image Analysis Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite None
+Objectives
+The Instructor will:
+1. Introduce the origin and formation of digital imaging.
+2. Develop the understanding of different types of image processing and analysis for different
+purposes.
+3. Show how to develop modular systems for image analysis through hands-on application
+development.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Enhance image in spatial and frequency domain.
+2. Implement various aspects of image segmentation, compression, and content analysis.
+Contents
+Digital Image Fundamentals: Image modeling, Sampling and Quantization, Imaging
+Geometry,Digital Geometry, Image Acquisition Systems, Different types of digital images. (4)
+Bilevel Image Processing: Basic concepts of digital distances, distance transform, medial axis
+transform, component labeling, Histogram of grey level images, Optimal thresholding. (5)
+Images Enhancement: Point processing, enhancement in spatial domain, enhancement in
+frequency domain. (5)
+Detection of edges and lines in 2D images: First order and second order edge operators,multi-
+scale edge detection, Canny's edge detection algorithm, Hough transform for detecting lines
+and curves. (5)
+Color Image Processing: Color Representation, Laws of color matching, chromaticity diagram,
+color enhancement, color image segmentation, color edge detection. (5)
+Image compression: Lossy and lossless compression schemes, prediction based compression
+schemes, vector quantization, sub-band encoding schemes, JPEG compression standard. (6)
+Segmentation: Segmentation of grey level images, Watershed algorithm for segmenting grey
+level image. (5)
+Morphology: Dilation, erosion, opening, closing, hit and miss transform, thinning, extension to
+grey scale morphology. (4)
+Feature Detection: Fourier descriptors, shape features, object matching/features(3)
+Textbook
+1. Gonzalez and Woods, Digital Image Processing, Prentice-Hall.
+2. Fundamentals of Digital Image Processing by Anil K. Jain.
+Self-Learning Material
+NPTEL: Digital Image Processing
+https://nptel.ac.in/courses/117105079/
+Title Edge & Fog Computing Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., Ph.D Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce research, frameworks, and applications in Edge Computing to the audience
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand various edge devices and their ecosystems
+2. Develop edge-based distributed computing platforms and applications
+Contents
+CSL7XX1Introduction to IoT 1-0-0 [1]
+(fractal 1) Introduction to IoT: Internet of things as an interdisciplinary domain, IoT as a data
+centric technology, Data, information, knowledge and wisdom (DIKW) relationship (3 lectures)
+Analytics in IoT: Analytics as a knowledge extraction technique, Role of Statistical analysis,
+Machine learning, Deep learning and Artificial Intelligence in the emergence of Internet of
+things, IoT Semantics and Streaming data analysis (4 lectures)
+IoT Endpoint - architecture, design, and performance: IoT Endpoint architecture, Design and
+development of IoT endpoints (4 lectures)
+IoT Gateways: Roles of Gateway in IoT networks– Field Gateway, state-of-the-art solutions (3
+lectures)
+CSL7XX2Communication in IoT 1-0-0 [1]
+(fractal 2) Communication in IoT: Fundamentals of data communication, Network architecture
+and reference models (OSI – TCP/IP), Communication technologies standards – Wired &
+Wireless data link layer standards (Bluetooth/WiFi/Zigbee/802.15.4/LoRa/Sigfox), Application
+layer protocols – HTTP, MQTT, CoAP, AMQP (11 lectures)
+Sensor Networks: Algorithmic Models for Sensor Networks, Aggregation service for ad-hoc
+sensor networks, Gossip-Based Computation of Aggregate Information, Optimal aggregation
+algorithms for middleware, Efficient top-K query calculation in distributed networks (3 lectures)
+CSL7XX3Cloud and IoT 1-0-0 [1]
+(fractal 3) Cloud and IoT (Fog & Edge): Cloud and IoT services stack, End to End solutions
+development and design of cloud-based IoT services, device integration, stream analytics,
+Analytics use cases: Smart building, smart cities, wearable, smart retail and smart
+workspaces, Leveraging cloud hosted application to build monitoring and control solutions
+integrated with field devices, Integration of user devices with cloud hosted
+applications/services to enable users to interact with gateways and end points (14 lectures)
+Textbook
+1. Buyya R, Srirama S. N., (2019), Fog and Edge Computing: Principles and Paradigms, 1st
+edition, Wiley
+Self Learning Material
+1. Cao J.,, Zhang Q, Shi W., (2018), Edge Computing: A Primer, Springer
+Preparatory Course Material
+1. Edge Computing (EDGE) Conference Series, Springer
+Title Natural Language Processing Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide background to understand various modern techniques for natural language
+processing, understanding, and synthesis
+Learning Outcomes
+The students are expected to have the ability to:
+1. Explain various NLP algorithms
+2. Implement NLP Systems for English Language
+Contents
+Introduction: NLP tasks in syntax, semantics, and pragmatics, Applications such as
+information extraction, question answering, and machine translation, The problem of
+ambiguity, The role of machine learning. Brief history of the field (4 lectures)
+Language Models: The role of language models, Simple N-gram models, Estimating
+parameters and smoothing, Evaluating language models, Part of Speech Tagging (10
+lectures)
+Sentences: Basic ideas in compositional semantics, Classical Parsing (Bottom up, top down,
+Dynamic Programming: CYK parser) (7 lectures)
+Syntactic parsing: Grammar formalisms and treebanks, Efficient parsing for context-free
+grammars (CFGs), Statistical parsing and probabilistic CFGs (PCFGs), Lexicalized PCFGs,
+Neural shift-reduce dependency parsing (7 lectures)
+Semantic Analysis: Lexical semantics and word-sense disambiguation, Compositional
+semantics, Semantic Role Labeling and Semantic Parsing (3 lectures)
+Information Extraction: Named entity recognition and relation extraction, IE using sequence
+labeling (3 lectures)
+Machine Translation: Basic issues in MT. Statistical translation, word alignment,
+phrase-based translation, and synchronous grammars (8 lectures)
+Textbook
+1. 1. Jurafsky,D. and Martin,J.H., (2003), Speech And Language Processing, 2nd Edition,
+Pearson Education India
+2.
+Self-Learning Material
+1. Goldberg,Y. and Hirst,G., (2017), Neural Network Methods for Natural Language
+Processing, Morgan & Claypool Publishers
+2. Clark,A., Fox,C. and Lappin,S., (2010), The Handbook of Computational Linguistics and
+Natural Language Processing, Wiley-Blackwell
+Preparatory Course Material
+1. Natural Language Processing with Python, Steven Bird, Ewan Klein and Edward Loper,
+O’Reilly,http://www.nltk.org/book/
+2. Natural Language Pocessing, NPTEL
+Lectures,https://www.youtube.com/watch?v=aeOLjFe256E&list=PLD392E2ACAEF0C689
+Title GPU Programming Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide background to understand various aspects of Graphics Processing Unit (GPU)
+2. Introduce parallel programming using GPUs.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Explain various concepts involving GPU Programming
+2. Implement programs of GPU
+3. Debug and profile parallel programs.
+Contents
+Introduction: History, graphics processors, graphics processing units, GPGPUs. Clock speeds,
+CPU / GPU comparisons, heterogeneity. Accelerators, parallel programming, CUDA / OpenCL
+/ OpenACC (2 lectures)
+Hello World Computation: Kernels, launch parameters, thread hierarchy, warps/wavefronts,
+thread blocks/workgroups, streaming multiprocessors, 1D / 2D / 3D thread mapping, device
+properties, simple programs (8 lectures)
+Support: Debugging GPU programs. Profiling, profile tools, performance aspects (2 lectures)
+Memory: Memory hierarchy, DRAM / global, local / shared, private/local, textures, constant
+memory, Pointers, parameter passing, arrays and dynamic memory, multi-dimensional
+arrays, Memory allocation, memory copying across devices, Programs with matrices,
+performance evaluation with different memories (5 lectures)
+Synchronization: Memory consistency. Barriers (local versus global), atomics, memory
+fence, Prefix sum, reduction. Programs for concurrent data structures such as worklists,
+linked-lists, Synchronization across CPU and GPU (6 lectures)
+Functions: Device functions, host functions, kernels, functors, Using libraries (such as
+Thrust), developing libraries, (3 lectures)
+Streams: Asynchronous processing, tasks, task-dependence, Overlapped data transfers,
+default stream, synchronization with streams, Events, event-based-synchronization -
+overlapping data transfer and kernel execution, pitfalls (6 lectures)
+Advanced topics: Case studies, Dynamic Parallelism, Unified virtual memory, Multi-GPU
+processing, Peer access, Heterogeneous processing (8 lectures)
+Textbook
+1. 1. Kirk,D. and Hwu,W., (2010), Programming Massively Parallel Processors: A Hands-on
+Approach, Hwu; Morgan Kaufman
+1.
+Self-Learning Material
+1. Cook,S., (2012), CUDA Programming: A Developer's Guide to Parallel Computing with
+GPUs, Morgan Kaufman
+Preparatory Course Material
+1. Introduction to Parallel Programming,
+https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqH
+Txfdv2&index=1
+Title Data Visualization Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide background to understand various aspects of Data Visualization
+2. Discuss various principles of visualizing heterogeneous types of data
+Learning Outcomes
+The students are expected to have the ability to:
+1. Present data with visual representations for the target audience, task, and data
+2. Analyze, critique, and revise data visualizations
+3. Apply appropriate design principles in the creation of presentations and visualizations
+Contents
+Visual Queries: Process of Seeing, The Act of Perception, Design Implications, Distributed
+Cognition, Visual Search Strategies (3 lectures)
+Data and Visualization: Data Type, Coordinate Systems, Scale (2 lectures)
+Visualization Design: Amount, Distribution, Proportion, Trends, Time Series, Geospatial (10
+lectures)
+Narratives: Telling Stories with Data, Sequencing, Visualization Rhetoric, text visualization (4
+lectures)
+Mapping and Cartography: The Cartogram, Value-by-Area Mapping (4 lectures)
+Optimal Space Usage: Aspect Ratio Selection, Geometry & Aesthetics, Wilkinson’s Algorithm
+and its extension (6 lectures)
+Networks: Scalable, Versatile and Simple Constrained Graph Layout, Visualization of
+Adjacency, Multiple Network Analysis and Visualization, Visualizing Online Social Networks (7
+lectures)
+Animation and Color: Trend Visualization, Transitions in Statistical Data Graphics, Graphs
+with Radial Layout, Cartoons, Color and Information, Infographics (7 lectures)
+Textbook
+1. Tufte,E., (2001), The Visual Display of Quantitative Information, 2nd Edition, Graphics
+Press
+2. Tufte,E., (1990), Envisioning Information, Graphics Press
+Self-Learning Material
+1. Wilke,C.O., (2019), Fundamentals of Data Visualization: A Primer on Making Informative
+and Compelling Figures, O’Reilly Media
+2. Ware,C. and Kaufman,M., (2008), Visual thinking for design. Burlington: Morgan
+Kaufmann Publishers
+3. Wong,D., (2011), The Wall Street Journal guide to information graphics: The dos and
+don’ts of presenting data, facts and figures, New York: W.W. Norton & Company
+Preparatory Course Material
+1. Data Visualization Course, https://curran.github.io/dataviz-course-2018/
+Title Introduction to Augmented Reality and Virtual
+Reality
+Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Discusses such issues, focusing upon the human element of AR and VR
+2. Explain the Hardware and software related issues related to AR and VR
+Learning Outcomes
+The students are expected to have the ability to:
+1. Explain perceptual concepts governing augmented reality and virtual reality
+2. Identify and solve the issues of various augmented reality and virtual reality frameworks
+3. Design immersive experience using AR and VR Software
+Contents
+Introduction: Definition of X-R (AR, VR, MR), modern experiences, historical perspective,
+Hardware, sensors, displays, software, virtual world generator, game engines (6 lectures)
+Geometry of Visual World: Geometric modeling, transforming rigid bodies, yaw, pitch, roll,
+axis-angle representation, quaternions, 3D rotation inverses and conversions, homogeneous
+transforms, transforms to displays, look-at, and eye transform, canonical view and perspective
+transform, viewport transforms (8 lectures)
+Light and Optics: Interpretation of light, reflection, optical systems (4 lectures)
+Visual Perception: Photoreceptors, Eye and Vision, Motion, Depth Perception, Frame rates and
+displays (6 lectures)
+Tracking: Orientation, Tilt, Drift, Yaw, Lighthouse approach (4 lectures)
+Head Mounted Display: Optics, Inertial Measurement Units, Orientation Tracking with IMUs,
+Panoramic Imaging and Cinematic VR, Audio (8 lectures)
+Frontiers: Touch, haptics, taste, smell, robotic interfaces, telepresence, brain-machine
+interfaces (6 lectures)
+Textbook
+1. Shirley, M., (2016), Fundamentals of Computer Graphics, 4th Edition, CRC Press
+2. LaValle, (2016), Virtual Reality, Cambridge University Press
+3. Schmalstieg D, and Hollerer T. (2016). Augmented Reality: Principles & Practice, Pearson
+Education India
+Reference Books
+1. Jerald,J., (2015), The VR Book: Human-Centered Design for Virtual Reality, Morgan &
+Claypool
+2. Mather,G., (2009), Foundations of Sensation and Perception, 2nd Edition, Psychology Press
+3. Shirley,P., Ashikhmin,M., Marschner,S. and Peters,A.K., Fundamentals of Computer
+Graphics, 3rd Edition, CRC Press
+4. Bowman,D.A., Kruijff,E., LaViola,J.J. and Poupyrev,I., (2014), 3D User Interfaces: Theory
+and Practice, 2nd Edition, Addison Wesley Professional
+Self Learning Material
+1. Steven M. LaValle, Video Lectures,
+https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh
+Title Advanced Computer Graphics Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Discusses fundamentals of 2D and 3D object modeling and rendering
+2. Explain the Hardware and software related issues of Computer Graphics
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand fundamentals of graphics used in various real life applications
+2. Identify the performance characteristics of graphics algorithms
+3. Employ algorithm to model engineering problems, when appropriate
+Contents
+Introduction: Review of 2-D, and 3D Geometry, Viewing and Clipping (5 lectures)
+Curves and Fractals: Parametric Cubic curves: B-spline, Bezier, Hermite, Surfaces, Fractals and
+its applications (9 lectures)
+Solid Modeling: Representation of Solids, Sweep and Boundary Representation, Constructive
+Solid Geometry (8 lectures)
+Illumination and Shading: Surface detail, shadows and Transparency, Inter object Reflections
+Illumination Models, Extended Light Sources, Ray Tracing, Radiosity (6 lectures)
+Image Based Rendering: Image synthesis, Geometry based, Plenoptic Function, Panorama,
+Lumigraph, Rendering Virtual Reality (8 lectures)
+Animation: Introduction, morphing, character animation and facial animation (3 lectures)
+Graphics Hardware: Special-purpose computer graphics processors and accelerators (3
+lectures)
+Textbook
+1. Shirley,M., (2016), Fundamentals of Computer Graphics, 4th Edition, CRC Press
+2. vanDam,F. and Hughes,F., (2013), Computer Graphics: Principles and Practice, 3rd
+Edition, Addision Wesley
+Reference Books
+1. Mukundan,R., (2012), Advanced Methods in Computer Graphics: With Examples in OpenGL,
+Springer
+2. Ruben H., (2017), Computer Graphics: Principles and Practice, Larsen and Keller
+Education
+Self Learning Material
+1. Computer Graphics, NPTEL Video Lectures, https://nptel.ac.in/courses/106106090/
+Title Embedded Systems Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Computer Organization andArchitecture
+Objectives
+The Instructor will:
+1. Explain the design of embedded systems and introduce concepts of different architectures
+and programming languages of embedded processors.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Program and to design embedded system using embedded processors
+2. Design Embedded AI systems
+3. Use different IDE and debugging tools
+Contents
+Introduction: Review of Embedded Computing, embedded system design process (4 lectures)
+Architectures of embedded processors:Architecture of ARM Cortex M3, DSP and graphics
+processors, memory system mechanism, caches, memory management units and address
+translation, interfacing(10 lectures)
+Programming and Software: models for program, data flow graphs, C and assembly language
+programming of ARM Cortex M3, Hardware- Software Co-design(12 lectures)
+Embedded Operating Systems: Linux, Processes and real time operating systems; Multi-rate
+system; scheduling algorithms(8 lectures)
+Embedded AI: Basics of embedded learning and adaptive systems, intelligent sensors, rule-
+based systems, hardware accelerators for AI, heterogeneous memory system design,
+current trends and future directions(8 lectures)
+Textbook
+1. Wolf, M., (2012), Computers as Components: Principles of Embedded Computing System
+Design,3rdEdition, Elsevier.
+2. Yiu, J., (2013), The definitive Guide to ARM Cortex M3 and M4 Processors,3rdEdition,
+Elsevier.
+3. Alippi, C., (2014), Intelligence for Embedded Systems: A Methodological Approach,
+Springer.
+PreparatoryCourse Material
+1. Mazidi, M.A., (2007), The 8051 Microcontroller and Embedded Systems: Using Assembly
+and C,2nd Edition, Pearson Education India.
+Title Bio-image Computing Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Computer Programming, Basics in linear algebra,
+probability and statistics
+Objectives
+The Instructor will:
+1. Provide details of bio-signal and medical image acquisition process
+2. Explain information extraction and image analysis techniques using machine learning with
+emphasis on the field of healthcare, agriculture and environment
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand different imaging modalities and acquisition process
+2. Apply machine learning techniques for bio-signal interpretation, image representation and
+analysis
+Contents
+CSL7XX1Bio-signal Acquisition and Representation 1-0-0 [1]
+Introduction: Overview of biological signals and biomedical imaging modalities, ECG, NMR
+spectroscopy, electron microscopy, magnetic resonance imaging, X-ray, computed
+tomography, positron emission tomography, ultrasound, elastography, optical imaging and
+others, Noise and error propagationin biomedical signals and image data (10 lectures)
+Visualization: Sectioning, multimodal images, overlays, rendering surfaces and volumes(4
+lectures)
+CSL7XX1Machine Learning for Bio-signal analysis 1-0-0 [1]
+Reconstruction: Mathematical models of image regularity, random fields, practical data
+sampling and acquisition schemes(4 lectures)
+Restoration:Deconvolution, degradation models for corrupted and missing data, Bayesian
+graphical modeling and inference, regression methodsfor filtering of CT, MRI ultrasound
+and other images (4 lectures)
+Image segmentation, object delineation, classification:Clustering, graph partitioning,
+classification, mixture models, expectation maximization, variational methods using
+geometric and statistical modeling, computer aided diagnosis(4 lectures)
+Registration:Deformation models, optimization algorithms, 2D-3D registration, multi-modal
+registration (2 lectures)
+CSL7XX2 Deep Learning for Bio-imaging 1-0-0[1]
+Enhancement, Segmentation of anatomical structures, subcellular objects, cells, learning with
+little or no training data, spatial transformer network for registration, image-based
+phenotyping, analysis of radio-genomic data (10 lectures)
+Analysis of motion:Tracking of cells, tissues, organisms, and particles(2 lectures)
+Interactive image analysis:Human in loop, image interpretation (2 lectures)
+Laboratory Experiments
+Ultrasound image enhancement, tumor segmentation in BraTS dataset, registration of MRI
+images etc.
+Textbook
+1. Wu, G., (2016), Machine Learning and Medical Imaging, Elsevier.
+2. Epstein, C.L., (2003), Mathematics of Medical Imaging,Prentice Hall.
+3. Bankman, I., (2009), Handbook of Medical Image Processing and Analysis,2nd Edition,
+Academic Press.
+PreparatoryCourse Material
+1. Bishop, C., (2006), Pattern Recognition and Machine Learning,Springer.
+Title Neuromorphic Computing and Design Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide information about neuroscientific progress towards reverse-engineering the brain
+2. Provide essentials on key hardware building blocks,system level VLSI design and practical real-
+world applications of neuromorphic Systems
+Learning Outcomes
+The students are expected to have the ability to:
+1. View neuromorphic computing as a computer architecture research problem
+2. Perform software and hardware implementation of basic biological neural circuits
+Contents
+CSL7xx1 Introduction to Neuromorphic Engineering 1-0-0 [1]
+(fractal 1) Foundational Concepts: Introduction to neuromorphic engineering, neuroanatomy of
+human brain, signaling and operation of biological neurons, neuronmodels- LIF, IF, HH, synapses
+and plasticity rules, spike-time-dependentplasticity (STDP), biological neural circuits, non-von
+Neumann computing approach, learning rules, retina, cochlea(14 lectures)
+CSL7xx2Neuromorphic Computing 1-0-0 [1]
+(fractal 2) Neuromorphic Computing: SpikingNeural Networks (SNN), Advanced Nanodevices for
+Neuron Implementation, Synaptic emulation - non-volatile memory (NVM), Flash,
+RRAM,memristors, CNT, Case study on Intel’s Loihi neuromorphic chip (14 lectures)
+CSL7xx3 Neuromorphic Hardware Implementation 1-0-0 [1]
+(fractal 3) Hardware Implementation: Electronic synapses, Digital/Analog neuromorphic VLSI,
+Hardware Implementation of Neuron circuits, Hardware Implementation of Synaptic and
+Learning circuits, Synaptic programming methodology optimization(14 lectures)
+Textbook
+1. Liu, S.C., (2002), Analog VLSI: Circuits and Principles, MIT Press.
+2. Kozma, R., (2012), Advances in Neuromorphic Memristor Science, Springer.
+3. Kandel, E., (2012), Principles of neuralscience, McGraw Hill.
+Title Dependable AI Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech 4th Year and M.Tech., PhD Type Elective
+Prerequisite Machine Learning, Artificial Intelligence
+Objectives
+The Instructor will:
+1. Provide characteristic details of AI and machine learning systems to make them
+dependable, such as explainability, interpretability, safety etc.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Assess the dependability of AI systems.
+2. Develop explainable, robust, and safe AI models.
+Contents
+Introduction: Overview, motivation, challenges – medical and surveillance (4 lectures)
+Explainable AI: Accuracy-explainablity tradeoff, interpretability problem, predictability, info-
+besity, Transparency, Traceability, Environmental effects on AI systems(4 lectures)
+Methods: Causality, reasoning, layerwise relevance propagation (LRP), attention maps,
+saliency maps, DeepLIFT, Local Interpretable Model-Agnostic Explanations (LIME)(10
+lectures)
+Interpretable AI: Prediction consistency, Application Level Evaluation, Human Level Evaluation,
+Function level evaluation(4 lectures)
+Trustworthy AI: Integrity, Reproducibility, Accountability, Interactive AI - Human in the loop,
+Human on the loop, Human in command,Adaptability, fallback plan, Machine learning as
+service (MLaaS), General Data Protection Right (GDPR)(6 lectures)
+Safe AI: Robustness, Adversarial attacks and defenses - White-box, black-box, gray-box
+attacks, Defence mechanisms(10 lectures)
+Bias-free AI: Accessibility, Fair, data agnostics design, disentanglement(4 lectures)
+Textbook
+1.Pearl, J., (2018), The Book of Why: The New Science of Cause and Effect, Basic Books.
+Reference Book
+1. Bostrom, N., (2014), The Ethics of Artificial Intelligence. The Cambridge handbook of
+artificial intelligence,Cambridge University Press.
+PreparatoryCourse Material
+1. Proceedings of IJCAI: Workshop on Explainable Artificial Intelligence (XAI).
+Title Resource Constrained AI Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech 4th Year and M.Tech., PhD Type Elective
+Prerequisite Machine Learning
+Objectives
+The Instructor will:
+1. Explain the challenges of implementing AI and machine learning algorithms on devices with
+memory and power constraints
+2. Provide methods to reduce computational complexity of AI techniques
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the constraints of implementing AI algorithms on limited memory devices
+2. Design and develop techniques to reduce inference time memory footprint of machine
+learning models
+Contents
+Introduction: Overview and motivation, challenges of resource constrained AI, why AI on edge
+(4 lectures)
+Edge Computing: Edge devices and their limitations, Edge and fog computing, Distributed
+computing, communication links, communication overhead in IoT devices(8 lectures)
+Monitoring: Prediction accuracy, numeric accuracy, precision, memory footprints,
+computational complexity of AI models (4 lectures)
+Memory Optimization of Models: KiloByte-size models, floating-point v/s fixed-point, SeeDot
+(8 lectures)
+Edge AI:Resource-efficient kNN, SVM and deep learning models, Toeplitz matrix, Bonsai,
+ProtoNN, EMI-RNN, FastRNN, FastGRNN (10 lectures)
+Current Trends and Future: Hardware accelerators for Edge AI, Vision Processing Unit (VPU),
+Streaming Hybrid Architecture Vector Engine (SHAVE), Intel’s Movidius Neural Compute
+Stick (NCS), Open Neural Network Exchange (ONNX), Future trends(10 lectures)
+Laboratory Experiments
+Implementation of Bonsai, CNN training using SeeDot language etc.
+Textbook
+1. Alippi, C., (2014), Intelligence for Embedded Systems: A Methodological Approach,
+Springer.
+PreparatoryCourse Material
+1. EdgeML by Microsoft, https://github.com/Microsoft/EdgeML/#edge-machine-learning
+2. NCSDK by Intel https://github.com/movidius/ncsdk
+Title Ad-Hoc Wireless Networks Number CSL7XX0
+Department Computer Science and Engineering L-T-P[C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, PhD 1st Year Type
+Prerequisite Networks
+Objectives
+The Instructor will:
+1. Introduce the mathematical models and network protocol designs in wireless Ad-hoc
+networks
+2. Provide a systematic exposition of network protocols and their cross‐ layer interactions
+3. To provide more advanced in-depth networking knowledge. Upon completion of this course,
+students will be able to apply the knowledge in their networking research. A broad perspective on
+the active research areas in wireless Ad-hoc networks
+Learning Outcomes
+The students are expected to have the ability to:
+1. Demonstrate advanced knowledge of networking and wireless networking in particular
+2. Compare different solutions for communications at each network layer
+3. Demonstrate knowledge of protocols used in wireless communications
+Contents
+Basics of wireless networks and mobile computing: Ad hoc Networks: Introduction, Issues in Ad
+hoc wireless networks, Ad hoc wireless internet (3 lectures)
+Media access control in ad hoc and sensor networks:MAC Protocols for Ad hoc Wireless
+Networks: Introduction, Issues in designing a MAC protocol for Ad hoc Wireless Networks,
+Design goals of a MAC protocol for Ad hoc Wireless Networks, Classification of MAC protocols,
+Contention based protocols with reservation mechanisms. Contention-based MAC protocols with
+Scheduling mechanism, MAC protocols that use directional antennas, Other MAC protocols,
+Network and transport layer issues for ad hoc and sensor networks (8 lectures)
+Routing protocols for Ad hoc Wireless Networks: Introduction, Issues in designing a routing protocol for Ad
+hoc Wireless Networks, Classification of routing protocols, Table drive routing protocol, On-demand routing
+protocol, Hybrid routing protocol, Routing protocols with effective flooding mechanisms, Hierarchical routing
+protocols, Power aware routing protocols (8 lectures)
+Transport layer protocols:Transport layer protocols for Ad hoc Wireless Networks: Introduction, Issues in
+designing a transport layer protocol for Ad hoc Wireless Networks, Design goals of a transport layer protocol
+for Ad hoc Wireless Networks, Classification of transport layer solutions, TCP over Ad hoc Wireless
+Networks, Other transport layer protocols for Ad hoc Wireless Networks (8 lectures)
+Security issues for ad hoc networks:Security: Security in wireless Ad hoc Wireless Networks, Network
+security requirements, Issues & challenges in security provisioning, Network security attacks, Key
+management, Secure routing in Ad hoc Wireless Networks (6 lectures)
+QoS for ad hoc Networks:Quality of service in Ad hoc Wireless Networks: Introduction, Issues and
+challenges in providing QoS in Ad hoc Wireless Networks, Classification of QoS solutions, MAC layer
+solutions, network layer solutions (3 lectures)
+Advanced Topics: Software-defined network (SDN), Mesh networking, Energy issues and
+Sensor networks (6 lectures)
+Laboratory Experiments Programming exercises using NS2/NS3, QualNet, Java and
+OmNet++
+Textbook
+1.Siva Ram Murthy, C., & Manoj, B. S. (2015). Ad hoc wireless networks: Architectures and protocols. PHI
+Pearson Education
+2. Akyildiz, Ian F., and Xudong Wang(2015). Wireless mesh networks. Vol. 3. John Wiley & Sons
+Reference Books
+1. Basagni, S., Conti, M., Giordano, S., & Stojmenovic, I. (Eds.). (2015). Mobile ad hoc
+networking. John Wiley & Sons
+2. Perkins, C. E. (2001). Ad hoc networking (Vol. 1). Reading: Addison-wesley
+3. Toh, C. K. (2001). Ad hoc mobile wireless networks: protocols and systems. Pearson Education
+4. Cheng, X., Huang, X., & Du, D. Z. (Eds.). (2013). Ad hoc wireless networking (Vol. 14). Springer Science
+& Business Media
+Self Learning Material
+1. 1. Computer Networks - MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-
+networks-fall-2002/lecture-notes/
+2. Mobile and Wireless Networks and Applications, Stanford University,
+https://web.stanford.edu/class/cs444n/
+Title Vehicular Ad-Hoc Networks(VANETs) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Network
+Objectives
+The Instructor will:
+1. Introduce the emerging technologies, standards and applications in vehicular communication
+systems.
+2. Provide the design considerations and challenges of vehicle-to-infrastructure and vehicle-to-
+vehicle communications. Theories such as vehicular mobility modeling, and vehicular
+technologies and standards from the physical to network layers will be introduced in the course.
+Examples of emerging applications of vehicular communications in Intelligent Transportation
+Systems will also be studied and discussed.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand and describe the basic theories and principles, technologies, standards, and
+system architecture of vehicular ad-hoc networks (VANET) or inter-vehicle communication
+networks.
+2. Analyze, design, and evaluate vehicular communication platforms for various kinds of safety
+and infotainment applications.
+Contents
+Introduction: Basic principles and challenges, past and ongoing VANET activities (2 Lectures)
+Cooperative Vehicular Safety Applications: Enabling technologies, cooperative system
+architecture, safety applications (2 lectures)
+Vehicular Mobility Modeling: Random models, flow and traffic models, behavioral models, trace
+and survey based models, joint transport and communication simulations (4 lectures)
+Physical Layer Considerations for Vehicular Communications: Signal propagation, Doppler spread
+and its impact on OFDM systems (4 lectures)
+MAC Layer of Vehicular Communication Networks: Proposed MAC approaches and standards,
+IEEE 802.11p (8 lectures)
+VANET Routing protocols: Opportunistic packet forwarding, topology-based routing, geographic
+routing (8 lectures)
+Emerging VANET Applications: Limitations, example applications, communication paradigms,
+message coding and composition, data aggregation (8 lectures)
+Standards and Regulations: Regulations and Standards, DSRC Protocol Stack, Cellular V2X (6
+lectures)
+Laboratory Experiments
+Programming exercises using NS3, QualNet and Java
+Textbook
+1.Olariu, S., & Weigle, M. C. (2017). Vehicular networks: from theory to practice. Chapman
+and Hall/CRC
+2. Murthy, C. S. R. (2006). Ad hoc wireless networks: Architectures and protocols. Pearson
+Education India
+Reference Books
+1. Emmelmann, M., Bochow, B., & Kellum, C. (Eds.). (2010). Vehicular networking: Automotive
+applications and beyond (Vol. 2). John Wiley & Sons
+2. Claudia Campolo , Antonella Molinaro, Riccardo Scopigno(2015). Vehicular ad hoc
+Networks, Springer
+3. Hartenstein, H., & Laberteaux, K. (2010). VANET: vehicular applications and inter-
+networking technologies (Vol. 1). Chichester: Wiley
+4. Sommer, C., & Dressler, F. (2015). Vehicular networking. Cambridge University
+Press
+5. Moustafa, H., & Zhang, Y. (2009). Vehicular networks: techniques, standards, and
+applications. Auerbach publications
+Self Learning Material
+1. Center for Autonomous Intelligent Networks and Systems (CAINS), University of California,
+Los Angeles (UCLA),http://www.cains.cs.ucla.edu/
+Title Selected Topics in Computer Science - I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of computer science
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of computer
+science
+Contents
+The topic clouds for the course include contemporary topics in computer science and may be
+updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Computer Science - II Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of computer science
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of computer
+science
+Contents
+The topic clouds for the course include contemporary topics in computer science and may be
+updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Computer Science - III Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of computer science
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of computer
+science
+Contents
+The topic clouds for the course include contemporary topics in computer science and may be
+updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Artificial Intelligence - I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of artificial intelligence
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of artificial
+intelligence
+Contents
+The topic clouds for the course include contemporary topics in artificial intelligenceand may be
+updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Artificial Intelligence - II Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of artificial intelligence
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of artificial
+intelligence
+Contents
+The topic clouds for the course include contemporary topics in artificial intelligenceand may be
+updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Selected Topics in Artificial Intelligence - III Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+Objectives
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of artificial intelligence
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of artificial
+intelligence
+Contents
+The topic clouds for the course include contemporary topics in artificial intelligenceand may be
+updated according to the instructor.
+Textbook
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self-Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Title Graph Theory and Applications Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Elective
+Prerequisite None
+Objectives
+The Instructor will:
+1. Introduce various terminologies, concepts and algorithms related to graphs, and discuss
+their applications in real-world scenarios.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Formulate and solve real-world problems using the mathematical foundations of graph
+theory.
+Contents
+Preliminaries: Graphs, Isomorphism, Subgraphs, Matrix representations, Degree, Operations
+on graphs, Degree sequences (3 lectures)
+Connected graphs and shortest paths: Walks, Trails, Paths, Connected graphs, Distance, Cut-
+vertices, Cut-edges, Blocks, Connectivity, Weighted graphs, Shortest path algorithms (4
+lectures)
+Trees: Characterizations, Number of trees, Minimum spanning trees (3 lectures)
+Special classes of graphs: Bipartite graphs, Line graphs, Chordal graphs (2 lectures)
+Eulerian graphs: Characterization, Fleury’s algorithm, Chinese-postman-problem (2 lectures)
+Hamilton graphs: Necessary conditions and sufficient conditions (3 lectures)
+Independent sets, coverings, matchings: Basic equations, Matchings in bipartite graphs,
+Perfect matchings, Greedy and approximation algorithms (6 lectures)
+Vertex colorings: Chromatic number and cliques, Greedy coloring algorithm, Coloring of
+chordal graphs, Brook’s theorem (2 lectures)
+Edge colorings: Gupta-Vizing theorem, Class-1 graphs and Class-2 graphs, Equitable edge-
+coloring (5 lectures)
+Planar graphs: Basic concepts, Euler’s formula, Polyhedrons and planar graphs,
+Characterizations, Planarity testing, 5-color-theorem (3 lectures)
+Directed graphs: Out-degree, In-degree, Connectivity, Orientation, Eulerian directed graphs,
+Hamilton directed graphs (5 lectures)
+Applications: Biology, Social Sciences, Engineering, Computer Science (4 lectures)
+Textbook
+1.West,D.B., (2002), Introduction to Graph Theory, 2nd Edition, Prentice Hall of India
+2.Deo,N., (2003), Graph Theory: With Application to Engineering and Computer Science,
+Prentice Hall of India
+Reference Books
+1. Research literature
+Self Learning Material
+1. NPTEL: Graph Theory (for CSE), https://nptel.ac.in/courses/106108054/39
+2. NPTEL: Graph Theory (for Mathematics), https://nptel.ac.in/courses/111106050/
+Title Social Network Analysis Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Elective
+Prerequisite None
+Objectives
+The Instructor will:
+1. Introduce the social networks and the research areas therein.
+2. Provide with the mathematical foundation required for social network analysis
+3. Cover various concepts, terminologies and algorithms related to social network analysis
+4. Conduct tutorial sessions to use NetworkX library in Python for network analysis
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand the applications related to social networks
+2. Write program with social network datasets in Python
+3. Formulate real-world problems with any relational data set resembling social networks
+Contents
+Introduction and Different Types of Networks (1 Lecture)
+Graph Introduction: Adjacency Matrix, Paths, Connectivity, Incidence Matrix, Distance,
+Breadth-First-Search, Directed Graph (1 Lecture)
+Introduction to Python and NetworkX (1)
+Network Measures, Centrality, Core, Cliques and Clan, Strong and Weak Ties, Homophily,
+Structural Balance, Components (4 Lectures)
+Network Data Sets and Structural Analysis in Python+NetworkX+Pandas (2)
+Network Models: Random Networks, Scale Free Networks, The Barabási-Albert Model,
+Fuzzy-Granular Social Network (4 Lectures)
+Generate Synthetic Networks, Using Network Models in Python+NetworkX (2)
+Game Theory Introduction, Modeling Network Traffic using Games (3 Lectures)
+Information Cascades, Small-World Phenomenon, Epidemics (4 Lectures)
+Implementing Information Diffusion Algorithms in Python+NetworkX (2)
+Community Detection (3 Lectures)
+Implementing Community Detection Algorithms in Python+NetworkX (2)
+Link Prediction (2 Lectures)
+Implementing Link Prediction Algorithms in Python+NetworkX (2)
+Evolving Network and Temporal Networks (2 Lectures)
+Working with Temporal Network Data (2)
+Connected Caveman Problem, Link Analysis and Web Search (2 Lectures)
+Implementing PageRank algorithm in Python+NetworkX (1)
+Network Data Science State-of-the-art (2 Lectures)
+Textbook
+1. Networks, Crowds, and Markets: Reasoning About a Highly Connected World, by
+David Easley and Jon Kleinberg, (Cambridge University Press - Sep 2010) -- Pre-
+publication draft available online.
+2. Network Science, by Albert-Laszlo Barabasi, (Cambridge University Press - August
+2016) -- freely available under the Creative Commons licence.
+3. Networks, by Mark Newman, (Oxford University Press, 2nd-edition - Sep 2018)
+Reference Books
+1. Complex and Adaptive Dynamical Systems, by Claudius Gros, (Springer, 4th Edition - 2015).
+2. The Structure of Complex Networks Theory and Applications, by Ernesto Estrada, (Oxford
+University Press - Dec 2011).
+3. Exploratory Social Network Analysis with Pajek, by Wouter de Nooy, Andrej Mrvar, and Vladimir
+Batagelj, (Cambridge University Press, 3rd Edition - July 2018)
+Self Learning Material
+1.https://www.barabasilab.com/course
+2. https://nptel.ac.in/courses/106106169/#
+Title Blockchain Number CSL8XX0
+Department Computer Science and
+Engineering
+L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Security
+Objectives
+The Instructor will:
+1. Explain how blockchain technology works
+2. Integrate blockchain technology into thecurrent business processes to make themSecure
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand what and why of Blockchain
+2. Explore the major components of Blockchain and Identify a use case for a Blockchain
+application
+3. Create your own Blockchain network application
+Contents
+Introduction to Blockchain: Digital Trust, Asset, Transactions, Distributed Ledger Technology,
+Types of network, Components of blockchain (cryptography, ledgers, consensus, smart
+contracts) (5 lectures)
+PKI and Cryptography: Private keys, Public keys, Hashing, Digital Signature (3 lectures)
+Consensus: Byzantine Fault, Proof of Work, Poof of Stake (4 lectures)
+Cryptocurrency: Bitcoin creation and economy, Limited Supply and Deflation, Hacks, Ethereum
+concept and Ethereum classic, Hacks Why it is so revolutionary – both (8 lectures)
+Hyperledger Fabric: Hyperledger Architecture, Membership, Blockchain, Transaction,
+Chaincode, Hyperledger Fabric, Features of Hyperledger, Fabric Demo (4 lectures)
+Blockchain Applications:Building on the Blockchain, Ethereum Interaction - Smart Contract and
+Token (Fungible, non-fungible), Languages, How you would go about creating your own
+blockchain, Blockchain-as-a-service (4 lectures)
+Blockchain Use Cases:Finance, Industry and Blockchain in Government (4 lectures)
+Security and Research Aspects:Blockchain Security (DDos), Research Aspects in Blockchain, AI,
+Blockckahin and Big Data (4 lectures)
+Laboratory Experiments
+Textbook
+1. Bahga, A., & Madisetti, V. (2017). Blockchain Applications: A Hands-On Approach. VPT.
+Self Learning Material
+1. Swan, M. (2015). Blockchain: Blueprint for a new economy. " O'Reilly Media, Inc.".
+2. Wattenhofer, Roger. The science of the blockchain. CreateSpace Independent Publishing Platform, 2016.
+3. Bashir, I. (2017). Mastering blockchain. Packt Publishing Ltd.
+4. Levy, K. E. (2017). Book-smart, not street-smart: blockchain-based smart contracts and the social workings
+of law. Engaging Science, Technology, and Society, 3, 1-15.
+PreparatoryCourse Material
+1. MIT Online Blockchain Course, Learn Blockchain Technology, https://getsmarter.mit.edu/
+Title Computational Optimization Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce various terminologies, concepts and algorithms related to classical, heuristic and
+nature inspired optimization algorithms
+2. Discuss their applications in real-world scenarios
+Learning Outcomes
+The students are expected to have the ability to:
+1. Utilize state of the art heuristic optimization algorithms in their research activities
+2. Design and propose new and hybrid optimization algorithms
+3. Customize heuristic optimization algorithms for special applications
+Contents
+Introduction, Definitions and Concepts: Optimization, Operational Research (OR), Engineering
+Optimization, Definition of an Optimization Problem, Feasibility Problem, Classification of
+Optimization Problems, Classification of Optimization Techniques, Heuristic Algorithms vs.
+Metaheuristics, Swarm Intelligence, Population-Based Optimization, Multi-objective
+Optimization, Parallelization, Evaluation of the Optimization Algorithms (6 lectures)
+Overview of Classical Optimization Techniques: Linear programming, Nonlinear Programming
+(3 lectures)
+Overview of Heuristic Optimization Algorithms: Neighborhood Search, Hill Climbing Methods,
+Greedy Algorithms, Simulated Annealing (3 lectures)
+Overview of Nature Inspired Optimization Algorithms: Evolutionary Algorithms, Tabu Search,
+Ant Colony Optimization, Particle Swarm Optimization (2 lectures)
+Simulated Annealing: Real Annealing and Simulated Annealing, Metropolis Algorithm,
+Simulated Annealing Algorithm, Continuous Simulated Annealing, One-loop Simulated
+Annealing, Temperature Scheduling, Convergence of Simulated Annealing, Applications,
+Normalization of the Parameters, Tuning the Parameters of an algorithm (9 lectures)
+Evolutionary Algorithms: Methods of encoding, Operators of Evolution, Models of Evolution,
+Genetic Algorithms, Steady State Genetic Algorithms, Genetic Programming, Memetic
+Algorithms, Differential Evolution (7 lectures)
+Tabu Search: Basic Tabu Search, Short-term Memory, Long-term Memory, Diversification and
+Intensification, Continuous Tabu Search (4 lectures)
+Ant Colony Optimization: Collective Behavior of Social Insects, Basic ACO Algorithms, Ant
+Algorithms for TSP, Adaptation to Continuous Problems, Applications (5 lectures)
+Particle Swarm Optimization: Canonical PSO Algorithm, Important Parameters, Neighborhood
+Topologies (3 lectures)
+Textbook
+1.Michalewicz,Z. and Fogel,D.B., (2004), How to Solve it: Modern Heuristics, 2nd Edition,
+Springer
+2.Simon, D., (2013), Evolutionary Optimization Algorithms, Wiley
+3.Yang,X.S., (2014), Nature-inspired Metaheuristic Algorithms, Luniver Press
+Reference Books
+1. Rao, S.S., (2013), Engineering Optimization: Theory and Practice, 3rd Edition, New Age
+International Publishers
+Self Learning Material
+1. NPTEL: Traditional and Non-traditional Optimization Tools
+https://nptel.ac.in/courses/112105235/1
+Title Computer Graphics Number CSL7xx0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide a thorough introduction to computer graphics techniques, focusing on 2D and 3D
+modelling, image synthesis and rendering
+Learning Outcomes
+The students are expected to have the ability to:
+1. Explain and create interactive graphics application
+2. Implement graphics primitives
+3. Synthesize and render images for animation and visualization
+Contents
+CSL7xx1 Introduction to Graphical Primitives 1-0-0 [1]
+Introduction: Overview of computer graphics, representing pictures, preparing, presenting &
+interacting with pictures for presentations;
+Scan conversion: 2D Geometric Primitives; Area Filling algorithms. Clipping algorithms, Anti
+Aliasing
+Transformations and viewing: 2D and 3D transformations, Matrix representations & homogeneous
+coordinates, Viewing pipeline, Window to viewport co-ordinate transformation, clipping
+operations, viewport clipping, 3D viewing.
+CSL7xx2Graphical Object Representation 1-0-0 [1]
+Curves and Surfaces: Conics, parametric and non-parametric forms; Bezier (Bernstein
+Polynomials) Curves, Cubic-Splines, B-Splines; Quadratic surfaces, Bezier surfaces and NURBS, 3-
+D modelling.
+CSL7xx3Graphics Rendering 1-0-0 [1]
+Hidden surfaces: Depth comparison, Z-buffer algorithm, Back face detection, BSP tree method,
+the Printer’s algorithm, scan-line algorithm; Hidden line elimination, wire frame methods, fractal -
+geometry.
+Color & shading models: Phong's shading model, Gouraud shading, Shadows and background,
+Color models, Photo-realistic rendering
+Animation and OpenGL primitives: Functions, pipeline, sample programs for drawing 2-D, 3-D
+objects; event handling and view manipulation, Introduction to GPU and animation
+Textbook
+1. J. D. Foley, A. Van Dam, S. K. Feiner and J. F. Hughes, Computer Graphics; Principles and
+practice, Addison Wesley, 2nd Edition in C, 1997.
+2. D. F. Rogers and J. A. Adams, Mathematical elements for Computer Graphics, McGraw-Hill,
+2nd Edition, 1990.
+Self-Learning Material
+1. Blender: https://www.blender.org/download/
+2. OpenGL:http://www.opengl-tutorial.org/
+PreparatoryCourse Material
+1.Department of Computer Science and Engineering, Indian Institute of Technology Madras,
+https://nptel.ac.in/courses/106106090/

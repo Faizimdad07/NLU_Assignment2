@@ -1,0 +1,1165 @@
+1
+Indian Institute of Technology
+Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+2
+Master of Science (MSc) Program
+in
+Mathematics
+3
+(1) Introduction:
+The classical mathematics provides foundations for analysis of key principles behind
+modern and emergent technologies, modern mathematics coupled with computational
+capabilities is opening new avenues for further explorations. M.Sc. (Mathematics)
+Program at IIT Jodhpur aims at tapping these opportunities by developing workforce
+specialized in mathematics needed for developing key technologies. The proposed four
+semester program strives to provide balance between analysis and application of
+Mathematics. The compulsory courses provide the basic understanding and foundation of
+mathematics enhancing analytic capabilities of the students. Students can further
+explore their area of interest with program and open elective courses. The project
+component spread over last two semesters provides research exposure to the students
+and provides an opportunity to apply their mathematical skills to solve real-life
+problems. Students are encouraged to undertake research Summer Internships in
+Institute of repute, Industry and R&D organizations.
+(2) Objectives of the Program:
+M.Sc. program in Mathematics at IIT Jodhpur is offered with the objective of tapping
+opportunities for nurturing motivated students in the frontline areas and well trained
+workforce for Academia and Industry. The Program also strives to provide a vibrant
+environment to support independent thinking and developing the spirit of team work.
+(3) Expected Graduate Attributes:
+(1) Skill set to analyze abstract mathematical structures.
+(2) Understanding about the recent areas in pure and applied mathematics such as
+algebra, analysis, statistics and computation.
+(3) Ability to formulate mathematics from computational aspect.
+(4) Knowledge and capability to develop and apply mathematical models for real life
+problems.
+(5) Skill set to understand the abstraction of mathematical structures.
+(6) Analytical and scientific skill set to pursue higher studies and research in diverse
+areas of mathematics.
+(7) Ability to express ideas in the written and oral formats.
+(4) Learning Outcomes:
+(1) Understanding of fundamental aspects of real, complex and functional analysis.
+(2) Basic understanding of linear and abstract algebra.
+(3) Knowledge about basics and use of probability theory, statistics and differential
+equations.
+(4) Skill set to cater computational aspects using programming techniques.
+(5) Basic understanding of symbolic solution tools such as MATLAB or Mathematica.
+(6) Demonstrate skills to communicate scientific ideas and/or application systems.
+4
+(7) Acquire project management skills.
+(5) Program Structure:
+Cat. Course
+Number
+Course Title L-T-P-
+D
+Credits Cat. Course
+Number
+Course Title L-T-P-
+D
+Credits
+Semester 1 Semester 2
+C MAL6XX0 Linear
+algebra
+3-0-0-
+1
+4 C MAL6XX0 Abstract
+Algebra
+3-0-0-1 4
+C MAL6XX0 Real analysis 3-0-0-
+1
+4 C MAL5XX0 Complex
+Analysis
+3-0-0-1 4
+C MAL6XX0 Ordinary
+Differential
+equations
+3-0-0-
+1
+4 C MAL6XX0 Partial
+Differential
+equations
+3-0-0-0 3
+C MAL5XX0 Probability
+and
+Statistics
+3-0-0-
+1
+4 C MAL6XX0 Functional
+analysis
+3-0-0-0 3
+C MAL5XX0 Programming
+Techniques
+2-0-2-
+0
+3 PE Xxxxx PE1 3-0-0-0 3
+C MA5XX0 Data
+Structures and
+Algorithms
+1-0-2-0 2
+Total 19 Total 19
+Semester 3 Semester 4
+C MAL6XX0 Topology 3-0-0-
+0
+3 PE Xxxxx PE5 3-0-0-0 3
+PE Xxxxx PE2 3-0-0-
+0
+3 PE Xxxxx PE6 3-0-0-0 3
+PE Xxxxx PE3 3-0-0-
+0
+3 OE Xxxxx OE2 3-0-0-0 3
+PE Xxxxx PE4 3-0-0-
+0
+3
+OE Xxxxx OE1 3-0-0-
+0
+3
+P MAP7XX0 Project 0-0-0-
+5
+5 P MAP7XX0 Project 0-0-
+0-10
+10
+Total 20 Total 19
+Grand total 77
+S.No. Category Course
+Category Title
+Total
+Courses
+Total
+Credits
+1 C Compulsory 11 38
+2 PE Program Electives 6 18
+3 OE Open Elective 2 6
+4 P Project 2 15
+Total 77
+(6) Topic Cloud
+Compulsory Topics:
+(a) Linear Algebra (Finite dimensional Vector Spaces, linear transformations, Inner
+Product Spaces, Eigenvalues and Eigenvectors, Jordan canonical forms, Matrix
+theory, Eigenvalues and Eigenvectors, Spectral Analysis)
+5
+(b) Real Analysis (Basic properties of real system, study of Metric spaces, Calculus of
+several variables, Function spaces), Abstract Algebra (Basic algebraic structures,
+group theory, ring theory, Galois Theory)
+(c) Topology (Topological structures and their properties, transformation between
+topological spaces), Functional Analysis (Normed linear spaces, Banach spaces, Lp
+Spaces, Hilbert Spaces, Linear transformations and their properties)
+(d) Complex Analysis (Fundamental theorem of Complex Analysis, Residue theorem,
+Contour integration and its applications, evaluation of Improper integrals, conformal
+mappings)
+(e) Probability theory (Univariate and multi-variate Probability Distributions and their
+properties, weak laws of large numbers, central limit theorem).
+(f) Statistics (sampling distributions, estimation of parameters, interval estimation,
+testing of hypotheses), Statistical modelling (Estimation of parameters, Interval
+estimation, Testing of hypotheses)
+(g) Ordinary Differential Equations (Existence and Uniqueness of solution, Sturm-
+Liouville problems and properties of its solutions)
+(h) Partial differential equations and their applications
+(i) Fundamentals of Programming
+(j) Numerical Techniques (Root finding methods, Solution for system of linear
+equations, Power method), Solution to System of linear Equations, Interpolation,
+Numerical solution of Ordinary Differential Equations.
+Elective Topics:
+Fourier analysis, Wavelets analysis, Dynamical Systems, Operations Research, Number
+Theory, Calculus of Variations, Integral Equations, Statistical Inference, Graphs Theory,
+Stochastic Calculus, Measure and Integration, Chaos Theory, Numerical Methods for
+Partial Differential Equations, Discrete Mathematics.
+(7) List of Electives
+(a) Department of Mathematics
+ MAL7XX0: Measure and Integration
+ MAL7XX0: Financial Engineering
+ MAL7XX0: Wavelets analysis and Applications
+ MAL7XX0: Dynamical Systems
+ MAL7XX0: Optimization
+ MAL7XX0: Numerical Analysis
+ MAL7XX0: Number Theory
+ MAL7XX0: Statistical Inference
+ MAL7XX0: Graph Theory
+ MAL7XX0: Calculus of Variation and Integral Equations
+ MAL7XX0: Stochastic Calculus
+ MAL7XX0: Algebraic Number Theory
+ MAL7XX0: Machine Learning and Pattern Recognition
+ MAL7XX0: Chaos Theory and its Applications
+ MAL7XX0: Representations of finite groups
+ MAL8XX0: Numerical Partial Differential Equations
+ MAL7XX0: Selected Topics in Mathematics - I (1-0-0-0)
+ MAL7XX0: Selected Topics in Mathematics - II (2-0-0-0)
+ MAL7XX0: Selected Topics in Mathematics - III (3-0-0-0)
+6
+(b) From sister Departments
+ Theory of Vibrations
+ Finite Element Methods in Engineering
+ Incompressible Fluid Flow
+ Computer Graphics
+ Advanced Computer Graphics
+ Digital Image Analysis
+ Statistical Signal Analysis
+ Statistical Decision Theory
+ Computational Imaging
+ Multimedia Communication
+ Classical Mechanics
+ Quantum Mechanics
+ Statistical Physics
+ Introduction to Quantum Technologies
+7
+(8) Content of compulsory courses:
+Course Title Linear Algebra Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. To give sufficient knowledge of the subject which can be used by students for
+further applications in their respective domains of interest.
+Learning Outcomes
+1. Concept of linear spaces, mapping between spaces, norm and their action on
+spaces.
+2. Eigenvalues, eigenvectors and diagonalization, and Primary decomposition
+theorem.
+3. Normal operators and Spectral theory of real symmetric normal operators.
+Contents
+Vector Spaces, Matrices and System of Linear Equations [10 Lectures]: System of
+linear equations,Matrices and rank, Vector Spaces over fields, Subspaces, Bases and
+dimension, Direct sum of the sub spaces.
+Linear Transformation and Inner Product Spaces [10 Lectures]: Linear
+Transformations, Rank and Nullity theorem, Representation of linear transformations
+by matrices, duality and transpose. Inner product spaces, Gram-Schmidt
+orthonormalization, orthogonal projections.
+Operators and Spectral Theorem [20 Lectures]:Linear functionals and adjoints,
+Hermitian, self-adjoint, Unitary and normal operators, Spectral theorem for real
+operators, Eigenvalues, Eigenvectors, Characteristic polynomials, minimal polynomials,
+Cayley Hamilton Theorem, triangulation, diagonalization, Jordan canonical forms
+(without proof).
+Textbook
+1. Hoffman, K., and Kunze R., Linear Algebra, Pearson Education (India) 2003.
+2. Herstein, I.N., Topics in Algebra, 2nd Edn., John Wiley and Sons.
+3. Lax, P., Linear Algebra and its applications, John Wiley & Sons, Indian Edition 1997
+4. Lang, S., Linear Algebra, 3rd Edition, Springer, 2004.
+Reference Books
+1. Artin, M., Algebra, Prentice Hall of India, 1994.
+2. Axler, S., (1997), Linear Algebra Done Right.
+3. Kumaresan, S., (2000) Linear Algebra – A Geometric Approach, PHI Learning.
+4. Sharma, R. K., Shah, S. K. and Shankar, A. G., Algebra I: A Basic Course in
+Algebra, Pearson Education, 2011.
+Online course Material
+1. Rana, I.K., Basic Linear Algebra, NPTEL Course material, Department of
+Mathematics, IIT Bombay, https://nptel.ac.in/courses/111101115/
+8
+Course Title Real Analysis Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. To train the student in the area of real analysis
+2. To give sufficient knowledge of the subject which can be used by student for
+further applications in their respective domains of interest
+Learning Outcomes
+1. Metric spaces, completeness and Baire Category.
+2. Continuity, Uniform continuity, Contraction mapping, fixed point theorem.
+3. Connectedness and Compactness and Heine-Borel theorem.
+4. Function spaces, Weiestrass approximation theorem.
+Contents
+Real Number System, Limits and Continuity [10 Lectures]: Countable and uncountable
+sets, the axiom of choice, Zorn’s lemma, Real number system, Consequences of
+completeness property, limit and continuity of functions, uniform continuity.
+Metric Spaces [10 Lectures]: Metric spaces, continuous and uniformly continuous
+functions, bounded and totally bounded sets, Compactness, Heine-Borel Theorem,
+Completeness, Cantor’s Intersection theorem, Baire spaces, Connectedness.
+Sequences and Series of Functions: [10 Lectures]Sequences and Series of functions,
+Uniform convergence, Uniform convergence and integration, Uniform convergence and
+differentiation,
+Multivariable Calculus [10 Lectures]: Functions of several variables, continuity,
+differentiability, partial derivatives, Jacobian, Inverse Function Theorem and the Implicit
+Function Theorem, multivariable integration, Fubini’s theorem, Change of variables, Line
+integrals, surface integrals, Green’s theorem, Divergence theorem, Stokes theorem, and
+applications.
+Textbook
+1. Aliprantis, C.D., and Burkinshaw, O., Principles of Real Analysis, 3rd Edition.
+2. Apostol, T., Mathematical Analysis, 2nd Edition, Narosa, 2002.
+3. Ghorpade, S.R., and Limaye, B.V., A Course in Multivariable Calculus and Analysis,
+Springer.
+Reference Books
+1. Royden, H. L., Real Analysis, Third Edition, Macmillan Publishing Company, 1988.
+2. Rudin, W., Priciples of Mathematical Analysis, Third Edition, McGraw-Hill, 1976.
+3. Davidson, K. R., and Donsig, A. P., Real analysis and applications: Theory in
+practice, Springer Publications, 2010.
+4. Bartle, R., Sherbert, D., Introduction to Real Analysis, 3rd Edition, Wiley 2011.
+Online course Material
+1. Kulkarni, S.H., Real Analysis, NPTEL Course Material, Department of Mathematics,
+IIT Madras, https://nptel.ac.in/courses/111106053/
+9
+Course Title Ordinary Differential Equations Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. Introduce the concepts of existence and uniqueness of solution of ordinary
+differential equations
+2. Develop analytical techniques to solve ordinary differential equations
+3. Understand the properties of solution of ordinary differential equations
+Learning Outcomes
+1. Understanding existence, uniqueness, and other properties of a solution of
+ordinary differential equations
+2. Solving ordinary differential equations with series method, Green's function
+method
+3. Solving systems of ODEs, and characterization of their solutions
+Contents
+Motivations and origins, Existence-Uniqueness [7 Lectures]: Existence of solutions by
+Picard’s method, uniqueness and continuous dependence w.r.t. initial conditions and
+parameters, continuation of solutions, existence and uniqueness of solutions to
+system of differential equations.
+Second Order Linear Equations [23 Lectures]: General solution of differential
+equations using method of undetermined coefficients, method of variation of
+parameters, variable coefficients equations, Power series solution method, Legendre’s
+equation, Frobenius method, Bessel’s equation, Green's function method, Sturm-
+Liouville problems, orthogonal eigen-function expansions, Sturm comparison theorem,
+Sturm separation theorem,
+Systems of Differential Equations [10 Lectures]: Phase plane method, critical points of
+the system and their stability analysis, algebraic properties of solutions, the
+eigenvalue-eigenvector method of finding solutions, fundamental matrix solutions,
+matrix exponential, nonhomogeneous equations.
+Text Books
+1. Ross, S. L., Introduction to ordinary differential equations, 4th Ed., John Wiley
+Publications, 1989
+2. Braun. M., Differential Equations and Their Applications, 3rd Ed., Springer-Verlag,
+1983
+3. Chicone, C., Ordinary Differential Equations with Applications, 2nd Ed., Springer,
+2006
+Reference Books
+1. Coddington, E. A., An Introduction to Ordinary Differential Equations, PHI
+Learning 1999
+2. Birkhoff, G. and Rota G., Ordinary Differential Equations, 4th Ed., Wiley
+Publications, 1989
+3. Simmons, G., Differential Equations with Applications and Historical Notes, 2nd
+Ed., McGraw Hill Education, 2017
+Online Course Material
+1. Agrawal, P. N. and Pandey, D. N., Ordinary and partial differential equations and
+applications, NPTEL Course Material, Department of Mathematics, IITRoorkee,
+https://nptel.ac.in/courses/111107111/
+10
+2. Raghavendra V., Ordinary differential equations, NPTEL Course Material,
+Department of Mathematics, IIT Kanpur,https://nptel.ac.in/courses/111104031/
+11
+Course Title Probability and Statistics Course No. MAL5XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. Demonstrate an understanding of the basic principles of probability theory.
+2. Use of the properties of discrete and continuous random variables with their
+joint, marginal, and conditional distributions.
+3. Use of the various families of probability distributions to model various types of
+data.
+Learning Outcomes
+1. Understanding of probability theory and statistics to solve industrial problems.
+2. Understanding of random sampling, theory of estimation and testing of
+hypotheses.
+Contents:
+Probability spaces and Random Variables[15 lectures]: Probability measure,
+conditional probability, Bayes’ theorem, Random variable, cumulative distribution
+function and its properties, probability density function, functions of a random
+variable, standard discrete and continuous distributions and their applications,
+Transformation, moments, Chebychev’s inequality.
+Joint Distributions[10 lectures]: Random vectors, joint, marginal and conditional
+distributions, conditional expectation, independence, correlation and regression, Bi-
+variate normal distribution, functions of random vectors, transformation.
+Limit Theorems[3 lectures]: Convergence of sequences of random variables, weak and
+strong laws of large numbers, central limit theorems.
+Estimation and Tests of Hypotheses[14 lectures]: Sampling distributions, estimation of
+parameters, maximum likelihood method and method of moments, interval estimation,
+testing of hypotheses.
+Text Books
+1. Rohatgi, V. K., and Saleh, A. K. M. E., An Introduction to Probability and
+Statistics, Second Edition, Wiley India, 2000.
+2. Casella, G. and Berger, R. (2002). Statistical Inference, Cengage Learning.
+3. Hoel, P.G., Port, S.C. and Stone, C.J. (1971). Introduction to Probability Theory,
+Houghton Mifflin Series in Statistics.
+Reference Books
+1. Hogg, R. V., McKean J. W., and Craig A., Introduction to Mathematical Statistics,
+Sixth Edition, Pearson Education India, 2006.
+2. Prakasa Rao, B. L., S., A First Course in Probability and Statistics, World
+Scientific/Cambridge University Press India, 2009.
+3. Castaneda, L. B., Arunachalam, V., and Dharmaraja, S., Introduction to
+probability and stochastic processes with Applications. Wiley, 2012
+Online Course Material:
+1. Kumar, S., Probability and Statistics, NPTEL Course Material, Department of
+Mathematics, IIT Kharagpur, https://nptel.ac.in/courses/111105090/
+12
+Title Programing techniques Number MAL5XX0
+Department Mathematics L-T-P-D [C] 2–0–2-0
+[3]
+Offered for M.Sc.(MA) Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. introduce the basics of computer programming in C/C++.
+2. Teach to develop well-structured programs in C/C++.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Write well structures programs in C/C++.
+2. Implement and solve algebraic and transcendental equations and system of
+equations numerically.
+Contents
+Introduction[2 Lectures]:machine language, assembly language, high-level programming
+languages, compiler, interpreter, loader, linker, and flowchart.
+Basic features of programming (Using C/C++) [8 Lectures]:Data types, variables,
+operators, expressions, control structures, functions, parameter passing conventions.
+Advanced features of programming [8 Lectures]: Pointers, arrays, operations on data
+(Insert, delete, search, traverse and modify), structures, introduction to classes.
+Root finding methods [4 Lectures]: Bisection method, Secant method, the method of
+false position, Newton-Raphson method.
+Solution of system of linear equations [6 Lectures]: Gauss elimination, Gauss-Jordan
+method, LU decomposition, Crout's Method, Do-little Method, and Cholesky
+decomposition.
+Textbooks
+1. Balaguruswamy, E., Programming in ANSI C, Tata McGraw-Hill, 2004.
+2. Lafore, R., Object-Oriented Programming in C++, Fourth Edition, Pearson, 2002.
+3. Burden, R. L., Numerical Analysis, Ninth Edition, Cengage Learning India, 2012.
+Reference Books
+1. Schildt, H., C: The Complete Reference, Fourth Edition, Tata McGraw Hill, 2000.
+2. Datta, B. N., Numerical Linear Algebra and Applications, 2nd Edition, PHI, 2010.
+Online Course Material
+1. Kumar, S.A., Principles of Programming Languages, NPTEL Course Material,
+Department of Computer Science and Engineering, IIT Delhi,
+https://nptel.ac.in/courses/106102067/.
+2. Gupta, D., Introduction to Problem Solving and Programming, NPTEL Course
+Material, Department of Computer Science and Engineering, IIT Kanpur,
+https://nptel.ac.in/courses/106104074/.
+3. Nayak, A. K. and Kumar S., Numerical methods, NPTEL Course Material,
+Department of Mathematics, IIT Roorkee,
+https://nptel.ac.in/courses/111107105/.
+13
+Course Title Abstract Algebra Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. To train the student in the domain of Abstract Algebra.
+2. To give sufficient knowledge of the subject which can be used by student for
+further applications in their respective domains of interest.
+Learning Outcomes
+1. Modules, Dual modules, Cyclic Primary modules and Decomposition theorem.
+2. Nilpotent and Solvable groups, Galois Theory, splitting Fields, Normal extension,
+Fundamental theorem of Galois theory
+Contents:
+Group Theory [10 lectures]: Review of Group theory (Symmetric Groups,
+Transformation Groups), Abelian groups, Sylow Theorems, nilpotent and solvable
+groups.
+Ring Theory [11 lectures]: Rings, Polynomial Rings, Prime ideals, Maximal Ideals,
+Principal Ideal Domain, Unique Factorization domain, Euclidian Algorithm.
+Field extensions [5 lectures]: Finite extension, algebraic extensions.
+Galois Theory [16 lectures]: Galois Theory, splitting Fields, Normal extension,
+Fundamental Theorem of Galois Theory and its applications.
+Text Book
+1. Cohn, P. M., Basic algebra: Groups, rings and fields, 2 Ed., Springer, 2005
+2. Jacobson, N., Basic Algebra I, Dover Publication, 2009
+3. Jacobson, N., Basic Algebra II, Dover Publication, 2012
+Reference Books
+1. Artin, M., Algebra, Second Edition, Pearson, 2010
+4. Dummit, D. S. and Foote, R. M., Abstract algebra, 3 Ed., Wiley, 2004
+5. Stewart, I., Galois Theory, Third Edition, Chapman and Hall, 2003
+Online Course Material:
+1. Gross, B., Abstract Algebra, Online Course Material, Harvard Extension School,
+http://matterhorn.dce.harvard.edu/engage/ui/index.html#/1999/01/82345
+14
+Course Title Complex Analysis Course No. MAL5XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. To train the student in the area of complex analysis.
+2. To give sufficient knowledge of the subject which can be used by student for
+further applications in their respective domains of interest.
+Learning Outcomes
+1. Cauchy-Riemann Equations, Homotopy of paths.
+2. Cauchy-Goursat theorem and Cauchy’s Integral Formula.
+3. Evaluation of improper integrals.
+Contents
+Introduction to functions of complex variables [14 Lectures]: Elementary functions,
+continuity, differentiability, Analytic Functions, Cauchy Riemann Equations.
+Complex Integration[14 Lectures]: Line and Contour Integrals, anti-derivatives of a
+complex function, Cauchy-Goursat Theorem, Simply and multiply connected domains,
+Cauchy’s Integral formula, Taylor and Laurent Series expansion, Liouville’s Theorem,
+Fundamental Theorem of Algebra, Maximum modulus principle.
+Residue Theory[10 Lectures] Residues and poles, Cauchy’s residue theorem, Jordan’s
+Theorem, evaluation of Improper integrals
+Conformal mappings[4 Lectures]: Conformal mapping, Special transformation,
+Mobious transformation.
+Text Books
+1. Lang, S., Complex Analysis, Fourth Edition, Springer-Verlag, 1999
+2. Brown, J. W. and Churchill, R. V., Complex variables and applications, 9 Ed.,
+McGraw Hill Publications, 2013
+Reference Books
+1. Ahlfors, L.V., Complex Analysis, 3rd edition, McGraw Hill, 2000.
+2. Ablowitz, M. J., and Fokas, A. S., Complex variables: Introduction and
+applications, 2 Ed., Cambridge University Press, 2003.
+3. Shastri, A.R., An Introduction to Complex Analysis, Macmillan India, New Delhi,
+1999.
+Online Resources
+1. Sree Krishna, P.A.S., Complex Analysis, NPTEL Course Material, Department of
+Mathematics, IIT Guwahati, https://nptel.ac.in/courses/111103070/
+2. Swaminathan, A. and Katiyar, V.K. Complex Analysis, NPTEL Course Material,
+Department of Mathematics, IIT Roorkee,
+https://nptel.ac.in/courses/111107056/
+15
+Course Title Partial Differential
+Equations
+Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. Introduce the concepts of existence and uniqueness of solution of partial differential
+equations
+2. Develop analytical techniques to solve partial differential equations
+3. Understand the properties of solution of partial differential equations
+Learning Outcomes
+1. Understanding existence, uniqueness, and other properties of a solution of partial
+differential equations
+2. Solving partial differential equations with Fourier series method, Green's function
+method, Laplace transform method, and Fourier transform method
+Contents
+Motivations and origins [3 Lectures]: PDEs of engineering and physics (Heat, wave and
+Laplace equations).
+First order partial differential equations [9 Lectures]: Linear, quasi-linear and fully
+nonlinear equations, Lagrange method, the Cauchy problem, Cauchy method of
+characteristics, compatible systems, Charpit method.
+Second order partial differential equations [12 Lectures]: Classification and Canonical
+forms, Adjoint operators, Riemann’s method, solving linear partial differential equations
+with constant coefficients.
+Elliptic, parabolic and hyperbolic equations[16 Lectures]: Variable separation method for
+Laplace/Poisson equation, heat conduction equation, wave equation, Burger equation,
+D’Alembert’s solution, Maximum-Minimum principles, Duhamel’s principle, solutions by
+Green’s function method.
+Text Books
+1. Rao, K. S., Introduction to partial differential equations, 3rd Edition, PHI, 2011
+2. Logan, J. D., Applied partial differential equations, 3rd Ed., Springer, 2015
+3. Pinchover, Y. and Rubinstein, J., An introduction to partial differential equations,
+Cambridge University Press, 2005
+Reference Books
+1. Sneddon, I. N., Elements of Partial Differential Equations, McGraw-Hill, New
+York,1986
+2. Prasad, P. And Ravindran, R., Partial differential equations, New Age
+International Publisher, 2005
+3. Mattheij, R. M. M., Rienstra, S. W., and ten Thije Boonkkamp, J. H. M., Partial
+Differential Equations: Modeling, Analysis, Computation, SIAM Publication, 2005
+Online Course Material
+1. Agrawal, P. N. and Pandey D.N., Ordinary and partial differential equations and
+applications, NPTEL Course Material, Department of Mathematics, IIT Roorkee,
+https://nptel.ac.in/courses/111107111/
+2. Sinha, R. K., Partial differential equations, NPTEL Course Material, Department of
+Mathematics, IIT Guwahati, https://nptel.ac.in/courses/111103021/
+16
+Title Functional Analysis Number MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA) Type Compulsory
+Prerequisite
+Objectives
+1. To introduce the area of Functional analysis.
+2. To give sufficient knowledge of the subject which can be used by student for further
+applications in their respective domains of interest.
+Learning Outcomes
+1. Basic idea of a normed linear spaces and operators on normed linear space.
+2. Open Mapping theorem, Hahn-Banach Theorem and their applications.
+Contents
+Normed Linear Spaces[14 Lectures]: Normed linear space, subspace of a normed linear
+space, Equivalent norms, Finite Dimensional normed linear spaces, Banach spaces,
+Linear operator, norm of a linear operator, boundedness and continuity, Quotient spaces.
+Integrability and Extension Theorems[19 Lectures]: Integrable functions, l_p spaces,
+Minkowski's inequality, Holder's inequality, separability of l_p spaces, uniformly bounded
+operator, principle of uniform boundedness, Sub-linear functional, Semi-norm, Open
+mapping theorem, Closed graph theorem, Hahn-Banach Theorem, dual of a normed
+linear space, reflexive normed linear space.
+Hilbert Spaces and their Applications [9 Lectures]: Inner product spaces, polarisation
+identity, Bessel's inequality, Hilbert space, Riesz representation theorem, Operators on
+Hilbert spaces, compact operators, projections and idempotents.
+Text Books
+1. Limaye, B. V., Functional Analysis, Second Edition, New Age International, 1996
+2. Lax, P. D., Functional Analysis, First Edition, 2001
+3. Ruddin, W., Functional Analysis, 2nd Ed., McGraw Hill Education, 2017
+Reference Books
+1. Conway, J. B., A course in Functional Analysis, Second Edition, Springer-Verlag,
+1994
+2. Goffman, C., and Pedrick, G., A First Course in Functional Analysis, Prentice-Hall,
+1974
+Online Course Material
+1. Srivastava, P. D., Functional Analysis, NPTEL Course Material, Department of
+Mathematics, IIT Kharagpur, https://nptel.ac.in/syllabus/111105037/
+17
+Course Title Data Structures and Algorithms Course No. MAP5XX0
+Department Mathematics L-T-P-D [C] 1–0–2-0 [2]
+Offered for M.Sc.(MA) Type Compulsory
+Pre-requisite
+Objectives
+1. To provide sufficient skills to prove and analyze efficiency of the algorithms.
+2. To introduce elementary data structures and related operations.
+Learning Outcomes
+1. Ability to design correct programs to solve problems.
+2. Skills to choose efficient data structures and apply them to solve problems.
+3. Ability to show the correctness and efficiency of a program.
+Contents
+Performance of algorithms[3 lectures]: Algorithm Development, Complexity analysis
+and asymptotics.
+Data structures [11 lectures]: Arrays, pointers, linked lists, stacks, queues, binary
+trees, tree traversals.
+A programming laboratory will be set in consonance with the topics covered in
+lectures. This will include assignments in a programming language like C and C++ in
+GNU Linux environment.
+Text Books
+1. Cormen, T.H., Leiserson, C.E., Rivest, R.L. and Stein, C., Introduction to
+Algorithms, 2nd Ed.,Prentice-Hall of India, 2007.
+2. Sahni, S., Data Structures, Algorithms and Applications in C++, 2nd Ed.,
+Universities Press, 2005.
+Reference Books
+1. Aho, A. V., Ullman, J. D., and Hopcroft, J. E. (1985), Data Structures and
+Algorithms, Addison-Wesley.
+2. Goodrich, M.T. and Tamassia, R., Data Structures and Algorithms in Java, Wiley,
+2006.
+Online course material
+1. Garg, N., Data Structures And Algorithms, NPTEL Course Material, Department of
+Computer Science and Engineering, IIT Delhi,
+https://nptel.ac.in/courses/106102064/.
+18
+Title Topology Number MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA) Type Compulsory
+Prerequisite
+Objectives
+1. To train the students in the domain of Topology.
+2. To give sufficient knowledge of the subject which can be used by student for further
+applications in their respective domains of interest.
+Learning Outcomes
+1. Topological spaces, order topology and product topology.
+2. Separation axioms, countability axioms Urysohn’s metrization theorem.
+3. Function spaces, pointwise and uniform convergence, Stone-Weierstrass Theorem.
+Contents
+Basic Topology [14 Lectures]: Topological spaces, basis and sub-basis, order topology,
+product topology, subspace topology, convergence, closed sets, continuous functions,
+quotient topology
+Properties of Topological Spaces [17 Lectures]: Connected spaces, Components, local
+connectedness, compact spaces, limit point compactness, local compactness,
+Countability axioms, separation axioms, normal spaces, Tychonoff spaces, Urysohn’s
+metrization theorem, Tietze extension theorem, Tychonoff theorem, Stone-Cech
+compactification
+Special Topics [09 Lectures]: Function spaces, pointwise and uniform convergence,
+compact-open topology, uniform convergence on compact set, Stone-Weierstrass
+Theorem.
+Text Books
+1. Munkres, J., Topology, second edition, Pearson Publications, 2000
+2. Willard, S., General Topology, Dover Publications, 2004
+Reference Books
+1. Pervin, W. J. and Boas, R. P., Foundations of general topology, Academic Press,
+1964
+2. Simmons, G. F., Introdunction to topology and modern analysis, Tata McGraw-
+Hill, 2004
+Online Course Material
+1. Veeramani, P., Topology, NPTEL Course Material, Department of Mathematics, IIT
+Madras, https://nptel.ac.in/courses/111106054/.
+19
+(9) Content of Elective courses:
+Title Measure and Integration Number MAL7XX0
+Department Mathematics L-T-P-D
+[C]
+3–0–0-0 [3]
+Offered for M.Sc.(MA) Type Elective
+Prerequisite
+Objectives
+1. Provide background in the area of Measure Theory.
+2. Provide sufficient knowledge of the subject which can be used by students for
+further applications in their respective domains of interest.
+Learning Outcomes
+1. Provide basic understanding of the measures, total variation, absolute continuity,
+and Radon-Nikodym Theorem.
+2. Impart knowledge in Derivatives of measures, Fundamental Theorem, product
+measures, Fubini’s Theorem, convolutions, Distribution functions.
+Contents
+Basics of Measure and Integration [12 Lectures]: Riemann Integration and need for
+generalization, Measurable Sets, measurable functions, functions between measurable
+spaces, Measures on Algebra of Sets, Extension Theorems, Lebesgue and Lebesgue-
+Stieltjes measure, Measure, measure spaces.
+Integrability [14 Lectures]: Simple functions and their integrals, integral of a non-
+negative measurable function, integral of extended real valued non-negative function,
+Monotone Convergence Theorem, Fatou’s lemma, Integrable functions, Lebesgue
+Dominated Convergence Theorem, Lebesgue Spaces L_p, Holder’s Inequality,
+Minkowski’s Inequality, completeness theorem, L_{\infinity}.
+Modes of convergence [6 Lectures]: Relations between convergence almost
+everywhere, convergence in measure and convergence in L_p spaces, Egoroff’s
+Theorem.
+Special Theorems (without proof) [14 Lectures]: Hahn Decomposition Theorem, Jordan
+Decomposition Theorem, Radon-Nikodym Theorem, Lebesgue Decomposition
+Theorem, Riesz Representation Theorem for L_p spaces.
+Textbook
+1. Royden, H.L., (1988), Real analysis, 3rd Edition, Macmillan Publishing Company,
+New York
+2. Bartle,R.G., (2014), The Elements of Integration and Lebesgue Measure, John
+Wiley & Sons
+3. Inder K.Rana, (2007), An Introduction to Measure and Integration, Narosa.
+Reference Books
+1. Parthasarathy, K.R., 2005, Introduction to Probability and Measure, TRIM Series,
+Vol. 33, Hindustan book agency, New Delhi.
+2. Halmos, P.R., 1976, Measure Theory, 1st Edition, Springer.
+Online Course Material
+1. Rana, I.K., Measure Theory, NPTEL Course Material, Department of Mathematics,
+IIT Bombay, https://onlinecourses.nptel.ac.in/noc17_ma15/
+20
+Title Financial Engineering Number MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Sc.(MA)/M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite
+Objectives
+1. Securities Pricing Securities, Risk Management Assessment, prediction and decision
+making, under uncertainty, regarding future events and their consequences
+2. Portfolio Optimization Balancing risk and return
+3. Modeling Pricing of derivatives and Itos calculus
+Learning Outcomes
+1. Valuation of financial portfolio
+2. Pricing of financial derivatives (options and contracts)
+3. Understanding risk and return
+Contents
+[18 lectures]:Introduction to financial markets and financial instruments, financial
+derivatives, risk and return, risky and risk free assets, interest rates, bonds, bonds pricing,
+spot and forward rates, investment portfolio, mean-variance analysis, capital asset pricing
+model, arbitrage pricing theory.
+[22 lectures]:Discrete time models, stock and money market models, principle of no
+arbitrage, pricing of contracts (forward and future), options, put-call parity, option pricing,
+martingales, Binomial model, CRR model, Black-Scholes formula, Greeks, random walk,
+Brownian motion, stochastic process, Itos integral and Ito-Deoblins formula.
+Textbook
+1. M. Capinski and T. Zastawniak, Mathematics for finance: an introduction to financial
+engineering, Springer, 2010.
+2. S.N. Neftci, Principles of financial engineering. Academic Press/Elsevier, 2009.
+Reference Books
+1. J.C. Hull, Options, futures and other derivatives. Pearson India, 2011.
+2. S.E. Shreve, Stochastic calculus for finance I: The binomial asset pricing model,
+Springer, 2000.
+21
+Course Title Wavelet Analysis and Applications Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA)/PhD (MA) Type Elective
+Pre-requisite
+Objectives
+1. To introduce the origin of wavelet transform
+2. To develop the understanding of multiresolution analysis for different types of
+signals
+3. To equip the students with various possible applications of the wavelet transform
+Learning Outcomes
+1. Strong understanding of Fourier and wavelet transform.
+2. Answer to the question why wavelet transform is a better tool for signal analysis.
+3. Implement and apply wavelet transform for various applications.
+Contents
+Fourier Analysis [12 Lectures]: Fourier and inverse Fourier transforms, Gabor
+transform, short time Fourier transform and the uncertainty principle.
+Wavelet Analysis [18 Lectures]: Mother wavelet, orthogonal and biorthogonal
+wavelets, continuous and discrete wavelet transform, basic properties of wavelet
+transforms, multiresolution analysis, Haar wavelet transform, Dabuchies Wavelet
+Transform, wave-packet transform
+Applications [12 Lectures]: Application of wavelet theory to feature detection, image
+denoising and compression.
+Text Books
+1. Chui, C. K., An Introduction to Wavelets, Academic Press Inc., New York, 1992.
+2. Debnath, L., Wavelet Transforms and Their Applications, Birkhauser, 2002.
+3. Mallat, S., A Wavelet Tour of Signal Processing, Academic Press, 1999.
+Reference Books
+1. Daubechies, I., Ten Lectures on Wavelets, Society for Industrial and Applied
+Mathematics, Philadelphia, PA, 1992
+2. Akansu, A.N., and Haddad, R.A., Multiresolution signal Decomposition:
+Transforms, Subbands and Wavelets, Academic Press, Oranld, Florida, 1992
+3. Kaiser, G., A Friendly Guide to Wavelets, Birkhauser, New York, 1995.
+Online course Material
+1. Gadre, V.M., Fundamentals of Wavelets, Filter Banks and Time Frequency
+Analysis, NPTEL Course Material, Department of Mathematics, IIT Bombay,
+https://nptel.ac.in/courses/108101093/.
+2. Strang, G. and Amaratunga, K., Wavelets, Filter Banks and Applications, Online
+Course Material, Massachusetts Institute of Technology,
+https://ocw.mit.edu/courses/mathematics/18-327-wavelets-filter-banks-and-
+applications-spring-2003/.
+22
+Course Title Optimization Techniques Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA)/PhD (MA) Type Elective
+Pre-requisite
+Objectives
+1. To train the student in the domain of linear and non-linear programming
+2. To give sufficient tools for solving programming problems which can be used by
+student for further applications in different areas of interest.
+Learning Outcomes
+1. Simplex method, Charne’s M-method, Two-phase Method
+2. Duality and Integer programming problem
+3. Transportation problem, assignment Problem, Karmakar’s Algorithm and Wolf’s
+method
+4. Newton’s method, Conjugate direction method and Quasi-Newton methods
+5. KKT conditions, penalty and Barrier Methods, exact penalty functions
+Contents
+Linear Programming [23 lectures]: Linear combination of vectors, Convex set, Convex
+hull, Linear programming problem, feasible solution, basic feasible solution, graphical
+solution, Simplex method Charne’s M method, Two phase method, Solving system of
+equations and finding the inverse of a matrix using simplex method, duality,
+Complementary Slackness Theorem, Duality and Simplex method, dual simplex
+algorithm, Integer Programming, Gomory’s cut-constraint method, Branch and Bound
+method, Transportation problem, Assignment problem, application of optimization.
+Nonlinear Programming [19 lectures]: First and second order conditions, Iterative
+methods, line search methods, global convergence of descent algorithms, Newton’s
+method, Conjugate direction method, Quasi-Newton Method, Constrained optimization
+- Lagrange Multipliers, Karush-Kuhn-Tucker conditions, Regular points, Sensitivity
+analysis, Quadratic Programming, Convex problems, applications of optimization.
+Text Book
+1. Luenberger, D. G., Linear and Nonlinear Programming, Yinyu Ye, Third Edition,
+Springer, 2008.
+2. Kambo, N. S., Mathematical Programming Techniques, Second Edition, Affiliated
+East West Press, 2005
+Reference Books
+1. Bazaraa, M. S., Sherali, H.D., and Shetty, C. M., Nonlinear Programming: Theory
+and Algorithms, Third Edition, Wiley publications, 2006
+2. Darst, R, Introduction to Linear Programming: Applications and Extensions,
+Dekker Publications, 1991
+Online Course Material:
+1. Goswami, A., Optimization, NPTEL Course Material, Department of Mathematics,
+IIT Kharagpur, https://nptel.ac.in/courses/111105039/1
+23
+Course Title Numerical Analysis Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA) Type Elective
+Pre-requisite
+Objectives
+1. Learn numerical techniques for a variety of mathematical problems
+2. Analyze the validity and error in the numerical results
+Learning Outcomes
+1. Develop an understanding of numerical error and applicability of a particular
+method.
+2. Solve numerically algebraic equations, linear systems of equations, ordinary
+differential equations and eigenvalue problems.
+3. Carry out numerical differentiation, integration, and interpolation
+Contents
+Errors analysis[4 Lectures]: Numerical Algorithms and errors, Floating point systems,
+Types of error, Propagation of Error, the stability of algorithms.
+Nonlinear equations [8 Lectures]: Newton-Raphson Method, Fixed-Point Iteration
+Method, Muller’s method, criterion for acceptance of a root, Rates of Convergence.
+Numerical solution of linear system of equations [8 Lectures]: Ill- conditioned systems,
+iterative methods (Gauss-Seidel method, Gauss-Jacobi method), matrix inversion, Rate
+of Convergence, Rayleigh Quotient, Min-max principle, the power and inverse power
+methods for eigenvalue problems.
+Interpolation [8 Lectures]: Errors in polynomial interpolation, finite differences,
+Newton’s formulae for interpolation, Lagrange interpolation formula, Hermite
+interpolation, Spline interpolation.
+Numerical Integration and Differentiation [6 Lectures]: Newton-Cotes integration
+formulae, Difference Formulae, Method of Undetermined Coefficients.
+Numerical IVPs for Ordinary Differential Equations [8 Lectures]: Taylor series method,
+Euler’s Method, Modified Euler’s Methods, Runge-Kutta Methods.
+Tools to be used: MATLAB, Mathematica, Octave, Scilab.
+Text Books
+1. Süli, E. and Mayers, D.F., An Introduction to Numerical Analysis, Cambridge Uni.
+Press, 2006.
+2. Sastry, S.S., Introductory Methods of Numerical Analysis, Prentice Hall of India
+Pvt. Ltd., 2007.
+3. Burden, R. L., Numerical Analysis, 9th Edition, Cengage Learning India, 2012
+Reference Books
+1. Conte, S.D. and Boor, C., Elementary Numerical Analysis: An Algorithmic
+Approach, Third Edition, McGraw-Hill Publication, 1980
+2. Chapra, S.C., Applied Numerical Methods with MATLAB for Engineers and
+Scientists, 3 Ed., McGraw Hill, 2012
+Online course Material
+1. Lal, R. and Banerjee S., Numerical Analysis, NPTEL Course Material, Department
+of Mathematics, IIT Roorkee, https://nptel.ac.in/courses/111107062/
+2. Usha, R., Numerical Analysis, NPTEL Course Material, Department of
+Mathematics, IIT Madras, https://nptel.ac.in/courses/111106101/
+24
+Course Title Number Theory Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA) Type Elective
+Pre-requisite
+Objectives
+1.To give basic knowledge of Number theory.
+2. To equip students with number theoretic tools which can be used in their fields of
+interest.
+Learning Outcomes
+1. Basic knowledge of Residue systems and RSA Cryptosystems.
+2. Diophantine Equations, Pells Equation, Binary Quadratic Forms and their Applications.
+Contents
+Introduction [10 Lectures]: Divisibility, prime numbers, properties and their distribution,
+complete and reduced residue systems, theorems of Fermat, Euler & Wilson, application to
+RSA cryptosystem.
+Congruences [10 Lectures]: Linear congruences, Chinese Remainder theorem, quadratic
+congruences, and Quadratic Reciprocity law.
+Arithmetical functions [15 Lectures]: examples, properties and their rate of growth,
+Continued fractions, and their connections with Diophantine approximations, applications
+to linear and Pell’s equations, Binary quadratic forms, Partition: basic properties and
+results.
+Diophatine equations [6 Lectures]: linear, quadratic and higher degree, some general
+equations.
+Text Books
+1. David M. Burton, Elementary Number Theory. McGraw Hill Education, 2012.
+2. G. H. Hardy and E. M. Wright. An Introduction to the Theory of Numbers. Oxford
+University Press, 1960.
+Reference Books
+1. Niven, H. S. Zuckerman and H. L. Montgomery. An Introduction to the Theory of
+Numbers, Wiley, 1991
+2. K. Ireland, and M. Rosen. A Classical Introduction to Modern Number Theory. GTM-
+84, Springer, 1990.
+Online Resources
+1. Saikia, A., Number Theory, NPTEL Course Material, Department of Mathematics, IIT
+Guwahati, https://nptel.ac.in/courses/111103020/.
+25
+Title Statistical Inference Number MAL7XX0
+Departmet Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA)/Ph.D. (MA) Type Elective
+Prerequisite
+Objectives
+1. To provide background in the area of Statistics.
+2. To provide sufficient knowledge of the subject which can be used by students for
+further applications in their respective domains of interest.
+Learning Outcomes
+1. Basic understanding of the Point and Interval Estimation, Testing of Hypotheses,
+Non-parametric Estimation
+2. Knowledge in Random Sampling, Unbiased Estimation, Bias-Variance Tradeoff,
+Goodness of Fit.
+Contents
+Random Sampling & Sampling Distributions [5 lectures]: Random sampling, exact
+sampling distributions: Chi-square, t and F distributions, large sample theory.
+Point and Interval Estimations [16 lectures]: Point estimator, properties of an estimator,
+factorization, MVUE, maximum likelihood method of estimation, Cramer-Rao bound,
+confidence interval estimation.
+Tests of Hypotheses [21 lectures]: Review of hypotheses testing, Neyman-Pearson theory,
+general linear hypothesis, method of least squares, analysis of variance (one way and two
+way), analysis of categorical data, Chi-square test for goodness of fit, test of
+independence, non-parametric tests.
+Text Books
+1. Rohatgi, V. K., Statistical Inference, Dover Publications Inc., 2003.
+2. Hogg, R. V., McKean, J. W., Craig, A. T., Introduction to Mathematical Statistics,
+Pearson, 2009.
+Reference Books
+1. Casella, G. and Berger, R. L., Statistical Inference, Brooks/Cole Publishing Company,
+2003.
+2. Rao, C. R., Linear Statistical Inference and Its Applications, Wiley, 2006.
+3. Gibbons, J.D. and Chakroborti, S., Nonparametric Statistical Inference, CRC Press,
+2010
+Online Course material:
+1. Zhou Fan, Introduction to Statistical Inference, Online Course Material, Stanford
+University, http://web.stanford.edu/class/stats200/
+2. Kumar, S., Statistical Inference, NPTEL Course Material, Department of
+Mathematics, IIT Kharagpur, https://nptel.ac.in/courses/111105124/
+26
+Title Stochastic Calculus Number MAL7XX0
+Department Mathematics L-T-P-D
+[C]
+3–0–0-0
+[3]
+Offered for M.Sc.(MA)/Ph.D.(MA) Type Elective
+Prerequisite
+Objectives
+1. To develop an understanding of financial market
+2. Given a discrete process, pricing of options, such as European, American, Asian
+and other exotic options
+3. To develop an understanding of change of measure, Martingales and Brownian
+motion
+4. Use of Black-Scholes model under various conditions
+Learning Outcomes
+1. Understanding derivatives and securities
+2. Pricing and valuation in discrete case
+3. Binomial model and self-financing strategy
+4. Black Scholes model and interest rate models
+Contents
+[10 lectures]:General probability spaces, Gaussian and log-normal distribution,
+martingales and stopping times, Brownian motion and its properties, Ito’s integral and
+martingale properties of Ito’s integral.
+[12 lectures]:Continuous time financial market models, Black-Scholes-Merton model,
+Black-Scholes PDE and formulas, risk-neutral valuation, option pricing, the Greeks, put-
+call parity, Risk-neutral valuation, risk-neutral measure, Girsanov's theorem for change
+of measure, martingale representation theorems, representation of Brownian
+martingales
+[20 lectures]:Stochastic differential equations, existence and uniqueness of solutions,
+Feynman-Kac formula and its applications, models with stochastic volatility, pricing and
+hedging in incomplete markets, bond markets, term-structures of interest rates, bond
+pricing, Short rate models, martingale models for short rate, Vasicek, Cox-Ingersoll-Ross
+and Hull-White models, multifactor models; Forward rate models, Heath-Jarrow-Morton
+model.
+Textbooks
+1. Shreve, S. E., Stochastic Calculus for Finance I; The Binomial Asset Pricing Model
+, Springer-Verlag, 2004
+2. Shreve, S. E., Stochastic Calculus for Finance II; Continuous-Time Model,
+Springer, 2004.
+Reference Books
+1. Baxter, M. and Rennie, A., Financial Calculus, University Press, Cambridge 1996
+27
+Title Calculus of variations and Integral
+Equations
+Number MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-D [3]
+Offered for M.Sc.(MA)/Ph.D.(MA) Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce variational problems with methods to solve them.
+2. Introduce the integral transforms and integral equations, and their solution
+methods
+Learning Outcomes
+The students are expected to have the ability to:
+1. Maximize or minimize functionals associated with the variational problems.
+2. Apply integral transforms to solve differential equations.
+3. Solve Fredholm and Volterra integral equations.
+Contents
+Calculus of Variation [20 Lectures]: Introduction to Variational problems, functionals,
+Functional dependence on first order derivatives, Euler equations, Functional dependence
+on functions of several independent variables, Variational problems with moving
+boundaries, Rayleigh-Ritz and Galerkin’s Method.
+Integral Transforms [8 Lectures]: Fourier, Fourier sine/cosine and Laplace transforms
+and their properties, convolution theorem and application to solve differential equations.
+Integral Equations [12 Lectures]: Classification of Integral equations, Neumann’s
+iterative method for Fredholm’s equation of the second kind, Volterra type integral
+equations, Integral equations of the first kind and Convolution type Integral Equations.
+Text books
+1. Gupta, A.S., Calculus of Variation, Prentice Hall of India Pvt. Ltd. 1996
+2. Debnath L. and Bhatta, D., Integral transformations and their applications, 2nd
+Edition, Chapman and Hall / CRC publications, 2007
+3. Moiseiwitsch, B. L., Integral equations, Logman, 1977
+Reference Books
+1. Gelfand, I. M. and Francis, S.V., Calculus of Variation, Prentice Hall, New Jersey,
+1963
+2. Yosida, K., Lectures on differential and integral equations, Dover, 1991
+3. Hildebrand, F. B. , Methods of applied mathematics, 2nd Ed, Prentice-Hall, 1965
+Online Course Material
+1. Agrawal, P.N. and Pandey, D.N., Integral equations, calculus of variations and its
+applications, NPTEL Course Material, Department of Mathematics, IIT Roorkee,
+https://nptel.ac.in/courses/111107103/
+28
+Title Chaos Theory and its Applications Number MA7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA)/PhD (MA) Type Elective
+Prerequisite
+Objectives
+1. To equip the students with the basic fundamentals of chaos theory.
+2. Learning and understanding various routes to chaos.
+3. To introduce applications of chaos to various physical systems and its introduction
+in IFS.
+Learning Outcomes
+1. Notion of chaos in one dimension.
+2. Understanding Bifurcation theory and different routes to chaos.
+3. Two dimensional flows, phase portraits and chaos in higher dimension.
+Contents
+Discrete Dynamical Systems[16 Lectures]: One dimensional maps, Fixed points, periodic
+points and Stability, Basin of Attraction, Bifurcation, period doubling and route to chaos,
+Sharkovsky’s theorem, Li-Yorke Theorem, Lorentz System and chaos, Chaos in one
+dimension, density of periodic points, transitivity, sensitive dependence on initial
+conditions, cantor’s set, conjugacy, symbolic dynamics, Various notions of chaos, Phase
+space diagrams, Linear Systems and their stability.
+Continuous Dynamical Systems[14 Lectures]: One dimensional flows, chaos in one
+dimension, Fixed points and Stability, Flows on the circle, Bifurcation, Saddle node
+Bifurcation, Transcritical Bifurcation, Pitchfork Bifurcation, Hopf Bifurcation, phase
+portraits, existence and uniqueness, fixed points and linearization, conservative
+systems, limit cycles, Poincare-Bendixson Theorem.
+Fractals and Dynamical Systems[12 Lectures]: Fractals, cantor set, dimension of self-
+similar fractals, Box dimension, correlation dimension, Iterated Function System, Collage
+Theorem and Image Compression, Julia and Mandelbrot Sets.
+Textbook
+1. Saber N. Elaydi, Discrete Chaos: With Applications in Science and Engineering,
+CRC Press, Second Edition.
+2. Steven H. Strogatz, Nonlinear Dynamics and Chaos: With Applications to
+Physics, Biology, Chemistry and Engineering, Westview Press, First edition.
+Reference Books
+1. H Nagashima and Y Baba, Introduction to Chaos: Physics and Mathematics of
+Chaotic Phenomena, CRC Press; First edition.
+2. G. Stuck and Michael Brin, Introduction to Dynamical Systems, Cambridge
+University Press; First edition
+Online Course Material
+1. Nagar A. (IIT Delhi) Chaotic Dynamical Systems,
+https://nptel.ac.in/courses/111102110/
+2. Banerjee S. (IIT Kharagpur), Chaos, Fractals and Dynamic Systems,
+https://nptel.ac.in/courses/108105054/
+29
+Title Machine Learning and Pattern
+Recognition
+Number MA7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA)/M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce the mathematical and statistical techniques used in pattern recognition.
+2. Impart knowledge on differentiate among various pattern recognition techniques.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Formulate high dimensional feature vectors from observations.
+2. Select an appropriate pattern analysis tool for analysing data in a given feature
+space.
+3. Apply pattern analysis tools to practical applications and detect patterns in the
+data.
+Contents
+Introduction [2 Lectures]: Definitions, data sets for Pattern Recognition, Different
+Paradigms of Pattern Recognition.
+Bayes Decision Theory [8 Lectures]: Bayes Decision Theory: Bayes decision rule,
+Minimum error rate classification, Normal density and discriminant functions, Bayesian
+networks.
+Generative Methods [8 Lectures]: Maximum Likelihood and Bayesian Parameter
+Estimation, Nonparametric techniques.
+Discriminative Methods [8 Lectures]: Distance-based methods, Linear Discriminant
+Functions, Artificial Neural Networks, Support Vector Machines.
+Clustering and Principal Component Analysis [8 Lectures]: k-means clustering, Gaussian
+Mixture Modeling, EM-algorithm, PCA, Kernel PCA, Probabilistic PCA.
+Combining Classifiers [8 Lectures]: Bagging and Boosting, Adaboost, Bayesian Model
+Averaging.
+Textbook
+1. Duda, R. O., Hart, P. E. and Stork, D., Pattern Classification 2/e, Wiley, 2002.
+2. Bishop, C., Pattern Recognition and Machine Learning, Springer, 2006.
+Reference Books
+1. Theodoridis, S. and Koutroumbas, K. (2008) Pattern Recognition, Edition 4.
+Academic Press.
+2. MacKay, D.J.C. (2004) Information Theory, Inference and Learning Algorithms,
+Cambridge University Press.
+3. Cristianini, N. and Taylor, J. S. (2000) An Introduction to Support Vector
+Machines, Cambridge University Press.
+Online Course Material
+1. Das, S. and Murthy, C.A. (IIT Madras) Pattern Recognition,
+https://nptel.ac.in/courses/106106046/
+30
+Title Numerical solutions of Partial Differential
+Equations
+Number MAL8XX0
+Department Mathematics L-T-P
+[C]
+3–0–0 [3]
+Offered for M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite Partial Differential Equations
+Objectives
+The Instructor will introduce
+1. finite difference schemes for numerical solutions of partial differential equations
+2. carry out numerical analysis of various finite difference schemes
+Learning Outcomes
+The students are expected to have the ability to:
+1. apply finite difference schemes for numerical solution of partial differential
+equations
+2. carry out error analysis and stability analysis of finite difference schemes
+Contents
+Fractal 1: Numerical methods for PDE (MAL8XX1)
+[8 Lectures] Characterization of PDEs, Finite difference methods for elliptic, parabolic
+and hyperbolic problems.
+[6 Lectures]Stability, consistency and convergence theory, dissipation and dispersion,
+error estimates.
+Fractal 2: Numerical Analysis for PDE (MAL8XX2)
+Parabolic equations [6 Lectures]: Fourier analysis of the error, Alternating direction
+implicit method
+Elliptic equations [6 Lectures]: Stability analysis by the energy method, Error analysis
+with a maximum principle, asymptotic error estimates, convergence result
+Hyperbolic equations[10 Lectures]: CFL condition, Von Neumann stability Analysis,
+upwind scheme, Lax-Wendroff scheme, leap-frog scheme, Hamiltonian systems and
+symplectic schemes
+Numerical linear algebra[6 Lectures]: Classical iterative Methods for solving linear
+systems, large sparse linear systems, GMRES algorithm, preconditioned Conjugate
+Gradient method, multigrid method (overview), Newton's method and its variations for
+solving nonlinear systems.
+Text books
+1. Quarteroni, A. and Valli, A. , Numerical Approximation of Partial Differential
+Equations, Springer, 1997
+2. Morton, K. W. and Mayers, D. F. , Numerical solution of partial differential
+equations, CUP, 2005
+Reference Books
+1. Thomas, J. W. , Numerical partial differential equations: Finite difference
+methods, Springer, 1995
+2. Trefethen, L. N. and David Bau III, Numerical Linear Algebra, SIAM, 1997
+Online Course Material
+31
+1. Nayak, A. K., Numerical methods: Finite Difference Approach, NPTEL Course,
+Department of Mathematics, IIT Roorkee,
+https://nptel.ac.in/courses/111107107/.

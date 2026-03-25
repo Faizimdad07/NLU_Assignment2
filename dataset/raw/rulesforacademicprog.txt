@@ -1,0 +1,1753 @@
+ACADEMIC PROGRAMMES
+Rules & Regulations
+(For Students enrolled from July 2019 onwards)
+Indian Institute of Technology Jodhpur
+1
+1. INTRODUCTION
+Academic programmes at Indian Institute of Technology, Jodhpur are designed to develop the
+highest calibre human resource capable of understanding the new patterns of knowledge
+creation across disciplines obliterating traditional boundaries between science, humanities,
+social sciences and engineering. IIT Jodhpur aims to produce quality professionals who would be
+able to address profound and wide-ranging societal challenges of the 21st century such as
+energy, food, water, housing, mobility, and health. In addition to imparting scientific
+knowledge, IIT Jodhpur endeavours to inculcate human qualities of courage, integrity, fairness,
+humility and team effort among its graduates through curricular, co-curricular and
+extra-curricular activities on campus.
+The undergraduate academic programmes focus on developing a temper for the life long
+process of learning, creative thinking and exploring. The postgraduate academic programmes
+focus on developing a deep understanding of the subject of study coupled with creative
+inquisitiveness and the ability to address and solve new problems with a free and objective
+mind.
+The academic programmes are based on three tenets of (1) semester system, (2) Credit
+System and (3) Relative Grading. These academic programmes are administered by a duly
+constituted Academic Committee (AC) through the office of Academics. The AC will be chaired
+by Dean (Academics). In the absence of Dean (Academics), Associate Dean (Academics-
+PG)/Associate Dean (Academics- UG) will discharge the responsibilities of Dean (Academics).
+The Senate of the Institute has formulated a set of guidelines and rules to ensure a high
+standard of performance as well as for smooth functioning of the academic programmes. Within
+this broad set of guidelines, subject to the approval of Senate, different programmes can
+include additional academic requirements as deemed necessary for that programme. These
+academic programmes are continuously monitored by the Senate and make appropriate
+modifications/ improvements as and when necessary.
+2. ACADEMIC SESSION
+The academic session normally runs from the end of July in one year to the middle of July in the
+next year. The academic session is divided into three parts: two regular semesters and a
+summer term as per the following timelines:
+Semester I: From the fourth week of July to the last week of November
+Semester II: From the last week of December to the last week of April
+Summer Term: From the middle of May to the middle of July.
+Excluding the days of the examinations, the total number of days of instruction in a semester is
+at least 70.
+2.1 Academic Calendar
+The academic calendar gives the exact dates of all important events during the Academic
+Session, such as orientation, registration, the commencement of classes, adding and dropping
+of courses, submission of documents, examinations, submission of grades, project evaluation,
+declaration of results, mid-semester recess, and vacation. This calendar is approved by the
+Senate.
+2
+3. REGISTRATION
+a. Registration: Students are required to register for prescribed credits as per the programme,
+on the dates specified in the Academic Calendar. If the student does not register by the date of
+registration, she/he can register by paying the fine and register before the date of late
+registration.
+b. Provisional Registration: A fresh student joining the Institute, who is awaiting the final
+results of the qualifying examination, is allowed to register provisionally on submission of a
+certificate from her/his last Institute stating that she/he has appeared in the final examination
+of the qualifying degree. The student is required to submit documents of having passed the
+qualifying examination by the last date given in the Academic Calendar for the registration to be
+regularized.
+c. Late Registration: If the student does not register by the date of late registration as
+mentioned in the Academic Calendar, he/she will be deregistered. The appeal against
+deregistration may be made to Chairman, Senate through Dean Academics. Chairman Senate
+may permit the continuation of registration on payment of an appropriate fine.
+d. Adding and Dropping of Courses: A student may add or drop course(s) with approval of
+the Faculty advisor till the last date of registration.
+e. Withdrawing from a Course: After the last date of add-drop, a student will have the
+option of withdrawing from a course. The last date of course withdrawal will be typically within
+four weeks from the beginning of the Semester as specified in the academic calendar. The
+withdrawn course will be mentioned in the Student’s grade card with a letter grade ‘W’.
+f. Cancellation of Semester Registration: Absence for a period of four or more weeks
+during a semester shall result in automatic cancellation of the registration of a student from all
+the courses in that semester.
+g. Summer course registration: A department may offer summer courses to enable the
+students to clear their backlog courses and/or regular credit courses. A course will run during
+summer provided a faculty member(s) is available for running the course. The course is offered
+on approval of the Dean.
+4. TEACHING AND EVALUATION
+4.1 Teaching
+4.1.1 Medium of Instruction
+The medium of instruction is English.
+4.1.2 Course Structure
+All courses have associated credits. Credits of a course are based on the number of contact
+hours for lectures, tutorials, and practicals A student on successful completion of the course
+with a passing grade will earn an equivalent number of credits. Based on the required academic
+maturity level of students for attending a course, a course is assigned a level. A course can
+consist of independent components which can be completed independently. These components
+are called fractals. A course is identified by a unique number. Following tables define all
+parameters related to course numbering scheme.
+3
+Table 4.1 Course Code Description
+Course Code M E L 1 X X 1
+Descriptions Offering
+Department/IDRP
+Course
+Type
+Level of
+Courses
+Unique
+Identification
+Number
+Indicates Fractal
+Categories See Table 4.2 See
+Table
+4.3
+See Table
+4.4
+This code will be
+given centrally
+by the office of
+academics
+0: Regular
+1: Fractal 1
+2: Fractal 2
+3: Fractal 3
+Note: Examples of course codes
+Course Title L-T-P Course
+Code
+Regular Course Engineering Mechanics 2-1-0 MEL1XX0
+Fractal Course
+Robotics 3-0-2 MEL7XX0
+Fractal 1: Robot Modelling 1-0-0 MEL7XX1
+Fractal 2: Motion Planning and Programming 1-0-0 MEL7XX2
+Fractal 3: Robot Control 1-0-0 MEL7XX3
+Table 4.2 Departmental Code
+S. N. Type Department/Platform/Office
+Department
+1 ME Mechanical Engineering
+2 CS Computer Science and Engineering
+3 EE Electrical Engineering
+4 CI Civil and Infrastructure Engineering
+5 CH Chemical Engineering
+6 BB Bioscience and Bioengineering
+7 MT Metallurgical & Materials Engineering
+8 CY Chemistry
+9 MA Mathematics
+10 PH Physics
+11 HS Humanities and Social Science
+Interdisciplinary Research Platforms (IDRPs)
+12 DH Digital Humanities
+13 SS Space Science and Technology
+14 IO Internet of Things and Applications
+15 AV Autonomous unmanned vehicles (AUV)
+16 QC Quantum Information and Computation
+17 CG Cognitive Science
+18 SH Smart Healthcare
+Others
+19 OA Office of Academics
+20 OS Office of Students
+4
+Table 4.3 Types for Courses
+S.
+N.
+Course
+Type
+Category
+1 L Lecture courses (other than lecture hours, these courses can have Tutorial and
+Practical hours, e.g. L-T-P Structures 3-0-0, 3-1-2, 3-0-2, 2-0-0, etc.)
+2 P Practical / Practice-based courses (where performance is evaluated primarily
+on the basis of practice, practical or laboratory work with LTP structures such
+as 0-0-3, 0-0-4, 1-0-3, 0-1-3, etc.)
+3 D Project-based courses (e.g. Major, Minor, Mini Projects)
+4 N Non-graded core component
+5 T Thesis
+6 Q Seminar Courses
+7 S Independent Study
+8 R Engineering innovation
+9 E Engineering Design (Graded and Non-Graded)
+Table 4.4 Level of Courses, category and credit requirements
+S. N. Level Category Credit Requirements
+1 100 Courses for B.Tech. Programmes B.Tech. (Cr>=0)
+2 200
+3 300 B.Tech. (Cr>=38)
+4 400 B.Tech. (Cr>=75)
+5 500 Preparatory Courses of M.Sc. and M.Tech.
+Programmes (NOT open to B.Tech. and B.Tech. +
+M.Tech. Dual Degree)
+M.Tech. (Cr=0)
+M. Sc. (Cr=0)
+6 600 Courses for M.Sc. programmes B.Tech. (Cr>=75)
+M.Sc. (Cr>=0)
+M.Tech. (Cr >= 0)
+7 700 Courses for M.Tech. programmes B.Tech. (Cr>=100)
+M.Sc. (Cr >=30)
+M.Tech. (Cr>=0)
+Ph.D. (Cr>=0)
+Advanced courses for M.Sc.
+8 800 Advanced courses for M.Tech. and Ph.D.
+programmes, An 800 level course should have 700
+level course as a pre-requisite
+M.Tech. (Cr>=14)
+Ph.D. (Cr>=0)
+4.1.3 Approval of Courses
+The Senate approves each course along with its weight in terms of credits. Only the approved
+courses may be offered during any semester/summer term.
+4.1.4 List of Courses
+The list of courses to be offered in a Program is finalized before the beginning of the semester,
+by the Department hosting that Program.
+4.1.5 Categories of Courses
+Courses offered can be from one of the following categories:
+a) Regular course:
+A regular course has 14 hours of classroom engagement per one credit. A regular course can be
+under elective or core/compulsory categories.
+5
+Elective courses of 100, 200, 300, 400, 500, or 600, level will run if a minimum of 10 students
+registers for the course. A 700 or 800 level elective course can run with a minimum of 5
+registered students. A course not running as a regular course may be offered as a self-study
+course as per the following section.
+b) Self-study Course
+A self-study course will be from the list of courses approved by Senate. The main features of a
+self-study course are as follows:
+● A student may be allowed to register for an elective course as a self-study course
+provided that the course is not running in that semester as a regular course or a student
+is not on campus during the course with prior approval of the competent authority.
+● A student may also be permitted to register for a core or program compulsory course in
+self-study mode provided he/she has failed in it earlier and the course is not being
+offered as a regular course during that semester or a student is not on campus during
+the course with prior approval of the competent authority.
+● Students should apply for a self-study course with the appropriate recommendation of a
+Course Coordinator and DUGC/DRC/IRC. The final sanction of a self-study course to a
+student is made by the Dean (Academics).
+● Formal classroom engagement may not be there for a self-study course but laboratory,
+design and computation exercises will be conducted if they form an integral part of the
+course.
+● The Course Coordinator conducts the assessment as per the evaluation norms for the
+award of letter grade at the end of the semester.
+● A self-study course will appear with the approved course title on the transcript.
+● Not exceeding 10% of the total graded credit can be opted as a self-study course.
+c) Independent Study Course
+Independent study enables a student to pursue course credit on an academic topic of interest
+under the supervision of a faculty member. The term independent does not mean not involving
+an Instructor but independent of regular class engagement. Self-disciplined and having a sense
+of own direction and goals are fundamental requirements of an Independent Study course. A
+student having CGPA more than or equal to 6.0 can opt for Independent Study courses with the
+recommendation of Supervising Professor. The main features of an independent-study course
+are as follows:
+● A student may be permitted to register for a topic of interest as an independent-study
+course not exceeding 3 credits in self-study mode at most once during the program.
+Such independent study course will be counted toward open elective requirements of the
+program and will appear with the title “Independent Study” on the transcript.
+● Students should apply for an independent study course with the appropriate
+recommendation of a Course Coordinator and DUGC/DRC/IRC. The final sanction of an
+independent-study course to a student is made by the Dean (Academics).
+● Normally, no formal lectures will be held for an Independent Study course but
+laboratory, design and computation exercises will be conducted if they form an integral
+part of the course.
+● The course will be arranged, planned and managed by a supervising professor. The
+Course Coordinator conducts the assessment as per the evaluation norms for the award
+of letter grade at the end of the semester.
+4.1.6 Conduct of Courses
+Each course is conducted by the Instructor with the assistance of the required number of tutors,
+as needed. The Instructor is responsible for conducting the course, evaluating the performance
+6
+of students, awarding the grades at the end of the semester, and transmitting the grades as per
+Subsection 5.2.
+The student shall have access to his/her answer paper(s) of all the written examinations
+conducted for a given course, which may be shown to him/her by the Instructor(s) concerned.
+The instructor must keep all evaluation records in his custody at least for the next six months.
+A course approved by the senate of IIT Jodhpur can be conducted through either (i) direct
+contact (ii) synchronized remote contact (iii) guided study mode or combination of these. In
+direct contact mode, coordinator or instructor will have a face to face physical interaction with
+the students. Synchronized remote contact mode would require the faculty and/or the students
+to be concurrently connected to the classroom interaction via electronic conferencing involving
+both audio and video communication. However, there has to be direct interaction between
+faculty and students for limited hours (typically 25%) of the stipulated contact hours. In guided
+study mode, a faculty would guide a single or a group of students to take up the study of an
+approved course via self-learning and discussion-oriented contact sessions. This mode can be
+also adopted for enabling a student to take up study of a new course, not yet approved by the
+Senate, under the supervision of a faculty. All formal evaluation component applicable to
+courses being run through any one of the above-mentioned modes will be conducted under
+direct physical supervision of a faculty. All laboratory component of a course requiring the use
+of the specialized facility will be conducted through direct contact.
+4.1.7 Teaching Assignments
+The instructors and tutors for all courses to be offered during the semester are allocated by the
+Head of the Department hosting the Program. When faculty members of other Departments are
+also required to participate in teaching a particular course, the allocation shall be done in
+consultation with the Head of that Department.
+4.1.8 Auditing of Courses
+A student may audit a course in addition to the prescribed academic load requirement with the
+permission of Dean (Academics) on the recommendations of Instructor of the course being
+audited and the Faculty Advisor. Under this arrangement, the course will be listed in the Grade
+Card of the student.
+4.1.9 Attendance Requirements
+A student should have full attendance in each course. Unless the student takes leave of absence
+for valid reasons, the student has to attend every lecture, tutorial, or lab session. The
+attendance records must be made available to the student after every lecture. Even if the
+student’s attendance falls below 75%, the student will be allowed to appear for the exams.
+Students not meeting the attendance criterion of 75% will be required to score at least C grade
+to pass a course. These students would be awarded F grade if their marks are lower than the
+cut-off for C grade in a course.
+4.2 Evaluation
+The performance of students in a course is evaluated continuously, using their interaction in the
+classroom, and performances in examinations, the laboratory work (if any), and term-papers
+and projects.
+The performance of students in a course is evaluated through examinations and on a continuous
+basis. The Senate will decide from time to time on the system of tests and examinations in each
+subject in each semester.
+7
+● Minor 1, Minor 2 and Major examinations are mandatory components of the evaluation of
+a regular 14-week long lecture course. The minor examinations shall be of 60 minutes
+duration and the major examination of 120 minutes. Fractal courses (less than 3 credits)
+must have at least one examination.
+● The total weightage of examination component (three examinations for a 14 week-long
+course) shall be between 40% to 60% of the total weightage of evaluation measure.
+● Evaluation policy has to be known from the first day of the class.
+● The continuous evaluation may include but not limited to interaction in the classroom,
+quizzes, assignments, tutorials, laboratory work, term papers and projects.
+5. GRADING SYSTEM
+5.1 Letter Grades
+At the end of the semester, a student is awarded a relative letter grade in each course by the
+Instructor offering the course considering the performance of the student during the semester
+with respect to those of the other students registered in the course. It is proposed that ten
+regular letter grades, namely A*, A, A-, B, B-, C, C-, D, E and F shall be awarded in each
+course. Each letter grade is associated with a numerical equivalent on a 10-point scale shown in
+Table 5.1. In addition, there are four special letter grades, namely, I, S, X and U, which stand
+for Incomplete, Satisfactory, Thesis Continuation and Unsatisfactory, respectively. The faculty
+member shall upload grade on the portal as per the stipulated time schedule.
+Table 5.1 Letter grade and its equivalent grade points
+S.N. Letter Grade Grade Points Comment
+1 A* 10 Exceptional
+2 A 10 Outstanding
+3 A- 9 Excellent
+4 B 8 Very Good
+5 B- 7 Good
+6 C 6 Average
+7 C- 5 Below Average
+8 D 4 Marginal
+9 E 2 Poor
+10 F 0 Fail
+11 I Incomplete
+12 S Satisfactory in Course
+13 X Thesis Continuation
+14 U Unsatisfactory
+15 W Withdrawn
+A detailed description of some of the grades is given below:
+S.N. Grades Description
+1 A*
+‘A*’ grade has the same grade point as ‘A’ grade. The grade ‘A*’ indicates
+exceptional performance and is awarded only in the Course/(s) in which the
+number of registered students is more than 50. It should not exceed 2 % of the
+total strength of the particular theory or lab course. The grade ‘A*’ is not
+awarded for projects /seminars.
+8
+2 E ‘E’ Grade will be awarded to a student who has scored marks less than the
+cutoff marks for ‘D’ Grade and has met the attendance criterion of the institute.
+Students who obtain an ‘E’ Grade will be eligible to appear in an additional
+examination. If they perform satisfactorily, they become eligible for getting the
+‘E’ grade converted to a ‘D’ Grade, otherwise, they will continue to have ‘E’
+Grade. The student will have only one chance to appear for the additional
+examination for an ‘E’ Grade. The additional examination will be conducted
+within the first week of the next semester. The date of additional examination
+of Institute core courses for undergraduate students centrally notified, while for
+all other courses, the date would be announced by the respective course
+coordinators. A student can appear for a maximum of three such additional
+tests in a given semester. If a student cannot appear for the test due to any
+reason(s), he/she will not get any additional chance. If a student with ‘E’ grade
+in a course does not pass the course through the additional test, or obtains an
+‘F’ grade in the course, he/she has to repeat the course if it is a core course. In
+case the course is elective, the student may take the same course again or any
+other course. ‘E’ and ‘F’ Grades are not counted in the calculation of the CGPA;
+however, these are taken into account in the calculation of the SGPA.
+3 I An ‘I’ grade is temporarily awarded to a student on his/her request to denote
+incomplete performance in a course on approval of instructor. An ‘I’ grade is
+awarded in case missing an evaluation component due to absence on medical
+grounds or other special circumstances. Requests for ‘I’ grade should be made
+at the earliest but not later than the last day of major tests. All evaluation
+requirements for such students in the corresponding course(s) should be
+completed before the end of the first week of the next semester. Upon
+completion of all course requirements, the ‘I’ grade is converted to a regular
+grade.
+4 S This grade is awarded to a student with satisfactory performance in non-graded
+and Audit courses. If the stipulated requirements are not fulfilled, the
+unsatisfactory (U) grade is awarded. The grades obtained in an audit course
+are not considered in the calculation of SGPA or CGPA.
+5 X This grade is awarded to a student with satisfactory performance in thesis for
+continuation
+6 U This grade is awarded to a student with unsatisfactory performance in thesis,
+audit or non-graded courses.
+7 W This grade is awarded to a student who has opted to withdraw from a course.
+Withdrawal from a course is permitted until the date specified in the Academics
+Calendar.
+5.2 Procedure for declaration of results
+The following procedure would be followed for declaration of results and timeline would be as
+per Academic Calendar.
+1. Evaluation scheme to be displayed by instructors at the start of a semester:
+2. Display of answer sheets and all scores by instructors.
+3. Finalization of grades by instructors
+4. Grade moderation by department/institute level committee for department/institute-wide
+courses
+9
+5. Recommendation of grades by the Head of the Department after scrutiny of grades by a
+moderation committee
+6. Display of grades by Instructors
+7. Grade correction, if any, within 48 hours of display of grades after approval of the head
+of the department
+8. Approval of Grade by the Dean (UG/PG)
+9. Finalization of results by the Dean (UG/PG)
+10. Approval of results by the Chairman Senate
+11. Results once approved cannot be changed under any circumstance. In exceptional
+cases, the student may appeal to the Chairman, Senate for reconsideration, with formal
+justification.
+5.3 Grade Point Averages
+5.3.1 Semester Grade Point Average
+The Semester Grade Point Average (SGPA) is a weighted average of the grades earned by a
+student in all the courses credited by her/him and reflects her/his academic performance in the
+respective semester. If the grade points associated with the letter grades earned by a student
+in N courses registered during a semester are G1, G2, … GN, and the corresponding credits C1,
+C2, … CN, then the SGPA is given by the following formula:
+The SGPA is calculated on the basis of grades obtained in all courses, except audit courses and
+courses in which S/X grade is awarded, registered in a particular semester.
+5.3.2 Cumulative Grade Point Average
+The Cumulative Grade Point Average (CGPA) indicates the overall academic performance of a
+student in all the courses registered up to the latest completed semester. The CGPA is
+computed similarly as the SGPA, considering all the courses in all semesters. The CGPA is
+calculated on the basis of all pass grades (A*, A, A-, B, B-, C, C-, D), except audit courses and
+courses in which S/X grade is awarded, obtained in all completed semesters.
+The SGPA and CGPA calculation are based on credits earned/completed at IIT Jodhpur alone.
+6. GRADE CARD AND TRANSCRIPT
+A Grade Card shall be issued to each student at the end of each semester, and a Transcript at
+the end of the Programme. IIT Jodhpur Grade Card and Transcript will only indicate the courses,
+credits and grades completed at IIT Jodhpur and the total number of credits (without grades)
+earned in other academic institutions in a particular semester, if applicable.
+7. WAIVER OF REQUIREMENTS IN SPECIAL CASES
+The rules and regulations procedures and requirements stated in this manual, other than those
+related to Admissions to the academic programmes, may be waived in special circumstances by
+the AC on the recommendation of the Department with the approval of Chairman, Senate. All
+such exceptions have to be reported to the Senate.
+10
+8. MAKE-UP EXAMINATIONS
+A student who has missed minor(s) or the major examination due to genuine reasons like
+illness etc. may be permitted to write a make-up examination for the missed components. The
+student should make an application to the Dean (Academics) through the course instructor
+within ten days from the date of the examination missed, explaining the reasons for their
+absence. Applications received after this period need not be entertained. The permission to take
+a make-up examination will be given under exceptional circumstances such as admission to a
+hospital due to illness. A student needs to produce the necessary document subject to one of
+the following categories:
+● Students residing in the Hostels should produce a Medical Certificate issued by the
+Medical Officer of the Institute that he/she was admitted to the Hospital during the
+period of the missed quiz/exam.
+● Students residing in the Hostels and taking medical consultation with outside Doctors are
+required to obtain written permission from the Medical Officer of the Institute Hospital
+before they proceed for such consultation.
+● Students residing in the hostels but taking medical consultation with outside Doctors are
+required to obtain an endorsement on the certificate of treatment by the Medical Officer
+of the Institute Hospital.
+● A student staying outside the Campus permanently / temporarily must produce a
+medical certificate from the Registered Medical Practitioner and the same should be duly
+endorsed by the parent/guardian.
+A slot-wise make-up examination for major will be held during the makeup / supplementary
+week as per Academic Calendar of the subsequent semester for those who are permitted to take
+the make-up examination. A student who misses this make-up examination will not normally be
+given another make-up examination. However, in exceptional cases of prolonged illness
+resulting in the student missing a make-up examination, the Chairman of the Senate, in
+consultation with the Dean of Academics may permit the student to appear for make-up
+examination any day before the end of the first week of the next semester. Under no
+circumstances, prorating can be done for the missed examinations or attendance.
+11
+12
+A. REGULATIONS FOR UNDERGRADUATE PROGRAMMES
+13
+9. UNDERGRADUATE PROGRAMMES
+IIT Jodhpur currently offers Bachelor of Technology (B. Tech.) programs, and capability linked
+opportunities for undergraduate students to complete Minor/Interdisciplinary Area
+Specializations or Department Area Specialization. A student can also opt for M.Tech.(dual
+degree) in Departmental Area or Minor in Entrepreneurship leading to M.Tech. in
+Entrepreneurship or Department Area Specialization in Engineering innovation.
+10. UNDERGRADUATE ADMISSIONS
+10.1 B.Tech. Programmes
+10.1.1 General Admissions
+Admissions to the B.Tech. Programmes are made once a year in July through the all-India level
+Joint Entrance Examination (JEE) conducted by IITs. The procedures and other requirements for
+admission are specified in the JEE Information Brochure brought out every year.
+10.1.2 Cultural Exchange Programmes
+Admissions are also offered to foreign nationals under the Cultural Exchange Fellowship
+Program of the Government of India, administered by Indian Council of Cultural Relations
+(ICCR), New Delhi. Persons interested in these programs are required to apply through the
+Indian High Commission/Embassy in their respective countries.
+10.1.3 Change/Enhancement of Program
+A student already admitted to a B.Tech. programme may switch to another department through
+branch change. A student can enhance his/her programme to a Minor/Interdisciplinary Area
+Specialization leading to M. Tech. in Minor/Interdisciplinary Area, Major/Department Area
+Specialization leading to M. Tech. in Department Area, Minor in Entrepreneurship, Minor in
+Entrepreneurship leading to M. Tech. in Entrepreneurship and Department Area Specialization in
+Engineering innovation (through Industrial Translation). The rules governing these changes are
+given in Section 18 (branch change) and Section 11.2 (for all others).
+10.2 Reservation Policy
+The reservation policy of Government of India will be followed.
+10.3 Student Exchange Program
+Student Exchange Program provides for a one/two-semester visit by students between the two
+academic institutions on a reciprocal basis. The visiting student must be a full-time student
+enrolled in a degree program in their Home Institution. The exchange program is open to
+full-time undergraduate and graduate students of each Home Institution. It will be executed as
+per the pre-approved arrangement (including an MoU) between the institutions.
+Selection of students under such program will be made by the DUGC after assessing the
+preparedness of students to meet the requirements of the planned coursework/research at the
+Host Institution and the relevance of the planned coursework/research to the enrolled degree
+program. A visiting student may carry out research or take courses for credit or otherwise or
+may use other academic facilities as per pre-approved arrangement (including an MoU).
+Under exchange program, a student of IIT Jodhpur can register at another academic institution
+in India or abroad with the expectation of credit transfer up to 20 credits per semester in lieu of
+the course work or research work through a pre-approved arrangement including an MoU.
+14
+On return, the student may apply to DUGC for waiver of credits from her/his program
+requirements which s/he thinks are equivalent to the courses successfully completed at the
+visited academic institution as an exchange student. With the application, the student must
+submit an official transcript of the grades obtained by her/him at the visited academic
+institution as an exchange student and other documents/material that the concerned DUGC may
+require for evaluation. The DUGC will determine, by whatever means it deems fit, the
+equivalent credits requirements for which the student may be given a waiver in her/his
+programme at IIT Jodhpur. DUGC will submit its recommendations to course equivalence
+committee for its approval. Moreover,
+● The credits/grades indicated in the grade sheet obtained from the academic institution in
+which the student has completed the courses should be used by the student as part of
+his/her transcripts.
+● IIT Jodhpur transcripts will only indicate the courses, credits and grades completed at IIT
+Jodhpur and the total number of credits (without grades) earned in other academic
+institutions in a particular semester.
+● The CGPA calculation based on credits earned/completed at IIT Jodhpur alone is to be
+considered for award of prizes.
+● The credits earned at the visited academic institutions will be taken into account for the
+calculation of minimum required credits for the award of the degree.
+10.4 Visiting Students
+A visiting student is a student who is registered for a degree in a recognized institute or
+university in India or abroad, and who is officially permitted by that institute or university to
+complete part of his/her academic requirements at IIT Jodhpur. For that purpose, the visiting
+student may carry out research or take courses for credit or otherwise or may use other
+academic facilities.
+A person can be admitted as a visiting student on a duly sponsored application to the Dean
+(Academics). A visiting student may be admitted for a maximum period of one year. A visiting
+student will be required to pay all applicable fees depending upon the status, Program, and
+nationality.
+Students so admitted also will be governed by all rules, regulations, and discipline applicable to
+regular students of the Institute.
+10.5 Cancellation of Admission
+Students admitted provisionally or otherwise to any Program shall submit copies of their mark
+sheets, provisional certificates, etc. of the qualifying examination and other documents by the
+last date specified for the purpose in the Academic Calendar. The Senate reserves the right to
+cancel the admission of any student, who fails to submit the prescribed documents by the
+specified date or to meet other stipulated requirement(s). Also, the Senate reserves the right to
+cancel the admission at any later time, if it is found that the student had provided some false
+information or suppressed relevant information while seeking admission.
+10.6 Fulfillment of Admission Requirements
+Admission to any undergraduate Program requires that the applicant be eligible, go through the
+laid-down admission procedure, and pay the prescribed fees. The Senate should formally
+approve all admissions to the Undergraduate Programmes.
+15
+11. CURRICULUM AND ACADEMIC REQUIREMENTS
+11.1 Academic Load & Calculation of Credits for a Course for UG
+Programmes
+The total credits for a course are calculated by taking into account the number of lectures,
+tutorial, and practical hours (L-T-P) assigned as given in Table 11.1. Each credit is associated
+with the number of contact hours and the expected number of self-learning hours (on an
+average) to be spent by the student for each contact hour to meet academic demand of the
+course.
+Table 11.1 LTP-structure and credit assignment.
+Type L-T-P Distribution of contact and beyond
+contact Hours#
+Total
+Credits
+(TC=TH/3)Contact
+Hours
+(CH)
+Beyond
+Contact
+Hours (BCH)
+Total
+Hours
+(TH)
+1 hour of Lecture 1-0-0 1 2 3 1
+1 hour of Tutorial 0-1-0 1 2 3 1
+1 hour of Lab 0-0-1 1 0.5 1.5 0.5
+1 hour of Project# 0-0-1 1 2 3 1
+#Contact hour for project refers to the involvement of students in the laboratory, discussion,
+etc.
+11.2 Capability Linked Opportunities for Undergraduate Students
+A B.Tech. student can opt for one of the following capabilities Linked Opportunities
+1) Major/Department Specialization
+2) Interdisciplinary Specialization
+3) Minor
+4) B.Tech. + M.Tech. Dual Degree
+11.2.1 Eligibility Criteria for opting
+(a) Major/Department Specialization, Minor/Interdisciplinary Specialization
+A student should have earned a minimum 100 credits with the CGPA more than or equal to 6.0
+at the end on 6th semester to opt for capability linked opportunity.
+(b) B.Tech. + M.Tech. Dual Degree in the chosen specialization
+Students who have already opted for Major/Department Specialization, Minor/Interdisciplinary
+Specialization can opt for dual-degree Programme from the eighth semester provided they have
+earned minimum 134 Credits with at least 6 CGPA at the end of the 7th semester.
+11.2.2 Minimum Credit requirements
+(a) Major/Department Specialization, Interdisciplinary Specialization and Minor
+A student needs to complete a total of 20 Credits in the Major/Department Specialization or
+Minor/Interdisciplinary Specialization area offered. 10 Credits out of 20 can be taken up as a
+part of Open electives whereas the student is required to opt for an additional 10 credits in the
+form of course overload. This will be indicated on the degree.
+Registration for Additional Courses for Major/Department Specialization, Interdisciplinary
+Specialization and Minor
+16
+Starting from the sixth semester, students having earned 80 credits with CGPA more than or
+equal to 6.0 are permitted to take up to 4 extra Credits as part of their normal load, which
+forms part of her/his additional learning component, every semester in addition to the
+prescribed courses for their degree.
+(b) B.Tech. + M.Tech. Dual Degree in the chosen specialization
+A student needs to complete a total of 56 Credits in the Minor, Department, or Interdisciplinary
+area offered. It will include credits earned for Major/Department or Minor/ Interdisciplinary area
+Specialization excluding the project credits.
+11.3 Course Categories and Academic requirements for various
+programmes
+Course Categories and Academic requirements for various programmes are given in the table
+below:
+Table 11.2 Course Categories and Academic requirements
+S.N
+.
+Course Type Course Category B.Tech.
+Regular
+B.Tech.
+with
+Specialization
+Dual
+Degree
+1 Institute Core (I) Engineering (IE) 34 34 34
+Science (IS) 16 16 16
+Humanities (IH) 12 12 12
+2 Programme Linked (L) Science (LS) 7 7 7
+3 Programme Core (P) Programme
+Compulsory (PC)
+50 50 50
+Programme Electives
+(PE)
+18 18 18
+B.Tech. Project (PP) 3 3 3
+4 Open (O) Electives (OE) 10 0 0
+5 Specialization
+(Major/Minor/Department/
+Interdisciplinary) (S)
+Compulsory (SC) 0 8 8
+Elective (SE) 0 12 12#
+6 M.Tech. (M) in Minor,
+Department, or
+Interdisciplinary Area
+Compulsory (MC) 0 0 9
+Electives (ME) 0 0 5
+Project (MP) 0 0 16
+Open Electives (MO) 0 0 6
+Total Graded 150 160 196
+7 Non-Graded (N) Humanities (NH) 6 6 6
+Engineering (NE) 3 3 3
+Design/Practical
+Experience (ND)
+6 6 6
+Total Graded+Non Graded 165 175 211
+# Must not include any project course
+11.4 Maximum Duration of the Program
+The maximum duration for the completion B.Tech. Programs shall be 14 registered semesters.
+11.5 Academic Performance Requirements
+The minimum requirements on credits earned for continuation in a B. Tech. Programme at the
+end of the second registered semester is specified in the following table:
+17
+Table 11.3 Criteria for continuation at the end of the second registered semester
+Description Minimum number of credits to be earned
+GEN/OBC/GEN-EWS SC/ST/PD
+Minimum for Continuation 18 14
+If a student does not meet the criteria specified in Table 11.3, he/she may opt to restart the
+programme or else their registration will be terminated. The restart will be permitted only once.
+Dean (UG/PG) should propose a guideline for mentoring the student under probation. Dean of
+Students should also involve in the process.
+If a student chooses to restart after the first two registered semesters, then the credits earned
+and semesters registered till that point will not be counted towards the graduation
+requirements. The re-start will be indicated on the transcript.
+11.5.1 Criteria to put a student on Academic Probation:
+● From the third semester onward if a student fails to earn a minimum of 12 credits in
+any registered semester, then he/she will be placed on academic probation.
+● A student placed on probation shall be monitored, including mandatory attendance in
+classes, special tutorials and mentoring. Mentoring would comprise structured guidance
+under a senior student.
+● If a student is on academic probation for two consecutive registered semesters, then
+his/her registration will be terminated.
+● If a student earns less than or equal to 15 credits in any registered semester a warning
+shall be given to him/her and intimation be sent to the parents.
+● The two semesters allowed for the academic probation should be counted towards the
+total duration allowed for the program.
+11.6 Assistantship for B.Tech. -M. Tech. Dual-degree Programmes
+The students of dual-degree programmes will be considered for award of institute research/
+teaching assistantship if they have earned 150 credits by the end of the eighth semester. Only
+those students who have either qualified GATE or have a CGPA more than 8.0 will be eligible for
+this assistantship. The assistantship will be provided for a maximum period of 14 months
+beginning from the summer semester following the eighth semester, provided the student is
+registered for M.Tech. Major Project in that semester. A student availing assistantship will be
+required to provide 8 hours of assistance per week besides his/ her normal academic work. For
+continuation of assistantship, a student will need to secure SGPA of 6.5.
+A student receiving assistantship will be eligible for a total of 30 days leave during the
+14-month period. He/she will not be entitled to mid-semester breaks, winter and summer
+vacations.
+12. UG REGISTRATION
+12.1 Summer Courses
+Students can register for courses during summer up to a maximum of Eight Credits on payment
+of registration fee at prescribed rates. The summer term is not a regular semester and only
+academically deficient students (who have low CGPA and/or fewer credits than advised by the
+curriculum till that point in the programme), Major students, Minor students, and such students
+18
+who are short of maximum Eight Credits to complete all graduation requirements may register
+during this period.
+For core courses, only students with failed backlog may be considered for summer registration.
+In case any vacancies are left in the courses being offered during the summer term once the
+requirements of the above categories of students are fulfilled, other students may register for
+these courses to fulfil some of their graduation requirements in advance.
+The total number of contact hours for the courses remains the same as that during the regular
+semesters, and therefore the courses run at an accelerated pace. The evaluation and grading
+patterns also remain the same as during the regular semesters.
+12.2 Limits on Registration
+● An undergraduate student should register for a minimum of 12 credits in a semester.
+● The maximum number of credits permitted for a UG student in a semester is 25.
+● An undergraduate student may be permitted to register for a maximum of four credits
+per semester for independent-study or self-study course
+12.3 Exceptions to Regular Rules regarding Academic Load
+Under-load: Students who are identified as academically deficient (on academic probation)
+may register for a maximum of 16 credits.
+Over-load: Overloading may be allowed only for students who are not on academic probation
+and satisfy one of the following criteria:
+● Students are allowed to overload only when they need 70 or less additional credits to
+complete all the requirements of their programme.
+● Beyond the second semester, any student with a CGPA of 7.5 or higher may be allowed
+to overload.
+12.4 Change of Registration from B. Tech. Programme to B.Tech.- M.
+Tech. dual degree Programme
+A B.Tech. student having opted for major/minor specialization with CGPA 6 or more at the end
+of the seventh semester and fulfilling requirements mentioned earlier may be allowed to switch
+to B.Tech.- M. Tech. dual degree program in the chosen specialization at the beginning of the
+eighth semester. The M.Tech degree can be any one of the approved programmes of the
+institute. All requirements of M.Tech. Degree will be applicable to all such students. All such
+changes of registration shall be reported to the Senate.
+13. EVALUATION OF SPECIAL UG ONLY COURSES
+13.1 B.Tech. Project Evaluation
+● DUGC will appoint a committee for B.Tech. Project evaluation. The committee will ensure
+that Award of letter grade would be as per relative grading policy.
+● The evaluation will be based on the report and a viva-voce examination on the project.
+● DUGC will form the evaluation criterion and declare it to students.
+19
+13.2 Composition of Department Undergraduate Committee (DUGC)
+● The DUGC will be constituted of all UG Faculty Advisors and Head of Department. The
+Head of Department will be the chairperson and one of the faculty advisors would be the
+convenor.
+13.2 Engineering Innovation
+● At the completion of an Engineering Innovation Project the student will submit a report
+which will be evaluated by duly appointed examiner(s) by DUGC.
+● The evaluation will be based on the report and a viva-voce examination on the project/
+Entrepreneurship and a letter grade is awarded.
+● Evaluation policy has to be declared by the concerned department from the first day of
+the class.
+13.3 Design Project Evaluation
+● At the completion of a project, the student will submit a project report which will be
+evaluated by duly appointed examiner(s) by DUGC.
+● The evaluation will be based on the report and a viva-voce examination on the project
+and S or U grade is awarded.
+● Evaluation policy has to be declared by the concerned department from the first day of
+the class.
+13.4 Conduct and Evaluation of B.Tech. -M. Tech Dual Degree Project
+● Allotment of students to supervisors will be made based on the preferences of the
+students and supervisor(s).
+● The supervisor and area identification must be completed by the end of the eighth
+semester.
+● Coordinator, M. Tech. Program would advise until the student is assigned to a regular
+supervisor(s).
+● The evaluation criterion would be the same as Section 25.
+13.5 Entrepreneurship Project
+● At the completion of Entrepreneurship, the student will submit a report which will be
+evaluated by duly appointed examiner(s) by Dean (Academics-UG)/Associate Dean
+(Academics-UG).
+● The evaluation will be based on the report and a viva-voce examination on the
+Entrepreneurship and a letter grade is awarded.
+14. TERMINATION
+14.1 Termination from B.Tech. Program
+A student may be terminated from the B.Tech. Programme by AC, if the student
+(a) Is absent without authorized leave of absence for eight weeks or more in a semester; OR
+(b) Fails to report and register by the last date of registration without a bonafide reason; OR
+(c) Violates the code of conduct, involves in ragging, etc. as confirmed by a Committee
+constituted for the purpose; OR
+(d) Does not earn the prescribed minimum number of credits within the maximum duration of
+the program; OR
+(e) Is on academic probation for two consecutive semesters.
+20
+14.2 Appeal against Termination
+A student, who is terminated from the B.Tech. Program can appeal to the Chairman, Senate, for
+reconsideration. While making such an appeal, the student is expected to give reasons for poor
+academic performance and/or why the termination should be reconsidered. The Senate shall
+take a final decision after considering all the available inputs. But, the Senate will not entertain
+any further appeal for review, unless substantial additional information is brought to its notice.
+15. LEAVE RULES
+Application for leave of absence should be addressed to the Convener DUGC, and submitted
+with a medical certificate, if applicable. Usually, leave must not be availed of without prior
+approval of the DUGC.
+15.1 Mid-Semester Recess and Vacation
+Undergraduate students are entitled to avail of mid-semester recess and vacation as specified in
+the Academic Calendar.
+15.2 Short Leave
+A student may be granted leave of absence during the semester for a maximum of 10 days on
+medical grounds, and for 5 days for any other valid reason.
+15.3 Semester Withdrawal
+It may be applicable in unforeseen circumstances or for medical reasons. Absence for a period
+of four or more weeks in any semester will result in automatic withdrawal from that semester.
+DUGC can approve and intimate Office of Academics regarding the leave of the student for
+records. In case, the leave extends beyond a semester, it can only be approved through the
+Academic Committee. Semester withdrawal on the medical ground will not be counted towards
+the maximum permissible duration of the programme for the student.
+15.4 Academic Leave
+To help students broaden their horizons and gain course/work experience, she/he may be
+permitted to proceed to other academic institutes/ Industry/ R&D organization in India or
+abroad. Academic leave can be requested for any of the following reasons, such as
+(a) Fieldwork
+(b) Experimental work/training using specialized facility not available at IITJ
+(c) Entrepreneurship initiative
+(d) Engineering innovation
+(e) Exchange program – as part of an exchange program with an academic institution in
+India or abroad
+(f) Internship work
+All such requests must be evaluated and approved by DUGC before the leave is granted.
+A student may be allowed to spend a maximum duration of one summer term and two
+semesters on academic leave.
+A student during academic leave can earn a maximum of 20 credits per semester as certified by
+the DUGC and approved by the Course Equivalence Committee.
+16. BRANCH CHANGE
+(a) An undergraduate student is eligible to apply for branch change at the end of the second
+semester only, provided the student satisfies the following criteria:
+21
+1. Secured a CGPA, at the end of the second semester, of:
+i. Greater than or equal to 7.0 for SC/ST and PD applicants
+ii. Greater than or equal to 8.0 for other applicants
+2. Completed all prescribed course credits for the first two semesters (including the
+non-graded courses).
+3. No backlog at the end of the second semester.
+(b) The student should have no disciplinary action against him/her.
+(c) Change of the branch will be permitted strictly in the order of merit as determined by
+CGPA at the end of the second semester. Each available seat may be occupied by
+students of any category. For students of SC/ST/PD category, concession in eligibility
+criteria is given as per rule (a).
+(d) In case more than one student applying for branch change have the same CGPA, the tie
+shall be resolved on the basis of JEE ranks of such applicants.
+(e) In making a change of branch, the strength of a branch should not fall below 85% of
+the sanctioned strength and should not go above 115% of the sanctioned strength.
+(f) The conditions mentioned in item (a) above will not be insisted upon for change to a
+branch in which a vacancy exists with reference to the sanctioned strengths, and the
+concerned student was eligible as per JEE Rank for admission to that branch at the time
+of entry to IIT Jodhpur.
+(g) Notwithstanding any of the conditions listed above, a student with CGPA of 9 or more at
+the end of the second semester will be allowed to move to a branch of his/her choice.
+17. REQUIREMENTS FOR GRADUATION
+A student is deemed to have completed the requirements for graduation if she/he has met the
+conditions laid down in Clauses 17.1 to 17.4.
+17.1 Minimum Duration of Residence
+Minimum Duration of Residence is given in the table below:
+Table 17.1 Minimum residential requirement
+S.No. Program Minimum Duration of Residence
+(in semesters)
+1. B. Tech. (including
+minor/department/interdisciplinary area
+specialization)
+6
+2. B. Tech. – M.Tech. 8
+17.2 Academic
+The student shall be declared to have fulfilled the academic requirements if she/he has earned
+the minimum credits as per Table 11.2 in Section 11.3 for all degrees.
+17.3 Payment of Fees and Dues
+The degree will be awarded after obtaining No Dues Clearance from all concerned sections as
+deemed necessary by Dean (Academics).
+17.4 No case of Disciplinary Action
+The student shall not be considered to have completed the Academic Requirements if there is
+any case of indiscipline pending against her/him.
+22
+17.5 Completion of engagement in NCC, NSS or NSO
+The student should have completed extra-curricular activity like performing arts, sports,
+National Cadet Corps, National Service Schemes, and National Sports Organisation for a period
+of at least two semesters during their B.Tech. Program.
+17.6 Award of Degrees
+17.6.1 Provisional Certificate
+A student who completes all the graduation requirements specified in Clauses 17.1 to 17.4, can
+be provided a provisional certificate by the office of Dean (Academics) on the approval of
+Chairman, Senate. Certificate will have mention of major, minor, Department or
+Interdisciplinary Specialization wherever applicable.
+17.6.2 Degree Certificate
+A student who completes all the graduation requirements specified in Clauses 17.1 to 17.4, is
+recommended by the Senate to the Board of Governors (BOG) for the award of the appropriate
+degree in the ensuing convocation. The degree can be awarded only after the BOG accords its
+approval. The certificate will have mention of major, minor, Department or Interdisciplinary
+Specialization wherever applicable.
+18. AMENDMENTS
+Notwithstanding anything contained in this document, the Senate of IIT Jodhpur reserves the
+right to modify/amend without notice, the curricula, procedures, requirements, and rules
+pertaining to its B.Tech. Programs.
+23
+B. REGULATIONS FOR POSTGRADUATE PROGRAMMES
+24
+19. POSTGRADUATE PROGRAMMES
+The Indian Institute of Technology Jodhpur currently offers the following Postgraduate
+programmes.
+1. Master of Science (M.Sc.)
+2. Dual degree: M.Sc.-M.Tech.
+3. Master of Technology (M.Tech.)
+4. Dual degree: M.Tech.-PhD.
+5. Doctor of Philosophy (Ph.D.)
+20. POSTGRADUATE ADMISSIONS
+The process of admission for all the programs offered by the Institute normally is underway
+during April-May for Semester 1 and during November-December for Semester 2. In addition,
+the department may process applications for admissions to PhD programs on a continuous basis
+and admit students as per the existing procedure.
+20.1 Categories of Admission
+A candidate can be admitted in any one of the following categories
+i. Full-time regular
+ii. Full-time sponsored
+iii. Part-time
+iv. External
+v. Executive
+However, all categories are not applicable for all PG Programs. Further, programmes can be
+offered in a combination of these modes (like fully sponsored part-time program).
+i) Full-time Regular
+In campus student who can register for up to full credit permissible per semester. A student
+supported by a project of the institute will be considered a full-time regular student.
+ii) Full-time Sponsored
+In campus student who can register for up to full credit permissible per semester. The candidate
+is sponsored either by his/her employer or by self. A self-sponsored candidate must have two
+years of relevant industrial/R&D/academic experience.
+iii) Part-time
+A part-time student is a working professional who, while employed, attend regular classes as
+per the schedule of the Institute. The student must be employed in the neighbourhood of IIT
+Jodhpur. The student must produce a NOC from the employer for pursuing the programme at
+IIT Jodhpur. The student can register only for a limited number of credits as compared to a
+full-time regular student.
+iv) External
+A student working in an industry/R&D establishment/academic institution which is equipped
+with the necessary research and library facilities. The employer must relieve the student to stay
+in the campus to complete the minimum residency requirements.
+v) Executive (only for M. Tech.)
+A professional who can carry out/complete the programme requirement in
+1. An accelerated fashion (minimum in 12 months), OR
+2. Accumulates credits as per convenience and petitions a degree in a maximum of 6 years.
+25
+3. The part-time or full-time mode by attending courses offered in synchronized remote
+contact mode and limited direct interaction
+20.2 Eligibility for Admission
+(a) The eligibility conditions given below are the absolute minimum. Departments may
+prescribe any requirements over and above, subject to the approval of the Senate.
+(b) The number of admissions that can be made to any program shall be decided by the
+Senate from time to time.
+(c) Reservation of seats for various reserved categories shall be prescribed by the Board of
+Governors.
+20.2.1 Admission to M. Sc. Program (Regular)
+The admission to the M.Sc. Programs offered by the Institute will be through any one of the
+following two avenues.
+(a) The applicants qualified through the Joint Admission Test for Master (JAM) organized by
+IITs.
+(b) The applicants having a bachelor’s degree in any relevant discipline (3- or 4-year
+program) may be admitted based on written test and/or interview conducted by IIT
+Jodhpur.
+The applicants under the category (b) must have a minimum of 60% marks for GEN/OBC (55%
+for SC/ST) category in aggregate or as specified by the university/institute or a minimum CGPA
+of 6.0 for GEN/OBC (5.5 for SC/ST) category on the scale of 10; with corresponding
+proportional requirements when the scales are other than on 10 (for example 4.8 for GEN/OBC
+category 4.4 for SC/ST) on a scale of 8) OR a first-class as specified by the university/institute.
+20.2.2 Admission to M Sc – M Tech Dual Degree Program (Regular)
+The admission to the M. Sc.-M.Tech. Dual Degree Programs offered by the Institute will be
+through any one of the following two avenues.
+(a) The applicants qualified through the Joint Admission Test for Master (JAM) organized by
+IITs.
+(b) The applicants having a bachelor’s degree in any relevant discipline (3- or 4-year
+program) may be admitted based on written test and/or interview conducted by IIT
+Jodhpur.
+The applicants under the category (b) must have a minimum of 60% marks for GEN/OBC (55%
+for SC/ST) category in aggregate or as specified by the university/institute or a minimum CGPA
+of 6.0 for GEN/OBC (5.5 for SC/ST) category on the scale of 10; with corresponding
+proportional requirements when the scales are other than on 10 (for example 4.8 for GEN/OBC
+category 4.4 for SC/ST) on a scale of 8) OR a first-class as specified by the university/institute.
+20.2.3 Admission to M Tech Program (Regular)
+(a) The applicant must have bachelor’s degree in engineering or science (4 year program) or
+a master’s degree in science, MCA, Pharmacy, Medical Sciences, Agricultural Sciences
+and Veterinary Sciences or in a related field
+(b) A minimum of 60% marks for GEN/OBC (55% for SC/ST) category in aggregate or as
+specified by the university/institute or a minimum CGPA of 6.0 for GEN/OBC (5.5 for
+SC/ST) category on the scale of 10; with corresponding proportional requirements when
+the scales are other than on 10 (for example 4.8 for GEN/OBC category (4.4 for SC/ST)
+on a scale of 8) or a first-class as specified by the university/institute.
+(c) The applicant must either have a valid GATE score or exempted from GATE as per MHRD
+circular or have qualified an equivalent National Examination or have qualified in the
+written test and/or interview conducted by IIT Jodhpur.
+26
+20.2.4 Admission to MTech Program (Executive/Part-time/ External/Sponsored)
+(a) The applicant must have bachelor’s degree in engineering or science (4-year program) or
+a master’s degree in science, MCA, Pharmacy, Medical Science, Agricultural Science and
+Veterinary Science or in a related field.
+(b) A minimum of 60% marks for GEN/OBC (55% for SC/ST) category in aggregate or as
+specified by the university/institute or a minimum CGPA of 6.0 for GEN/OBC (5.5 for
+SC/ST) category on the scale of 10; with corresponding proportional requirements when
+the scales are other than on 10 (for example 4.8 for GEN/OBC category (4.4 for SC/ST)
+on a scale of 8) or a first-class as specified by the university/institute.
+(c) The applicant must have a minimum of two years of work experience (after qualifying
+degree) in industry/R&D laboratories/Academic Institutions at the time of registration to
+the program. However, the credit accumulation for the program may start immediately
+after the qualifying degree. Petitioning for the degree can happen only 1 year after
+registration.
+(d) The applicant must qualify the written test and/or interview conducted by IIT Jodhpur.
+20.2.5 Admission to M .Tech. – Ph.D. Dual Degree Program (Regular)
+(a) The applicant must have bachelor’s degree in engineering or science (4-year program) or
+a master’s degree in science, MCA, Pharmacy, Medical Science, Agricultural Science and
+Veterinary Science or in a related field
+(b) A minimum of 60% marks for GEN/OBC (55% for SC/ST) category in aggregate or as
+specified by the university/institute or a minimum CGPA of 6.0 for GEN/OBC (5.5 for
+SC/ST) category on the scale of 10; with corresponding proportional requirements when
+the scales are other than on 10 (for example 4.8 for GEN/OBC category 4.4 for SC/ST)
+on a scale of 8) or a first-class as specified by the university/institute.
+(c) The applicant must either have a valid GATE score or exempted from GATE as per MHRD
+circular or have qualified an equivalent National Examination or have qualified in the
+written test and/or interview conducted by IIT Jodhpur.
+20.2.6 Admission to Ph.D. Program (Regular)
+(a) Candidates admitted in this category shall not be a registered student in any other
+academic program in India or abroad, and shall not be a full-time or part-time employee
+of any organization in India or abroad.
+(b) The applicant must have a master’s degree in engineering, pharmacy, agricultural
+science, science, humanities, social sciences, management with at least 60% marks or at
+least 6.0/10 CPI or CGPA for GEN/GEN-EWS/OBC (55% for SC/ST),
+OR
+(c) The applicant must have MBBS with MD/MS, BVSc with MVSc, BDS with MDS, BPTh with
+MPTh, BOTh with MOTh or equivalent with at least 60% marks or at least 6.0/10 CPI or
+CGPA for GEN/GEN-EWS/OBC (55% for SC/ST) in bachelor’s degree,
+OR
+(d) The applicant must have a bachelor’s degree of minimum four-year duration in
+engineering or science or medicine or pharmacy or agricultural science or veterinary
+science or equivalent with at least 70% marks or at least 7.0/10 CPI or CGPA for
+GEN/OBC (65% for SC/ST).
+20.2.7 Admission under any special scheme like Quality Improvement Programme
+(QIP), Defence Personnel
+The procedures and criteria for admission of these candidates can be decided with the approval
+of Chairman, Senate.
+27
+20.2.8. Admission of Indian Nationals Residing Abroad (INRA) and Foreign Nationals
+INRA candidates must have been residing abroad continuously for at least one year at the time
+of applying for admission.
+The applications of INRA and foreign nationals may be processed by the departments as and
+when they are received or according to any schedule convenient to the department. The
+applications should be scrutinized to make sure that, both in terms of qualifications and
+attainment they are comparable with the candidates admitted in the general category.
+Department will conduct VC based interview for ascertaining suitability of the candidate.
+The applications of foreign nationals, who are sponsored by the Indian Council of Cultural
+Relations (ICCR) will be scrutinized by the department concerned to assess their suitability for
+admission to the programme. The department's recommendation will be sent to the
+Chairperson, Senate through the Chairperson, AC.
+20.2.9 Admission to Ph.D (sponsored/external/part-time)
+(a) Candidates admitted in this category shall not be a registered student in any other
+academic program in India or abroad.
+(b) The applicant must have a master’s degree in engineering, pharmacy, agricultural
+science, science, humanities, social sciences, management with at least 60% marks or at
+least 6.0/10 CPI or CGPA for GEN/GEN-EWS/OBC (55% for SC/ST),
+OR
+(c) The applicant must have MBBS with MD/MS, BVSc with MVSc, BDS with MDS, BPTh with
+MPTh, BOTh with MOTh or equivalent with at least 60% marks or at least 6.0/10 CPI or
+CGPA for GEN/GEN-EWS/OBC (55% for SC/ST) in bachelor’s degree,
+OR
+(d) The applicant must have a bachelor’s degree of minimum four-year duration in
+engineering or science or medicine or pharmacy or agricultural science or veterinary
+science or equivalent with at least 70% marks or at least 7.0/10 CPI or CGPA for
+GEN/OBC (65% for SC/ST).
+(e) The applicant must have a minimum of two years of work experience (after qualifying
+degree) in industry/R&D laboratories/Academic Institutions at the time of registration to
+the program.
+(f) The applicant must qualify the written test and/or interview conducted by IIT Jodhpur.
+20.3 Admission of Non-Degree Students
+A non-degree student is a student who is registered for a degree in a recognized institute or
+university in India or abroad, and who is officially sponsored by that institute or university to
+complete part of his/her academic requirements at IIT Jodhpur. For that purpose, the
+non-degree student may carry out research or take courses for credit or otherwise or may use
+other academic facilities.
+Any candidate can be admitted as a casual student for specific courses provided the candidate
+satisfies the minimum eligibility criteria specified in Section 20.2. The application must be
+routed through the office of Dean R&D.
+Students so admitted will be governed by all rules, regulations and discipline of the Institute.
+20.4 Reservation Policy
+The reservation policy of Government of India will be followed.
+28
+21 PG REGISTRATION
+21.1 Limits on Registration
+Maximum and minimum number of credits a student can register in different programs:
+● M.Sc.: An M.Sc. student can register for a maximum of 24 credits and a minimum of 10
+credits in a semester.
+● M.Tech.: An M.Tech. student can register for maximum and minimum credits as per
+Table 21.1.
+Table 21.1 Maximum and Minimum Credits an M.Tech. student can register for during the
+Regular semester/Summer Term
+M.Tech. student registered under
+different categories
+Maximum
+Credits
+Minimum
+Credits
+Regular Semester Executive (Accelerated) 24 10
+Executive (Normal) 17 10
+Executive (Slow-Paced) 12 3
+Executive (Part Time) 12 3
+Full-time (Regular/Sponsored) 17 10
+External 20 10
+Part-time 12 3
+Summer Term Executive (Accelerated) 16 0
+Executive (Normal) 9 0
+Executive (Slow-Paced) 6 0
+Full-time (Regular) 9 5
+Full-time (Sponsored) 9 0
+External 9 0
+Part-time 6 0
+● M.Tech.-Ph.D. dual degree/Direct Ph.D. (Joining after B.Tech.) - The maximum and
+minimum credits that an M.Tech.-Ph.D. dual degree student can register are equivalent
+to that of an M.Tech. (Regular/External/Part-time) student.
+● Ph.D.: A Ph.D. student can register for maximum and minimum credits as per Table
+21.2.
+Table 21.2 Maximum and Minimum Credits a Ph.D. student (Regular) can register for during
+the Regular semester
+Ph.D. student registered under different
+categories
+Maximum Credits Minimum Credits
+Full-time Regular 12 6
+External 12 6
+Part-Time 12 3
+21.1.1 Registration Kept Alive (RKA)
+A student admitted to an M.Tech program who has at least completed minimum credit
+requirement of the first semester, can keep his studentship alive while he is pursuing any
+professional activity, by opting for RKA in subsequent semesters. The candidate must indicate
+his intent of RKA before the last date of late registration through DRC to Dean(academic). The
+candidate has to pay appropriate registration fees for RKA status. A student can maintain RKA
+status for a maximum of 6 semesters.
+29
+21.2 Change of Registration from M.Tech. Programme to M.Tech.-Ph.D.
+dual degree Programme
+A regular student registered for the M.Tech. programme having CGPA 8 or more at the end of
+the second semester may be allowed to switch to M.Tech.-Ph.D. dual degree program till the
+end of the third semester. As a special case, a student can switch to a dual degree in the fourth
+semester with the approval of DRC, provided his/her CGPA is 8 or more, who will then be
+required to complete his/her candidacy requirements by the end of the fifth semester.
+All conditions of M.Tech.-Ph.D. dual degree program will be applicable to all such students. All
+such changes of registration shall be reported to the Senate.
+21.3 Change of Registration from Part-Time M.Tech. to Part-Time Ph.D.
+Program
+A part-time M.Tech. student having CGPA 8 or more after completion of at least 24 credits may
+be allowed to change his/her registration to the Ph.D. program. The credits earned will be
+counted towards his/her Ph.D. course work requirements.
+21.4 Change of Registration from Full-Time to Part-Time/External Ph.D.
+Programme
+A student admitted to a full-time Ph.D. programme may be permitted to change to a part-time
+Ph.D. programme. A student requesting such a conversion must:
+i) have successfully completed his/her candidacy requirement;
+ii) get the request endorsed by the supervisor(s) and the DRC;
+iii) produce a "No Objection" Certificate from his/her employer for carrying out the research
+work.
+21.5 Maximum Duration of a Program
+● M.Sc. - 8 registered semester
+● M.Tech. (Regular and Part-time/External/Executive) - 12 registered semesters
+which may include maximum 6 semesters of Registration kept Alive (RKA) after
+completion of the first semester. Tuition fee post RKA will be same as that of sponsored
+candidates.
+● Ph.D. and M.Tech.-Ph.D. dual degree (Regular and Part-time/External) - 14
+registered semesters which may include maximum 6 semesters of Registration kept Alive
+(RKA) after completion of the two semesters. Tuition fee post RKA will be same as that
+of sponsored candidates.
+● Students may request for RKA to Dean (Academics) through DRC.
+21.5 Course Registration
+Students will be eligible to register for courses as per the criterion specified in Section 21.1 and
+Table 4.4.
+The DRC/ IRC must oversee that the student has not registered for a similar course
+during her/his Masters or Bachelors program.
+30
+22 ACADEMIC REQUIREMENTS
+22.1 Academic Load & Calculation of Credits for a Course for PG
+Programmes
+The total credits for a course are calculated by taking into account the number of lectures,
+tutorial, and practical hours (L-T-P) assigned as given in Table 22.1 and 22.2 for M.Sc. and
+M.Tech. Ph.D. programmes respectively. Each credit is associated with the number of contact
+hours and the expected number of self-learning hours (on an average) to be spent by the
+student for each contact hour to meet academic demand of the course.
+Table 22.1 LTP-structure and credit assignment for M.Sc.
+Type L-T-P Distribution of contact and beyond
+contact Hours#
+Total
+Credits
+(TC=TH/3)Contact
+Hours
+(CH)
+Beyond
+Contact
+Hours (BCH)
+Total
+Hours
+(TH)
+1 hour of Lecture 1-0-0 1 2 3 1
+1 hour of Tutorial 0-1-0 1 2 3 1
+1 hour of Lab 0-0-1 1 0.5 1.5 0.5
+1 hour of Project# 0-0-1 1 2 3 1
+#Contact hour for project refers to the involvement of students in the laboratory, discussion,
+etc.
+Table 22.2 LTP-structure and credit assignment for M.Tech./Ph.D.
+Type L-T-P Distribution of contact and beyond
+contact Hours#
+Total
+Credits
+(TC=TH/4)Contact
+Hours
+(CH)
+Beyond
+Contact
+Hours (BCH)
+Total
+Hours
+(TH)
+1 hour of Lecture 1-0-0 1 3 4 1
+1 hour of Tutorial 0-1-0 1 3 4 1
+1 hour of Lab 0-0-1 1 1 2 0.5
+1 hour of Project# 0-0-1 1 3 4 1
+1 hour of Thesis
+(Ph.D.)
+0-0-1 1 3 4 1
+#Contact hour for project refers to the involvement of students in the laboratory, discussion,
+etc.
+22.2 Course categories for Masters’ programmes
+1) Compulsory Course (MC)
+2) Programme Elective (ME)
+3) Open Elective (MO)
+4) Project works (MP)
+5) Non-graded (NG)
+22.3 Academic Credit Requirements for M.Sc. Students
+Course categories and academic requirements for M.Sc. students are given below in Table 22.3.
+31
+Table 22.3 Programs/ Credits to be earned for MSc students
+Programs Minimum Credits to be earned
+MC ME MO MP Total
+M.Sc. (Chemistry) 38 18 06 15 77
+M.Sc. (Mathematics) 38 18 06 15 77
+M.Sc. (Physics) 38 18 06 15 77
+22.4 Academic Credit Requirements for M.Tech. Students/ Executive
+M.Tech.
+Course categories and academic requirements for M.Tech. students are given below in Table
+22.4.
+Table 22.4 Minimum Credits to be earned For MTech students
+Programs Minimum Credits to be earned
+MC ME MO MP NG Total
+M.Tech (Sensors and Internet of Things) 19 17 06 16 4 62
+M.Tech (Cyber Physical System) 18 18 06 16 4 62
+M.Tech (Thermofluids Engineering) 17 17 06 16 4 60
+M.Tech (Advanced Manufacturing
+Engineering and Design)
+19 15 06 16 4 60
+M.Tech (Metallurgical and Materials
+Engineering)
+16 18 06 16 4 60
+M.Tech (Artificial Intelligence) 18 18 06 16 4 62
+M.Tech (Computer Science and
+Engineering)
+18 18 06 16 4 62
+M.Tech (Bioscience and Bioengineering) 18 17 06 16 4 61
+M.Tech (Data and Computational
+Sciences)
+20 15 06 16 4 61
+22.5 Academic Credit Requirements for M.Sc. - M.Tech. Dual Degree
+Minimum credit requirements for M.Sc. - M.Tech. Dual Degree is the cumulative sum of credit
+requirements for respective M.Sc. program and M.Tech. program as mentioned in Sections 22.3
+and 22.4.
+22.6 Academic Credit Requirements for M.Tech. - Ph.D. Dual Degree
+Course categories and academic requirements for MTech - PhD dual degree students are given
+below in Table 22.5.
+Table 22.5 Minimum Credits to be earned for dual degree MTech and PhD students
+Programs Minimum Credits to be earned
+MC ME MO MP NG Total
+M.Tech-Ph.D Dual Degree
+(Sensors and Internet of Things)
+19 17 06 16 4 62
+M.Tech-Ph.D Dual Degree (Cyber
+Physical System)
+18 18 06 16 4 62
+32
+M.Tech-Ph.D Dual Degree
+(Communication and Signal
+Processing)
+17 17 06 16 4 60
+M.Tech-Ph.D Dual Degree
+(Thermofluids Engineering)
+17 17 06 16 4 60
+M.Tech-Ph.D Dual Degree
+(Manufacturing Engineering)
+17 17 06 16 4 60
+M.Tech-Ph.D Dual Degree (Design
+Engineering)
+17 17 06 16 4 60
+M.Tech-Ph.D Dual Degree
+(Metallurgical and Materials
+Engineering)
+16 18 06 16 4 60
+M.Tech-Ph.D Dual Degree
+(Computer Science and
+Engineering)
+18 18 06 16 4 62
+M.Tech-Ph.D Dual Degree
+(Artificial Intelligence)
+18 18 06 16 4 62
+M.Tech-Ph.D Dual Degree
+(Bioscience and Bioengineering)
+18 17 06 16 4 61
+The DRC/ IRC must oversee that the student has not registered for a similar course during
+Bachelors program and take necessary corrective action by suggesting alternative courses
+22.7 Academic Credit Requirements for Ph.D. Students
+The minimum credits to be earned through courses is listed in Table 22.6.
+Table 22.6 Credit Requirements for PhD students
+S.No. Ph.D. in With Minimum
+Credits
+through
+Course
+Work
+Minimum
+Credits
+through Thesis
+Work
+1. Engineering
+discipline/
+IDRPs
+M.Tech., M.E. or M.Sc. (Engineering)
+in an Engineering discipline
+12 48
+M.Sc. degree in a Science discipline 30 48
+B.Tech., B.E. or B.Sc. (Engineering)
+in an Engineering discipline
+30 48
+2. Science,
+Humanities or
+Social Science
+discipline
+M.Sc., M.A. and M.Phil. degree in a
+Science, Humanities or Social
+Science discipline
+12 48
+22.8 Academic Performance Requirements
+22.8.1 Minimum performance for continuation and Graduation in a program
+The minimum CGPA requirement for continuation and graduation in a program is given in below
+Table 22.7.
+33
+Table 22.7 Minimum CGPA requirements
+Sr.
+No.
+Program Continuation in
+Programme
+For graduation
+1 M.Sc. (only graduation
+requirement)
+Refer 22.8.2 5.0
+2 M.Tech. 5.0 5.0
+3 Dual Degree (M.Sc. and
+M.Tech.)
+5.0 5.0
+4 Dual Degree (M.Tech. and
+Ph.D.)
+7.0 7.0
+5 Ph.D. 7.0 7.5 at the completion of
+course work
+22.8.2 Continuing criteria for M.Sc.
+M.Sc.- The student must earn at least 20 credits at the end of the second semester for
+continuation in the program.
+22.8.3 Minimum performance for continuation Assistantship/Fellowship
+The minimum CGPA requirement for continuation Assistantship/Fellowship is given in below
+Table 22.8
+Table 22.8 Minimum CGPA requirements for Continuation of Assistantship/
+Fellowship
+Sr. No. Program Continuation of Assistantship/
+Fellowship
+1 M.Tech. 6.5
+2 Dual Degree (M.Tech. and Ph.D.) 7.0
+3 Ph.D. 7.0
+23. LEAVE RULES
+Application for leave of absence should be addressed to the Convener DRC, and submitted with
+a medical certificate, if applicable. Usually, leave must not be availed of without prior approval
+of the DRC.
+23.1 Leave
+A maximum of 30 days in an academic year (including leave on medical grounds + mid
+semester break). The student must apply for leave in advance even during the summer/winter
+term or mid-semester break.
+A PhD student cannot avail leave for more than 15 days at a stretch
+An M.Tech./M.Sc. student cannot avail leave for more than 10 days at a stretch
+The leave beyond 30 days in an Academic Year may be granted in exceptional cases by DRC
+without assistantship during that period.
+23.2 Other Leaves
+Maternity leave for Ph.D. students is sanctioned as per the directives of MHRD. It will not be
+counted towards the maximum permissible duration of the programme.
+Any other leave may also be permissible as per the guidelines of MHRD.
+34
+23.3 Semester Withdrawal
+May be applicable in unforeseen circumstances or for medical reasons. Absence for a period of
+four or more weeks in any semester will result in automatic withdrawal from that semester.
+In all such cases, the fellowship will be stopped with immediate effect and it will be continued
+for only after the student rejoins the institute. DRC can approve and intimate Office of
+Academics regarding the leave of the student for records. In case, the leave extends beyond a
+semester, it can only be approved through the Academic Committee. Semester withdrawal on
+the medical ground will not be counted towards the maximum permissible duration of the
+programme for the student.
+23.4 Academic Leave
+Academic leave can be requested for any of the following reasons, such as
+1. Fieldwork
+2. Library work- because of a specialized collection at a particular library
+3. Experimental work/training using specialized facility not available at IITJ
+4. Attending conferences/workshops/summer/winter schools/symposium
+5. Collaborative work as part of joint M.Tech./Ph.D. supervision
+6. Collaborative work for a specific problem related to his ongoing Ph.D programme as
+indicated in his research proposal
+7. Exchange program – as part of an exchange program with a sister institution in India or
+abroad
+All such requests must be evaluated and approved by SRC/DRC/IRC before the leave is granted.
+SRC/DRC/IRC must also make recommendations regarding continuation of fellowship during
+academic leave.
+● A student may be allowed to spend a maximum duration of one year on academic leave.
+● A student during academic leave can earn a maximum of 12 credits per semester as
+certified by SRC and approved by DRC.
+24. FINANCIAL ASSISTANCE
+Financial assistantship/scholarship will be provided to the eligible students admitted
+under regular full-time program. The eligibility criteria are as per the following:
+24.1 M.Sc. Program
+Merit-cum-Means fellowship as per Institute norms.
+24.2 M.Sc.-M.Tech. Dual-Degree Program
+A student having completed minimum credit requirements of an M.Sc. program at the end of
+the second year with
+(a) CGPA>=8
+OR
+(b) have qualified GATE can have financial support from MHRD or project fund.
+24.3 M.Tech. Program
+A regular M.Tech. student with GATE can have financial support from MHRD or project fund. A
+student may be exempted from GATE as per MHRD guidelines.
+35
+24.4 Executive M Tech Program
+Students admitted in this category will not be provided any financial assistance from the
+Institute.
+24.5 M.Tech. – Ph.D. Dual Degree Program
+Rules and regulations governing financial assistance for dual degree students will be at par with
+regular Ph.D. students.
+24.6 Ph.D. Program
+A regular Ph.D. student admitted to the Institute will be eligible for financial assistance as per
+the norms of IIT Jodhpur.
+(a) A candidate having B.Tech./B.S. (four-year program)/Master's degree with
+GATE/NET(JRF)/NBHM (or equivalent) can have financial assistance as per MHRD
+norms/or equivalent applicable for non-science departments.
+(b) The requirement of GATE is exempted for an applicant with M.Tech or equivalent
+post-bachelor's degree
+(c) A student may be exempted from GATE as per MHRD guidelines.
+A Ph.D. student would be eligible for enhancement in the scholarship after two years provided
+the student has met qualifier requirement. The enhanced fellowship will commence from the
+date of completion of both the conditions. No arrears will be provided due to delay in completing
+the qualifier requirement.
+The Teaching/Research Assistantship of a Ph.D. student shall stop from the day of submission of
+the Thesis.
+25. RULES AND REGULATION FOR CONDUCT AND
+EVALUATION OF M. TECH./M.SC. PROJECT
+● Allotment of students to supervisors will be made based on the preferences of the
+students and supervisor(s).
+● The supervisor and area identification must be completed by the end of the first
+semester.
+● Coordinator, M. Tech. Program would advise until the student is assigned to a regular
+supervisor(s).
+● Each semester a letter grade will be awarded after examination by a committee
+consisting of DRC, supervisor(s) and two members conversant with the field of research
+with at least one member external to the department (maybe outside the Institute also).
+DRC will appoint examiners in consultation with the supervisor. The same committee
+may examine more than one thesis. External member can be on VC. DRC will ensure
+that Award of letter grade would be as per relative grading policy.
+● A regular full-time student must register for M.Tech Project Part-1 in the summer
+semester following 2nd semester. He must obtain a satisfactory grade to continue M.Tech
+project part-1 in the next semester. His performance in the summer semester will be
+evaluated by his supervisor.
+36
+26 RULES AND REGULATIONS FOR PH. D. /M. TECH.-PH. D.
+DUAL DEGREE PROGRAM
+26.1 Thesis Supervisor(s)
+26.1.1 Selection of Ph.D. Candidates
+The selection should be based on merit and capability of the candidate to conduct research.
+There should at least be a faculty member available or likely to join in the areas of interest of
+the candidate at the time of selection.
+26.1.2 Appointment of Thesis Supervisor(s)
+● Ph. D. students shall be admitted in the department and no supervisor shall be
+assigned at the time of selection.
+● Allotment of students to supervisor(s) will be made based on the preferences of the
+students and supervisor(s).
+● For both Ph. D. and M. Tech. - Ph. D. Dual degree supervisor(s) and area identification
+must be completed by the end of the first semester
+● The Convener, DRC (Department Research Committee)/Coordinator (Interdisciplinary
+Research Program) would advise until the student is assigned to a regular supervisor(s).
+● There shall not be more than two supervisors, in general, for a student. Additional
+supervisor can be allowed with the approval of Chairman, Senate.
+● A supervisor from outside the institute, before the qualifier, may be appointed on the
+request of student/supervisor(s) with the recommendation of the DRC/IRC and the Dean
+(Academics) and approval of the Chairman, Senate.
+● The external supervisor will be requested to sign Intellectual Property Right (IPR) and
+Non-Disclosure Agreement (NDA) documents as a part of acceptance. From the financial
+point of view the Institute will have no obligation to the external supervisor.
+26.1.3 Caretaker Supervisor/Additional supervisor
+● Whenever the supervisor proceeds on short leave for a period up to one year, the
+DRC/IRC (Interdisciplinary Research Committee) shall appoint a caretaker supervisor in
+consultation with the supervisor and the student to take care of the administrative
+requirements.
+● Whenever the supervisor proceeds on long leave for a period more than a year, then an
+additional supervisor needs to be appointed on the suggestion of the supervisor.
+● The supervisor going on lien or sabbatical may continue supervising students and the
+supervisor can opt for either an additional supervisor or a caretaker supervisor.
+● The supervisor on his/her retirement or on resignation may continue as a supervisor and
+will have to opt for an additional supervisor provided the student has cleared qualifier
+before the supervisor’s retirement/resignation.
+26.1.4 Composition of Departmental Research Committee (DRC)
+The DRC will consist of coordinators of M.Tech, M.Tech.-Ph.D. dual degree and Ph.D. programs
+of the department, head of the Department and Senior Professor/Associate Professor proposed
+by the Head. The DRC will be Chaired by Professor/Associate Professor nominated by Head of
+the Department. The Chairman of the DRC will be a member of the Academic Committee. The
+DRC has to be approved by Dean (Academics). Ph.D. program coordinator will be the convenor
+of DRC and will be proposed by the head. The tenure for the DRC will be 2 years.
+37
+26.1.5 Composition of Interdisciplinary Research Committee (IRC)
+The IRC will consist of all coordinators of IDRPs and Senior Professor/Associate Professor as the
+chairman of the IRC will be nominated by Dean (Academics). The chairman of IRC will be a
+member of AC. One of the IDRP co-ordinators would be convenor of the committee. The tenure
+for the IRC will be 2 years. The IRC will be approved by the Dean (Academics).
+26.2 Change of Research Supervisor
+Change of supervisor (s), under exceptional circumstances, shall be permitted by Dean
+(Academics) on the recommendation of the DRC/IRC after obtaining the consent of (i) the
+student (ii) the present supervisor (s) and (iii) the proposed supervisor(s). If required,
+realignment of student’s research program will happen under the supervision of the DRC/IRC.
+26.3 Student Research Committee (SRC)
+26.3.1 Composition of SRC
+● The SRC will normally consist of supervisor(s) and three other faculty members
+conversant with the field of research with at least one member external to the
+department (maybe outside the Institute also).
+● A Student Research Committee (SRC) for the candidate shall be proposed by the
+supervisor(s), recommended by the DRC/IRC and approved by Dean (Academics).
+● The SRC shall have one member identified as Chairman for administrative functions and
+the supervisor(s) will act as convener. Chairman, SRC is to be appointed by Dean
+(Academics).
+● The appointment of SRC should be completed by the end of the first semester.
+● Any subsequent changes in the composition of SRC shall be communicated through the
+DRC/IRC to Dean (Academics) for record.
+● Chairman and supervisor(s) shall be the internal examiners for the evaluation of the
+thesis.
+● The SRC is expected to monitor the progress of the candidate until the
+completion of the program.
+26.4 Annual Progress Monitoring Meeting (APM)
+The academic progress of all registered Ph.D. students will be reviewed once in a year by the
+SRC and peers in the institute. The review will be based upon (i) Annual Progress Report and (ii)
+A Poster Presentation open to all. SRC will award a Satisfactory/Non-Satisfactory grade based
+upon (i) and (ii). Two consecutive Non-satisfactory grades will lead to termination of
+registration.
+For implementational convenience, academic calendar must indicate two days in a year for
+conducting annual progress evaluation of research scholars. Following the groupings of students
+and scheduling guidelines are suggested
+1. For students joining in 1st semester of AY: During 1st July to 30th September of the
+year.
+2. For students joining in 2nd semester of AY: During 1st December to 28th February of the
+year.
+The first APM will be conducted after the successful completion of qualifier requirements.
+Each semester “Satisfactory” progress or “Unsatisfactory” progress will be reported by the
+supervisor(s) through the SRC for record.
+Any situation in exception to the above will be processed by the academic committee and
+approved by Dean (academics)
+38
+26.5 Qualifier requirements of Ph.D. Student
+The following four components together will constitute qualifier (candidacy) requirements for a
+Ph. D. student and for a Ph. D. candidate to be eligible for the enhanced SRF fellowship.
+1. Completed course requirements with the minimum CGPA specified in Section 22.8.1
+2. Cleared comprehensive examination
+3. Successful presentation on state of the art of the chosen field of research
+4. Successful presentation and defense of Research proposal
+The Ph. D. students are normally expected to complete successfully the Qualifier requirements
+before the beginning of the fifth semester of his/her registration in the Ph. D. program and
+in any case not later than the beginning of the sixth semester after their registration in
+the Ph. D. program. Part-time candidates will need to complete the qualifier requirement before
+the beginning of the seventh semester.
+26.5.1 Comprehensive Examination of Ph. D. /M.Tech-Ph.D Student
+● The comprehensive examination must be designed to test the general capability of the
+student and the breadth of his/her knowledge in the discipline and areas related to the
+field of research.
+● The Comprehensive Examination shall be conducted by a Comprehensive Examination
+Committee of the Department/IDRP.
+● The Comprehensive Examination will consist of a written test with three papers.
+● Departments will offer at least 5 Papers for conducting a comprehensive examination.
+Each paper will have broad coverage of one essential sub-area of the department. The
+course content of these papers will be approved by the academic committee and the
+Senate. The syllabus of papers for the comprehensive examination will not be the same
+as courses offered by the department; it must be designed to test the breadth of the
+knowledge in that area.
+● The SRC will specify a set three papers as a comprehensive requirement for a particular
+student. These three papers may be selected from across the departments.
+● The comprehensive examination requirements shall be intimated to the Ph.D. student
+within two weeks of SRC formation.
+● All comprehensive examinations will be scheduled on two fixed days in a year. It can
+coincide with the annual progress evaluation day of doctoral candidates. Students may
+decide to appear for three papers on the same day or on different days.
+● A student can appear in the comprehensive examination before he/she has completed
+the course requirements and satisfied the minimum specified CGPA requirement.
+● If the performance of the Ph.D. student in a comprehensive examination paper in the
+first attempt is not satisfactory, he/she will be given one more opportunity to appear
+within six months of the first attempt.
+● For clearing of the comprehensive examination, a student must perform satisfactorily in
+all papers.
+Comprehensive Examination to be completed by the students:
+● Ph.D. : within 3 semesters
+● Direct Ph.D. and MTech - PhD Dual Degree: within 5 semesters
+26.5.2 State of Art Seminar (SOTA)
+Every Ph.D. student is required to give a general seminar in the Department covering the State
+of Art of the area of research. The presentation must also include patent landscaping of the
+39
+area. The presentation will be evaluated by the SRC. A candidate must have a satisfactory
+grade in SOTA awarded by SRC for becoming eligible to present his research proposal.
+26.5.3 Research Proposal
+Research proposal (report + presentation) will be evaluated by SRC after successful completion
+of SOTA. The research proposal must include representative research work equivalent to
+research work worth 16 credits. SRC will allocate a letter grade based on the performance of the
+candidate.
+26.6. Candidacy for the Ph.D. Degree
+A student enrolled in the Ph.D. program is formally admitted to the candidacy for the Ph.D.
+degree after he/she has completed the qualifier requirements for the degree. Only such
+students who are admitted to the candidacy will be allowed to submit Ph.D. thesis.
+26.7 Relaxation in M.Tech. -Ph.D. dual degree program
+● M.Tech.-Ph.D. dual degree students who have successfully completed all qualifier
+requirements, under exceptional conditions, as approved by SRC after 3 years can also
+convert into part-time/external Ph.D. student and exit with M.Tech degree if all
+conditions for part-time/external conversion are satisfied.
+● The renewal of their registration for every semester however, will be considered only if
+SRC finds their progress to be satisfactory and recommends the continuance of
+registration.
+26.8 Cancellation of Registration
+● The registration of a student whose progress is not found to be satisfactory by the SRC
+or who has not enrolled will be liable for cancellation.
+● The registration of a student who has not submitted his/her thesis before the end of the
+maximum permissible period specified in Section 21.5 will be liable for cancellation.
+26.9 Synopsis
+● Synopsis will consist of an open seminar and a comprehensive internal closed-door
+assessment of the research work, through a pre-synopsis report, by SRC.
+● The student can submit the synopsis only if the SRC is satisfied with the quality and
+quantity of the work for submission as a Ph.D. thesis.
+● Publications arising out of the thesis are to be submitted along with the pre-synopsis
+report.
+● Students should submit the synopsis and thesis within six months of the open seminar
+date. If required, an extension of three months may be permitted by Dean (Academics)
+on the recommendation of SRC.
+● If the synopsis and thesis are not submitted in the specified period, the student will be
+asked to present the synopsis again.
+● On satisfactory completion of the prescribed courses with minimum CGPA specified in
+4.6.1, the comprehensive examination, the SOTA, the research work and the synopsis,
+the student shall submit the requisite copies of the synopsis of his/her research work in
+the required format through the supervisor(s) and HoD to the Academic Section for
+consideration of the SRC.
+40
+● The student should have at least one paper either published or accepted for publication
+in a refereed journal/refereed conference (SRC members are required to certify the
+quality of journals/conference).
+26.10 Thesis submission and Evaluation
+The supervisor(s) shall propose a list of 10 examiners consisting of at least four Faculty
+Members from abroad and 4 Faculty Members from India, who have the expertise in the area in
+which the student undertook research. For selecting an examiner, the following guidelines
+should be followed
+● The examiners shall have at least 6 years of Post-Ph.D. experience;
+● No two proposed examiners shall be from the same organization; and
+● The examiners can be Faculty Members or Scientists, of standing and repute.
+● Chairman, Senate may ask for additional names for examiners.
+● The Chairman, Senate, shall select minimum two examiners from the proposed list, of
+which at least one should be an examiner from outside India. The consent of these
+examiners shall be taken before sending the Thesis to them. In addition, SRC and
+Supervisor(s) shall be the examiners of the Thesis.
+● The Viva Voce will be conducted in the presence of SRC, supervisor(s) and the
+external examiner.
+● One of the external examiners shall attend the Thesis Defense.
+● The examiners shall submit a written report on the thesis within a period of two months
+from the date of receipt of the Thesis.
+● If both examiners declare the Thesis as acceptable for award of Ph.D. degree, the Dean
+(Academics) shall request the Supervisor(s) to hold the Thesis Defense by the student.
+● If any of the examiners reject the Thesis for the award of the Ph.D. degree, the Dean
+(Academics) shall report the matter to the Chairman, Senate, for further consideration.
+The Chairman, Senate, will refer the Thesis to a third examiner under special
+circumstances; else the registration of the student shall stand cancelled in the Ph.D.
+program.
+● If both examiners reject the Thesis for the award of the Ph.D. degree, no degree shall be
+awarded by the Institute, and the registration of the student shall stand cancelled in the
+Ph.D. program.
+● If an examiner suggests a revision of the Thesis, the student shall resubmit the Thesis
+after the revision within a prescribed time period of 6 months in consultation with the
+Supervisor(s).
+● When both examiners recommend the Thesis as accepted for the student to defend the
+Thesis, or after the resubmission of the Thesis after incorporating the
+suggestions/corrections given by the examiners, the student shall publicly present the
+Thesis and defend the contention of the Thesis.
+● The committee consisting of Chairman SRC, Supervisor(s), the Examiner from within
+India and other Faculty Members (quorum would be Chairman, SRC, Supervisor(s) and
+an external examiner), who participated in the Comprehensive Examination of the
+student, shall evaluate the Thesis Defense of the Ph.D. student also. On their
+recommendation, Dean (Academics) shall recommend to Senate, to consider the award
+of Ph.D. degree to the student.
+27. GRADUATION REQUIREMENTS
+A student is deemed to have completed the requirements for graduation if she/he has met the
+requirements laid down in Clauses 27.1 to 27.4 below.
+41
+27.1 Minimum Residential Requirement
+Table 27.1 Minimum residential requirement
+S.No. Program Qualifications at the time of joining the
+Program
+Minimum Duration
+(in semesters) of
+Residence
+1. M.Sc. All qualifying degrees 4
+2. M.Sc.-M.Tech.
+Dual Degree
+All qualifying degrees 7
+3. M.Tech. Programs
+Full-time
+Regular
+/Sponsored
+All qualifying degrees 3
+Part-time All qualifying degrees 0
+Executive All qualifying degrees 1
+4. Ph. D. Programs
+Full-time Regular
+Engineering
+discipline
+M.Tech., M.E. or M.Sc. (Engineering) in an
+Engineering discipline
+2
+M.Sc. degree in a Science discipline 5
+B.Tech., B.E. or B.Sc. (Engineering) in an
+Engineering discipline
+5
+Science,
+Humanities or
+Social Science
+discipline
+M.Sc., M.A. and M.Phil. degree in a Science,
+Humanities or Social Science discipline
+2
+Part-time All qualifying degrees 0
+External All qualifying degrees 1
+27.2 Academic
+The student shall be declared to have fulfilled the academic requirements if she/he has earned
+the minimum credits as per Section 22.3 for M. Sc., Section 22.4 for M. Tech., Section 22.5 for
+M. Sc.-M.Tech. Dual Degree, Section 22.6 for M.Tech-Ph.D. Dual Degree and Section 22.7 for
+Ph.D., while meeting the minimum CGPA requirements as mentioned in Section 22.09.
+27.3 No Dues Clearance
+Degree will be awarded after obtaining No Dues Clearance from all concerned sections as
+deemed necessary by Dean (Academics)
+27.4 No case of Disciplinary Action
+The student shall not be considered to have completed the Academic Requirements if there is
+any case of indiscipline pending against her/him.
+42
+27.5 Award of Degrees
+27.5.1 Provisional Certificate
+A student, who completes all the graduation requirements specified in Clauses 27.1 to 27.4, can
+be provided with a provisional certificate by the office of Dean (Academics) on the approval of
+Chairman, Senate.
+27.5.2 Degree Certificate
+A student, who completes all the graduation requirements specified in Clauses 27.1 to 27.4, is
+recommended by the Senate to the Board of Governors (BOG) for the award of the appropriate
+degree in the ensuing convocation. The degree can be awarded only after the BOG accords its
+approval.
+28. AMENDMENTS
+Notwithstanding anything contained in this document, the Senate of IIT Jodhpur reserves the
+right to modify/amend, without notice, Rules and Regulations of the Postgraduate programmes
+at IIT-Jodhpur.
+43

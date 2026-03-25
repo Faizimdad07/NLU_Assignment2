@@ -1,0 +1,148 @@
+IIT Jodhpur Home Page
+    A+  A  A-    
+
+
+   हिन्दी  |  Sitemap
+Home
+People
+Academics
+Research
+Achievements
+Students
+Events
+Join Us
+Contact
+IIT Jodhpur
+Computer Science & Engineering
+Home
+Academics
+Doctoral Programs
+Doctoral Programs
+
+M.Tech.-Ph.D. Dual Degree CSE & M.Tech.-Ph.D. Dual Degree AI
+
+IIT Jodhpur has been offering MTech-PhD dual-degree programs since July 2019. These programs have been designed particularly for students with an inclination for research. Students who have completed their B.Tech. are eligible to join this program. Students complete their M.Tech. course work and then start their research, and earn both M.Tech. and Ph.D. degrees - at the end of the program. There are two distinct aspects of these programs: first, it provides an avenue for students to earn both degrees in a far lesser duration compared to if these were done individually, and second, students are awarded a fellowship equivalent to that of a JRF from the date of their joining. Academically, these programs facilitate students to decide upon their area of research by the end of the first semester. After a phase of rigorous coursework in the first two years, they start working towards the academic requirements of a PhD that includes a comprehensive exam, state-of-the-art seminar, publications in top conferences and journals, and a thesis. The students can also work on industry projects and collaborate with faculty from other academic/research bodies. This program offers the benefit of PhD level scholarship from the first year itself and the integrated courses and research helps in reducing the overall time of completing MTech and PhD.
+
+The Department of CSE is currently offering two such programs: MTech-PhD Dual-degree in CSE and MTech-PhD Dual-degree in AI, and is continuously looking for motivated and capable students to conduct advanced research in all areas of Computer Science and AI (please visit the "Research" page for more details). The coursework requirements of these programs are similar to the corresponding MTech programs, and other support (travel support, institute mobility grant, fellowship schemes in addition to that from the Ministry of Education, etc.) and research related academic requirements are similar to the PhD program.
+
+ Revised curriculum for Dual Degree  (Download file: 441 KB) (AY 2022 Onwards)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree CSE  (Download file: 114 KB)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree AI  (Download file: 119 KB)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree CSE  (Download file: 58 KB) (AY 2021 Onwards)
+
+ Detailed curriculum for M.Tech.-Ph.D. Dual Degree AI  (Download file: 55.6 KB)(AY 2021 Onwards)
+
+ Details of courses offered by Dept. CSE  (Download file: 908 KB)
+
+ Regulations for Postgraduate Programs  (Download file: 536 KB)
+
+Ph.D. CSE
+
+The Ph.D. program at the Department of Computer Science and Engineering (CSE) at IIT Jodhpur is postgraduate-research-oriented. A Ph.D. student works in an area of his/her interest under the supervision of a faculty member(s) and also has the flexibility to have an industry expert as co-supervisor. The student has to complete the Ph.D. qualifier requirements, which involve a minimum number of credits by taking courses, a comprehensive exam, state-of-the-art seminar, and research proposal defense. The doctoral program’s salient feature is the independent research work taken by scholars, leading to a thesis at the end of the program. The average duration of a PhD. program is between four to five years.
+
+The CSE department invites students with a "research" bent of mind to apply for admission to the Ph.D. program. The Ph.D. applicant must have high aspiration and willingness to work on socially relevant cutting-edge problems. The department expects that an aspirant has strong foundations in core Computer science subjects. The department offers admission to the Ph.D. program in categories like Full-Time, Part-Time.
+
+Ph.D. Tracks
+
+MoE Funded Ph.D.
+Ph.D. Funded by Exciting Projects
+Joint Ph.D. (JPD) With SUNY Buffalo (UB)
+Broad Research Areas
+
+AI & ML
+CV, AR-VR
+Systems & S/W
+Theoretical Computer Science
+Some Specific Areas of Interest Include: Health Informatics; Social Network Analysis; Cryptography; Computational Social Choice Theory; Parameterized & Randomized Algorithms; Graph Algorithms; Natural Language Understanding; Quantum Computation; VANET; Internet of Things (IoT); Blockchain; Network Security…
+
+ Our Research Areas and Labs
+
+Compute Facilities & Coursework
+
+Industry focused & research-driven courses
+Industry-supported labs
+Modern high-end GPU clusters including NVIDIA DGX A100, DPU coming
+State-Of-The-Art testbeds in VANET
+Samsung sponsored AR-VR lab
+Opportunity to attend courses from adjunct and visiting faculties from industries and top universities in India and abroad
+Research Opportunities
+
+Industry-sponsored projects (Meta, IBM, TCS, DRDO, Microsoft, Accenture)
+Projects with government agencies on real-world problems (DRDO, AIIMS, PGI, Law Enforcement)
+Close collaborations with iHub Drishti – a Technology Innovation Hub focused on “Computer Vision, AR & VR”
+Joint projects with IMSc, IIT Bombay, IIT Kharagpur, IIIT Guwahati, IIT Delhi, IIIT Hyderabad, IISc Bangalore, SUNY Buffalo, The Hong Kong Polytechnic University,
+Missouri University of Science and Technology, IIT Hyderabad, Ben-Gurion University of the Negev
+Publications at top venues
+Support for attending conferences
+Student reading groups and webinars by leading experts
+Alumni
+
+Our alumni are at different places in industry & academia: Charles University, State University of Texas, American Express, Czech Technical University in Prague, IIT Roorkee
+
+ Regulations for Doctoral Programs  (Download file: 536 KB)
+
+ Details of courses offered by the Department CSE  (Download file: 908 KB)
+
+ Apply for admission
+
+ Details of comprehensive papers  (Download file: 146 KB)
+
+Joint Ph.D. (JPD) with SUNY Buffalo (UB)
+
+Requirements
+
+Students interested in being admitted into the JPD need to be first selected into the full-time PhD program in CSE at either Institution as per selection procedures of that Institution.
+JPD selection procedures will be initiated within 6-12 months of the student enrolling in the PhD program. Students selected into the JPD program shall be enrolled on a full-time basis at both Institutions.
+Before the student matriculates to UB - as a part of the residency requirement the student must fulfill UB’s minimum academic admission conditions
+UB’s required minimum score in English for language proficiency requirements (i.e. TOEFL, IELTS, PTE, CPE, CAE or DET)
+GATE (or equivalent as specified by MoE, Govt. of India) from India is mandatory.
+While the program specifically admits exceptional students following their completion of an appropriate Bachelor’s degree, it will also admit those who will have completed an appropriate Master’s degree.
+Features
+
+Dissertation will be jointly directed by faculty from both institutions
+Students will be awarded two separate PhD degrees, one from each institution
+Students will need to spend approximately equal time at each institution
+When in residence at UB, scholarship will cover tuition costs and a living allowance (stipend)
+When in residence at IITJ, scholarship will be at par with PhD students at IITJ
+When enrolled as a full-time PhD student at UB, all broad-based fees will be waived off. Covered fees include comprehensive fee, academic excellence and success fee, student activity fee, and international student fee (wherever applicable)
+Students will have access to funding for research costs from the laboratory where research is being conducted
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+IIT Jodhpur Facebook Page
+IIT Jodhpur Twitter Page
+IIT Jodhpur You tube Channel
+IIT Jodhpur Instagram Page
+IIT Jodhpur Linkedin Page
+G20 India 2023
+75 Azadi Ka Amrit Mahotsav
+Prime Minister's Research Fellowship (PMRF)
+Vidya Lakshmi Fulfilling Educational Aspirations
+National Commission for Women (NCW) Helpline
+National Anti-Ragging Monitoring Agency
+india.gov.in National portal of India
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation, IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM.
+Last Updated : 20 Mar 2026 - 01:10 PM
+arrow_downward️

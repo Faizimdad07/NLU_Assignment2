@@ -1,0 +1,847 @@
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+M.Tech & M.Tech-Ph.D Dual Degree
+in
+Data and Computational Science
+(1) Introduction
+Data Science is the art of generating insight, knowledge and predictions by processing of data
+gathered about a system or a process. Computational Science is the art of developing validated
+(simulation) models in order to gain a better understanding of a phenomenon (system’s or
+processes). Computational sciences focus on development of causal models using latent patterns in
+the observed data, rather than only extracting patterns or knowledge from data by statistical
+methods.
+(2) Objective of the Programme
+To produce professionals with deep knowledge and innovative analytical and computational
+research skills to handle problems in a variety of domains including governance, finance, security,
+transportation, healthcare, energy management, agriculture, population studies, weather
+prediction, economics, social sciences, predictive maintenance, structural health monitoring, smart
+manufacturing and computational structural biology.
+(3) Expected Graduate Attributes (M.Tech.)
+1. Skill set to clean, process, analyze, manage and handle security and privacy aspects of
+structured and unstructured data.
+2. Ability to identify, design and apply appropriate pattern recognition and data mining
+methods for generating relevant insight from data.
+3. Knowledge and capability to develop and apply machine learning techniques for data driven
+modelling.
+4. Ability to develop models and simulation schemes based upon domain knowledge in chosen
+domains and possible combination with data driven models.
+5. Capability to follow uniquely interdisciplinary approach for solving problems, using
+knowledge of mathematics, statistics, computing and one or more selected domains among
+physics, chemistry, biology and engineering sciences.
+6. Skill to use and design appropriate visualization techniques for representation and
+presentation of insights and solutions.
+7. Ability to innovate and contribute towards next generation data driven technology
+development.
+8. High quality technical communication skills.
+9. Appreciation and adherence to norms of professional ethics.
+10. Ability to plan and manage technical projects.
+(4) Learning outcome:
+1. Strong Understanding of fundamentals of Data Mining, Machine Learning, Modelling &
+Simulation, Optimization and Numerical Techniques.
+2. Basic understanding of Cryptographic and Blockchain Techniques.
+3. Knowledge about basics and use of visual analytics.
+4. Skill set to develop applications using Big Data.
+5. Advanced analytical and data driven modelling and simulation skills to address technological
+challenges in one or more specialized knowledge domains like physics, chemistry, biology
+and engineering sciences.
+6. Demonstrate skills to communicate scientific ideas and/or application systems.
+7. Acquire project management skills.
+(5) Program Structure:
+Cat. Course
+Number
+Course Title L-T-P Credits Cat. Course
+Number
+Course Title L-T-P Credits
+Semester 1 Semester 2
+C MAL7XX0 Introduction to
+Data Science
+1-0-0-0 1 C MAL7XX0 Numerical
+Methods for PDE
+1-0-0-0 1
+C CSL7XX0 Machine
+Learning 1
+3-0-0-0 3 C CSL8XX0 Machine Learning
+2
+3-0-0-0 3
+C MAL7XX0 Mathematics for
+Data Science
+3-0-0-0 3 C CSL7XX2 Software and
+Data
+Architecture*
+1-0-0-0 1
+C MAL7XX0 Statistics 2 2-0-0-0 2 C CSL7XX0 Security and its
+Application
+3-0-0-0 3
+C MAL7XX0 Introduction to
+Modeling
+1-0-0-0 1 C MAP7XX0 Data Analytics
+Lab
+0-0-2-0 1
+E xxxxx PE1 3-0-0-0 3 E Xxxxx PE2 3-0-0-0 3
+C CSP7XX0 Data structures
+and practices
+0-0-2-0 1 E Xxxxx PE3 3-0-0-0 3
+NG xxxxx Technical
+Communication
+1-0-0-0 1 NG xxxxx Innovation andIP
+Management
+1-0-0-0 1
+Total 15 Total 16
+Semester 3 Semester 4
+E xxxxx PE4 3-0-0-0 3 E Xxxxx OE2 3-0-0-0 3
+E xxxxx PE5 3-0-0-0 3
+E xxxxx OE1 3-0-0-0 3
+P MA6xx Project 0-0-0-5 5 P MA6xx Project 0-0-0-
+11
+11
+NG xxxxx System
+Engineering and
+Project
+Management
+1-0-0-0 1 NG xxxxx Professional Ethics 1-0-0-
+0
+1
+Total 15 Total 15
+Grand Total 61
+*A fractal from the course.
+Credit Distribution
+S.No. Category Course
+Category Title
+Total
+Courses
+Total
+Credits
+1 C Compulsory 9 18
+2 C Labs 2 02
+3 PE Program Electives 5 15
+4 OE Open Electives 2 6
+5 P Project 1 16
+Total (without non-graded courses) 57
+(6) Topic Cloud
+Compulsory Topics:
+(a) Data pre-processing (including redundancy removal), Data storage, data
+representation, data handling, data query, data cleaning.
+(b) Relational data bases, graph databases, NoSQL (columnar DB), unstructured data,
+Map reduced techniques and Indexing.
+(c) Distributions, test of hypothesis, stochastic process, queuing process, sampling
+techniques, Probabilistic models, Mixture models, Latent Models, prediction models,
+Association Analysis, Correlation analysis, Evaluation and Validation, performance
+analysis/metrics
+(d) Vector and matrix algebra, Decompositions, SVD, pseudo inverse, rank approximation
+(e) Linear and Non-linear Programming.
+(f) Classification, regression, prediction, clustering, anomaly detection, feature
+engineering, supervised/ unsupervised Learning, Fundamental of SVM, Kernel
+techniques, States space machine, Markov decision process, ANN, Deep learning and
+its implementation, Deep learning application lab (GPU environment, Python
+environment) , Higher level Machine learning, Transfer learning, online and
+incremental learning, reinforcement learning, explain-ability in Machine Learning, Bias
+variance trade-off, ensemble learning, Auto ML
+(g) Discrete models, continuous models, Hybrid models (both analytical and data driven
+models), assumptions, approximations, models validation, MCS
+(h) Numerical methods for PDEs
+(i) Cryptosystems (types)
+Elective Topics:
+Financial engineering, Computational finance, Computational Game Theory, Graph Theory,
+Dynamical Systems, Reliability Theory, Stochastic Processes, Representation of Finite Groups,
+Computational linguistics, Computational economics, Digital Humanities, Cultural informatics,
+Blockchain, security and privacy, AR/VR, Natural Language Processing and Text analytics,
+Visualization, Machine learning for big data, Human-machine interface, Computational
+modelling in materials design, Bioinformatics, Computational biology, Digital Image Analysis,
+Coding Theory, Robotics, Computational electro magnetism, Computational optics, Quantum
+Information System, Quantum Cryptography, Quantum Computing, Computational Physics,
+Computational material science, Computational chemistry, adaptive numerical methods,
+multi-grid methods, parallel methods, GPU computation.
+(7) List of Program Electives
+(a) Electives from sister Departments:
+S.No. Course Title S.No. Course Title
+Department of Mathematics Department of Electrical Engineering
+1 Financial Engineering 19 Digital Image Processing and
+Applications
+2 Computational Game Theory 20 Digital Video Processing
+3 Advanced topics in computational PDE 21 Coding Theory
+22 Compressive Sensing
+4 Dynamical Systems 23 Machine Learning for Communication
+5 Reliability Theory 24 Compressive Sensing
+6 Stochastic Processes 25 Data Compression
+7 Representation of Finite Groups Department of Mechanical Engineering
+8 Shared Computational Economics 26 Robotics
+Department of Humanities and Social
+Sciences
+27 Probabilistic Methods in Engineering
+Department of Physics
+9 Cultural informatics 28 Computational Physics
+Department of Computer Science and
+Engineering
+29 Computational material science
+Department of Chemistry
+10 Computational linguistics 30 Computational Chemistry
+11 Introduction to Virtual and Augmented
+Reality
+Department of Metallurgical and Materials
+Engineering
+12 Natural Language Processing 31 Computational Materials Engineering
+13 Visualization/Data Visualization Department of Biosciences and
+bioengineering14 Artificial Intelligence 1
+15 Artificial Intelligence 2 32 Omics Technologies
+16 Human Machine Interface 33 Algorithm development
+17 Graph Theory and its Applications 34 Computational modeling in material
+design17 Bio-image Computing
+18 Computer Vision 35 Applications in Multi Omics data,
+Imaging, Sensors
+(b) Electives from IDRPs:
+Digital Humanities
+1 Introduction to Digital Humanities
+Quantum Computing
+2 Introduction to Quantum Information
+3 Quantum Computing
+4 Facets of Quantum Information
+5 Quantum Cryptography and Coding
+(c) Specialized electives:
+1 Selected Topics in Data and Computational Science - I (1-0-0-0)
+2 Selected Topics in Data and Computational Science - II (2-0-0-0)
+3 Selected Topics in Data and Computational Science - III (3-0-0-0)
+(8) Content of compulsory courses:
+Title Introduction of Data Science Number MAL7XX0
+Department Mathematics L-T-P-D [C] 1–0–0-0 [1]
+Offered for M.Tech.(DCS) Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce the basics of data science and its underlying concepts.
+2. Introduce data processing, manipulation and cleaning techniques.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Acquire familiarity with the basic concepts of data science.
+2. Distinguish between different kinds of data and data governance.
+3. Understand the preparation and processing of the data.
+Contents
+[14 Lectures] Data preparation, Data pre-processing, Data Cleaning, Data Integration, Data
+Transformation, Data Reduction, Redundancy Removal, Data storage, Data Handling, Querying
+Data, Data Representation and Exploration, Big Data.
+Text Books
+1. Kotu, V. and Deshpande, B. (2018) Data Science: Concepts and Practice, Morgan
+Kaufmann.
+2. Saltz, J.S. and Stanton, J.M. (2017) An Introduction to Data Science, SAGE Publications.
+3. Kelleher, J.D., and Tierney, B. (2018) Data Science, MIT Press.
+Reference Books
+1. Moreira, J., Carvalho, A. and Horvath, T. (2018) A General Introduction to Data Analytics,
+John Wiley & Sons.
+2. Mayer-Schonberger, V. and Cukier, K., (2013) Big data: The essential guide to work, life
+and learning in the age of insight, John Murray Publications.
+Online course Material
+Not Available
+Title Mathematics for Data Science Number MAL7XX0
+Department Mathematics L-T-P-D [C] 1–0–0-0 [1]
+Offered for M.Tech.(DCS) Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide an understanding statistical concepts for data scientist.
+2. Train the student to do Matrix Computations for implementing various numerical
+linear algebra algorithms.
+3. Train student in the domain of linear and non-linear programming.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Derive distributional results needed for the statistical hypothesis testing and perform
+the hypothesis testing for the parameters of the normal population.
+2. Understand the numerical linear algebraic methods and their usage for data analysis.
+3. Apply programming concepts for further applications in different areas of interest.
+Contents:
+MAL7XX1: Statistical Techniques [1-0-0-0]
+Probability Models and Sampling Techniques[3 Lectures]: Normal, Chi-Square and t
+distributions, Basic concepts of random sampling, sampling from normal distribution,
+properties of sample mean and sample variance.
+Tests of Hypotheses[5 Lectures]: Basic concepts of statistical hypotheses testing-simple and
+composite hypotheses, critical regions, Type-I and Type-II errors, size and power of a test,
+Neyman Pearson lemma, tests for one-sample and two-sample problems from normal
+populations.
+Stochastic Processes[6 Lectures]: Definition and classification of general stochastic
+processes; Markov Chains: definition, transition probability matrices, classification of states,
+limiting properties; Poisson process, Birth and death processes, exponential queuing model.
+MAL7XX2: Matrix Computations [1-0-0-0]
+Matrix Algebra [3 Lectures]:Matrix operations and type of matrices, Rank of Matrix,
+Eigenvalues, Eigenvectors and Diagonalizable matrices, Vector Norms, Matrix Norms.
+Decompositions [9 Lectures]:Spectral decomposition, Schur Decomposition, QR
+Factorization, Singular value decomposition (SVD), Polar Decomposition, Pseudo Inverse.
+Approximations [2 Lectures]: Least square approximations, Low-Rank Approximation.
+MAL7XX3: Optimization [1-0-0-0]
+Linear Programming Problem[4 Lectures]: Linear combination of vectors, Convex set,
+Convex hull, Linear programming problem, feasible solution, basic feasible solution,
+graphical solution, Simplex method, Charne’s M method.
+Duality and IPP[6 Lectures]: Dual of an LPP, Integer Programming, Gomory’s cut-constraint
+method.
+Nonlinear Programming[4 Lectures]: First and second order conditions, Constrained
+optimization - Lagrange Multipliers, Karush-Kuhn-Tucker conditions.
+Text Books
+(Fractal 1)
+1. Casella, G. and Berger, R. (2002), Statistical Inference, Cengage Learning.
+2. Ross, S.M. (1996), Stochastic Processes, Wiley.
+(Fractal 2)
+3. Mayer, C.D. (2000) Matrix Analysis and Applied Linear Algebra, SIAM.
+4. Strang, G., (2006), Linear Algebra and its Applications.
+5. Elden, L. (2007) Matrix Methods in Data Mining and Pattern Recognition, SIAM.
+(Fractal 3)
+6. Luenberger, D. G., Linear and Nonlinear Programming, Yinyu Ye, Third Edition,
+Springer, 2008
+7. Kambo, N. S., Mathematical Programming Techniques, Second Edition, Affiliated East
+West Press, 2005
+Reference Books
+(Fractal 1)
+1. Rohatgi, V.K. and Saleh, A.K.M.E. (2018). An Introduction to Probability and
+Statistics, Wiley.
+2. Ross, S.M. (2010). An Introduction to Probability Models, Elsevier.
+3. Hoel, P.G., Port, S.C. and Stone, C.J. (1972). Introduction to Stochastic Processes,
+Houghton Mifflin Company.
+(Fractal 2)
+4. M Goloub, G.H. and Charles, F.V.L. (2013) Matrix Computations, JHU Press.
+5. Lancaster, P. and Tismenetsky, M. (1985) The Theory of Matrices: With Applications,
+Academic Press.
+(Fractal 3)
+6. Bazaraa, M. S., Sherali, H.D., and Shetty, C. M., Nonlinear Programming: Theory and
+Algorithms, Third Edition, Wiley publications, 2006
+7. Darst, R, Introduction to Linear Programming: Applications and Extensions, Dekker
+Publications, 1991
+Online course Material
+(Fractal 2)
+1. Agrawal, P.N., Numerical Linear Algebra, NPTEL course material, Department of
+Mathematics, Indian Institute of Technology
+Roorkee,https://nptel.ac.in/courses/111107106/
+(Fractal 3)
+2. Goswami A., Chakraborty D., Optimization, NPTEL Course Material, Department of
+Mathematics, Indian Institute of Technology Kharaggpur,
+https://nptel.ac.in/courses/111105039/
+Title Advanced Statistical Techniques Number MAL7XX0
+Department Mathematics L-T-P-D [C] 2–0–0-0 [2]
+Offered for M.Tech.(DCS) Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. Provide an understanding of the statistical concepts and their real-life applications.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Estimate the parameters of the underlying population;
+2. Gain the basic knowledge of mixture models, latent models, association, correlation and
+regression analysis.
+Contents:
+Estimation [4 Lectures]: Point estimation-maximum likelihood estimator, methods of evaluating
+estimators; Interval estimation- Methods of finding confidence intervals.
+Mixture Models and Latent Models [3 Lectures]: Basic ideas, finite mixtures, continuous mixtures,
+conditional mixing distributions; Latent models.
+Association and Correlation Analysis [7 lectures]: Categorical data, consistency of data,
+independence and association of attributes; Measures of association – Pearson’s and Yule’s
+measures, Goodman-Kruskal’s γ, Odds Ratio; Fitting of logit model through least squares,
+Properties of product moment correlation coefficient, Spearman’s rank correlation coefficient.
+Regression Analysis [14 lectures]:Model building, data collection, uses of regression; Simple linear
+regression model - Least-Squares estimation of the parameters, hypothesis testing on the slop and
+the intercept, interval estimation, prediction of new observations, coefficient of determination;
+Multiple linear regression model - estimation of the model parameters, hypothesis testing,
+confidence intervals, prediction of new observations; Model adequacy checking-residual analysis;
+Validation techniques.
+Text Books
+1. Casella, G. and Berger, R. (2002). Statistical Inference, Cengage Learning.
+2. Marshall, A.W. and Olkin, I. (2007). Life Distributions: Structure of Nonparametric,
+Semiparametric and Parametric families, Springer.
+3. Gun, A.M., Gupta, M.K. and Dasgupta, B. (1998): Fundamentals of Statistics (V-1), World
+Press.
+4. Montgomery, D.C., Peck, E.A. and Vining, G.G. (2012). Introduction to Linear Regression
+Analysis, Wiley.
+Reference Books
+1. Rohatgi, V.K. and Saleh, A.K.M.E. (2018). An Introduction to Probability and Statistics,
+Wiley.
+2. Draper, N.R. and Smith, H. (1998). Applied Regression Analysis, Wiley.
+3. Ross, S. (2012). Simulation, Academic Press
+Online course Material
+1. Panchenko, D., Statistics for Applications, Massachusetts Institute of Technology: MIT Open
+Courseware, https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-
+fall-2006/#.
+Title Introduction to Modeling Number MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [1]
+Offered for M.Tech.(DCS) Type Compulsory
+Prerequisite
+Objectives
+The Instructor will:
+1. Introduce various modeling techniques
+2. Explain how to analyses mathematical models
+Learning Outcomes
+The students are expected to have the ability to:
+1. Model a given scenario using appropriate mathematical techniques
+2. Analyze and draw conclusions about the process/system under consideration
+Contents
+Principles of mathematical modeling [4 lectures]: Assumptions, approximations, abstraction, scale,
+conservation and balance principles, dimensional homogeneity and consistency, model validation
+Modeling Methods [10 lectures]: Continuous models, discrete models, models of hybrid systems,
+use of differential equations, variational principles, Data driven models.
+Textbooks
+1. Gershenfeld, N. (1999) The Nature of mathematical modelling, Cambridge University Press.
+2. Haberman, R. (1998) Mathematical models, SIAM.
+Reference Books
+1. Dym, C.L. (2004) Principles of mathematical modeling, Academic Press.
+2. Boccara, N. (2010) Modeling complex systems, Springer.
+Online Course Material
+Not available
+Title Numerical Methods for PDE Number MAL8XX1
+Department Mathematics L-T-P-D [C] 1–0–0-0 [1]
+Offered for M.Tech.(DCS)/Ph.D.(MA) Type Elective
+Prerequisite
+Objectives
+The Instructor will
+1. Introduce finite difference schemes for numerical solutions of partial differential equations.
+2. Carry out numerical analysis of various finite difference schemes.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Apply finite difference schemes for numerical solution of partial differential equations.
+2. Undertake out error analysis and stability analysis of finite difference schemes
+Contents
+[8 Lectures] Characterization of PDEs, Finite difference methods for elliptic, parabolic and
+hyperbolic problems.
+[6 Lectures]Stability, consistency and convergence theory, dissipation and dispersion, error
+estimates.
+Text books
+1. Quarteroni, A. and Valli, A. , Numerical Approximation of Partial Differential Equations,
+Springer, 1997
+2. Morton, K. W. and Mayers, D. F. , Numerical solution of partial differential equations, CUP,
+2005
+Reference Books
+1. Thomas, J. W. , Numerical partial differential equations: Finite difference methods, Springer,
+1995
+2. Trefethen, L. N. and David Bau III, Numerical Linear Algebra, SIAM, 1997
+Online Course Material
+1. Nayak, A. K. , Numerical methods: Finite Difference Approach, NPTEL Course Material,
+Department of Mathematics, Indian Institute of Technology Roorkee,
+https://nptel.ac.in/courses/111107107/
+Title Data Analytics Lab Number MAP7XX0
+Department Mathematical L-T-P-D [C] 0–0–2-D [1]
+Offered for M.Tech.(DCS) Type Compulsory
+Prerequisite
+Objectives
+The Instructor will
+1. Introduce the basics of R software and then train to write scripts, create a work
+environment, and data handling and data visualization.
+2. Enable students to be able to analyse the data using R.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Understand R language fundamentals and basic syntax.
+2. Comprehend What R is and how it’s used to perform data analysis.
+3. Create their own R code for visualizations of data.
+Contents
+Basic calculations with R, Descriptive statistics [3 Labs]: Introduction to R Software, Basics and
+calculations with Data Vectors, Built-in-commands and Missing Data Handling, Operations with
+Matrices, Variables and Types of Data, Absolute, relative frequency and frequency distribution,
+Graphs and plots.
+Central tendency of data and Variation in data [4 Labs]:Arithmetic Mean, Median, Quantiles, Mode,
+Geometric Mean and Harmonic Mean, Range, Interquartile Range and Quartile Deviation, Absolute
+Deviation and Absolute Mean Deviation, Mean Squared Error, Variance and Standard Deviation,
+Coefficient of Variation and Boxplots.
+Moments, Association of Variables, Fitting of Linear Models [7 Labs]:Central Moments, Absolute
+Moments and Computation of Moments, Skewness and Kurtosis, Univariate and Bivariate Scatter
+Plots, Quantile in 3D plots, Correlation Coefficient, Rank Correlation Coefficient, Measure of
+Association for Discrete and Counting Variables, Least Squares Method.
+Text Books
+1. Wickham, H. and Grolemund, G. (2016) R for Data Science: Import, Tidy, Transform,
+Visualize, and Model Data, 'O'Reilly Media, Inc.
+2. Toomey, D. (2014) R for Data Science, Packt Publishing Ltd.
+3. Healy, K. (2018) Data Visualization: A Practical Introduction, Princeton University Press.
+Reference Books
+1. Knell, R.J. (2014) Introductory R: A Beginner’s Guide to Data Visualisation,
+2. Stinerock, R. (2018) Statistics with R: A Beginner's Guide, SAGE publication.
+Online Course Material
+1. Shalab, Descriptive Statistics with R Software, NPTEL Course Material, Department of
+Mathematics and Statistics, Indian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/111104120/
+(9) Content of Elective courses:
+Course Title Dynamical Systems Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA)/M.Tech.(DCS)/PhD (MA) Type Elective
+Pre-requisite
+Objectives
+1. To introduce the concept of linear and nonlinear dynamical systems.
+2. To learn the basic concepts in dynamical systems, like, evolution of system, fixed points,
+periodic points, attractors, bifurcation process and stability of the systems.
+3. To understand the nonlinearity in nature and study of the nonlinear models in engineering
+and its dynamics.
+4. Use Matlab and simulink for solving dissipative dynamical systems, which are relevant for
+engineering models.
+Learning Outcomes
+1. Construction of phase portraits of nonlinear system and understanding of fundamental
+difference between linear and nonlinear systems.
+2. Identification of attractors, like, fixed points, periodic attractors, Cantor sets, Chaotic attractor
+and in the continuous case, limits cycles.
+3. Understanding the different bifurcations, like, saddle node, period doubling etc.
+Contents
+Linear and Nonlinear Dynamical Systems [Lectures 12]: History of Dynamics, The importance of
+being Nonlinear, A Dynamical view of the world, Examples of dynamical systems, Uncoupled
+Linear systems, Diagonalization, Exponential of operators, Linear systems in R^2 and Stability
+theory, Nonhomogeneous Linear systems, Nonlinear differential equations, Vector field of
+nonlinear systems, Phase portrait, Limit cycles and their stability.
+One-dimensional Discrete maps [Lectures 12]: Logistic maps, period doubling bifurcations, Flip
+and tangent bifurcations, Periodic windows, Intermittency transcritical, Lyapunov exponent,
+Universality and Experiments.
+Dynamics of Continuous and Discrete Systems: [Lectures 18]: Lorenz equations, Rossler
+Equation, Chua's circuit, Forced pendulum, Stable and Unstable manifolds, Basin boundary,
+Horseshoe maps, Boundary crisis, Interior crisis, Statistics of Chaotic attractor, Frequency
+spectra of orbits, Matrix times circle.
+Textbook
+1. Steaven, S., Nonlinear Dynamics and Chaos: With Applications to Physics, Biology,
+Chemistry, and Engineering, 1st Ed., Levant Books, 2007
+2. Alligood, K., Sauer, T., and Yorke, J., Chaos: An Introduction to Dynamical Systems,
+Second Edition, Springer, 2008.
+Reference Books
+1. Devaney, R.L., An Introduction to Chaotic Dynamical Systems, Addison Wesley, 2005.
+2. Holmgren, A.R., A First course in discrete dynamical systems, Springer.
+Online course Material
+1. Banerjee S., NPTEL Course on Chaos, Fractals and Dynamic Systems, Department of
+Electrical Engineering, IIT Kharagpurhttps://nptel.ac.in/courses/108105054/
+Title Stochastic Processes Number MAL8XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite Probability and Linear Algebra
+Objectives
+The Instructor will:
+1. Provide background in the area of Random Processes.
+2. Provide sufficient knowledge of the subject which can be used by students for further
+applications in their respective domains of interest.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Develop basic understanding of the Stochastic Process, Random Walk and Martingales.
+2. Impart knowledge in Markov Chain, Birth and Death Process, Brownian Motion, Stochastic
+Calculus
+Contents
+[4 Lectures] Conditional probability and conditional expectation, properties of conditional
+expectation.
+[8 Lectures]Stochastic processes, stationarity, finite-dimensional distributions, stopping times,
+stopped sigma-fields and processes, right-continuous and canonical filtrations, adapted and
+previsible processes.
+[8 Lectures]Random walk; Gaussian distribution: for variables, vectors and processes, non-
+degeneracy, stationarity, closeness under 2-mean convergence.
+[12 Lectures]Brownian motion, Gaussian construction, independence of increments, scaling and
+time inversion, Levy's martingale characterization, reflection principle, law of its maximum in an
+interval and first hitting time of positive levels, modulus of continuity, quadratic and total variation.
+Related processes: Geometric Brownian motion, Brownian bridge, Ornstein-Uhlenbeck process and
+martingales.
+[10 Lectures]Poisson distribution, approximation, rate, construction, independence of increments,
+memoryless property of the Exponential law, the dual process of independent Exponential inter-
+arrivals, the order statistics of independent uniform samples.
+Textbook
+1. Ross, S. M. (2018), Stochastic Processes, Wiley
+Reference Books
+1. Ross, S. M. (2005), Introduction to Probability Models, Elsevier
+2. Shreve, S. E. (2008), Stochastic Calculus for Finance II, Springer
+Online course Material
+1. Wu, H., Introduction to Stochastic Processes, Massachusetts Institute of Technology: MIT
+Open Courseware, https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-
+stochastic-processes-spring-2015/.
+Title Computational Game Theory Number MAL8XX0
+Department Mathematics L-T-P [C] 3–0–0-0 [3]
+Offered for M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite Basics of Optimization Theory
+Objectives
+1. Provide background in the area of computational game theory.
+2. Provide sufficient knowledge of the subject which can be used by students for further
+applications in their respective domains of interest.
+Learning Outcomes
+1. Understanding of fundamentals like Nash equilibrium, dominant strategies and their
+applications.
+2. Basic understanding of the Co-operative games, iterated games and mixed strategies.
+3. Knowledge of non-co-operative games, Zermelo’s algorithm and their applications.
+Contents
+[12 lectures]: Von Neumann and Morgenstern utility functions, expected utility and expected
+utility maximization, Paradoxes of expected utility maximization, Compact representations for
+preference relations, Dichotomous preferences and goals. Representations for specifying goals,
+Strategic Form Non-Cooperative Games, Basic model and solution concepts, pure strategy Nash
+equilibrium, dominant strategies, notable games, coordination games and focal points, complexity
+of pure strategy Nash equilibrium.
+[14 Lectures]: Mixed strategies: Nash’s theorem and Nash equilibrium, Computing mixed strategy
+Nash equilibria, Lemke-Howson algorithm, Zero sum games, Minimax Theorem, Compact
+representations for strategic form games, Boolean games, congestion games, Iterated Games:
+Finitely repeated games and backward induction, Infinitely repeated games, measuring utility over
+infinite plays modelling strategies as finite state machines with output (Moore machines); The Folk
+theorems, Iterated Boolean games, Axelrod’s tournament, the Hawk-Dove game, evolutionary
+game theory, evolutionarily stable strategies.
+[16 lectures]: Extensive Form Non-Cooperative Games: Zermelo’s algorithm and backward
+induction, subgame perfect equilibrium, Zermelo’s theorem, Compact representations for
+extensive form games, PEEK games and EXPTIME-completeness results, the Game Description
+Language (GDL), Imperfect information games, PEEK games with incomplete information,
+Cooperative Games: Transferable utility (TU) characteristic function games, basic model, stability
+& fairness solution concepts, cost of stability, Shapley value, Banzhaf index, induced subgraph
+representation, marginal contribution nets, Simple TU games, swap and trade robustness,
+weighted voting games, vector weighted voting games, network flow games, NTU games and their
+representations
+Textbooks
+1. G. Chalkiadakis, E. Elkind, and M Wooldridge, Computational Aspects of Cooperative Game
+Theory, Morgan-Claypool, 2011.
+2. Machler, E. Solan, S. Zamir, Game Theory, Cambridge U.P., 2013.
+3. M. J. Osborne, An Introduction to Game Theory, Oxford U.P., 2004.
+Reference Books
+1. R. D. Luce and H. Raiffa, Games and Decisions, Wiley, 1958
+2. M. J. Osborne and A. Rubinstein, A Course in Game Theory, 1994.
+Online course Material
+Not Available
+Title Advanced topics in Computational PDE Number MAL8XX0
+Department Mathematics L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite ODEs, PDEs and numerical methods
+Objectives
+The Instructor will:
+1. Introduce multi-grid methods,
+2. Introduce parallel computing methods,
+3. Explain use multi-grid methods and parallel computing methods.
+Learning Outcomes
+The students are expected to have the ability
+1. to solve partial differential equation using multi-grid methods,
+2. to speed up computations using parallel numerical methods.
+Contents
+Multi-grid methods [20 lectures]: Review of classical finite difference schemes for numerical
+solution of partial differential equations, Fourier analysis for error propogation, influence of grid
+parameters, grid hierarchies, multi-grid cycles, convergence monitors, smoother, W-cycle and
+nested iteration, coarse-grid solver, multigrid as a preconditioner, Numerical implementations
+with Diffpack programming
+Parallel Computing [20 lectures]: Need for parallel computation, different hardware
+architectures, message-passing programming model, multicomputer model, OPEN MP, MPI,
+CUDA, parallel linear algebra operations, parallel algorithms for linear systems with special
+structures, parallel implementation of direct and iterative methods for solution of linear
+systems, parallelizing finite difference schemes (wave Equation, heat condunction equation)
+Textbooks
+1. Langtangen H. P. and Tveito, A. (Editors) (2003) Advanced topics in computational
+partial differential equations: Numerical methods and Diffpack programming, Springer
+2. Briggs, W. L., Henson, V. E., and McCormick, S. F. (2000) A multigrid tutorial, 2nd Ed.,
+SIAM
+3. Grama, A., Gupta, A., Karypis, G., and Kumar, V. (2003) Introduction to parallel
+computing, 2nd Ed, Pearson
+Reference Books
+1. Quarteroni, A. and Valli, A. (1997), Numerical approximations of partial differential
+equations, 2nd Edition, Springer
+2. Bertsekas, D. P. and Tsitsiklis, J. N. (1997) Parallel and distributed computation:
+Numerical methods, Prentice-Hall
+Online Course Material
+1. M. Ramakrishna, Introduction to computational fluid dynamics, NPTEL course material,
+Department of Aerospace Engineering Indian Institute of Technology Madras,
+https://nptel.ac.in/syllabus/101106045/
+2. Subodh Kumar, Parallel Computing, NPTEL course material, Department of Computer
+Science and Engineering Indian Institute of Technology Delhi,
+https://nptel.ac.in/courses/106102114/
+Title Financial Engineering Number MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Sc.(MA)/M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite
+Objectives
+The Instructor will:
+1. Securities Pricing Securities, Risk Management Assessment, prediction and decision making,
+under uncertainty, regarding future events and their consequences
+2. Portfolio Optimization Balancing risk and return
+3. Modeling Pricing of derivatives and Itos calculus
+Learning Outcomes
+The students are expected to have the ability to:
+1. Valuation of financial portfolio
+2. Pricing of financial derivatives (options and contracts)
+3. Understanding risk and return
+Contents
+[18 lectures]Introduction to financial markets and financial instruments, financial derivatives, risk
+and return, risky and risk free assets, interest rates, bonds, bonds pricing, spot and forward rates,
+investment portfolio, mean-variance analysis, capital asset pricing model, arbitrage pricing theory.
+[22 lectures]Discrete time models, stock and money market models, principle of no arbitrage,
+pricing of contracts (forward and future), options, put-call parity, option pricing, martingales,
+Binomial model, CRR model, Black-Scholes formula, Greeks, random walk, Brownian motion,
+stochastic process, Itos integral and Ito-Deoblins formula.
+Textbook
+1. M. Capinski and T. Zastawniak (2010). Mathematics for finance: an introduction to financial
+engineering, Springer.
+2. S.N. Neftci (2009). Principles of financial engineering. Academic Press/Elsevier.
+Reference Books
+1. J.C. Hull (2011). Options, futures and other derivatives. Pearson India.
+2. S.E. Shreve (2000). Stochastic calculus for finance I: The binomial asset pricing model,
+Springer
+Online Course Material
+Not Available
+Title Reliability Theory Number MAL8XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite Probability and Statistics
+Objectives
+1. To understand the basic concepts of statistical reliability theory and their various real-life
+applications.
+Learning Outcomes
+1. Understand the basic notion of systems, different reliability measures, different notions of
+ageings, different semiparametric models, shock models and dependence structures;
+2. Gain the ability to handle different issues in system reliability.
+Contents
+Basic Notion of Systems [6 lectures]: Structure function, coherent systems, k-out-of-n systems,
+dual structures, cut and path sets, modular decomposition.
+Reliability Measures [5 lectures]: Survival/Reliability functions, hazard rate function, reversed
+hazard rate function, residual lifetime, inactivity time, mean residual lifetime function, mean
+inactivity time, reliability bounds.
+Semiparametric Models [6 lectures]:Common life distributions, scale model, proportional hazard
+rate model, proportional reversed hazard rate model, proportional odds model, proportional mean
+residual lifetime model.
+Stochastic Ageings [8 lectures]: Notions of stochastic ageing, different ageing classes, ageing
+properties of common life distributions, closure properties of different ageing classes under
+formation of coherent structures, convolutions and mixtures.
+Shock Models and Dependence Structures [7 lectures]: Univariate and bivariate shock models,
+notions of bivariate and multivariate dependence structures.
+Issues in System Reliability [10 lectures]: Maintenance and replacement policies, availability of
+repairable systems, optimization of system reliability with redundancy.
+Text Books
+1. Barlow, R.E. and Proschan, F. (1975). Statistical Theory of Reliability and Life Testing. Holt,
+Rinehart and Winston, New York.
+2. Lai, C.D. and Xie, M. (2006). Stochastic Ageing and Dependence for Reliability. Springer,
+New York.
+3. Marshall, A.W. and Olkin, I. (2007). Life Distributions. Springer, New York.
+Reference Books
+1. Barlow, R.E. and Proschan, F. (1965). Mathematical Theory of Reliability. Wiley, New York.
+2. Samaniego, F.J. (2007). System Signatures and their Applications in Engineering
+Reliability. Springer, New York.
+Online Course Material
+Not Available
+Title Representations of finite groups Number MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Sc.(MA)/M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite
+Objectives
+1. The goal of this course is to give an introduction to representation theory and to understand
+representations of symmetric groups.
+Learning Outcomes
+1. Representation theory and characters of finite groups.
+2. Representation theory of Symmetric groups.
+Contents
+Group Action and Modules[6 Lectures]: Groups and Examples (Recall), Group action, Conjugacy
+Classes, Modules: Definition and Examples.
+Basic concepts of Representation Theory[10 Lectures]: Representations and basic examples,
+FG-modules, Group algebra, Irreducible representations, complete reducibility and Maschke’s
+theorem, Schur’s lemma.
+Characters and Burnside’s pq Theorem[10 Lectures]: Character theory of representations,
+orthogonality relations, decomposition of the regular representation. Character Tables of some
+groups, Characters and Algebraic Integers, Burnside’s pq-theorem.
+Representation theory of symmetric groups[16 Lectures]: Tensor products, Restriction of a
+representation, induced representations, Frobenius reciprocity, Mackey’s irreducibility criterion,
+Representation theory of symmetric groups, Few applications of Representation Theory (if time
+permits).
+Text Books
+1. Benjamin Steinberg, Representation Theory of Finite Groups, Springer (Universitext),
+2012.
+2. Gordon James and Martin Liebeck, Representations and Characters of Groups, Cambridge
+University Press, 2001.
+Reference Books
+1. William Fulton and Joe Harris, Representation Theory: A First Course, Springer (Graduate
+Texts in Mathematics 129), 1991.
+2. Amritanshu Prasad, Representation Theory: A Combinatorial Viewpoint, Cambridge
+University Press, 2015.
+Online Course Material
+Not Available
+Title Computational Linguistics Number CSL8XX0
+Department Computer Science and Engineering L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Tech./PhD Type Elective
+Prerequisite Basic Probability Theory
+Objectives
+The Instructor will:
+1. Enable students to develop computational models for languages.
+2. Introduced linguistic structure of an unfamiliar language in terms of morphology, syntax,
+and orthography.
+3. Impart knowledge of linguistic descriptions of a language combined with some textual
+resource in the language.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Do an exhaustive search of resources in and about a language without many resources.
+2. Resolve technical, logistical, and ethical issues involved in constructing a keyboard layout
+for a language's morphology and orthography.
+3. Design and implement general approaches in rule-based machine translation.
+Contents
+Introduction[2 Lectures]: Definition of computational linguistics, Ambiguity and uncertainty in
+language, The Turing test.
+Regular Expressions[6 Lectures]: Chomsky hierarchy, regular languages, and their limitations,
+Finite-state automata, Practical regular expressions for finding and counting language phenomena,
+morphology, syntax and orthography.
+String Edit Distance[6 Lectures]: Key algorithmic tool: dynamic programming, optimal alignment of
+sequences, String edit operations, edit distance, spelling correction, and machine translation.
+Context Free Grammar[4 Lectures]: Constituency, CFG definition, use and limitations. Chomsky
+Normal Form, Top-down parsing, bottom-up parsing, Efficient CFG parsing with CYK, Earley parser.
+Language modelling[10 Lectures]: Definition of information and its measurement, noisy channel
+model, the language Shannon game, Entropy, cross-entropy and information gain for language
+phenomena, Probabilistic language modelling and its applications, estimating the probability of a
+word, and smoothing, Generative models of language and their application to building an
+automatically-trained email spam filter, and automatically determining the language.
+Part of Speech Tagging[4 Lectures]: The concept of parts-of-speech, examples and usage, the
+Penn Treebank and Brown Corpus, Collocations and Noun Phrase Parsing.
+Word Sense Disambiguation and Clustering[10 Lectures]: Homonomy, polysemy, different
+meanings, the power of context, Language neighbourhood as a vector, Agglomerative clustering,
+Clustering by expectation maximization, Using clustering to discover different word senses, Semi-
+supervised document classification.
+Textbook
+1. Grishman, R. (1986) Computational Linguistics: An Introduction, Cambridge University
+Press.
+2. Rosner, M. and Johnson, R. (1992) Computational Linguistics and Formal Semantics,
+Cambridge University Press.
+3. Jurafsky, D. (2000) Speech & Language Processing, Pearson Education India.
+Reference Books
+1. Mitkov, R. (2004) The Oxford Handbook of Computational Linguistics, Oxford University
+Press.
+2. Manning, C.D. and Schütze, H. (1999) Foundations of Statistical Natural Language
+Processing, MIT Press.
+Online Course Material
+Title Computational Economics Number MAL8XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite Basic knowledge of Optimization techniques
+Objectives
+The Instructor will:
+1. Enable students to understand computational economic models.
+2. Impart knowledge to design expressive marketplaces.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Do an exhaustive search of computational economic models.
+2. Analyse expressive marketplaces.
+3. Design and implement optimal market mechanisms.
+Contents
+[6 Lectures] Definition of computational economics, basic techniques from mathematics, Linear
+programming, (Mixed) integer linear programming, Computational problems, Algorithms, Runtime
+of algorithms, Easy and hard problems.
+[12 Lectures] Single-item auctions, Combinatorial auctions, Bidding languages, Winner
+determination problem, Reverse auctions and exchanges, Expressive financial securities, Barter
+exchanges/matching markets.
+[12 Lectures] Kidney exchange, Expressive negotiation over donations, Voting and social choice,
+Iterative mechanisms/preference elicitation.
+[12 Lectures] Risk neutrality and risk aversion, Expected utility theory, Incentive compatibility,
+Individual rationality, Revelation principle, Clarke mechanism, Groves mechanisms, Automated
+mechanism design and Proper scoring rules.
+Textbook
+1. Miranda, M.J. and Fackler, P.L. (2004) Applied Computational Economics and Finance, MIT
+Press.
+2. Afonso, O. and Vasconcelos, P.B. (2015) Computational Economics: A concise introduction,
+Routledge.
+Reference Books
+1. Stokey, N.L. (1989) Recursive Methods in Economic Dynamics, Harvard University Press.
+2. Chen, S.-H., Kaboudan, M. and Du, Y.-R. (2018) The Oxford Handbook of Computational
+Economics and Finance, Oxford University Press.
+Online Course Material
+Title Computational Chemistry Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.(DCS) Type Elective
+Pre-requisite
+Objectives
+The Instructor will:
+1. Describe knowledge of modern techniques in computational methods applied in chemistry.
+Learning Outcomes
+The students are expected to:
+1. Use modern computational chemistry techniques to solve fundamental problems related to
+chemistry.
+Contents
+Basics: Fundamentals of quantum, classical, and statistical mechanics, mathematical techniques
+(10 lectures)
+Electronic structure: Variation theory, perturbation theory, electron spin, He atom, Pauli exclusion
+principle, Slater determinant (6 lectures)
+Electronic structure of diatomic molecules: Born Oppenheimer approximation, Atomic units, H2+
+ion, H2 molecule, VB theory, MO theory (8 lectures)
+Wave function based theory: Hartree-Fock theory, Electron correlation, Self-consistent field wave
+function, Moller-Plesset theory, Coupled cluster formulation (10 lectures)
+Basics of Molecular Dynamics: Theoretical foundation, Boltzmann’s relation, harmonic oscillator and
+harmonic baths, Algorithms for equations of motions (7 lectures)
+Textbook
+1. Levine, I. N., (2000) Quantum Chemistry, Pearson education.
+2. Lowe, J. P., (1995) Elementary Quantum Chemistry, Academic Press.
+Reference Books
+1. Szabo, A. and Ostlund, N. S., (1996) Modern Quantum Chemistry, Dover.
+2. D. Frenkel and B. Smith, (2002), Understanding Molecular Dynamics Simulations,1st Edition,
+Academic Press
+Self learning Material
+1. K. Mangala Sunder, Introduction to Chemistry & Quantum Chemical Methods, NPTEL course
+material, Department of Chemistry, IIT Madras, http://nptel.iitm.ac.in

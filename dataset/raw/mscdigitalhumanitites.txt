@@ -1,0 +1,1374 @@
+Digital Humanities
+Curriculum
+of
+M.Sc. Program
+1. Introduction
+Master of Science (M.Sc.) in Digital Humanities at IIT Jodhpur is designed to address
+developments, implications, and inflections of digital technologies on historical and
+contemporary culture, and society. To contextualize, disciplinary evolutions of the natural
+sciences, social sciences, the arts and humanities and allied technologies have converged and
+diverged over the centuries. The digital scholarship in the social sciences, the arts and
+humanities is only emerging. One reason for the growth of digitization in the social sciences,
+the arts and humanities is not an emulation of the natural sciences, rather, discovering
+meaning in the application of information technology as an aid to fulfil the disciplines’ basic
+tasks of preserving, reconstructing, transmitting, and interpreting the human record
+historically and contemporaneously.
+Given the above, the primary objective of this program is to orient students in the ways in
+which the study of the humanities, social sciences, and similar areas has been transformed
+by the influence of digital technologies and economic compulsions. This confluence of
+disciplines has redefined the contours of the subject of “humanities”. In the present context,
+a critical interrogation into the history of digital approaches to the humanities, modes of
+implementation of digital tools & platforms, issues related to the utilization of big data
+(through database construction, text markup, informatics, statistical analysis to name a few)
+are imperatives in contemporary research in Humanities. This interdisciplinary M.Sc program
+has been tailored to provide such critical insights into the key parameters that are continually
+influencing and impacting the amalgamation of diverse disciplines, especially digital
+technologies with humanities that will re-engineer emerging societal structures and behavior.
+2. Objectives of the program
+The M.Sc. DH program offers unique opportunities to redraw conventional disciplinary
+boundaries among the humanities, the social sciences, the arts, technology and
+engineering, and the natural sciences. Primary objectives of the program include (but are
+not limited to):
+1. Exploring contested definitions of the digital humanities
+2. Exploring debates about the digital humanities within the emerging field
+3. Beginning to consider why the digital humanities matter beyond the academic field
+itself
+4. Through hands-on experimentation, trying out various types of digital humanities
+analysis using heterogeneous datasets, tools, and methods
+The students of the program will acquire a systematic understanding of digital humanities
+and the knowledge and skills to independently formulate and solve problems in the area of
+digital humanities which has large scale applications in industry and academia. After
+completion of the program, students will have acquired knowledge that is required for
+advanced work in jobs and organizations invested in digitization and the communication of
+information, documents, and culture occurs. To enhance collaborative workflows, the
+program will actively involve academics and resource people from other institutes and
+universities across the country and abroad.
+3. Expected Graduate Attributes
+After completing this program, a student will be able to develop an ability to:
+1. In depth understanding of the fundamental concepts of broad areas in Humanities,
+Social Sciences, and application areas of basic computational tools.
+2. Ability to undertake problems in multidisciplinary domains of Humanities, Social
+Sciences, Computer Sciences, Mathematics, and related disciplines.
+3. Skills to demonstrate basic principles of Humanities and Social Sciences in digital
+domains through various application areas and analytical processes.
+4. Ability to make effective oral and written technical communication.
+5. Appreciation and adherence to norms of professional ethics.
+4. Learning Outcomes
+The student will have the ability to:
+1. Demonstrate knowledge and understanding of the main field of study and significant in-
+depth knowledge in some subcategories of the digital humanities
+2. Analyze, assess, and manage complex phenomena, questions, and situations related to
+the digital humanities as a field of study and work
+3. Describe the prospects and limitations of science and technology in digital humanities,
+their role in society, and the individual’s responsibility for how they are used
+5. Major Thrust Areas of the M.Sc. Program
+The major thrust areas of the M.Sc. DH program are:
+● Archiving
+● Cultural Heritage and Digital Preservation
+● Data Analytics for Social Sciences
+● Data Journalism
+● Digital Marketing
+Recommended elective courses for each specialization vertical:
+Archiving Cultural
+Heritage
+Data Analytics
+for Social
+Sciences
+Data
+Journalism
+Digital
+Marketing
+Images,
+Imaginations, and
+Digital Cultures
+Images,
+Imaginations, and
+Digital Cultures
+Introduction to
+AR/VR
+New Media Studies New Media Studies
+Introduction to
+AR/VR
+Introduction to
+Cultural Studies
+Analysis of Social
+Media Networks
+Analysis of Social
+Media Networks
+Introduction to
+AR/VR
+Digital Cinema Introduction to
+AR/VR
+Human Factors in
+Interaction Design
+Web & Social Media
+Analytics (SME)
+Analysis of Social
+Media Networks
+Text Analytics Digital Cinema Qualitative and
+Quantitative
+Methodologies
+Digital Publishing Game Designing
+Theory of
+Communication
+Digital Storytelling Big Data and Social
+Sciences
+Civic writing/
+Contextual
+Communication
+Art, Aesthetics and
+the Public (HSS)
+Curation
+Technologies
+Introduction to
+Typography
+Marketing Analytics Theory of
+Communication
+International
+Marketing (SME)
+Digital photography
+and videography
+Consumer Culture
+and Commodities
+Text Analytics Text Analytics Consumer Behavior
+(SME)
+Cultural semiotics Digital photography
+and videography
+Game Designing Digital photography
+and videography
+Online Marketing
+(SME)
+Performing Arts in
+Digital Space
+Digital Storytelling Computational
+Social Science
+Crowd Sourcing Innovation & Digital
+Economy (SME)
+Common Ontology Performing Arts in
+Digital Space
+Computational
+Economics
+Computational
+Social Science
+Creating Digital
+Products/Services
+(SME)
+6. Topic Clouds and Mapping of Topic Clouds with
+proposed courses
+Table 1. Topics and Mapping of Topic with Courses
+Sl.
+No.
+Topics Category
+(Core/
+Electives)
+Course Title
+1 Introduction and History of DH; Digitization of the
+Humanities; Usages of digitizations; Data Collection, Meta
+Data, Social Media Data, Data Curation, Structured and
+Unstructured Data; Ethics in Digital Environments
+(Copyright, Digital Rights, Open Access and Digital
+Knowledge Spaces)
+Core Foundations of
+Digital Humanities
+2 Basic principles and mathematical preliminaries;
+Information-based learning; Similarity-based Learning;
+Probability-based Learning; Error-based Learning;
+Unsupervised learning; Case studies and application of
+ML in DH
+Core Machine Learning
+for Digital
+Humanities
+3 The digital economy; network infrastructures; Economics
+of platforms; Digital markets; Digitization and Innovation
+Core Principles of
+Digital Economics
+4 Discussion on and collective reading of texts, weekly
+seminar on select issues related to DH
+Core Seminar in Digital
+Humanities
+5 Fundamentals of Programming and its application in
+Numerical Techniques (Root finding methods, Solution for
+system of linear equations, Power method)
+Core Programming
+Techniques
+6 Performance of algorithms, Introduction of Data structures
+such as linked lists, stacks, queues, trees, binary trees.
+Core Data Structures
+and Algorithms
+7 History of Civilizations and role of technology; Narratives
+of Progress; Social Construction of Technology - Colonial
+Technology; Diffusion and transfer of technology; Rise of
+the Internet and Digital Societies; Basics of archaeology
+(concept, methods, practices)
+Core Civilizations,
+Cultures, and
+Technologies
+8 Literary history, literary terms and genres, literary
+cultures in history, impact of technology on literature,
+history of publishing, linguistic analysis, discourse
+analysis, semantics, South Asian literatures, oral and print
+cultures in literature
+Core Perspectives in
+Language and
+Literary Studies
+9 DH as Convergent Practices; DH in Context (Versions of
+DH across the globe, Post-colonial DH, DH in the Global
+South); Methodologies; Offline and Online Data Collection
+(Surveys, Interviews, Focus Groups, Scraping);
+Qualitative Methods; Quantitative Methods
+Core Methods and
+Methodologies in
+Digital Humanities
+10 Birth of the archive, archive in historical time, archive after
+the digital revolution, digital surrogate and born digital,
+modes of archiving, audio-visual essay, media collectives,
+digital film archives, emergent modes of exhibition
+Core Archiving and
+Databases
+11 Client Hardware (Desktop vs. Mobile), Android
+Development, iOS Development, RESTful and Non-RESTful
+apps, Creating and Incorporating Web/Cloud Services,
+Mobile Sensors, Security and Trust Management, Privacy
+and Ethics, Usability and Accessibility
+Core Social Media
+Application
+Development
+12 Socio-Economic Process, Concept Mapping, Intellectual
+Property Rights (IPR) tools, Patent, Design registrations,
+Trademark, Copyright, Trade Secret, Geographical
+Indications, Protection of New Plant Varieties. Searching
+and scanning IPR databases, Knowledge evolution,
+Societal Issues, Collaborative working. IP Filing process,
+Biodiversity & traditional knowledge, IPR in Trade and
+Commerce
+Core Foundations in IPR
+13 The Production of Space, Identity, Maps, Representation,
+and Power; Panoptic Spaces; Spaces of Economic
+Diversity; Identity from Imagined Communities to Virtual
+Communities, Liveness, Telepresence, Connection and
+Disconnection; National Identity; Transnationalism and
+Diaspora
+Core Place and Identity
+in the Digital Age
+14 Visual Cultures; Images as Performative Space; Digital
+media and Global Image; Images, Power, and Resistance;
+Netnography / Digital Ethnography
+Elective Images,
+Imaginations, and
+Digital Cultures
+15 The culture concept, culture industry, media and culture,
+culture in the digital age, globalization, mass culture,
+popular culture, visual and material culture, cultural
+preservation
+Elective Introduction to
+Cultural Studies
+16 Introduction to New Media, its theories and histories, its
+social, political and cultural implications; public domain
+and digital commons, network society, online streaming
+and authorship debates, piracy and IP rights; media lab as
+research space; New Media and Indian/global politics
+Elective New Media
+Studies
+17 Augmented Reality, Virtual Reality, Mixed Reality, Tools,
+Environment, Interactivity, Human factor.
+Elective Introduction to
+AR/VR
+18 Network Concepts, Graph, Connectivity, Software tools,
+NEtworkX, Pajek
+Elective Analysis of Social
+Media Networks
+19 End of celluloid, post-cinema, digital cinema and durational
+principles, slow cinema, emerging domains of exhibition
+and spectatorship, digital film archives and databases,
+streaming platforms and authorship debates, digital
+restoration and preservation, experimental cinema-visual
+art alliance in the days of the digital
+Elective Digital Cinema
+20 Digital Environment, Application in Teaching, Advertising,
+Training, Immersive Environment
+Elective Digital Storytelling
+21 Anthropomorphism, Multimodal Interfaces, Cognitive
+aspects, Qualitative and Quantitative Evaluation.
+Elective Human Factors in
+Interaction Design
+22 Digital typesetting, Fonts format, Encoding techniques.
+Font Families and Formats, Curves, Typographic Principles,
+Symbols, Signs, Accents, Hierarchy and Scale, Tracking
+and Kerning, Rhythm and Composition, (X)HTML,
+Embedding, SVG Social Media FontLab, FontForge,
+Autotracing, Optimization.
+Elective Introduction to
+Typography
+23 Natural Resource Management, Food Security, Agriculture,
+Migration, Environment, health, Disasters
+Elective Climate Change
+and Society
+24 Consumption, markets, consumer society, commodity
+culture, consumption and class, material culture,
+overconsumption, consumer citizenship, global
+consumption, commodity flows
+Elective Consumer Culture
+and Commodities
+25 Science and Technology studies, Ethnography of a
+laboratory, Social construction of reality, Social
+construction of nature, Discrimination in science, Actor
+Network Theory, Anthropology of non-humans, ecological
+understanding of world, Science and technology is colonial
+India, Science and Governance in India, History and
+Philosophy of Science and Technology, Technology and Art
+Elective Sociology of
+Science and
+Technology
+26 Defining Cine-Politics as a conceptual tool, cinema, cultural
+politics and political lives in the subcontinent, Indian
+National Emergency of 1975-77 and its politico-cultural
+implications, state sponsorship, film policy and censorship,
+globalization of the dictatorial in the 1970s, digital
+remembering and archiving of evidence
+Elective Cine Politics under
+the National
+Emergency
+27 Gender as social construction; Gender in Colonial History;
+Gender across geo-social scales; Gender and Migration;
+Feminisms; Gender, Science, and Technology (Household
+technologies; Medical technologies; Communication
+technologies); Video Games; Imagining and Representing
+Gender
+Gender in Literature and Culture; Postcolonial Studies;
+Normativity, Subversions, and Queer Studies; Global
+Gender Politics
+Elective Gender and
+Society
+28 Art and Decadence, Social anthropology and art - the
+theory of Levis Strauss, Art and psychoanalysis - Jacques
+Lacan, Photography and Deleuze - A thousand plateaus,
+Art and Foucault, Nietzsche and Art.
+Elective Art, Aesthetics
+and the Public
+29 Approaches to Sociocultural Theories, Relationship
+between self and society; Social integration and
+transformations; Social theories and world affairs;
+Technology, Culture, and Politics
+Elective Sociocultural
+Theories
+30 The topic clouds for the course include contemporary
+topics in Digital Humanities and may be updated according
+to the instructor
+Elective Selected Topics in
+DH
+7. Curriculum of M.Sc. Digital Humanities
+Table 2. Curriculum of M.Sc. Digital Humanities
+Cat. Course
+Level
+Course Title L-T-P-
+D
+Credit
+s
+Cat. Course
+Level
+Course Title L-T-P-
+D
+Credi
+ts
+Semester 1 Semester 2
+C DHL5xx0 Foundations
+of Digital
+Humanities
+3-0-2-
+0
+4 C DHL5xx
+0
+Methods and
+Methodologie
+s in Digital
+Humanities
+3-0-2-
+0
+4
+C MAL5xx0 Programming
+Techniques
+2-0-2-
+0
+3 C DHL5xx
+0
+Archiving
+and
+Databases
+3-0-2-
+0
+4
+C DHL6xx0 Perspectives
+in Language
+and Literary
+Studies
+3-0-0-
+0
+3 C DHL5xx
+0
+Machine
+Learning for
+Digital
+Humanities
+3-0-0-
+0
+3
+C DHL6xx0 Civilizations,
+Cultures, and
+Technologies
+3-0-0-
+0
+3 C OAL7XX
+0
+Foundations
+in IPR
+1-0-0-
+0
+1
+C DHL5xx0 Principles of
+Digital
+Economics
+3-0-0-
+0
+3 C DHL5XX
+0
+Place and
+Identity in
+the Digital
+Age
+3-0-0-
+0
+3
+C DHQ5xx0 Seminar 0-0-2-
+1
+2 C MAL5XX
+0
+Data
+Structures
+and
+Algorithms
+1-0-2-
+0
+2
+E XXXX PE 1 3-0-0-
+0
+3
+14-0-
+6-1
+18 17-0-
+6-0
+20
+Semester 3 Semester 4
+PE xxxx PE2 3-0-0-
+0
+3 PE xxxx PE5 3-0-0-
+0
+3
+PE xxxx PE3 3-0-0-
+0
+3 PE xxxx PE6 3-0-0-
+0
+3
+PE xxxx PE4 3-0-0-
+0
+3 OE xxxx OE2 3-0-0-
+0
+3
+OE xxxx OE1 3-0-0-
+0
+3 P DHD7xx
+0
+Project 2 0-0-0-
+10
+10
+P DHD7xx0 Project 1 0-0-0-
+5
+5
+C DHP7xx0 Social Media
+Application
+Development
+1-0-2-
+0
+2
+13-0-
+2-5
+19 9-0-0-
+10
+19
+8. List of Proposed Courses
+Table 3. Program Courses
+Sr. No Course Name LTPD Credi
+t
+Cour
+se
+Code
+Cour
+se
+Level
+Core Courses
+1 Foundations of Digital Humanities 3-0-2-0 4 DH 500
+2 Methods and Methodologies in Digital
+Humanities
+3-0-2-0 4 DH 500
+3 Machine Learning for Digital Humanities 3-0-0-0 3 DH 500
+4 Principles of Digital Economics 3-0-0-0 3 DH 500
+5 Place and Identity in the Digital Age 3-0-0-0 3 DH 500
+6 Archiving and Databases 3-0-2-0 4 DH 500
+7 Seminar in Digital Humanities 0-0-2-1 2 DH 500
+8 Programming Techniques 2-0-2-0 3 MA 500
+9 Data Structures and Algorithms 1-0-2-0 2 MA 500
+10 Civilizations, Cultures, and Technologies 3-0-0-0 3 DH 600
+11 Perspectives in Language and Literary
+Studies
+3-0-0-0 3 DH 600
+12 Social Media Application Development 1-0-2-0 2 DH 700
+13 Foundations in IPR 1-0-0-0 1 OA 700
+Program Elective Courses
+14 Introduction to Cultural Studies 3-0-0-0 3 DH 700
+15 New Media Studies 3-0-0-0 3 DH 700
+16 Analysis of Social Media Networks 3-0-0-0 3 DH 700
+17 Digital Cinema 3-0-0-0 3 DH 700
+18 Digital Storytelling 3-0-0-0 3 DH 700
+19 Human Factors in Interaction Design 3-0-0-0 3 DH 700
+20 Introduction to Typography 3-0-0-0 3 DH 700
+21 Consumer Culture and Commodities 3-0-0-0 3 DH 700
+22 Images, Imaginations, and Digital
+Cultures
+3-0-0-0 3 DH 700
+23 Selected Topics in DH 3-0-0-0 3 DH 700
+24 Introduction to AR/VR 3-0-0-0 3 CS 700
+25 Sociology of Science and Technology 3-0-0-0 3 HS 700
+26 Gender and Society 3-0-0-0 3 HS 700
+27 Cine Politics under the National
+Emergency
+3-0-0-0 3 HS 700
+28 Art, Aesthetics and the Public 3-0-0-0 3 HS 700
+29 Climate Change and Society 3-0-0-0 3 HS 700
+30 Sociocultural Theories 3-0-0-0 3 HS 700
+Detailed Course Content of
+Program Core Courses
+Course Title Foundations of Digital Humanities Course No. DHL5XX0
+Department IDRP-DH Structure (L-T-P-
+D [C])
+3-0-2-0
+[4]
+Offered for M. Sc. (Cr=0); M.Tech. (Cr=0) Type Compulsor
+y
+Prerequisite None
+Objectives
+1. Explain the broad spectrum and perspectives of Digital Humanities (DH)
+2. Introduce the necessary tools and techniques to understand various DH research
+projects
+Learning Outcomes
+1. Understand the transdisciplinary nature of DH
+2. Learn to apply tools for the collection and analysis of data from digital platforms
+3. Understanding the basic ethics of data collection from digital platforms
+Contents
+Introduction and History of DH: Intersection of digital technology and humanities
+disciplines; the history of humanities computing – how and why it emerged (7 lectures)
+Digitization of the Humanities: Theoretical Premises; Data in DH, Images and other visual
+cultures (10 lectures)
+Usages of digitizations: Archiving and Databases; Mapping; role of place and space in
+cultural visibility; digital heritage (10 lectures)
+Data Collection: New Media and Digital Platform, Meta Data, Social Media Data, Data
+Curation, Structured and Unstructured Data (10 Lectures)
+Ethics in Digital Environments: Copyright, Digital Rights, Open Access and Digital
+Knowledge Spaces (5 lectures)
+Laboratory
+1. Introduction to Digital Tools like TAGS, twXplorer, ngram Viewer, AntConc,
+StoryMap, Voyant
+2. Final Project
+Text Books
+1. Eileen Gardiner, Ronald G. Musto (2015), The Digital Humanities: A Primer for
+Students and Scholars, Cambridge University Press.
+2. Chaudhuri, S. (2010), The Metaphysics of Text, Cambridge University Press
+3. Gold, Matthew K. (2012), Debates in the Digital Humanities, University of
+Minnesota Press
+Reference Books
+1. Hockey, Susan. (2000), Electronic Texts in the Humanities: Principles and Practice,
+Oxford University Press.
+2. Schreibman, S., Siemens, R., Unsworth, J. (2004), Companion to Digital
+Humanities, Oxford: Blackwell.
+3. Shillingsburg, Peter. (2006), From Gutenberg to Google. Electronic Representations
+of Literary Texts, Cambridge University Press
+Course Title Perspectives in Language and Literary
+Studies
+Course No. DHL6XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for M.Sc. (Cr>=0); M.Tech. (Cr >= 0);
+B.Tech. (Cr>=75)
+Type Compulsor
+y
+Prerequisite None
+Objectives
+1. Introduce students to theories of literature.
+2. Introduce students to basic theories of language, linguistics concepts, and literary
+cultures in translation.
+3. Provide the students with a background in the development of computational tools
+for literary analysis
+Learning Outcomes
+1. Understand major trajectories in literary thought, trace the evolution of literary
+genres, and contextualize their contemporary significance.
+2. Understand fundamental aspects of language and linguistic analysis.
+3. Critically analyse literary texts using digital tools.
+Contents
+History of English Language and Literature: Literary Canon, Historical Events and
+Linguistic Shifts, Impact of technology on evolution of literature (5 lectures)
+Literary Genres: The Epic, Drama, The Advent of the Novel, Poetry (6 lectures)
+Literary Analysis and Criticism: Formalism, Close Reading and Textual Analysis, Structure,
+pattern, motif and metaphor analysis (5 lectures)
+Fundamentals of Linguistics: Language Families, Syntax, Morphology, Phonology,
+Pragmatics (5 lectures)
+Applied Linguistics: Theories of Language and Language Learning, Corpus and Discourse
+Analysis, Digital Tools for Language Learning and Textual Analysis (5 lectures)
+Literary Cultures around the World: American Literature, World Literature, Literatures of
+the Commonwealth, Postcolonial and New Writing, South Asian Literatures ( 10 lectures)
+Literature in the Digital Age: Cyberpunk fiction, Steampunk fiction, Science fiction, Digital
+Humanities Tools for Literary Analysis, Discourse and Corpus Analysis with Digital Tools,
+Data driven Literary Analysis (6 lectures)
+Text Books
+1. Terry Eagleton. 1983. Literary Theory: An Introduction. Minneapolis: University of
+Minnesota Press.
+2. Abrams, M.H. A Glossary of Literary Terms. Cengage,2013.
+3. Barry, Peter. Beginning Theory: An Introduction to Literary and Cultural Theory.
+Manchester University Press, 2002.
+4. Sheldon Pollock. 2003. Literary Cultures in History: Reconstructions from South
+Asia. Berkeley: University of California Press.
+Self Learning Material
+1. Merin Simi Raj, History of English Language and Literature, Department of
+Humanities and Social Sciences, Indian Institute of Technology-Madras,
+https://nptel.ac.in/courses/109106124/.
+2. Rajesh Kumar and Shreesh Chaudhary, Introduction to Modern Linguistics,
+Department of Humanities and Social Sciences, Indian Institute of Technology-
+Madras, https://nptel.ac.in/courses/109/106/109106080/.
+3. Sayan Chattopadhyay, Introduction to Literary Theory, Department of Humanities
+and Social Sciences, Indian Institute of Technology-Kanpur,
+https://nptel.ac.in/courses/109/104/109104135/.
+Course Title Civilizations, Cultures, and
+Technologies
+Course No. DHL6XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for M.Sc. (Cr>=0); M.Tech. (Cr >= 0);
+B.Tech. (Cr>=75)
+Type Compulsor
+y
+Prerequisite None
+Objectives
+1. This course introduces students to important historical and sociocultural processes
+that have crafted technologies over time and across civilizations.
+2. Recognize how technological developments are related to socio-cultural values and
+practices and understand the roots of current technological society(ies)
+Learning Outcomes
+1. Students will be able to appreciate that technology is not an isolated, literate
+enterprise, it rather produces structures, machines, processes, systems that
+impact and inflect societies and civilizations
+Contents
+History of Civilizations and role of technology: Classical and Early Modern Philosophy (3
+lectures); Narrative(s) of Progress; Industrial Revolution(s) (5 lectures)
+Industry and Innovation; Culture of Invention; Enlightenment and the Rise of Modern
+Science (6 lectures)
+Social Construction of Technology - Colonial Technology (Race, Gender, Sciences and
+Technology) (6 lectures); Communication, Transportation and the changing world (4
+lectures); Diffusion of Technologies and transfer of technology globally (4 lectures)
+The Development of the Computer Industry; Rise of the Internet and Digital Society;
+Industrialization, Commodification and the Environment (5 lectures); Biotechnology (3
+lectures)
+Future of Science and Technology in the society and their changing relationship (6
+lectures)
+Text Books
+1. Pacey, Arnold. Technology in World Civilization, 4th ed. Cambridge, MA: MIT Press,
+2001.
+2. Volti, Rudi, Society and Technological Change, 4th ed. New York: Worth Publishers,
+2001
+Self Learning Material
+1. Digital Humanities Seminar Video Archive of the Open University, UK,
+http://www.open.ac.uk/arts/research/digital-humanities/videos
+Course Title Methods and Methodologies in Digital
+Humanities
+Course No. DHL5XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-2-0 [4]
+Offered for M. Sc. (Cr=0); M.Tech. (Cr=0) Type Compulsory
+Prerequisite None
+Objectives
+1. Demonstrate in depth knowledge of selected methodologies related to DH
+2. Introduce and explore avenues of new and emerging societal and cultural entities in
+DH
+3. Introduce several qualitative and quantitative tools for DH projects
+Learning Outcomes
+1. Understand DH as a convergent array of practices.
+2. Understand what DH means in different contexts
+3. Capture, collect, and analyse a variety of data types related to DH project
+Contents
+DH as Convergent Practices: Digital methods in and about philosophy, society, culture, and
+language (5 Lectures)
+DH in Context and Approaches (Theory and Methods): Versions of DH across the globe,
+Post-colonial DH, DH in the Global South ( 5 lectures)
+Methodologies: Constructing Research Questions for a variety of disciplinary contexts (for
+e.g. in new media, social studies, mass communication and journalism, digital heritage) (7
+lectures)
+Offline and Online Data Collection: Surveys, Interviews, Focus Groups, Scraping (6
+Lectures)
+Qualitative Methods: Descriptive, Topic and Thematic Coding, Data analysis through NVivo
+and MaxQDA; (10 Lectures)
+Quantitative Methods: Introduction to statistical techniques, and using of statistical tools
+(SPSS, STATA); Network Analysis (9 lectures)
+Laboratory
+1. Introduction to Digital Tools like Tableau, ArcGIS, SocioViz, NetVizz, MaxQDA, NVivo
+2. Final Project
+Text Books
+1. Patricia Leavy (2017), Research design: Quantitative, qualitative, mixed methods,
+arts-based, and community-based participatory research approaches. Guilford
+Publications
+2. P.L. Arthur & K. Bode (2014) Advancing digital humanities: Research, methods,
+theories. London: Palgrave Macmillan
+3. Lewis Levenberg, Tai Neilson, David Rheams (2018), Research Methods for the
+Digital Humanities: Palgrave Macmillan
+Reference Books
+1. Johnny Saldana (2015), The Coding Manual for Qualitative Researchers, SAGE
+Publishing
+2. Alexander Loth (2019), Visual Analytics with Tableau, John Wiley & Sons
+Self Learning Material
+1. Data Visualization (NPTEL): https://www.youtube.com/watch?v=eFByJkA3ti4
+Course Title Principles of Digital Economics Course No. DHL5XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for M. Sc. (Cr=0); M.Tech. (Cr=0) Type Compulsor
+y
+Prerequisite None
+Objectives
+1. Explain the basic theory in digital economics, including network effects, value
+creation models, digital business models and market modeling.
+2. Introduce how the digital economy influences societies, environment, regulations,
+privacy, strategy, and financial operations.
+Learning Outcomes
+1. To get broad knowledge in digital economics and how the digital economy impacts
+its surroundings.
+2. To perform network effect analysis of a value network and construct a business
+model.
+Contents
+Introduction: The Digital Economy, The Productivity Paradox, ICT, Growth and
+Productivity (6 lectures)
+Network Infrastructures: Broadband Networks and the Transition to Fiber, The Relations
+between Network Operators in the Internet: Peering, Transit, and Net Neutrality (6
+lectures)
+Network Effects and Standards: Network Effects, Standard Wars (6 lectures)
+The Economics of Multi-Sided Platforms, Economics of Platforms: The Basics, Reseller vs.
+Platform: The Choice of Business Model (6 lectures)
+Digital Markets: Competition between E-retailers and Brick & Mortars, Business Models of
+Digital Goods
+Personal Data, Price Discrimination and Privacy: Personal Data and Price Discrimination,
+The Cost of Privacy and the Privacy Paradox (6 lectures)
+Experience Goods, Online Reviews and Recommender Systems: Search Goods and
+Experience Goods, Online Reviews and Recommender Systems (6 lectures)
+Digitization and Innovation: Intellectual Property in the ICT Sector: The Effect of
+Digitization on Innovation: Crowdsourcing and Crowdfunding (6 lectures)
+Text Books
+1. Eric Brousseau, Nicolas Curien (2007); Internet and Digital Economics: Principles,
+Methods and Applications. Cambridge University Press.
+2. Cellini P. (2007); Internet Economics: Understanding Digital and New Media
+Markets, Luiss University Press.
+3. Luc Soete, Bas Ter Weel (2006); The Economics of the Digital Society, Edward
+Elgar Pub.
+Self Learning Material
+1. E-Business, https://nptel.ac.in/courses/110/105/110105083/
+Course Title Archiving and Databases Course No. DHL5XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-2-0
+[4]
+Offered for M. Sc. (Cr=0); M.Tech. (Cr=0) Type Compulsor
+y
+Prerequisite None
+Objectives
+1. Developing an understanding of the archive and its evolution in historical time till
+the days of the digital revolution
+2. Exploring digital cinema and media, audio-visual essay, media collectives, and
+digital film archives
+3. Tracing the trajectory of older information systems till the advent of the database
+with select case studies of the latter
+Learning Outcomes
+1. Develop greater familiarity with the philosophical and historical nuances of the
+archive
+2. Become acquainted with the contemporary forms of digital archive, artwork,
+cinema, works of media collectives and their modes of exhibition
+3. Have an understanding of database as an emerging mode of information network
+Contents
+Archive and Its Evolution: Introducing archive (2 lectures), Archive in historical time (5
+lectures), politics and poetics of archiving (5 lectures), archive in the digital age (2
+lectures)
+Cinema and The Archive: Film archives (5 lectures), digital age and post-cinema (5
+lectures), the end/future of celluloid (4 lectures)
+Contemporary Art and The Emergent Space: Archive, art museums, installation art, audio-
+visual essay, media collectives and their practices, digital archive, case studies of digital
+film archiving initiatives, film databases (7 lectures)
+Exhibition and Authorship: modes of exhibition and questions concerning authorship,
+piracy, law and the image (7 lectures)
+Text Books
+1. Friedrich, M., (2018), The Birth of the Archive: A History of Knowledge, University
+of Michigan Press.
+2. Ernst, W., (2013), Digital Memory and the Archive, University of Minnesota Press.
+3. Grau, O., Coones, W., and Ruhse, V., (eds.) (2017), Museum and Archive on the
+Move: Changing Cultural Institutions in the Digital Era, De Gruyter.
+Self Learning Material
+1. Indian Cinema, https://indiancine.ma/
+Course Title Machine Learning for Digital
+Humanities
+Course No. DHL5XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for M. Sc. (Cr=0); M.Tech. (Cr=0) Type Compulsor
+y
+Prerequisite None
+Objectives
+1. Introduce and explore a broad spectrum of perspectives in Machine Learning (ML)
+2. Develop familiarity with a range of ML algorithms as applicable for Digital
+Humanities (DH)
+3. Develop an understanding of software tools to implement ML algorithms
+Learning Outcomes
+1. Identify best-fit techniques for related research questions and data in DH
+2. Basic ability to design, test and interpret ML models for DH
+Contents
+Introduction: Basic principles and mathematical preliminaries (5 Lectures)
+Information-based learning: Decision Tree, ID3, ensemble learning (4 Lectures)
+Similarity-based Learning: Feature space, Similarity measure, Nearest Neighbor, Feature
+selection (4 Lectures)
+Probability-based Learning: Baye’s theorem, Bayesian Learning, Probability density
+function, Binning, Bayesian Networks (6 Lectures)
+Error-based Learning: Linear Regression, Support vector machines, Neural Networks
+(Perceptrons, Multilayer Network, Back Propagation) (9 Lectures)
+Unsupervised learning: Clustering (K-means, Hierarchical), Dimensionality Reduction (4
+Lectures)
+Case studies and application of ML in DH (10 Lectures)
+Text Book
+1. Richard O. Duda, Peter E. Hart, David G. Stork. Pattern Classification (John Wiley &
+Sons)
+2. John D. Kelleher, Brian Mac Namee, Aoife D’Arcy (2015), Fundamentals of Machine
+Learning for Predictive Data Analytics, (MIT Press).
+Self Learning Material
+1. Introduction to Machine Learning (NPTEL):
+https://www.youtube.com/playlist?list=PLIg1dOXc_acbdJo-
+AE5RXpIM_rvwrerwR
+2. Introduction to Machine Learning (NPTEL):
+https://www.youtube.com/watch?v=r4sgKrRL2Ys&list=UUpGt_NffD1LUvX3fFErj_Q
+A
+Course Title Place and Identity in the Digital Age Course No. DHL5XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for M. Sc. (Cr=0); M.Tech. (Cr=0) Type Compulsor
+y
+Prerequisite None
+Objectives
+1. To familiarize students with the intersection of what have undoubtedly become two
+“keywords” that transcend most social science disciplines in the digital age: place
+and identity.
+2. Students will gain ideas of the role that place has in the formation of all types of
+identities – not just those of individual subjects and groups, but of regions,
+institutions, practices and even ecosystems.
+Learning Outcomes
+1. Students will learn to investigate the relationship between the production of space,
+practices of place, and embodied identity. The relationship between these
+categories has taken on a new level of importance with the emergence of digital
+technologies, as seen in both academic studies and in the broader cultural climate.
+2. Students will learn topics that are situated at the intersection of space, place,
+identity, and digital technology such as mapping and power, location-aware and
+pervasive technologies, surveillance, virtuality, telepresence, empire in the digital
+age, transnational identity, and diaspora in an age of global connectivity.
+Contents
+Defining Space, Place, and Identity: The Production of Space (7 lectures); Identity and
+Space (7 lectures)
+Practices of Representation: Mapping and Pervasive Computing (3 lectures); Maps,
+Representation, and Power; Panoptic Spaces (6 lectures); Spaces of Economic Diversity (5
+lectures)
+Identity from Imagined Communities to Virtual Communities: Imaginative Geographies (3
+lectures); The Virtual and the Actual; Liveness, Telepresence, and Embodied Connectivity
+(5 lectures); Connection and Disconnection; National Identity; Transnationalism and
+Diaspora (6 lectures)
+Text Books
+1. Lefebvre, Henri. The Production of Space. Oxford: Blackwell Publishers, 1992.
+ISBN: 0631181776.
+2. Massey, Doreen. For Space. Sage Publications, Ltd. 2005
+3. Hubbard, Phil; and Kitchin, Rob. Key Thinkers on Space and Place (Second
+Edition). Sage Publications Ltd. 2010.
+Reference Book
+1. Anderson, Benedict. Imagined Communities: Reflections on the Origin and Spread
+of Nationalism (New York: Verso Books, 1983/2006). ISBN: 978-1844670864
+Course Title Social Media Application Development Course No. DHP7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+1-0-2-0
+[2]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Compulsor
+y
+Prerequisite None
+Objectives
+1. Developing an understanding of the Mobile Application development framework
+2. Creation of mobile solutions for various modern platforms, including major mobile
+operating systems.
+Learning Outcomes
+1. Familiarity with cross platform mobile application development techniques
+2. Develop cross platform, interactive applications.
+Contents
+Client Hardware (Desktop vs. Mobile) (2 Lectures)
+Android Development, iOS Development, RESTful and Non-RESTful apps (5 Lectures)
+Creating and Incorporating Web/Cloud Services, Mobile Sensors (4 Lectures)
+Security and Trust Management, Privacy and Ethics, Usability and Accessibility (3
+lectures)
+Laboratory
+1. Introduction to Android.O Xcode tour/Swift4
+2. User Interface design with various layout models
+3. State and Event handling
+4. Fragments and Intents
+5. Building data driven apps
+6. Building and Distributing
+7. Building apps for wear devices
+8. Building Games
+9. Virtual reality overview
+10. Multiple devices and APIs
+11. App store optimization
+Text Books
+1. Dusty Phillips (2014), Creating Apps with Kivy, O’Reilly Media.
+2. Roberto Ulloa (2015), Kivy, Interactive Applications and Games in Python, Packt
+Publishing
+Self Learning Material
+1. Python Programming Resources: https://pythonprogramming.net/
+Detailed Course Content of
+Program Elective Courses
+Course Title New Media Studies Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Help students in exploring the various possibilities offered by New Media and their
+impact on social, political and cultural domains
+2. Create an understanding of concepts such as piracy, rights and the digital
+commons
+3. Make students aware of the implications of New Media and the digital image for the
+public lives in India
+Learning Outcomes
+1. Develop a sustained interest in new media and its global politics
+2. Formulate an informed acquaintance with the network society
+3. Make a South Asian/Indian intervention into the field
+Contents
+New Media and Its Aftermath: Histories of New Media (3 lectures), politics of New Media
+(3 lectures), New Media research (4 lectures)
+Public Domain and The Digital Commons: Digital Commons, copyright and IP, piracy (5
+lectures), online streaming, fan-subbing and ownership/authorship debates (5 lectures)
+Network and Cyber-Culture: Cyber-culture, video games, digital image and social media,
+media lab as research space (7 lectures)
+New Media in Indian politics: Indian media economy (10 lectures), New Media, changing
+forms of politics and electoral behavior in India (5 lectures)
+Text Books
+1. Athique, A., Parthasarathi, V., and Srinivas, S. V., (eds.) (2018), The Indian Media
+Economy, Oxford University Press.
+2. Sundaram, R., (2010), Pirate Modernity: Media Urbanism in Delhi, Routledge.
+3. Manovich, L., (2016), Instagram and Contemporary Image, Web.
+4. Manovich, L., (2001), The Language of New Media, MIT Press.
+Self Learning Material
+1. MIT Media Lab, https://www.media.mit.edu/
+Course Title Introduction to Cultural Studies Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0 [3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Teach cultural studies as an interdisciplinary field which draws from and contributes to
+literature, media studies, cultural anthropology, and sociology amongst other disciplines.
+2. Equip students with methods and frameworks to look at the central preoccupations of the
+field – identity, power, economy, culture, aesthetics, and social institutions.
+3. Critically interrogate the benefits of cultural studies for both inter- and intra-disciplinary
+work.
+Learning Outcomes
+1. Understand major theories relating to historical and emergent ideas of culture and social
+thought.
+2. Investigate processes of cultural production, consumption, and preservation using
+conceptual tools from the field of cultural studies.
+3. Contextualize the role, applications, and significance of culture in the digital age.
+Contents
+Culture in the 19th and 20th centuries: The Emergence of the Culture Concept, Evolution of
+Culture, Culture and the Industrial Revolution (5 lectures), The Culture Industry (Value and
+Meaning), Culture as Commodity (Mass Culture) (5 lectures)
+Culture and Politics: Aesthetics and Politics, National Culture, Cultural Semiotics and Political Life
+(5 lectures) Cultural Economy, Political Society (5 lectures)
+Culture and Pedagogy: Culture and the Disciplines - Literary Studies, Anthropology, Sociology,
+History, Linguistics/Philology, Visuality Studies, Political Science (6 lectures), Understanding the
+Two Cultures - Natural and Human Sciences, Addressing the Pedagogical and Intellectual Divide
+(5 lectures)
+Culture and Contemporary Life: Mapping the City, Urban Lives and Cultures (5 lectures),
+Knowledge Society, Technology, Precarity, Virtuality, Representation and Alternate Realities,
+Culture and Big Data (6 lectures)
+Text Books
+1. Simon During. 1993. The Cultural Studies Reader. London: Routledge.
+2. Toby Miller. 2001. A Companion to Cultural Studies. Malden: Blackwell.
+3. Tom Boellstorff. 2015. Coming of Age in Second Life. Princeton: Princeton University
+Press.
+4. Tejaswini Niranjana and Wang Xiaoming (eds.) 2015. Genealogies of the Asian Present:
+Situating Inter-Asia Cultural Studies. New Delhi: Orient Blackswan.
+5. Andrew Milner. 1994. Contemporary Cultural Theory: An Introduction. London: University
+College London Press: London.
+Self Learning Material
+1. Avishek Parui. Introduction to Cultural Studies, NPTEL Course Material, Department of
+Humanities and Social Sciences, Indian Institute of Technology-Madras,
+https://nptel.ac.in/courses/109/106/109106136/.
+2. Liza Das. Cultural Studies, NPTEL Course Material, Department of Humanities and Social
+Sciences, Indian Institute of Technology-Guwahati,
+https://nptel.ac.in/courses/109/103/109103019/.
+3. http://culturalstudiesnow.blogspot.com/
+Course Title Images, Imaginations, and Digital
+Cultures
+Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. To familiarise students with the process of seeing as a social construct to explore
+the ways we produce, identify, understand, and consume images by studying
+visual materials from different historical and cultural milieu
+2. To introduce students to how photography and images across time and space
+change visual discourse and people’s lives
+3. By contextualising everyday visual culture within larger social debates around
+power, politics, identity and resistance, this course aims to create a consciousness
+about the communicative power of visual images, and to equip students with
+interpretive tools for the evaluation of images.
+Learning Outcomes
+1. Students will be able to develop a sociological imagination of visual cultures and its
+impact on society
+2. Students will be able to assemble a multi-perspective analysis of a given
+sociocultural issue related to images against local, global, international, and
+intercultural background
+3. Map historical photographic concepts to current digital references.
+Contents
+Images, Imaginations, and Cultures; Photographs and other images as objects (of
+imagination) influencing cultures; Photography as a technology of the colonial state and
+as a transformation instrument of body politic (5 lectures); Race, Gender, Caste and other
+intersectionalities imagined in photographs and other images; Postcards (5 lectures)
+Visual Cultures and the Process of ‘Seeing’: Subject-Object debate; Power, Knowledge and
+the Gaze (Imaging the ‘Other’), Visual discourse; object-subject debate; space and
+visibility (5 lectures); Visual Cultures and Critical Theory (Foucault, Lacan, Derrida,
+Barthes) (5 lectures)
+Images as Performative Space: Power, Knowledge and the ‘Gaze’ determining
+photographs and their power (5 lectures); Imaging the ‘Other’: Orientalism; class
+construction through photography (5 lectures)
+Images and Mobilities: Maps and transportation representing physical, social and
+imaginative worlds (5 lectures)
+Netnography/ Digital ethnography (3 lectures)
+The future of Images; Images and the digital revolution - the road ahead (4 lectures)
+Reference Books
+1. Karlekar, Malavika., (2013), Visual Histories: Photography in the Popular
+Imagination, Oxford University Press
+2. Chaudhary, Zahid R., (2012), Afterimage of Empire: Photography in Nineteenth-
+Century India, University of Minnesota Press
+3. Benjamin, Walter. 1936 (2008). The Age of Art in the Age of Mechanical
+Reproduction. London: Penguin.
+4. Nakamura, Lisa. 2008. Digitizing Race: Visual Cultures of the Internet. Minneapolis:
+University of Minnesota Press.
+5. Malek Alloula, 1986, The Colonial Harem, University of Minnesota Press
+Self Learning Material
+1. Digital Humanities Seminar Video Archive of the Open University, UK,
+http://www.open.ac.uk/arts/research/digital-humanities/videos
+Course Title Analysis of Social Media
+Networks
+Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-
+D [C])
+3-0-0-0 [3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30);
+M.Tech. (Cr>=0); B.Tech.
+(Cr>=100)
+Type Elective
+Prerequisite None Anti-requisite Social Networks, Social
+Network Analysis
+Objectives
+1. The course introduces social network analysis, its mathematical foundations, and
+analyzing tools (Pajek or NodeXL or UCINET or Others).
+2. Students will be introduced to different types of online networks and how to use them to
+answer social, economic, and other queries.
+Learning Outcomes
+1. Students will be able to acquire social media data, formulate a hypothesis, and find an
+answer out of network data.
+Contents
+Introduction: Overview and Aspects of Networks, Ego Network, Characteristics of Social
+Networks. (3 Lectures)
+Mathematical Foundation for Social Network Analysis: Graphs, Matrices. (4 Lectures)
+Network Data: Sources, Sampling and bounding, Ethical considerations, and Collection
+Techniques. (4 Lectures)
+Network Data Management: Data format, Import, Cleaning, Transformation, Export, Visualization
+(3 Lectures)
+Information Diffusion Analysis: Centrality and Network Value, Influence, Epidemics Modeling (3
+Lectures)
+Clustering and Grouping: Community detection, election campaign analysis. (3 Lectures)
+Networks in Their Surrounding Contexts: Homophily, Affiliation, Behaviour Modeling (3 Lectures)
+Markets and Strategic Interaction in Networks: Network Models of Markets, Bargaining and Power
+in Networks, Sponsored Search Markets, Network Effects and Economy (5 Lectures)
+Voting: Group Decision-Making, Information Aggregation (3 Lectures)
+Case Studies: Wiki Networks, YouTube, Flickr, Twitter, Facebook, Email Communication Network,
+Thread Network (11 Lectures)
+Text Books
+1. David Easley and Jon Kleinberg (2013), Networks, Crowds, and Markets: Reasoning
+About a Highly Connected World, Cambridge University Press.
+2. S. Borgatti, M. Everett and J.C. Johnson (2013), Analyzing Social Networks, Sage.
+3. Derek L. Hansen, Ben Shneiderman and Marc A (2011), Analyzing Social Media Networks
+with NodeXL, Morgan Kaufmann
+Reference Books
+1. Albert-Laszlo Barabasi (2016), Network Science, Cambridge University Press.
+2. Mark Newman (2018), Networks, Oxford University Press
+3. Wouter de Nooy, Andrej Mrvar, Vladimir Batagelj (2018), Exploratory Social Network
+Analysis with Pajek, Cambridge University Press
+Self Learning Material
+1. Complex Networks, https://www.barabasilab.com/course
+2. NPTEL Lecture, Social Networks https://nptel.ac.in/courses/106106169/#
+Course Title Digital Cinema Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0 [3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Help in exploring various democratic possibilities offered by digital cinema
+2. Create an understanding of the digital in the domain of exhibition and spectatorship
+3. Create an understanding of the digital platforms for cinema-visual art collaborations
+Learning Outcomes
+1. Sustain an interest in digital cinema, its liberating principles and politics
+2. Develop an informed acquaintance with the experimental cinema-visual art alliance in the
+days of the digital
+3. Understand the implications of the digital for non-industrial film forms
+Contents
+The End/Future of Celluloid: Concepts and historical debates (3 lectures), introducing digital (2
+lectures), post-cinema as a concept (2 lectures)
+Digital Cinema and Durational Principles: Durational principle in the days of the digital (5
+lectures), slow cinema as a concept and resultant debates (10 lectures)
+Spectatorship and Authorship: streaming platforms and authorship debates (5 lectures), new
+festivals and exhibition spaces, screen dynamics and high definition image, emergent forms of
+spectatorship (5 lectures)
+Emergent Forms: digital film archives and databases (5 lectures), experimental cinema, visual
+art, and the digital (3 lectures), the politics of the digital (2 lectures)
+Text Books
+1. Koch, G., Pantenburg, V., and Rothohler, S., (eds.) (2012), Screen Dynamics: Mapping
+the Borders of Cinema, Austrian Film Museum.
+2. Torlasco, D., (2013), The Heretical Archive: Digital Memory at the End of Film, University
+of Minnesota Press.
+3. Denson, S., and Leyda, J., (2016), Post-Cinema: Theorizing 21st-Century Film, Reframe
+Books.
+Course Title Consumer Culture and Commodities Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Facilitate students to understand and critically investigate consumption in
+contemporary, urban life.
+2. Acquaint students with theories that will help them locate consumption vis-à-vis
+sociocultural contexts, identities, and markets.
+3. Elaborate key areas of consumption such as shopping spaces and experiences,
+domesticity, advertising, tourism and fashion using examples from the Indian
+context.
+Learning Outcomes
+1. Understand major concepts and theories in consumption and consumer culture.
+2. Investigate processes of consumption empirically in various aspects of
+contemporary life.
+3. Understand key political and moral concerns around consumption regarding
+ecology, sustainability, and socio-economic class.
+Contents
+Understanding Consumption: Theories of consumption, mass consumption, commodity
+culture, consumerism (6 lectures), Consumption and Class, Leisure Consumption, Habitus,
+Cultural Capital and Consumption (5 lectures)
+Objects, Materials and Social Contexts: Subject-object distinctions, ontology of things,
+human-nonhuman interactions, anthropology of material culture (6 lectures), theories of
+matter and materiality, thing theory, study of objects (5 lectures)
+Media and Consumerism: Advertising, consumption, media industry, branding and
+commoditization (5 lectures)
+Consumption in the Indian context: Economic liberalization, rise of the Indian middle-class
+lifestyles, conspicuous consumption in the Indian context (5 lectures)
+Consumer Citizenship: Overconsumption and hoarding, who is the Consumer Citizen,
+Ecological Citizenship, Ecohabitus, Consumption and Environment (5 lectures)
+Consumption in the Digital Age: Materiality in the digital era, the problem of stuff in the
+digital age, online consumer citizenship, hashtag politics (5 lectures)
+Text Books
+1. Sassatelli, R., (2007), Consumer culture: History, theory and politics, Sage.
+2. Miller, D., (1987), Material Culture and Mass Consumption. 1st Edition, Wiley-
+Blackwell.
+Reference Books
+1. Douglas, M. and Isherwood,B., (1996), The World of Goods: Towards an
+Anthropology of Consumption, Routledge.
+2. Corrigan, P., (1997), The Sociology of Consumption, Sage.
+3. Appadurai, A., (1986), The Social Life of Things: Commodities in Cultural
+Perspective, 1st Edition, Cambridge University Press.
+4. Falk, P, and Campbell, C., (eds.). (1997), The Shopping Experience, Sage.
+Self Learning Material
+1. Consumer Culture, https://www.sciencedirect.com/topics/social-
+sciences/consumer-culture
+2. NPTEL Lecture, https://nptel.ac.in/courses/110/105/110105074/
+3. NPTEL Lecture, https://nptel.ac.in/courses/109/107/109107139/
+Course Title Digital Storytelling Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Understand and examine the new tenets of storytelling in the digital age through
+thoughtful analysis of trends, topics, consumption and digital tools used.
+2. Analyze the changing roles of storytellers for news, businesses and nonprofit
+organizations.
+3. Increase ability to come up with big, original ideas and creatively.
+Learning Outcomes
+1. Develop a deeper sense of why and how we create and value stories
+2. Learn about the ways digital communication technologies can expand and enhance
+narrative techniques
+3. Develop narrative technique and the ways digital elements can interact with
+traditional written narratives to change the ways an audience experiences story
+4. Learn how to match narrative techniques to an audience
+Contents
+New Technologies, Creative Opportunities: Evolution, Digital Entertainment, Convergence
+(4 Lectures)
+Creating Story-Rich Projects: Interactivity, Character Dialogue, Emotion (6 lectures),
+Social Media, Transmedia, Project creation (6 lectures)
+Harnessing Digital Storytelling for Pragmatic Goals: Teaching, Advertising, Training (9
+Lectures)
+Media and Models: Mobile Device and Applications, Video Games (6 lectures), Interactive
+Cinema, Interactive TV, Electronic Kiosks, Immersive Environments (6 lectures)
+Digital Storytelling Tools (5 Lectures)
+Text Book
+1. C.H., Miller, Digital Storytelling, A Creator’s Guide to Interactive Entertainment,
+Focal Press, 2004
+Reference Books
+1. Seth Gitner, (2015), Multimedia Storytelling for Digital Communicators in a
+Multiplatform World, Routledge Publishers.
+2. Joe Lambert (2013), Digital storytelling capturing lives, creating community,
+Routledge Publishers.
+Course Title Human Factors in Interaction Design Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Introduce the study of human-computer interaction and user interface design.
+2. Explain theoretical understanding of the field and some practical UI design skills.
+Learning Outcomes
+1. Develop prototypes based on the interaction design principles.
+2. Participate as usability testers in evaluating the designs of others.
+Contents
+Introduction: Definitions, Interaction Design Principles, Paradigms, Vision, Theory, Models,
+Frameworks (5 Lectures)
+Introduction to human factors: Role of psychology, physiology in interaction design,
+Human Factors Perspective, Cognitive Aspects (5 Lectures)
+Social and Emotional Interaction: Conversation, Remote Interaction, Co-presence,
+Expressive Interface, Emotion Design, Anthropomorphism (8 Lectures)
+Interfaces: Types of Interface, natural Interface (5 Lectures), Multimodal, Wearables,
+Brain Computer Interface (5 Lectures)
+Data Gathering and Analytics: Data Collection Techniques, Quantitative and Qualitative
+Analysis, Data at Scale (7 Lectures)
+Evaluation Techniques: Types of Evaluation, Usability Testing, Analytics and A/B testing,
+Predictive Models (7 Lectures)
+Text Book
+1. Sharp, H, Y, Rogers, J, Preece, INTERACTION DESIGN beyond human-computer
+interaction, John Wiley & Sons (2019)
+Reference Books
+1. Ratner, Julie (ed); Human factors and web development; Lawrence Erlbaum
+Associated (2003)
+2. Sanders, Mark S; McCormick, Ernest J; Human factors in engineering and design,
+McGraw Hill (1993)
+3. Zunse, Leonard; Visual perception of form; Academic Press (1990)
+4. Journal of Human Computer Interaction
+Self Learning Material
+1. NPTEL Lecture, https://nptel.ac.in/courses/106/103/106103220/
+2. NPTEL Lecture, https://nptel.ac.in/courses/106/106/106106177/
+Course Title Introduction to Typography Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Introduce the evaluation of various types
+2. Explain the elements and principles of design as they relate to type
+3. Explain the use of technical, aesthetic and conceptual understanding of typography
+in practical scenarios
+Learning Outcomes
+1. Develop the ability to understand, recognize and apply the elements and principles
+of typography and typographic hierarchy
+2. Develop typesetting techniques through the use of industry-standard software
+(Adobe Illustrator, Adobe PhotoShop, Adobe InDesign)
+3. Develop an understanding of interactive and digital multimedia communication in
+relation to typography
+Contents
+Introduction: Digital typesetting, Fonts format, Encoding techniques. (2 Lectures)
+Font Families and Formats: Unicode, Non-Unicode, Post-Script, True type, Open type,
+Compact Font, Meta Font, Indic (8 Lectures)
+Curves: Hermite, B-Spline, Bezier Curve, NURBS, properties, algorithms, subdivision (10
+Lectures)
+Typographic Principles: Letter, Word, Paragraph, Page (4 Lectures)
+Typographic Details: Symbols, Signs, Accents, Hierarchy and Scale, Tracking and Kerning,
+Rhythm and Composition (5 Lectures)
+Web Typography: (X)HTML, Embedding, SVG (5 Lectures)
+Editing and Creating Font: Principles, FontLab, FontForge, Autotracing, Optimization (8
+Lectures)
+Text Books
+1. Steven G. Krantz (2003), Handbook of Typography for the Mathematical Sciences,
+CRC Press
+2. Yannis Haralambous, P. Scott Horne (2007), Fonts and Encodings: From Unicode to
+Advanced Typography, O'Reilly Media
+3. Ellen Lupton (2004), Thinking With Type, Princeton Architectural Press.
+Course Title Selected Topics in DH Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D
+[C])
+3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100)
+Type Elective
+Prerequisite None
+Objectives
+1. Introduce the students to the latest upcoming fields in the area of DH
+Learning Outcomes
+1. Apply the knowledge of recent topics to specific research areas in the field of DH
+Contents
+The topic cloud for the course include contemporary topics in DH and may be updated
+according to the instructor.
+Text Book
+Relevant Textbook and/or research papers to be announced by the instructor.
+Self Learning Material
+Relevant Textbook and/or research papers to be announced by the instructor.
