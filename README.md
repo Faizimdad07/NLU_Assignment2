@@ -1,4 +1,4 @@
-# NLU Assignment 2 (B23CM1016)
+# NLU (Natural language Undersanding)
 
 This repository contains complete code and outputs for:
 
